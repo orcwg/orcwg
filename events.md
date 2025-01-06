@@ -1,9 +1,6 @@
 
 # ORC WG Events
 
-* January 29, 2025 - [Meetup "The CRA is Here! Now What?"](#meetup-the-eu-cyber-resilience-act-is-here-now-what)
-* January 30, 2025 - [ORC WG Workshop](#orc-wg-workshop)
-
 ## Meetup: "The EU Cyber Resilience Act is Here! Now What?"
 
 🗓️ **Wednesday, January 29 from 17:00 to 19:00**<br>
@@ -13,7 +10,7 @@ The goal of this meetup is to bring people up to speed on the CRA, understand ho
 
 _Free admission, open to everyone._
 
-👉 More info and registration on [eventbrite](https://www.eventbrite.com/e/the-eu-cyber-resilience-act-is-here-now-what-tickets-1104765205469).
+👉 [More info and registration](https://www.eventbrite.com/e/the-eu-cyber-resilience-act-is-here-now-what-tickets-1104765205469)
 
 
 ## ORC WG Workshop
@@ -25,4 +22,4 @@ Hands-on workshop with sessions specifically focused on vulnerability management
 
 _Free admission, open to everyone, priority given to working group members and contributors._
 
-👉 More info and registration on [eventbrite](https://www.eventbrite.com/e/orc-wg-workshop-tickets-1105475510009).
+👉 [More info and registration](https://www.eventbrite.com/e/orc-wg-workshop-tickets-1105475510009).
