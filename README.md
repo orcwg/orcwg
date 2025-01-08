@@ -6,6 +6,7 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 * [Cyber Resilience SIG](https://github.com/orcwg/cyber-resilience-sig/)
 
+
 ## CRA Hub
 
 * FAQ
@@ -17,6 +18,7 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 * [Working Group Charter]()
 * [Antitrust Policy](https://www.eclipse.org/org/documents/Eclipse_Antitrust_Policy.pdf)
 * [Code of Conduct](https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php)
+* [ORC WG Comment Process](./processes/orc-wg-comment-process.md)
 
 ## Get involved
 
