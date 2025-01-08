@@ -14,7 +14,7 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 * Steering Committee
 * Specification Committee
-* [Working Group Charter]()
+* [Working Group Charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php)
 * [Antitrust Policy](https://www.eclipse.org/org/documents/Eclipse_Antitrust_Policy.pdf)
 * [Code of Conduct](https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php)
 
