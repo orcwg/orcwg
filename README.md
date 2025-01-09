@@ -21,6 +21,7 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 ## Get involved
 
+- [Meetings](./MEETINGS.md)
 - [Mailing List](https://accounts.eclipse.org/mailing-list/open-regulatory-compliance) ([Archive](https://www.eclipse.org/lists/open-regulatory-compliance/maillist.html))
 - [Slack](https://orcwg.slack.com/) ([Request invitation](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA))
 - [Community Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea@group.calendar.google.com) ([iCal format](https://calendar.google.com/calendar/ical/c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com/public/basic.ics))
