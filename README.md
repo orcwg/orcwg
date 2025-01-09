@@ -8,7 +8,8 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 ## CRA Hub
 
-* FAQ
+* [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md)
+* [Inventory of relevant standards, specs, and best practices](https://github.com/orcwg/cra-hub/blob/main/inventory.md)
 
 ## Governance
 
