@@ -2,6 +2,10 @@
 
 Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
+## Deliberables Plan
+
+- [Draft 2025 Cyber Resilience SIG Deliverables Plan](deliverables-plan.md)
+
 ## Why a Cyber Resilience SIG?
 
 ORC WG is chartered to address any regulation impacting open source communities and open source usage. It can establish Special Interest Groups (SIGs) for domain-specific work. 
