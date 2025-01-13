@@ -1,6 +1,6 @@
 # ORC WG Meetings
 
-## 🗓️ Monthly Community Call
+## Monthly Community Call
 
 | When | 4th Monday of the month at 5:00pm CET |
 | :----- | :----- |
@@ -12,9 +12,9 @@
 
 
 
-## 🗓️ Cyber Resilience SIG Weekly Call
+## Cyber Resilience SIG Call
 
-| When | Every Monday at 4:00pm CET |
+| When | Every other Monday at 4:00pm CET |
 | :----- | :----- |
 |  | _(7:00am PT, 10:00am ET, 3:00pm GMT, 5pm EET)_ |
 | **Attendees** | Open to all |
