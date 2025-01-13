@@ -34,7 +34,7 @@ Develop the technical assets that will be shared with the Standardization bodies
 | Key metrics                              | 2024 | 2025 |
 | :--------------------------------------- | ---: | ---: |
 | Percentage of complete CRA deliverables. |   0% |  20% |
-| Number of discrete WG deliverables adopted by independent organizations<br>_(For example, if one spec is adopted by 8 orgs and another spec is adopted by 5, the total is 13)) | 0 | 100 |
+| Number of discrete WG deliverables adopted by independent organizations<br>_(For example, if one spec is adopted by 8 orgs and another spec is adopted by 5, the total is 13.)_ | 0 | 100 |
 
 #### Activities
 
