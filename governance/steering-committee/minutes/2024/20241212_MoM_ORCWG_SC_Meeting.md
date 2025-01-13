@@ -6,7 +6,7 @@
 | ----- | ----- | :---: |
 | Approval of the MoM of the Inaugural SC Call | Juan | 5 |
 | Working Group structure  | Tobie | 15 |
-| [ORC WG Program Plan presentation](https://docs.google.com/presentation/d/1jHjvIy4RiweoMIQBqMfPPNiRMnfqpobzUddashxiPXs/edit#slide=id.g3104997a05c_0_80) | Juan | 20 |
+| ORC WG Program Plan presentation | Juan | 20 |
 | WG communication and management tools | Tobie | 10 |
 | Next Steps & AOB | Sharon/All | 10 |
 
@@ -50,11 +50,11 @@ The current umbrella project proposal \- [Cyber Resilience Practices | projects.
 
 ## ORC WG Program Plan
 
-The SC agrees on working on the current version of the [DRAFT 2025\_ORCWG\_ProgramPlan\_For SC\_Feedback](https://docs.google.com/presentation/d/1jHjvIy4RiweoMIQBqMfPPNiRMnfqpobzUddashxiPXs/edit#slide=id.g3104997a05c_0_80) document. The process will covers:
+The SC agrees on working on the current version of the ORC WG Program Plan document. The process will cover:
 
 1. Input to the document adding comments where necessary   
 2. Consolidation of the feedback in a new version of the document  
-3. Review in the SC of the 9th of January and decide on next steps having the SC meeting on the 23rd as the target approval date.
+3. Review in the SC on the 9th of January and decide on the next steps having the SC meeting on the 23rd as the target approval date.
 
 ## WG Communication and management tools
 
