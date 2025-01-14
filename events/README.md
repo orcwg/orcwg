@@ -24,7 +24,7 @@ _Free admission, open to everyone._
 ## ORC WG Workshop
 
 🗓️ **Thursday, January 30 from 10:00 to 17:00**<br>
-📍 **Spaces European District**, 40 Rue Belliard, 1040 Brussels, Belgium
+📍 **Sparks Meeting**, 60 Rue Ravenstein, 1000 Brussels, Belgium
 
 Hands-on workshop with sessions specifically focused on vulnerability management, the CRA’s attestation program and its potential to help make open source more sustainable, and the collaboration with the NSBs and ESOs on the development of the harmonized standards.
 
