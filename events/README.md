@@ -1,7 +1,7 @@
 
 # ORC WG Events
 
-## Meetup: "The EU Cyber Resilience Act is Here! Now What?"
+## Meetup: "The CRA is Here! Now What?"
 
 🗓️ **Wednesday, January 29 from 17:00 to 19:00**<br>
 📍 **Hilton Brussels Grand Place**, 3 Carrefour de l'Europe, 1000 Brussels, Belgium
