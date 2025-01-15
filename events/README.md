@@ -10,7 +10,7 @@ The goal of this meetup is to bring people up to speed on the CRA, understand ho
 
 _Free admission, open to everyone._
 
-👉 [More info and registration](https://www.eventbrite.com/e/the-eu-cyber-resilience-act-is-here-now-what-tickets-1104765205469)
+👉 [More info and registration](https://www.eventbrite.com/e/the-eu-cyber-resilience-act-is-here-now-what-tickets-1104765205469).
 
 ### Tentative agenda
 
