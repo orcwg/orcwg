@@ -36,12 +36,12 @@ _Free admission, open to everyone, priority given to working group members and c
 
 |             | Thursday, January 30                    |
 |-------------|-----------------------------------------|
-| 9:30-10:00  | Registration                            |
+| 9:00-10:00  | Registration                            |
 | 10:00-11:15 | Morning session                         |
 | 11:15-11:30 | ☕️ Coffe break                           |
 | 11:30-12:15 | Fireside chat on Standards              |
-| 12:00-13:00 | 🍛 Lunch in Sparks' restaurant or lobby |
-| 13:15-14:15 | or 🍛 Lunch in Sparks' restaurant or lobby |
+| 12:15-13:15 | Morning session 2                                        |
+| 13:15-14:15 | 🍛 Lunch in Sparks' restaurant or lobby |
 | 14:00-15:00 | Workshops                               |
 | 15:00-16:00 | Workshops                               |
 | 16:00-16:30 | Workshops                               |
