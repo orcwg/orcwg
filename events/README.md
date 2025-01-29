@@ -12,14 +12,14 @@ _Free admission, open to everyone._
 
 👉 [More info and registration](https://www.eventbrite.com/e/the-eu-cyber-resilience-act-is-here-now-what-tickets-1104765205469).
 
-### Tentative agenda
+### Jan 29 Meetup Agenda
 
-|             | Wednesday, January 29                |
-|-------------|--------------------------------------|
-| 17:00-17:30 |                                      |
-| 17:30-18:00 |                                      |
-| 18:00-18:30 |                                      |
-| 18:30-19:00 |                                      |
+|             | Hilton Brussels Ballroom |
+|-------------|--------------------------|
+| 17:00-17:30 | "The CRA is Here. Now what?" - Presentation |
+| 17:30-18:15 | CRA Implementation - Panel |
+| 18:15-18:30 | Closing comments |
+| 18:30-19:00 | Refreshments |
 
 ## ORC WG Workshop
 
@@ -32,18 +32,17 @@ _Free admission, open to everyone, priority given to working group members and c
 
 👉 [More info and registration](https://www.eventbrite.com/e/orc-wg-workshop-tickets-1105475510009).
 
-### Tentative agenda
+### ORC WG Workshop Agenda
 
-|             | Thursday, January 30                    |
-|-------------|-----------------------------------------|
-| 9:00-10:00  | Registration                            |
-| 10:00-11:15 | Morning session                         |
-| 11:15-11:30 | ☕️ Coffe break                           |
-| 11:30-12:15 | Fireside chat on Standards              |
-| 12:15-13:15 | Morning session 2                                        |
-| 13:15-14:15 | 🍛 Lunch in Sparks' restaurant or lobby |
-| 14:00-15:00 | Workshops                               |
-| 15:00-16:00 | Workshops                               |
-| 16:00-16:30 | Workshops                               |
-| 16:30-17:00 | Closing comments                        |
-
+| Rooms         | Lobby        | Room 8                                                | Room 3                               | Room 7                      |
+|---------------|--------------|-------------------------------------------------------|--------------------------------------|-----------------------------|
+| Room capacity |              | 80 people (50 in the afternoon)                       | 20 people                            | 28 people                   |
+| 9:00          | Registration |                                                       |                                      |                             |
+| 10:00         |              | Introductory presentations                            |                                      |                             |
+| 10:45         |              | Workshop: FAQ                                         | Workshop: FAQ / Inventory            | Workshop: Deliverables Plan |
+| 12:00         |              | Fireside chat with Filipe Jones Mourão, EU Commission |                                      |                             |
+| 13:15         | Lunch        |                                                       |                                      |                             |
+| 14:15         |              | Workshop: FAQ                                         | Workshop: FAQ / Inventory            | Workshop: Deliverables Plan |
+| 16:10         |              | CRA Compliance Guide for Open Source Industry Players | Vulnerability Handling Specification |                             |
+| 16:45         |              | Wrap up & next steps                                  |                                      |                             |
+| 16:50         |              | Closing Comments                                      |                                      |                             |
