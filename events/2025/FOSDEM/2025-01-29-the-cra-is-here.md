@@ -16,4 +16,4 @@ The goal of this meetup is to bring people up to speed on the CRA, understand ho
 | 18:30-19:00 | Refreshments |
 
 ### Materials shared during the event
-📜 [Presentation run during the event](https://drive.google.com/file/d/1CsH7sUu0f2p-T37XzEfac68Ie4hsOGmd/view?usp=sharing)
+📜 [Presentantion run during the workshop](https://github.com/user-attachments/files/18640724/20250129_TheCRAisHere_NowWhat.pdf)
