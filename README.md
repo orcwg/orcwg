@@ -8,8 +8,9 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 ## CRA Hub
 
-* [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md)
-* [Inventory of relevant standards, specs, and best practices](https://github.com/orcwg/cra-hub/blob/main/inventory.md)
+* [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) ([open issues](https://github.com/orcwg/cra-hub/labels/FAQ))
+* [Inventory of standards, specs, and best practices relevant to the CRA](https://github.com/orcwg/cra-hub/blob/main/inventory.md) ([draft spreadsheet](https://docs.google.com/spreadsheets/d/1Y36Vueb3Eo_djOuRdpyzoCS1vzGaKpjP-99g3J6rw7Y/edit?gid=0#gid=0) | [open issues](https://github.com/orcwg/cra-hub/labels/inventory))
+
 
 ## Governance
 
