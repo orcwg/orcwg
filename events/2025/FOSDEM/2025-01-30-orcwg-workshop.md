@@ -30,7 +30,7 @@ Hands-on workshop with sessions specifically focused on vulnerability management
 
 
 ## Workshop outcomes
-👉 [Inventory](https://docs.google.com/spreadsheets/d/1Y36Vueb3Eo_djOuRdpyzoCS1vzGaKpjP-99g3J6rw7Y/edit?gid=0#gid=0) - Thanks [@maximbaele]((https://github.com/maximbaele) for chairing the session
+👉 [Inventory](https://docs.google.com/spreadsheets/d/1Y36Vueb3Eo_djOuRdpyzoCS1vzGaKpjP-99g3J6rw7Y/edit?gid=0#gid=0) - Thanks [@maximbaele](https://github.com/maximbaele) for chairing the session
 
 👉 [FAQ Open Issues](https://github.com/orcwg/cra-hub/issues?q=is%3Aissue%20state%3Aopen%20label%3AFAQ) - Thanks [@tieguy](https://github.com/tieguy), [@webmink](https://github.com/webmink), [@Viko-legal](https://github.com/Viko-legal) and [@aosull01](https://github.com/aosull01)
 
