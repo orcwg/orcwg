@@ -4,10 +4,11 @@
 ###  Agenda
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-|FOSDEM & CRA Expert Group | Tobie | 15|
+|FOSDEM & Workshop output | Juan | 5|
+| CRA Expert Group | Dirk, Lars, Tobie & Mika | 15 |
 | FAQ work next steps| Tobie & All | 20 |
-| Inventory | | 10 |
-| Deliverable plan | Tobie | 10 |
+| Inventory | Maxime & Tobie | 5 |
+| Deliverable plan | Tobie | 5 |
 | AOB | | 5 |
 
 ### Participants
