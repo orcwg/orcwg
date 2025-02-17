@@ -6,7 +6,8 @@
 | ----- | ----- | :---: |
 |FOSDEM & Workshop output | Juan | 5|
 | CRA Expert Group | Dirk, Lars, Tobie & Mika | 15 |
-| FAQ work next steps| Tobie & All | 20 |
+| Harmonized standards | Tobie | 5 |
+| FAQ work next steps| Tobie & All | 15 |
 | Inventory | Maxime & Tobie | 5 |
 | Deliverable plan | Tobie | 5 |
 | AOB | | 5 |
