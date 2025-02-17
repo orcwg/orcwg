@@ -4,7 +4,7 @@
 ###  Agenda
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-|FOSDEM & Workshop output | Juan | 5|
+| FOSDEM & Workshop output | Juan | 5|
 | CRA Expert Group | Dirk, Lars, Tobie & Mika | 15 |
 | Harmonized standards | Tobie | 5 |
 | FAQ work next steps| Tobie & All | 15 |
