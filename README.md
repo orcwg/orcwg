@@ -14,6 +14,7 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 ## Governance
 
+* [Working Mode](./governance/working-mode.md)
 * [Steering Committee](./governance/steering-committee)
 * [Specification Committee](./governance/specification-committee)
 * [Working Group Charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php)
