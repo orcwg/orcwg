@@ -12,7 +12,7 @@ This is expressed by the nodes and edges in blue in the diagram below.
 
 ```mermaid
 flowchart LR
-    manufacturer["Manufacturer"] == integrates ==> foss["Open source project"]
+    foss["Open source project"] == integrated by ==> manufacturer["Manufacturer"] 
     manufacturer == performs due diligence ==> foss
     steward["Steward"] == supports due diligence ==> manufacturer
     steward == supports ==> foss
