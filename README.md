@@ -14,8 +14,8 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 ## Governance
 
-* [Steering Committee](./governance/steering-committee)
-* [Specification Committee](./governance/specification-committee)
+* [Steering Committee](./governance/steering-committee) ([meeting minutes](./governance/steering-committee/minutes))
+* [Specification Committee](./governance/specification-committee) ([meeting minutes](./governance/specification-committee/minutes))
 * [Working Group Charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php)
 * [Antitrust Policy](https://www.eclipse.org/org/documents/Eclipse_Antitrust_Policy.pdf)
 * [Code of Conduct](https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php)
