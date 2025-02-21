@@ -2,7 +2,7 @@
 
 This document captures how the ORC WG operates. It can be amended or broken down into smaller policies and processes as needed.
 
-## Applicable Documents
+## Applicable documents
 
 The ORC WG is subject to its [charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php) and the various documents it references, in particular: the Eclipse Foundation Working Group [Process](https://www.eclipse.org/org/workinggroups/process.php) and [Operations Guide](https://www.eclipse.org/org/workinggroups/operations.php).
 
