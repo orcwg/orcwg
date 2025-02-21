@@ -13,7 +13,12 @@
 * Roberto	Di Cosmo ([@rdicosmo][]), Software Heritage Foundation - Inria Foundation
 *	Tim	Herresm, Mercedes-Benz Tech Innovation GmbH _(alternate)_	
 * Timo Perala ([@timop62][]), Nokia
-* Victor Roland ([@Viko-legal][]), OBEO	
+* Victor Roland ([@Viko-legal][]), OBEO
+
+## Meeting minutes
+
+* [2025](./minutes/2025)
+* [2024](./minutes/2024)
 
 [@aosull01]: https://github.com/aosull01
 [@dirkx]: https://github.com/dirkx
