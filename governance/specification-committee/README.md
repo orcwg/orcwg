@@ -5,12 +5,12 @@
 
 ## Members
 * Adrian O'Sullivan ([@aosull01][]), Huawei Technologies Co., LTD.
-* Brian	Fox ([@brianf][]), The Apache Software Foundation
+* Brian Fox ([@brianf][]), The Apache Software Foundation
 * Daniel Dilger ([@mm73628486283][]), Mercedes-Benz Tech Innovation GmbH
-* Jeremy	Stanley ([@fungi][]), Open Infrastructure Foundation
-* Jonne	Soininen, Nokia _(alternate)_
-* Simon	Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
-*	Tim	Herresm, Mercedes-Benz Tech Innovation GmbH _(alternate)_	
+* Jeremy Stanley ([@fungi][]), Open Infrastructure Foundation
+* Jonne Soininen, Nokia _(alternate)_
+* Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
+* Tim Herresm, Mercedes-Benz Tech Innovation GmbH _(alternate)_ 
 * Timo Perala ([@timop62][]), Nokia
 * Victor Roland ([@Viko-legal][]), OBEO
 
