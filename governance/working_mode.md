@@ -12,7 +12,7 @@ Meetings:
 
 - should be announced sufficiently in advance
 - should be listed on [`MEETINGS.md`](https://github.com/orcwg/orcwg/blob/main/MEETINGS.md) and included in the [community calendar]([url](https://github.com/orcwg/orcwg?tab=readme-ov-file#get-involved)).
-- should have an agenda and enable membership input to it
+- should publish an agenda sufficiently in advance and enable membership input to it
 - should have their minutes available publicly shortly after the meeting (and at least before the next meeting)
 
 Meeting minutes:
