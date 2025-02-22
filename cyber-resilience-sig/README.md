@@ -15,6 +15,10 @@ The Scope of the Cyber Resilience SIG is a strict subset of the scope of ORC WG.
 | Vulnerability Handling Specification | Specification | April 2025 |  | Harmonized Standards | CEN/CENELEC, ISO | Cyber Resilience Practices Project |
 | White paper on SBOMs | White paper |  |  | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | White paper on Attestations | White paper |  |  | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
+| Due diligence requirements for manufacturers | Documentation |  |  | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
+| Security policy for open source software stewards | Specification |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
+
+
 
 ## Task Forces
 
