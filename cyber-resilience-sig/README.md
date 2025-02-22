@@ -2,6 +2,10 @@
 
 Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
+## Leads
+* Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
+* Timo Perala ([@timop62][]), Nokia
+
 ## Deliberables Plan
 
 - [Draft 2025 Cyber Resilience SIG Deliverables Plan](deliverables-plan.md)
@@ -17,3 +21,11 @@ As new regulations impacting open source communities emerge, it is expected that
 ## Scope
 
 The Scope of the Cyber Resilience SIG is a strict subset of the scope of ORC WG. Whereas the working group is chartered to address any kind of emerging regulation impacting open source, the Cyber Resilience SIG is solely focused on cyber resilience regulation. Expect all of the CRA-related work to happen in this SIG.
+
+## Meeting minutes
+
+* [2025](./minutes/2025)
+* [2024](./minutes/2024)
+
+[@dirkx]: https://github.com/dirkx
+[@timop62]: https://github.com/timop62
