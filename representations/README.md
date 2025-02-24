@@ -1,5 +1,7 @@
 # ORC WG Representations and Liaisons
 
+If you are a working group member and part of any of the following groups or organizations, please add yourself to the list below along with your affiliation.
+
 * **European Commission**
   * CNECT.H.2
     * Juan Rico (Eclipse Foundation)
