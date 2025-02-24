@@ -20,22 +20,22 @@ Hands-on workshop with sessions specifically focused on vulnerability management
 | 16:50         |              | Closing Comments                                      |                                      |                             |
 
 ## Workshop presentations
-👉 [Introductory presentation](https://drive.google.com/file/d/1O7XpENVjClxF2jo-4x8dGVePYmsXZ_wl/view?usp=drive_link) - [@tobie](https://github.com/tobie)
+👉 [Introductory presentation](https://github.com/orcwg/orcwg/blob/main/events/2025-01-brussels-workshop/20250130_ORCWGWorkshop%20(1).pdf) - [@tobie](https://github.com/tobie)
 
-👉 [EC Presentation](https://drive.google.com/file/d/1YKAxUTRR-uF4Qdk33Sy8RYIQEvlvYXJv/view?usp=sharing) - Filipe Jones Mourao
+👉 [EC Presentation](https://github.com/orcwg/orcwg/blob/main/events/2025-01-brussels-workshop/EC_CRA_implementation_Jan%202025.pptx%20(1).pdf) - Filipe Jones Mourao
 
-👉 [CEN/CENELEC Presentation](https://drive.google.com/file/d/1nKIhD4iYaiFD-pdo1Ty7rjgBJg2mXfKn/view?usp=sharing) - Lucía Lanfri
+👉 [CEN/CENELEC Presentation](https://github.com/orcwg/orcwg/blob/main/events/2025-01-brussels-workshop/ORC_WG_CENCENELEC%20(2).pdf) - Lucía Lanfri
 
-👉 [Be ready to integrate the Cyber Resilience Act into your Open Source practice](https://github.com/user-attachments/files/18688440/CNLL_inno3_Guide-CRA_VE_1.0.pdf) - [@camillem](https://github.com/camillem)
+👉 [Be ready to integrate the Cyber Resilience Act into your Open Source practice](https://github.com/orcwg/orcwg/blob/main/events/2025-01-brussels-workshop/CNLL_inno3_Guide-CRA_VE_1.0%20(1).pdf) - [@camillem](https://github.com/camillem)
 
 
 ## Workshop outcomes
-👉 [Inventory](https://docs.google.com/spreadsheets/d/1Y36Vueb3Eo_djOuRdpyzoCS1vzGaKpjP-99g3J6rw7Y/edit?gid=0#gid=0) - Thanks [@maximbaele](https://github.com/maximbaele) for chairing the session
+👉 [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) - Thanks [@maximbaele](https://github.com/maximbaele) for chairing the session
 
 👉 [FAQ Open Issues](https://github.com/orcwg/cra-hub/issues?q=is%3Aissue%20state%3Aopen%20label%3AFAQ) - Thanks [@tieguy](https://github.com/tieguy), [@webmink](https://github.com/webmink), [@Viko-legal](https://github.com/Viko-legal) and [@aosull01](https://github.com/aosull01)
 
 ### Deliverable plan
-> The plan will be included into this document shortly.
+> The plan will be included in this document shortly.
 
 ### Vulnerability management
-> Thanks [@mrybczyn](https://github.com/mrybczyn) for chairing the session, the results and WIP will be included linked from here shortly.
+> Thanks [@mrybczyn](https://github.com/mrybczyn) for chairing the session, the results and WIP will be included and linked from here shortly.
