@@ -17,4 +17,4 @@ how it impacts them, what ORC WG is doing about it, and how they can get involve
 | 18:30-19:00 | Refreshments |
 
 ### Materials shared during the event
-📜 [Presentation shared during the event](https://github.com/user-attachments/files/18686551/20250129_TheCRAisHere_NowWhat.pdf)
+📜 [Presentation shared during the event](https://github.com/orcwg/orcwg/blob/main/events/2025-01-brussels-meetup/20250129_TheCRAisHere_NowWhat%20(4).pdf)
