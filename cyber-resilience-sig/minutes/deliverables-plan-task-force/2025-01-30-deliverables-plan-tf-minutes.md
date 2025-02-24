@@ -13,7 +13,7 @@ In person meeting during the morning and afternoon of the ORC WG Workshop in Bru
 * Dirk-Willem van Gulik (ASF)
 * Thierry Carrez (OpenStack)
 * Addie Girouard (Varo)
-* ...
+* Brian Fox (ASF / Sonatype)
 * ...
 
 ## Minutes
