@@ -6,21 +6,36 @@ Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
 The Scope of the Cyber Resilience SIG is a strict subset of the scope of ORC WG. Whereas the working group is chartered to address any kind of emerging regulation impacting open source, the Cyber Resilience SIG is solely focused on cyber resilience regulation. Expect all of the CRA-related work to happen in this SIG.
 
-In 2025, the SIG will focus on deliverables necessary to help the open source community meet the regulatory obligations outlined in the CRA and help downstream users be able to continue leveraging open source in their products and services while meeting their own regulatory requirements. This is expressed by the nodes and edges in blue in the diagram below.
+In 2025, the SIG will focus on deliverables necessary to help the open source community (and notably _open source software stewards_) meet the regulatory obligations outlined in the CRA and help downstream users (_manufacturers_) be able to continue to leverage open source in their products and services while meeting their own regulatory requirements. This is expressed by the colored nodes and edges in the diagram below.
 
 ```mermaid
 flowchart LR
     foss["Open source project"] == integrated by ==> manufacturer["Manufacturer"] 
     manufacturer == performs due diligence ==> foss
-    steward["Steward"] == supports due diligence ==> manufacturer
+    steward["Steward"] == reports vulnerabilities & incidents to ===> enisa["ENISA / CSIRT"]
+    steward == colaborates with ===> msa["Market Surveillance"]
+    steward == supports due diligence ==> manufacturer
     steward == supports ==> foss
     maintainers["Maintainers"] == maintains ==> foss
+    manufacturer == upstreams security fixes ==> foss
     manufacturer -- places on the market --> product["Product"]
     foss -- composes --> product
     product -- purchased by --> user["User"]
-    classDef inscope fill:#BBDEFB,stroke:#2962FF,stroke-width:4px
-    class foss,manufacturer,steward,maintainers inscope;
-    linkStyle 0,1,2,3,4 stroke:#2962FF
+
+    style steward fill:#BBDEFB,stroke:#2962FF
+    style foss fill:#C8E6C9,stroke:#00C853
+    style manufacturer stroke:#FF6D00,fill:#FFE0B2
+    style maintainers fill:#E1BEE7,stroke:#AA00FF
+    linkStyle 0 stroke:#FF6D00,fill:none
+    linkStyle 1 stroke:#FF6D00,fill:none
+    linkStyle 2 stroke:#2962FF,fill:none
+    linkStyle 3 stroke:#2962FF,fill:none
+    linkStyle 4 stroke:#2962FF,fill:none
+    linkStyle 5 stroke:#2962FF,fill:none
+    linkStyle 6 stroke:#AA00FF,fill:none
+    linkStyle 7 stroke:#FF6D00,fill:none
+
+
 ```
 
 ## Deliverables
@@ -36,6 +51,7 @@ flowchart LR
 | Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
 | White paper on Attestations | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Specification on generic security requirements for open source components (based on Annex I, Part I, point (2)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
+
 
 ## Task Forces
 
