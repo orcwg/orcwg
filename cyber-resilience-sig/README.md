@@ -19,7 +19,7 @@ flowchart LR
     maintainers["Maintainers"] == maintains ==> foss
     manufacturer == upstreams security fixes ==> foss
     manufacturer -- places on the market --> product["Product"]
-    foss -- composes --> product
+    foss -- integrated into --> product
     product -- purchased by --> user["User"]
 
     style steward fill:#BBDEFB,stroke:#2962FF
@@ -55,7 +55,7 @@ flowchart LR
 
 ## Task Forces
 
-The Cyber Resilience SIG can form task forces that focuses on a particular topic for a fixed period of time.
+The Cyber Resilience SIG can form task forces that focus on a particular topic for a fixed period of time.
 
 A task force must must have one or more leads, an area of focus, a set of deliverables, and an end date by which it must present its deliverables and recommendations to the SIG and/or request an extension.
 
