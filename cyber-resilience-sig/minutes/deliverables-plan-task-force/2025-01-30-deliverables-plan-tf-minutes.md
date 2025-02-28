@@ -11,7 +11,7 @@ In person meeting during the morning and afternoon of the ORC WG Workshop in Bru
 * Timo Perala (Nokia)
 * Jonne Soininen (Nokia)
 * Dirk-Willem van Gulik (ASF)
-* Thierry Carrez (OpenStack)
+* Thierry Carrez (OpenInfra Foundation)
 * Addie Girouard (Varo)
 * Brian Fox (ASF / Sonatype)
 * ...
