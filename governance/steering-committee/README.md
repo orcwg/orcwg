@@ -11,7 +11,7 @@
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
 * Jonne Soininen ([@josoinin][]), Nokia _(alternate)_
 * Roberto Di Cosmo ([@rdicosmo][]), Software Heritage Foundation - Inria Foundation
-* Tim Herresm, Mercedes-Benz Tech Innovation GmbH _(alternate)_ 
+* Tim Herresm, Mercedes-Benz Tech Innovation GmbH _(alternate)_
 * Timo Perala ([@timop62][]), Nokia
 * Victor Roland ([@Viko-legal][]), OBEO
 
