@@ -2,6 +2,10 @@
 
 Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
+## Leads
+* Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
+* Timo Perala ([@timop62][]), Nokia
+
 ## Scope
 
 The Scope of the Cyber Resilience SIG is a strict subset of the scope of ORC WG. Whereas the working group is chartered to address any kind of emerging regulation impacting open source, the Cyber Resilience SIG is solely focused on cyber resilience regulation. Expect all of the CRA-related work to happen in this SIG.
@@ -34,8 +38,6 @@ flowchart LR
     linkStyle 5 stroke:#2962FF,fill:none
     linkStyle 6 stroke:#AA00FF,fill:none
     linkStyle 7 stroke:#FF6D00,fill:none
-
-
 ```
 
 ## Deliverables
@@ -51,7 +53,6 @@ flowchart LR
 | Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
 | White paper on Attestations | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Specification on generic security requirements for open source components (based on Annex I, Part I, point (2)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
-
 
 ## Task Forces
 
@@ -79,5 +80,12 @@ The initial focus of ORC WG is to help open source communities and the broader t
 
 As new regulations impacting open source communities emerge, it is expected that additional SIGs modeled on this initial one will be formed.
 
-[TFs]: #current-task-forces
+## Meeting minutes
+
+* [2025](./minutes/2025)
+* [2024](./minutes/2024)
+
+[@dirkx]: https://github.com/dirkx
+[@timop62]: https://github.com/timop62
 [EFSL]: https://www.eclipse.org/legal/efsl/
+[TFs]: #current-task-forces
