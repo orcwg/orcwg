@@ -5,6 +5,7 @@
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
 | Stakeholder Consultation Workshop for CRA Standardization - Stand4CR | Lucia Lanfri (CEN/CENELEC) | 10 |
+| Review [working mode](https://github.com/orcwg/orcwg/pull/37) and approve [previous minutes](https://github.com/orcwg/orcwg/pull/32) | Tobie | 5 |
 | [SIG scope diagram](https://github.com/orcwg/orcwg/blob/tobie-deliverables-and-tfs/cyber-resilience-sig/README.md#scope) | Tobie | 5 |
 | [Draft deliverables plan](https://github.com/orcwg/orcwg/blob/tobie-deliverables-and-tfs/cyber-resilience-sig/README.md#deliverables) | Tobie | 15 |
 | [Task force creation](https://github.com/orcwg/orcwg/blob/tobie-deliverables-and-tfs/cyber-resilience-sig/README.md#task-forces) | Tobie | 10 |
