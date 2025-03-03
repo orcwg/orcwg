@@ -19,7 +19,7 @@ flowchart LR
     steward["Steward"] == reports vulnerabilities & incidents to ===> enisa["ENISA / CSIRT"]
     steward == colaborates with ===> msa["Market Surveillance"]
     steward == supports due diligence ==> manufacturer
-    steward == supports ==> foss
+    steward == sustains ==> foss
     maintainers["Maintainers"] == maintains ==> foss
     manufacturer == upstreams security fixes ==> foss
     manufacturer -- places on the market --> product["Product"]
