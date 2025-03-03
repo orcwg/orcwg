@@ -38,4 +38,5 @@ Hands-on workshop with sessions specifically focused on vulnerability management
 > The plan will be included in this document shortly.
 
 ### Vulnerability management
-> Thanks [@mrybczyn](https://github.com/mrybczyn) for chairing the session, the results and WIP will be included and linked from here shortly.
+> We have discussed a draft proposal document on minimum requirements for vulnerability reporting. We will link the draft document and remarks the audience has given when the appropriate project is created.
+
