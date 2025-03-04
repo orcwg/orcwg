@@ -1,8 +1,6 @@
-# ORC WG governance resources
+# ORC WG Governance resources
 
 Have access to the resources and assets generated as part of the ORC WG Governance Bodies activities
-
-* [Working Mode](./working-mode.md)
 
 ## Steering Committee
 
