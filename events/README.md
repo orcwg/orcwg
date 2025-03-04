@@ -1,48 +1,48 @@
 
 # ORC WG Events
 
-## Meetup: "The CRA is Here! Now What?"
+Welcome to the Events Page of the Open Regulatory Compliance Working Group! This page serves as a central hub for all upcoming and past events related to our community, including meetups, conferences, and workshops.
 
-🗓️ **Wednesday, January 29 from 17:00 to 19:00**<br>
-📍 **Hilton Brussels Grand Place**, 3 Carrefour de l'Europe, 1000 Brussels, Belgium
+## 🌍 About
 
-The goal of this meetup is to bring people up to speed on the CRA, understand how it impacts them, what ORC WG is doing about it, and how they can get involved.
+This page provides details on:
+- Upcoming events where our community members are participating.
+- Past events, including recordings, slides, and summaries (when available).
+- How to get involved and contribute to event planning.
 
-_Free admission, open to everyone._
+## 📅 Upcoming Events
 
-👉 [More info and registration](https://www.eventbrite.com/e/the-eu-cyber-resilience-act-is-here-now-what-tickets-1104765205469).
+Stay updated on our latest events!
 
-### Jan 29 Meetup Agenda
+[//]: #  (Event Name: [Title of the Event] )
 
-|             | Hilton Brussels Ballroom |
-|-------------|--------------------------|
-| 17:00-17:30 | "The CRA is Here. Now what?" - Presentation |
-| 17:30-18:15 | CRA Implementation - Panel |
-| 18:15-18:30 | Closing comments |
-| 18:30-19:00 | Refreshments |
+[//]: #  (Date & Time: [DD-MM-YYYY] at [HH:MM Timezone])
 
-## ORC WG Workshop
+[//]: #  (Location: [Online / In-person Location])
 
-🗓️ **Thursday, January 30 from 10:00 to 17:00**<br>
-📍 **Sparks Meeting**, 60 Rue Ravenstein, 1000 Brussels, Belgium
+[//]: #  (Description: [Brief overview of the event and topics covered])
 
-Hands-on workshop with sessions specifically focused on vulnerability management, the CRA’s attestation program and its potential to help make open source more sustainable, and the collaboration with the NSBs and ESOs on the development of the harmonized standards.
+[//]: #  (Registration Link: [URL])
 
-_Free admission, open to everyone, priority given to working group members and contributors._
+## 🎥 Past Events
 
-👉 [More info and registration](https://www.eventbrite.com/e/orc-wg-workshop-tickets-1105475510009).
+Check out our archive:
+| Year  | Date   | Location   | Title                                                                            | Link to materials                    |
+|-------|--------|------------|----------------------------------------------------------------------------------|--------------------------------------|
+| 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[link](https://github.com/orcwg/orcwg/blob/main/events/2025/FOSDEM/2025-01-29-the-cra-is-here.md)| 
+| 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[link](https://github.com/orcwg/orcwg/blob/main/events/2025/FOSDEM/2025-01-30-orcwg-workshop.md)| 
+  
+## 🤝 Get Involved
 
-### ORC WG Workshop Agenda
+We encourage community participation! Here’s how you can contribute:
 
-| Rooms         | Lobby        | Room 8                                                | Room 3                               | Room 7                      |
-|---------------|--------------|-------------------------------------------------------|--------------------------------------|-----------------------------|
-| Room capacity |              | 80 people (50 in the afternoon)                       | 20 people                            | 28 people                   |
-| 9:00          | Registration |                                                       |                                      |                             |
-| 10:00         |              | Introductory presentations                            |                                      |                             |
-| 10:45         |              | Workshop: FAQ                                         | Workshop: FAQ / Inventory            | Workshop: Deliverables Plan |
-| 12:00         |              | Fireside chat with Filipe Jones Mourão, EU Commission |                                      |                             |
-| 13:15         | Lunch        |                                                       |                                      |                             |
-| 14:15         |              | Workshop: FAQ                                         | Workshop: FAQ / Inventory            | Workshop: Deliverables Plan |
-| 16:10         |              | CRA Compliance Guide for Open Source Industry Players | Vulnerability Handling Specification |                             |
-| 16:45         |              | Wrap up & next steps                                  |                                      |                             |
-| 16:50         |              | Closing Comments                                      |                                      |                             |
+- Propose an Event: If you’d like to host or suggest an event, open an issue in this repository with details.
+  - Event Name
+  - Date & Time
+  - Location
+  - Brief Description
+  - Rgistration Link 
+- Speak at an Event: Interested in sharing your expertise? Reach out to us!
+
+
+
