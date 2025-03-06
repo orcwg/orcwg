@@ -16,28 +16,30 @@ In 2025, the SIG will focus on deliverables necessary to help the open source co
 flowchart LR
     foss["Open source project"] == integrated by ==> manufacturer["Manufacturer"] 
     manufacturer == performs due diligence ==> foss
-    steward["Steward"] == reports vulnerabilities & incidents to ===> enisa["ENISA / CSIRT"]
-    steward == colaborates with ===> msa["Market Surveillance"]
-    steward == supports due diligence ==> manufacturer
+    steward["Steward"] == reports vulnerabilities & incidents to ==> enisa["ENISA / CSIRT"]
+    steward == colaborates with ==> msa["Market Surveillance"]
+    prog["Attestation program"] == facilitates due diligence ==> manufacturer
+    steward == may participate in ==> prog
+    maintainers["Maintainers"] == may participate in ==> prog
+    manufacturer == finances ==> prog
     steward == sustains ==> foss
-    maintainers["Maintainers"] == maintains ==> foss
+    maintainers == maintains ==> foss
     manufacturer == upstreams security fixes ==> foss
     manufacturer -- places on the market --> product["Product"]
     foss -- integrated into --> product
     product -- purchased by --> user["User"]
 
+
     style steward fill:#BBDEFB,stroke:#2962FF
     style foss fill:#C8E6C9,stroke:#00C853
     style manufacturer stroke:#FF6D00,fill:#FFE0B2
     style maintainers fill:#E1BEE7,stroke:#AA00FF
-    linkStyle 0 stroke:#FF6D00,fill:none
-    linkStyle 1 stroke:#FF6D00,fill:none
-    linkStyle 2 stroke:#2962FF,fill:none
-    linkStyle 3 stroke:#2962FF,fill:none
-    linkStyle 4 stroke:#2962FF,fill:none
-    linkStyle 5 stroke:#2962FF,fill:none
-    linkStyle 6 stroke:#AA00FF,fill:none
-    linkStyle 7 stroke:#FF6D00,fill:none
+    style prog fill:#FFF9C4,stroke:#FFD600
+    linkStyle 1,7,10 stroke:#FF6D00,fill:none
+    linkStyle 2,3,5,8 stroke:#2962FF,fill:none
+    linkStyle 6,9 stroke:#AA00FF,fill:none
+    linkStyle 4 stroke:#FFD600,fill:none
+    linkStyle 0 stroke:#00C853,fill:none
 ```
 
 ## Deliverables
