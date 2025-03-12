@@ -48,13 +48,17 @@ flowchart LR
 |---|---|---|---|---|---|---|
 | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | CC-BY 4.0 | April 2025 |  | EU Guidance | EU Commission, CRA Expert Group | [FAQ Task Force][TFs] |
 | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | CC-BY 4.0 | April 2025 |  | Harmonized Standards, ORC WG | CEN/CENELEC | [Inventory Task Force][TFs] |
-| Vulnerability Handling Specification | CC-BY 4.0 / Apache 2.0 → [EFSL][] | April 2025 |  | Harmonized Standards | CEN/CENELEC, ISO | Cyber Resilience Practices Project |
+| Vulnerability Handling Specification | CC-BY 4.0 / Apache 2.0 → [EFSL][] | April 2025 |  | Harmonized Standards | CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 | White paper on SBOMs | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Due diligence requirements for manufacturers | CC-BY 4.0 |  |  | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
-| Security policy for open source software stewards | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
-| Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
+| Security policy for open source software stewards | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
+| Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 | White paper on Attestations | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
-| Specification on generic security requirements for open source components (based on Annex I, Part I, point (2)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | Cyber Resilience Practices Project |
+| Specification on generic security requirements for open source components (based on Annex I, Part I, point (2)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
+
+## Cyber Resilience Practices Project
+
+* [Proposal for the Cyber Resilience Practices Project](https://projects.eclipse.org/proposals/cyber-resilience-practices)
 
 ## Task Forces
 
@@ -91,3 +95,4 @@ As new regulations impacting open source communities emerge, it is expected that
 [@timop62]: https://github.com/timop62
 [EFSL]: https://www.eclipse.org/legal/efsl/
 [TFs]: #current-task-forces
+[Cyber Resilience Practices Project]: #cyber-resilience-practices-project
