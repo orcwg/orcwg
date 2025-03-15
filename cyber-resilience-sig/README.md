@@ -4,6 +4,7 @@ Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
 ## Leads
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
+* Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
 * Timo Perala ([@timop62][]), Nokia
 
 ## Scope
@@ -60,6 +61,12 @@ flowchart LR
 
 * [Proposal for the Cyber Resilience Practices Project](https://projects.eclipse.org/proposals/cyber-resilience-practices)
 
+### Project leads
+* Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
+* Mikael Barbero ([@mbarbero][]), Eclipse Foundation
+* Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
+* Timo Perala ([@timop62][]), Nokia
+
 ## Task Forces
 
 The Cyber Resilience SIG can form task forces that focus on a particular topic for a fixed period of time.
@@ -93,6 +100,9 @@ As new regulations impacting open source communities emerge, it is expected that
 
 [@dirkx]: https://github.com/dirkx
 [@timop62]: https://github.com/timop62
+[@mbarbero]: https://github.com/mbarbero
+[@webmink]: https://github.com/webmink
+
 [EFSL]: https://www.eclipse.org/legal/efsl/
 [TFs]: #current-task-forces
 [Cyber Resilience Practices Project]: #cyber-resilience-practices-project
