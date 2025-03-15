@@ -1,7 +1,7 @@
 # Specification Committee
 
 ## Chair(s)
-* TBD
+* Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
 
 ## Members
 * Adrian O'Sullivan ([@aosull01][]), Huawei Technologies Co., LTD.
