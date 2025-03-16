@@ -10,6 +10,6 @@
 | [Technical definitions of Important & Critical Product](https://github.com/orcwg/cra-hub/blob/tobie-prod-reg/product-definitions/README.md#current-consultations) ([Related pull request](https://github.com/orcwg/cra-hub/pull/164))| Tobie | 15 | 
 | Collaboration with the EU Commission | Tobie | 5 |
 | Task force on advocacy / thought leadership? | Tobie | 5 |
-| Task Force updates:<li>[FAQ](https://github.com/orgs/orcwg/projects/7/views/11)<li>Inventory | Tobie | 5 |
+| Task Force updates:<li>[FAQ](https://github.com/orgs/orcwg/projects/7)<li>Inventory | Tobie | 5 |
 | AOB | | 3 |
 
