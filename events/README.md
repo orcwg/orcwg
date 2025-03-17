@@ -30,7 +30,7 @@ Check out our archive:
 | Year  | Date   | Location   | Title                                                                            | Link to materials                    |
 |-------|--------|------------|----------------------------------------------------------------------------------|--------------------------------------|
 | 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[link](https://github.com/orcwg/orcwg/blob/main/events/2025/FOSDEM/2025-01-29-the-cra-is-here.md)| 
-| 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[link](https://github.com/orcwg/orcwg/blob/main/events/2025/FOSDEM/2025-01-30-orcwg-workshop.md)| 
+| 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-workshop)| 
   
 ## 🤝 Get Involved
 
