@@ -59,7 +59,7 @@ Lucia Lanfri from CEN/CENELEC presented two opportunities aligned with the areas
     - Identification of gaps in WG9  
   - No public minutes available  
   - Tobie will participate and then share outcomes with the WG.
-  - [Lucia's Presentation STAN4CR](./cyber-resilience-sig/minutes/2025-03-03-cencenelec-STAN4CR.pdf)
+  - [Lucia's Presentation STAN4CR](./2025-03-03-cencenelec-STAN4CR.pdf)
 
 ### **Working mode document** 
 [https://github.com/orcwg/orcwg/pull/37](https://github.com/orcwg/orcwg/pull/37)
