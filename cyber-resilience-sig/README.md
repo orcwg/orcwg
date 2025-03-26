@@ -45,9 +45,25 @@ flowchart LR
 
 ## Deliverables
 
+| Deliverable name | Type | Owner | First draft due | Final draft due | 
+|---|---|---|---|---|
+| [CRA FAQ](#cra-faq) | FAQ | [FAQ Task Force][TFs] | April 2025 | July 2025 |
+
+
+```mermaid
+%%{init: {'theme':'base'}}%%
+gantt
+    title Deliverables Timeline
+    dateFormat  MMMM YYYY
+    axisFormat %Y-Q%q
+    tickInterval 1month
+
+    CRA FAQ: April 2025, July 2025
+    Inventory: April 2025, May 2025
+```
+
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
 |---|---|---|---|---|---|---|
-| [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | CC-BY 4.0 | April 2025 |  | EU Guidance | EU Commission, CRA Expert Group | [FAQ Task Force][TFs] |
 | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | CC-BY 4.0 | April 2025 |  | Harmonized Standards, ORC WG | CEN/CENELEC | [Inventory Task Force][TFs] |
 | Vulnerability Handling Specification | CC-BY 4.0 / Apache 2.0 → [EFSL][] | April 2025 |  | Harmonized Standards | CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 | White paper on SBOMs | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
@@ -56,6 +72,40 @@ flowchart LR
 | Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 | White paper on Attestations | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Specification on generic security requirements for open source components (based on Annex I, Part I, point (2)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
+
+### CRA FAQ
+
+<details open>
+  <summary>Metadata</summary>
+  
+* **Source:** <https://github.com/orcwg/cra-hub/blob/main/faq.md>
+* **License:** CC-BY 4.0
+* **Owner:** [FAQ Task Force][TFs]
+* **Input to:** EU Guidance 
+* **Relevant liaisions**: EU Commission, CRA Expert Group 
+* **First draft by:** April 2025
+* **Final draft by:** July 2025
+    
+</details>
+
+The CRA FAQ represents a community effort to collect and answer frequently asked questions about the Cyber Resilience Act (CRA) as it relates to open source.  The purpose of this effort is twofold. First, consolidate community understanding of the CRA. Secondly, outline areas of the CRA which remain unclear and would benefit from Guidance from the European Commission.
+
+A first version of the CRA FAQ will be contributed to the CRA Expert Group in advance of the group's next in-person meeting in July 2025.
+
+### Inventory
+
+The goal of the Inventory of open source document is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide spericiation and standadisation effort with easy access to documented industry and community best practices when it comes to the development and integration of open source software and the interaction between developers and consumers of open source.
+
+This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert Group.
+
+
+### Vulnerability Handling Specification
+
+blurb from the spec
+
+### White paper on SBOMs
+
+Software Bills of Materials (SBOMs) play a crucial part in the implementation of the Cyber Resilience Act (CRA). while SBOMs have been widely deployed in some areas, they haven't been deployed in other areas. The industry has standardized around a number of competing solutions in this space with efforts. SBOMs have already been deployed at scale in certain industries, yet there are strong disagreements about. yet a lot of details inconsitdeployed defining requirements around SBOMs are a prerogative of the European Commission.
 
 ## Cyber Resilience Practices Project
 
