@@ -33,7 +33,7 @@ Home of the Open Regulatory Compliance Working Group (ORC WG) of the Eclipse Fou
 
 ## Working mode
 
-* [Working Mode](./governance/working-mode.md)
+* [Working Mode](./working-mode.md)
 
 ## Governance
 
