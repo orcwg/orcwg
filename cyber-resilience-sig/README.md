@@ -2,6 +2,11 @@
 
 Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
+## Meetings
+
+* [Meeting info](../MEETINGS.md)
+* [Minutes](./minutes/)
+
 ## Leads
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
 * Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
@@ -92,11 +97,6 @@ ORC WG is chartered to address any regulation impacting open source communities 
 The initial focus of ORC WG is to help open source communities and the broader tech industry better understand and prepare to meet the compliance requirements of the European Cyber Resilience Act (CRA). However, cyber resilience is a topic that is broader than Europe. And ORC WG aims to facilitate compliance _across jurisdictions_ (and not only in the EU). A SIG focused on cyber resilience in general--not just on the CRA--will help achieve this goal.
 
 As new regulations impacting open source communities emerge, it is expected that additional SIGs modeled on this initial one will be formed.
-
-## Meeting minutes
-
-* [2025](./minutes/2025)
-* [2024](./minutes/2024)
 
 [@dirkx]: https://github.com/dirkx
 [@timop62]: https://github.com/timop62
