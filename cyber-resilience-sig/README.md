@@ -52,8 +52,8 @@ flowchart LR
 | [White paper on SBOMs](#white-paper-on-sboms) | White paper | Dedicated task force | April 2025 | June 2025 |
 | [White paper on due diligence requirements for manufacturers](#white-paper-on-due-diligence-requirements-for-manufacturers) | White paper | Dedicated task force | | |
 | [White paper on Attestations](#white-paper-on-attestations) | White paper | Dedicated task force | | |
-| [Vulnerability Handling Specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
 | [Security policy for open source software stewards](#security-policy-for-open-source-software-stewards) | Specification | [Cyber Resilience Practices Project][] | | |
+| [Vulnerability handling specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
 | [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) | Specification | [Cyber Resilience Practices Project][] | | |
 | [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) | Specification | [Cyber Resilience Practices Project][] | | |
 
@@ -140,7 +140,7 @@ Software Bills of Materials (SBOMs) play a crucial role in the implementation of
 
 The goal of this white paper is to fill this gap by providing commonly agreed upon information about SBOMs and their role in the open source ecosystem and provide recommendations for their adoption in the context of the CRA.
 
-This white paper will leverage the resources collected in the [Inventory](#inventory) and will be contributed to EU Commission, the CRA Expert Group, and CEN/CENELEC.
+This white paper will leverage the resources collected in the [inventory](#inventory) and will be contributed to EU Commission, the CRA Expert Group, and CEN/CENELEC.
 
 <details>
   <summary>More info</summary>
@@ -199,12 +199,31 @@ This white paper will be shared with the EU Commission and the CRA Expert Group 
 </details>
 
 
+### Security policy for open source software stewards
 
-### Vulnerability Handling Specification
+[Article 24(1)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_24) of the CRA states that "Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product." This specification will define what such a policy must and should contain and possibly outline a format for the whole or parts of it, leveraging existing resources and best practies as identified in our [inventory](#inventory). This document will interace closely with the [Vulnerability handling specification](#vulnerability-handling-specification) and the [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) described below.
 
-The [Vulnerability Handling Specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
+<details>
+  <summary>More info</summary>
+  
+* **Source:** 
+* **Type:** Specification
+* **License:** CC-BY 4.0 or Apache 2.0
+* **Final license**: [EFSL][]
+* **Owner:** [Cyber Resilience Practices Project][]
+* **Input to:** ISO
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:** May 2025
+* **Final draft by:** 
+    
+</details>
 
-The Vulnerability Handling Specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
+
+### Vulnerability handling specification
+
+The [Vulnerability handling specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
+
+The Vulnerability handling specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
 
 <details>
   <summary>More info</summary>
@@ -221,22 +240,7 @@ The Vulnerability Handling Specification, along with related input will be share
     
 </details>
 
-### Security policy for open source software stewards
 
-<details>
-  <summary>More info</summary>
-  
-* **Source:** 
-* **Type:** Specification
-* **License:** CC-BY 4.0 or Apache 2.0
-* **Final license**: [EFSL][]
-* **Owner:** [Cyber Resilience Practices Project][]
-* **Input to:** ISO
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
-* **First draft by:** May 2025
-* **Final draft by:** 
-    
-</details>
 
 
 ### Specification on principles for cyber resilience for open source
