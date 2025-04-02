@@ -120,7 +120,7 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
 
 ### Inventory
 
-The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide spericiation and standadisation effort with easy access to documented industry and community best practices when it comes to the development and integration of open source software and the interaction between developers and consumers of open source.
+The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide spericiation and standadisation effort with easy access to documented industry and community best practices related to the development and integration of open source software and to the interactions between developers and consumers of open source.
 
 This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert Group.
 
