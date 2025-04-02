@@ -49,9 +49,10 @@ flowchart LR
 |---|---|---|---|---|
 | [CRA FAQ](#cra-faq) | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | [Inventory](#inventory) | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
-| [Vulnerability Handling Specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
 | [White paper on SBOMs](#white-paper-on-sboms) | White paper | Dedicated task force | April 2025 | June 2025 |
-| [White paper on due diligence requirements for manufacturers](#white-paper-on-due-diligence-requirements-for-manufacturers) | White paper | Dedicated task force | April 2025 | June 2025 |
+| [White paper on due diligence requirements for manufacturers](#white-paper-on-due-diligence-requirements-for-manufacturers) | White paper | Dedicated task force | | |
+| [White paper on Attestations](#white-paper-on-attestations) | White paper | Dedicated task force | | |
+| [Vulnerability Handling Specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
 
 
 ```mermaid
@@ -72,6 +73,12 @@ gantt
     Collect community input: December 2024, April 2025
     Organize inventory: February 2025, May 2025
     Publish Inventory: milestone, May 2025, 1d
+    
+    section on SBOMs
+
+    section on Due diligence
+
+    section on Attestations
 
     section Vulnerability Handling Spec
     Create proposal: November 2024, March 2025
@@ -79,16 +86,13 @@ gantt
     Draft v1.0 RC: March 2025, June 2025
     Publish v1.0 RC: milestone, June 2025, 1d
     
-    section on SBOMs
-    
-    section on Due diligence
+
 ```
 
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
 |---|---|---|---|---|---|---|
 | Security policy for open source software stewards | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 | Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
-| White paper on Attestations | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Specification on generic security requirements for open source components (based on Annex I, Part I, point (2)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 
 ### CRA FAQ
@@ -131,26 +135,6 @@ This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert
     
 </details>
 
-### Vulnerability Handling Specification
-
-The [Vulnerability Handling Specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
-
-The Vulnerability Handling Specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
-
-<details>
-  <summary>More info</summary>
-  
-* **Source:** <https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md>
-* **Type:** Specification
-* **License:** CC-BY 4.0 or Apache 2.0
-* **Final license**: [EFSL][]
-* **Owner:** [Cyber Resilience Practices Project][]
-* **Input to:** Harmonised standards
-* **Relevant liaisions**: CEN/CENELEC
-* **First draft by:** May 2025
-* **Final draft by:** 
-    
-</details>
 
 ### White paper on SBOMs
 
@@ -174,6 +158,7 @@ This white paper will leverage the resources collected in the [Inventory](#inven
     
 </details>
 
+
 ### White paper on due diligence requirements for manufacturers
 
 The due diligence requirements for manufacturers outlined in [Article 13(5)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) of the CRA are the corner stone of the relationship between manufacturers and the open source ecosystem.
@@ -195,6 +180,49 @@ This white paper will be shared with the EU Commission and the CRA Expert Group 
 * **Final draft by:**
     
 </details>
+
+
+### White paper on attestations
+
+
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** TBD
+* **Type:** White paper
+* **License:** CC-BY 4.0
+* **Owner:** Dedicated Task Force
+* **Input to:** EU Guidance, Implementing Act, Harmonised standards
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:** 
+* **Final draft by:**
+    
+</details>
+
+
+
+### Vulnerability Handling Specification
+
+The [Vulnerability Handling Specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
+
+The Vulnerability Handling Specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** <https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md>
+* **Type:** Specification
+* **License:** CC-BY 4.0 or Apache 2.0
+* **Final license**: [EFSL][]
+* **Owner:** [Cyber Resilience Practices Project][]
+* **Input to:** Harmonised standards
+* **Relevant liaisions**: CEN/CENELEC
+* **First draft by:** May 2025
+* **Final draft by:** 
+    
+</details>
+
 
 ### Specification on generic security requirements for open source components
 
