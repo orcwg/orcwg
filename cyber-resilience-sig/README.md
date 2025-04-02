@@ -60,14 +60,14 @@ gantt
     dateFormat  MMMM YYYY
     axisFormat %Y-Q%q
     tickInterval 1month
-
-    CRA FAQ: April 2025, July 2025
-    Inventory: April 2025, May 2025
+    section CRA FAQ
+    CRA FAQ first draft: milestone, June 2025, 1d
+    CRA FAQ: January 2025, June 2025
+    Inventory: January 2025, May 2025
 ```
 
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
 |---|---|---|---|---|---|---|
-| White paper on SBOMs | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Due diligence requirements for manufacturers | CC-BY 4.0 |  |  | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Security policy for open source software stewards | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 | Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
@@ -85,8 +85,8 @@ gantt
 * **Owner:** [FAQ Task Force][TFs]
 * **Input to:** EU Guidance 
 * **Relevant liaisions**: EU Commission, CRA Expert Group 
-* **First draft by:** April 2025
-* **Final draft by:** June 2025
+* **First draft by:** June 2025
+* **Final draft by:** 
     
 </details>
 
