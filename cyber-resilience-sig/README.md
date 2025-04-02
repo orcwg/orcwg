@@ -61,7 +61,7 @@ gantt
     axisFormat %Y-%b
     tickInterval 1month
     CRA FAQ: January 2025, June 2025
-    Inventory: inventory, January 2025, April 2025
+    Inventory: inventory, January 2025, May 2025
     Inventory final draft: after inventory, June 2025
 ```
 
@@ -104,7 +104,7 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
 * **Owner:** [Inventory Task Force][TFs]
 * **Input to:** Harmonised standards, ORC WG white papers and specifications
 * **Relevant liaisions**: CEN/CENELEC
-* **First draft by:** April 2025
+* **First draft by:** May 2025
 * **Final draft by:** June 2025
     
 </details>
