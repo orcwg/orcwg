@@ -58,6 +58,9 @@ flowchart LR
 | [White paper on due diligence requirements for manufacturers](#white-paper-on-due-diligence-requirements-for-manufacturers) | White paper | Dedicated task force | | |
 | [White paper on Attestations](#white-paper-on-attestations) | White paper | Dedicated task force | | |
 | [Vulnerability Handling Specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
+| [Security policy for open source software stewards](#security-policy-for-open-source-software-stewards) | Specification | [Cyber Resilience Practices Project][] | | |
+| [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) | Specification | [Cyber Resilience Practices Project][] | | |
+| [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) | Specification | [Cyber Resilience Practices Project][] | | |
 
 
 ```mermaid
@@ -94,11 +97,6 @@ gantt
 
 ```
 
-| Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
-|---|---|---|---|---|---|---|
-| Security policy for open source software stewards | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
-| Specification on principles for cyber resilience for open source development (based on Annex I, Part I, point (1)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
-| Specification on generic security requirements for open source components (based on Annex I, Part I, point (2)) | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 
 ### CRA FAQ
 
@@ -228,8 +226,61 @@ The Vulnerability Handling Specification, along with related input will be share
     
 </details>
 
+### Security policy for open source software stewards
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** 
+* **Type:** Specification
+* **License:** CC-BY 4.0 or Apache 2.0
+* **Final license**: [EFSL][]
+* **Owner:** [Cyber Resilience Practices Project][]
+* **Input to:** ISO
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:** May 2025
+* **Final draft by:** 
+    
+</details>
+
+
+### Specification on principles for cyber resilience for open source
+
+The Specification on principles for cyber resilience for open source development is based on Annex I, Part I, point (1).
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** 
+* **Type:** Specification
+* **License:** CC-BY 4.0 or Apache 2.0
+* **Final license**: [EFSL][]
+* **Owner:** [Cyber Resilience Practices Project][]
+* **Input to:** ISO
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:**
+* **Final draft by:** 
+    
+</details>
 
 ### Specification on generic security requirements for open source components
+
+The Specification on generic security requirements for open source components is based on Annex I, Part I, point (2).
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** 
+* **Type:** Specification
+* **License:** CC-BY 4.0 or Apache 2.0
+* **Final license**: [EFSL][]
+* **Owner:** [Cyber Resilience Practices Project][]
+* **Input to:** ISO
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:**
+* **Final draft by:** 
+    
+</details>
 
 ## Cyber Resilience Practices Project
 
