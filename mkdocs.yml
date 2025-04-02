@@ -1,0 +1,89 @@
+site_name:  Open Regulatory Compliance Working Group
+site_url: https://orcwg.github.io/orcwg/
+repo_url: https://github.com/orcwg/orcwg
+repo_name: orcwg/orcwg
+docs_dir: .
+site_dir: output
+edit_uri: 'blob/main/'
+theme:
+  name: material
+  custom_dir: site
+  logo: assets/orcwg.png
+  language: en 
+  features:
+    - content.action.edit
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate 
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - toc 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - scripts/tablesort.js
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/orcwg/orcwg
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/playlist?list=PLy7t4z5SYNaQEyXv253SI6PDdPjbYXcNV
+    - icon: fontawesome/brands/slack
+      link: https://orcwg.slack.com/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/showcase/open-regulatory-compliance
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/orcwg.org
+
+exclude_docs: |
+  LICENSE.md
+  
+plugins:
+  - external-markdown
+  - same-dir
+  - mkdocs-breadcrumbs-plugin:
+     delimiter: " / "
+     log_level: "WARNING" 
+     exclude_paths:
+       - "docs/**"
+     additional_index_folders:
+       - temp_dir
+     generate_home_index: false
+
+  - mkdocs-word-filter:
+      filter-lines-with:
+          - \toc
+          - \{{&lt; toc &gt;}}
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
+
+
