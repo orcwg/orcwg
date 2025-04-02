@@ -57,10 +57,10 @@ flowchart LR
 | [White paper on SBOMs](#white-paper-on-sboms) | White paper | Dedicated task force | April 2025 | June 2025 |
 | [White paper on due diligence requirements for manufacturers](#white-paper-on-due-diligence-requirements-for-manufacturers) | White paper | Dedicated task force | | |
 | [White paper on Attestations](#white-paper-on-attestations) | White paper | Dedicated task force | | |
-| [Security policy for open source software stewards](#security-policy-for-open-source-software-stewards) | Specification | [Cyber Resilience Practices Project][] | | |
 | [Vulnerability handling specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
 | [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) | Specification | [Cyber Resilience Practices Project][] | | |
 | [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) | Specification | [Cyber Resilience Practices Project][] | | |
+| [Security policy for open source software stewards](#security-policy-for-open-source-software-stewards) | Specification | [Cyber Resilience Practices Project][] | | |
 
 
 ```mermaid
@@ -204,26 +204,6 @@ This white paper will be shared with the EU Commission and the CRA Expert Group 
 </details>
 
 
-### Security policy for open source software stewards
-
-[Article 24(1)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_24) of the CRA states that "Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product." This specification will define what such a policy must and should contain and possibly outline a format for the whole or parts of it, leveraging existing resources and best practies as identified in our [inventory](#inventory). This document will interace closely with the [Vulnerability handling specification](#vulnerability-handling-specification) and the [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) described below.
-
-<details>
-  <summary>More info</summary>
-  
-* **Source:** 
-* **Type:** Specification
-* **License:** CC-BY 4.0 or Apache 2.0
-* **Final license**: [EFSL][]
-* **Owner:** [Cyber Resilience Practices Project][]
-* **Input to:** ISO
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
-* **First draft by:** May 2025
-* **Final draft by:** 
-    
-</details>
-
-
 ### Vulnerability handling specification
 
 The [Vulnerability handling specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
@@ -282,6 +262,28 @@ The Specification on generic security requirements for open source components is
 * **Input to:** ISO
 * **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
 * **First draft by:**
+* **Final draft by:** 
+    
+</details>
+
+
+### Security policy for open source software stewards
+
+[Article 24(1)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_24) of the CRA states that _"open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product."_ This specification will help open source software stewards meet their obligations by specifying minimum requirements that stewards must implement to meet them and provide a structure or format to document their cybersecurity  policy, possibly in a machine-readable way.
+
+This specification will leverage existing resources and best practies as identified in our [inventory](#inventory) and will interact closely with the [Vulnerability handling specification](#vulnerability-handling-specification) and the [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) described above.
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** 
+* **Type:** Specification
+* **License:** CC-BY 4.0 or Apache 2.0
+* **Final license**: [EFSL][]
+* **Owner:** [Cyber Resilience Practices Project][]
+* **Input to:** ISO
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:** May 2025
 * **Final draft by:** 
     
 </details>
