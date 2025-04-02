@@ -84,6 +84,8 @@ gantt
     Draft v1.0 RC: March 2025, June 2025
     Publish v1.0 RC: milestone, June 2025, 1d
     
+    section on SBOMs
+    
     section on Due diligence
 ```
 
@@ -96,8 +98,12 @@ gantt
 
 ### CRA FAQ
 
-<details open>
-  <summary>Metadata</summary>
+The [CRA FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) represents a community effort to collect and answer frequently asked questions about the Cyber Resilience Act (CRA) as it relates to open source.  The purpose of this effort is twofold. First, consolidate community understanding of the CRA. Secondly, outline areas of the CRA which remain unclear and would benefit from Guidance from the European Commission.
+
+A first version of the CRA FAQ will be contributed to the CRA Expert Group in advance of the group's next in-person meeting on June 5, 2025.
+
+<details>
+  <summary>More info</summary>
   
 * **Source:** <https://github.com/orcwg/cra-hub/blob/main/faq.md>
 * **Type:** Documentation
@@ -110,14 +116,14 @@ gantt
     
 </details>
 
-The CRA FAQ represents a community effort to collect and answer frequently asked questions about the Cyber Resilience Act (CRA) as it relates to open source.  The purpose of this effort is twofold. First, consolidate community understanding of the CRA. Secondly, outline areas of the CRA which remain unclear and would benefit from Guidance from the European Commission.
-
-A first version of the CRA FAQ will be contributed to the CRA Expert Group in advance of the group's next in-person meeting on June 5, 2025.
-
 ### Inventory
 
-<details open>
-  <summary>Metadata</summary>
+The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide spericiation and standadisation effort with easy access to documented industry and community best practices when it comes to the development and integration of open source software and the interaction between developers and consumers of open source.
+
+This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert Group.
+
+<details>
+  <summary>More info</summary>
   
 * **Source:** <https://github.com/orcwg/cra-hub/blob/main/inventory.md>
 * **Type:** Documentation
@@ -130,15 +136,14 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
     
 </details>
 
-The goal of the Inventory of open source document is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide spericiation and standadisation effort with easy access to documented industry and community best practices when it comes to the development and integration of open source software and the interaction between developers and consumers of open source.
-
-This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert Group.
-
-
 ### Vulnerability Handling Specification
 
-<details open>
-  <summary>Metadata</summary>
+The [Vulnerability Handling Specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
+
+The Vulnerability Handling Specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
+
+<details>
+  <summary>More info</summary>
   
 * **Source:** <https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md>
 * **Type:** Specification
@@ -152,14 +157,16 @@ This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert
     
 </details>
 
-The Vulnerability Handling Specification focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
-
-The Vulnerability Handling Specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
-
 ### White paper on SBOMs
 
-<details open>
-  <summary>Metadata</summary>
+Software Bills of Materials (SBOMs) play a crucial role in the implementation of the Cyber Resilience Act (CRA), in particular for vulnerability handling. Yet, there are no agreed-upon best practices for the usage and adoption of SBOMs across open source communities and numerous misunderstandings about how they work. There are competing standards, disagreements about whether open source projects should provide SBOMs or whether they're artifacts that integrators of open source components should generate, disagreements about the data they should contain, and a general lack of neutral information on the topic.
+
+The goal of this white paper is to fill this gap by providing commonly agreed upon information about SBOMs and their role in the open source ecosystem and provide recommendations for their adoption in the context of the CRA.
+
+This white paper will leverage the resources collected in the [Inventory](#inventory) and will be contributed to EU Commission, the CRA Expert Group, and CEN/CENELEC.
+
+<details>
+  <summary>More info</summary>
   
 * **Source:** TBD
 * **Type:** White paper
@@ -172,16 +179,16 @@ The Vulnerability Handling Specification, along with related input will be share
     
 </details>
 
-Software Bills of Materials (SBOMs) play a crucial role in the implementation of the Cyber Resilience Act (CRA), in particular for vulnerability handling. Yet, there are no agreed-upon best practices for the usage and adoption of SBOMs across open source communities and numerous misunderstandings about how they work. There are competing standards, disagreements about whether open source projects should provide SBOMs or whether they're artifacts that integrators of open source components should generate, disagreements about the data they should contain, and a general lack of neutral information on the topic.
-
-The goal of this white paper is to fill this gap by providing commonly agreed upon information about SBOMs and their role in the open source ecosystem and provide recommendations for their adoption in the context of the CRA.
-
-This white paper will leverage the resources collected in the [Inventory](#inventory) and will be contributed to EU Commission, the CRA Expert Group, and CEN/CENELEC.
-
 ### White paper on due diligence requirements for manufacturers
 
-<details open>
-  <summary>Metadata</summary>
+The due diligence requirements for manufacturers outlined in [Article 13(5)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) of the CRA are the corner stone of the relationship between manufacturers and the open source ecosystem.
+
+This white paper will attempt to clarify these due diligence requirements, list the constraints manufacturers might face when integrating open source components—in particular components which aren't supported by open source software stewards—and propose solutions to enable manufacturers to continue leveraging open source components securily despite those constraints.
+
+This white paper will be shared with the EU Commission and the CRA Expert Group and will provide important context for the [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) described below.
+
+<details>
+  <summary>More info</summary>
   
 * **Source:** TBD
 * **Type:** White paper
@@ -194,11 +201,7 @@ This white paper will leverage the resources collected in the [Inventory](#inven
     
 </details>
 
-The due diligence requirements for manufacturers outlined in [Article 13(5)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) of the CRA are the corner stone of the relationship between manufacturers and the open source ecosystem.
-
-This white paper will attempt to clarify these due diligence requirements, list the constraints manufacturers might face when integrating open source components—in particular components which aren't supported by open source software stewards—and propose solutions to enable manufacturers to continue leveraging open source components securily despite those constraints.
-
-This white paper will be shared with the EU Commission and the CRA Expert Group and will provide important context for the [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) described below. 
+### Specification on generic security requirements for open source components
 
 ## Cyber Resilience Practices Project
 
