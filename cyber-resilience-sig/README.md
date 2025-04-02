@@ -60,10 +60,9 @@ gantt
     dateFormat  MMMM YYYY
     axisFormat %Y-Q%q
     tickInterval 1month
-    section CRA FAQ
-    CRA FAQ first draft: milestone, June 2025, 1d
     CRA FAQ: January 2025, June 2025
-    Inventory: January 2025, May 2025
+    Inventory: inventory, January 2025, April 2025
+    Inventory final draft: after inventory, June 2025
 ```
 
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
