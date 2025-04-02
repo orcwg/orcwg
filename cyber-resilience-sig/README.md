@@ -119,19 +119,21 @@ This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert
 <details open>
   <summary>Metadata</summary>
   
-* **Source:** <https://github.com/orcwg/cra-hub/blob/main/inventory.md>
+* **Source:** <https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md>
 * **Type:** Specification
 * **License:** CC-BY 4.0 or Apache 2.0
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** Harmonised standards
 * **Relevant liaisions**: CEN/CENELEC
-* **First draft by:** April 2025
-* **Final draft by:** June 2025
+* **First draft by:** May 2025
+* **Final draft by:** 
     
 </details>
 
 The Vulnerability Handling Specification focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
+
+The Vulnerability Handling Specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
 
 ### White paper on SBOMs
 
