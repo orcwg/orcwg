@@ -50,6 +50,7 @@ flowchart LR
 | [CRA FAQ](#cra-faq) | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | [Inventory](#inventory) | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
 | [Vulnerability Handling Specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
+| [White paper on SBOMs](#white-paper-on-sboms) | White paper | Dedicated task force | April 2025 | June 2025 |
 
 
 ```mermaid
@@ -102,7 +103,7 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
 * **Type:** Documentation
 * **License:** CC-BY 4.0
 * **Owner:** [Inventory Task Force][TFs]
-* **Input to:** Harmonised standards, ORC WG Specifications
+* **Input to:** Harmonised standards, ORC WG white papers and specifications
 * **Relevant liaisions**: CEN/CENELEC
 * **First draft by:** April 2025
 * **Final draft by:** June 2025
@@ -137,7 +138,25 @@ The Vulnerability Handling Specification, along with related input will be share
 
 ### White paper on SBOMs
 
-Software Bills of Materials (SBOMs) play a crucial part in the implementation of the Cyber Resilience Act (CRA). while SBOMs have been widely deployed in some areas, they haven't been deployed in other areas. The industry has standardized around a number of competing solutions in this space with efforts. SBOMs have already been deployed at scale in certain industries, yet there are strong disagreements about. yet a lot of details inconsitdeployed defining requirements around SBOMs are a prerogative of the European Commission.
+<details open>
+  <summary>Metadata</summary>
+  
+* **Source:** TBD
+* **Type:** White paper
+* **License:** CC-BY 4.0
+* **Owner:** Dedicated Task Force
+* **Input to:** EU Guidance, Implementing Act, Harmonised standards
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:** April 2025
+* **Final draft by:** June 2025
+    
+</details>
+
+Software Bills of Materials (SBOMs) play a crucial role in the implementation of the Cyber Resilience Act (CRA), in particular for vulnerability handling. Yet, there are no agreed-upon best practices for the usage and adoption of SBOMs across open source communities and numerous misunderstandings about how they work. There are competing standards, disagreements about whether open source projects should provide SBOMs or whether they're artifacts that integrators of open source components should generate, disagreements about the data they should contain, and a general lack of neutral information on the topic.
+
+The goal of this white paper is to fill this gap by providing commonly agreed upon information about SBOMs and their role in the open source ecosystem and provide recommendations for their adoption in the context of the CRA.
+
+This white paper will leverage the resources collected in the [Inventory](#inventory) and will be contributed to EU Commission, the CRA Expert Group, and CEN/CENELEC.
 
 ### 
 
