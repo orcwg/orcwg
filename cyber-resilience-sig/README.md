@@ -51,6 +51,7 @@ flowchart LR
 | [Inventory](#inventory) | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
 | [Vulnerability Handling Specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
 | [White paper on SBOMs](#white-paper-on-sboms) | White paper | Dedicated task force | April 2025 | June 2025 |
+| [White paper on due diligence requirements for manufacturers](#white-paper-on-due-diligence-requirements-for-manufacturers) | White paper | Dedicated task force | April 2025 | June 2025 |
 
 
 ```mermaid
@@ -77,6 +78,8 @@ gantt
     Contribution proposal to WG: milestone, March 2025, 1d
     Draft v1.0 RC: March 2025, June 2025
     Publish v1.0 RC: milestone, June 2025, 1d
+    
+    section on Due diligence
 ```
 
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
@@ -171,7 +174,27 @@ The goal of this white paper is to fill this gap by providing commonly agreed up
 
 This white paper will leverage the resources collected in the [Inventory](#inventory) and will be contributed to EU Commission, the CRA Expert Group, and CEN/CENELEC.
 
-### 
+### White paper on due diligence requirements for manufacturers
+
+<details open>
+  <summary>Metadata</summary>
+  
+* **Source:** TBD
+* **Type:** White paper
+* **License:** CC-BY 4.0
+* **Owner:** Dedicated Task Force
+* **Input to:** EU Guidance, Implementing Act, Harmonised standards
+* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **First draft by:** 
+* **Final draft by:**
+    
+</details>
+
+The due diligence requirements for manufacturers outlined in [Article 13(5)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) of the CRA are the corner stone of the relationship between manufacturers and the open source ecosystem.
+
+This white paper will attempt to clarify these due diligence requirements, list the constraints manufacturers might face when integrating open source components—in particular components which aren't supported by open source software stewards—and propose solutions to enable manufacturers to continue leveraging open source components securily despite those constraints.
+
+This white paper will be shared with the EU Commission and the CRA Expert Group and will provide important context for the [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) described below. 
 
 ## Cyber Resilience Practices Project
 
