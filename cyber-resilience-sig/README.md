@@ -63,6 +63,8 @@ gantt
     CRA FAQ: January 2025, June 2025
     Inventory: inventory, January 2025, May 2025
     Inventory final draft: after inventory, June 2025
+    Vulnerability Handling Spec: vuln, January 2025, March 2025
+    Vulnerability first draft: after vuln, December 2025
 ```
 
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
