@@ -58,7 +58,7 @@ flowchart LR
 gantt
     title Deliverables Timeline
     dateFormat  MMMM YYYY
-    axisFormat %Y-Q%q
+    axisFormat %Y-%b
     tickInterval 1month
     CRA FAQ: January 2025, June 2025
     Inventory: inventory, January 2025, April 2025
