@@ -54,6 +54,8 @@ flowchart LR
 |---|---|---|---|---|
 | [CRA FAQ](#cra-faq) | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | [Inventory](#inventory) | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
+| [Vulnerability Handling Specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
+
 
 ```mermaid
 %%{init: {'theme':'base'}}%%
@@ -69,7 +71,6 @@ gantt
 
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
 |---|---|---|---|---|---|---|
-| Vulnerability Handling Specification | CC-BY 4.0 / Apache 2.0 → [EFSL][] | April 2025 |  | Harmonized Standards | CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
 | White paper on SBOMs | CC-BY 4.0 | | | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Due diligence requirements for manufacturers | CC-BY 4.0 |  |  | EU Guidance, Implementing Act | EU Commission, CRA Expert Group |  |
 | Security policy for open source software stewards | CC-BY 4.0 / Apache 2.0 → [EFSL][] |  |  | EU Guidance, Implementing Act, ISO | EU Commission, CRA Expert Group, CEN/CENELEC, ISO | [Cyber Resilience Practices Project][] |
@@ -83,6 +84,7 @@ gantt
   <summary>Metadata</summary>
   
 * **Source:** <https://github.com/orcwg/cra-hub/blob/main/faq.md>
+* **Type:** Documentation
 * **License:** CC-BY 4.0
 * **Owner:** [FAQ Task Force][TFs]
 * **Input to:** EU Guidance 
@@ -102,6 +104,7 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
   <summary>Metadata</summary>
   
 * **Source:** <https://github.com/orcwg/cra-hub/blob/main/inventory.md>
+* **Type:** Documentation
 * **License:** CC-BY 4.0
 * **Owner:** [Inventory Task Force][TFs]
 * **Input to:** Harmonised standards, ORC WG Specifications
@@ -118,9 +121,22 @@ This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert
 
 ### Vulnerability Handling Specification
 
-blurb from the spec
+<details open>
+  <summary>Metadata</summary>
+  
+* **Source:** <https://github.com/orcwg/cra-hub/blob/main/inventory.md>
+* **Type:** Specification
+* **License:** CC-BY 4.0 or Apache 2.0
+* **Final license**: [EFSL][]
+* **Owner:** [Cyber Resilience Practices Project][]
+* **Input to:** Harmonised standards
+* **Relevant liaisions**: CEN/CENELEC
+* **First draft by:** April 2025
+* **Final draft by:** June 2025
+    
+</details>
 
-
+The Vulnerability Handling Specification focuses on vulnerability management for products with digital elements, as outlined by the Essential Requirements of the CRA. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
 
 ### White paper on SBOMs
 
