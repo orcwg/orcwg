@@ -54,17 +54,29 @@ flowchart LR
 
 
 ```mermaid
-%%{init: {'theme':'base'}}%%
 gantt
     title Deliverables Timeline
     dateFormat  MMMM YYYY
     axisFormat %Y-%b
     tickInterval 1month
-    CRA FAQ: January 2025, June 2025
-    Inventory: inventory, January 2025, May 2025
-    Inventory final draft: after inventory, June 2025
-    Vulnerability Handling Spec: vuln, January 2025, March 2025
-    Vulnerability first draft: after vuln, December 2025
+
+    section CRA FAQ
+    Collect community FAQs: December 2024, December 2025
+    Draft v1.0: January 2025, June 2025
+    Publish CRA FAQ v1.0: milestone, June 2025, 1d
+    Draft v2.0: June 2025, November 2025
+    Publish CRA FAQ v2.0: milestone, November 2025, 1d
+
+    section Inventory
+    Collect community input: December 2024, April 2025
+    Organize inventory: February 2025, May 2025
+    Publish Inventory: milestone, May 2025, 1d
+
+    section Vulnerability Handling Spec
+    Create proposal: November 2024, March 2025
+    Contribution proposal to WG: milestone, March 2025, 1d
+    Draft v1.0 RC: March 2025, June 2025
+    Publish v1.0 RC: milestone, June 2025, 1d
 ```
 
 | Deliverable name | License | First draft due | Final draft due | Input to | Relevant liaisons | Owner |
