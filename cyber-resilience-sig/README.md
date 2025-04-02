@@ -146,7 +146,7 @@ Software Bills of Materials (SBOMs) play a crucial part in the implementation of
 
 ## Cyber Resilience Practices Project
 
-* [Proposal for the Cyber Resilience Practices Project](https://projects.eclipse.org/proposals/cyber-resilience-practices)
+* [Proposal for the Cyber Resilience Practices Project](https://projects.eclipse.org/projects/technology.crp)
 
 ### Project leads
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
