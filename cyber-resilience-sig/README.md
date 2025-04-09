@@ -370,5 +370,5 @@ As new regulations impacting open source communities emerge, it is expected that
 [security attestations]: #white-paper-on-security-attestations
 [vulnerability handling]: #vulnerability-handling-specification
 [cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source-development 
-[generic-security-requirements]:#specification-on-generic-security-requirements-for-open-source-components
+[generic security requirements]:#specification-on-generic-security-requirements-for-open-source-components
 [security policy]: #security-policy-for-open-source-software-stewards
