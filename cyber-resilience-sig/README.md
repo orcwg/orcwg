@@ -11,6 +11,8 @@ Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
 The Scope of the Cyber Resilience SIG is a strict subset of the scope of ORC WG. Whereas the working group is chartered to address any kind of emerging regulation impacting open source, the Cyber Resilience SIG is solely focused on cyber resilience regulation. Expect all of the CRA-related work to happen in this SIG.
 
+## Deliverables
+
 In 2025, the SIG will focus on deliverables necessary to help the open source community (and notably _open source software stewards_) meet the regulatory obligations outlined in the CRA and help downstream users (_manufacturers_) be able to continue to leverage open source in their products and services while meeting their own regulatory requirements. This is expressed by the colored nodes and edges in the diagram below.
 
 ```mermaid
@@ -18,7 +20,7 @@ flowchart LR
     foss["Open source project"] == integrated by ==> manufacturer["Manufacturer"] 
     manufacturer == performs due diligence ==> foss
     steward["Steward"] == reports vulnerabilities & incidents to ==> enisa["ENISA / CSIRT"]
-    steward == colaborates with ==> msa["Market Surveillance"]
+    steward == collaborates with ==> msa["Market Surveillance"]
     prog["Attestation program"] == facilitates due diligence ==> manufacturer
     steward == may participate in ==> prog
     maintainers["Maintainers"] == may participate in ==> prog
@@ -43,20 +45,28 @@ flowchart LR
     linkStyle 0 stroke:#00C853,fill:none
 ```
 
-## Deliverables
-
 | Deliverable name | Type | Owner | First draft due | Final draft due | 
 |---|---|---|---|---|
-| [CRA FAQ](#cra-faq) | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
-| [Inventory](#inventory) | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
-| [White paper on SBOMs](#white-paper-on-sboms) | White paper | Dedicated task force | April 2025 | June 2025 |
-| [White paper on due diligence requirements for manufacturers](#white-paper-on-due-diligence-requirements-for-manufacturers) | White paper | Dedicated task force | | |
-| [White paper on Attestations](#white-paper-on-attestations) | White paper | Dedicated task force | | |
-| [Vulnerability handling specification](#vulnerability-handling-specification) | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
-| [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) | Specification | [Cyber Resilience Practices Project][] | | |
-| [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) | Specification | [Cyber Resilience Practices Project][] | | |
-| [Security policy for open source software stewards](#security-policy-for-open-source-software-stewards) | Specification | [Cyber Resilience Practices Project][] | | |
+| [CRA FAQ][FAQ] | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
+| [inventory][] | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
+| [White paper on SBOMs][SBOMs] | White paper | Dedicated task force | April 2025 | June 2025 |
+| [White paper on due diligence obligation of manufacturers][due diligence] | White paper | Dedicated task force | | |
+| [White paper on Attestations][security attestations] | White paper | Dedicated task force | | |
+| [Vulnerability handling specification][vulnerability handling] | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
+| [Specification on principles for cyber resilience for open source development][cyber resilience principles] | Specification | [Cyber Resilience Practices Project][] | | |
+| [Specification on generic security requirements for open source components][generic security requirements] | Specification | [Cyber Resilience Practices Project][] | | |
+| [Security policy for open source software stewards][security policy] | Specification | [Cyber Resilience Practices Project][] | | |
 
+
+[FAQ]: #cra-faq
+[inventory]: #inventory 
+[SBOMs]: #white-paper-on-sboms
+[due diligence]: #white-paper-on-due-diligence-obligation-of-manufacturers
+[security attestations]: #white-paper-on-security-attestations
+[vulnerability handling]: #vulnerability-handling-specification
+[cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source-development 
+[generic security requirements]:#specification-on-generic-security-requirements-for-open-source-components
+[security policy]: #security-policy-for-open-source-software-stewards
 
 ```mermaid
 gantt
@@ -88,10 +98,7 @@ gantt
     Contribution proposal to WG: milestone, March 2025, 1d
     Draft v1.0 RC: March 2025, June 2025
     Publish v1.0 RC: milestone, June 2025, 1d
-    
-
 ```
-
 
 ### CRA FAQ
 
@@ -115,7 +122,7 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
 
 ### Inventory
 
-The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide spericiation and standadisation effort with easy access to documented industry and community best practices related to the development and integration of open source software and to the interactions between developers and consumers of open source.
+The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide specification and standardization effort with easy access to documented industry and community best practices related to the development and integration of open source software and to the interactions between developers and consumers of open source.
 
 This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert Group.
 
@@ -140,7 +147,7 @@ Software Bills of Materials (SBOMs) play a crucial role in the implementation of
 
 The goal of this white paper is to fill this gap by providing commonly agreed upon information about SBOMs and their role in the open source ecosystem and provide recommendations for their adoption in the context of the CRA.
 
-This white paper will leverage the resources collected in the [inventory](#inventory) and will be contributed to EU Commission, the CRA Expert Group, and CEN/CENELEC.
+This white paper will leverage the resources collected in the [inventory][] and will be contributed to the EU Commission, the CRA Expert Group, and CEN/CENELEC.
 
 <details>
   <summary>More info</summary>
@@ -150,20 +157,26 @@ This white paper will leverage the resources collected in the [inventory](#inven
 * **License:** CC-BY 4.0
 * **Owner:** Dedicated Task Force
 * **Input to:** EU Guidance, Implementing Act, Harmonised standards
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
 * **First draft by:** April 2025
 * **Final draft by:** June 2025
     
 </details>
 
 
-### White paper on due diligence requirements for manufacturers
+### White paper on due diligence obligation of manufacturers
 
-The due diligence requirements for manufacturers outlined in [Article 13(5)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) of the CRA are the corner stone of the relationship between manufacturers and the open source ecosystem.
+The due diligence obligation of manufacturers outlined in [Article 13(5)][] of the CRA is the cornerstone of the relationship between manufacturers and the open source ecosystem.
 
-This white paper will attempt to clarify these due diligence requirements, list the constraints manufacturers might face when integrating open source components—in particular components which aren't supported by open source software stewards—and propose solutions to enable manufacturers to continue leveraging open source components securily despite those constraints.
+This white paper will attempt to clarify this obligation along with the related requirement that integrated open source components must not compromise the cybersecurity of the products they are integrated into. It will list the constraints manufacturers might face when integrating open source components—in particular components which aren't supported by open source software stewards, and propose solutions to enable manufacturers to continue leveraging open source components securely and at scale despite those constraints.
+
+Secondly, this paper will outline steps that open source projects could take to help facilitate this due diligence obligation—notably by providing increased transparency about their security posture, recommend existing standards or specification that projects could adopt, and propose new ones where appropriate.
+
+Finally, this paper will examine the tension between the practical necessity for manufacturers to shift security left (i.e. with the open source projects) and their inability to compel those projects to take on this responsability—given that compliance obligations rightfully rest with the manufacturers—and will underline the need for incentives-aligning mechanisms to resolve this tension.
 
 This white paper will be shared with the EU Commission and the CRA Expert Group and will provide important context for the [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) described below.
+
+Note: This white paper might be combined with the paper on [security attestations][] described below.
 
 <details>
   <summary>More info</summary>
@@ -173,16 +186,20 @@ This white paper will be shared with the EU Commission and the CRA Expert Group 
 * **License:** CC-BY 4.0
 * **Owner:** Dedicated Task Force
 * **Input to:** EU Guidance, Implementing Act, Harmonised standards
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
 * **First draft by:** 
 * **Final draft by:**
     
 </details>
 
 
-### White paper on attestations
+### White paper on security attestations
 
+[Article 25][] of the CRA introduces security attestations for free and open-source software as a mechanism to facilitate the due diligence obligation of manufacturers when integrating open source components. While the white paper on due diligence will explore _what_ this due diligence obligation is and examine the tension between the practical necessity for manufacturers to shift security left and their inability to compel open source projects to take on this additional responsibility, this paper will explore _how_ security attestation can be used as a mechanism to resolve this tension and create incentives-alignment between manufacturers and open source projects.
 
+Thanks to case studies of similar mechanisms, for example the [Ecosystem Sustainability Program (ESP)](https://openjsf.org/blog/ecosystem-sustainability-program) developed by the OpenJS Foundation, this paper will propose possible implementations of this mechanism that would allow open source projects and stewards to support manufacturers beyond their obligations and receive support (financial or otherwise) through the security attestation programs.
+
+Note: This white paper might be combined with the paper on [due diligence][] described above.
 
 <details>
   <summary>More info</summary>
@@ -192,7 +209,7 @@ This white paper will be shared with the EU Commission and the CRA Expert Group 
 * **License:** CC-BY 4.0
 * **Owner:** Dedicated Task Force
 * **Input to:** EU Guidance, Implementing Act, Harmonised standards
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
 * **First draft by:** 
 * **Final draft by:**
     
@@ -214,7 +231,7 @@ The Vulnerability handling specification, along with related input will be share
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** Harmonised standards
-* **Relevant liaisions**: CEN/CENELEC
+* **Relevant liaisons**: CEN/CENELEC
 * **First draft by:** May 2025
 * **Final draft by:** 
     
@@ -222,10 +239,21 @@ The Vulnerability handling specification, along with related input will be share
 
 
 
-
 ### Specification on principles for cyber resilience for open source
 
-The Specification on principles for cyber resilience for open source development is based on Annex I, Part I, point (1).
+This specification is intended to be somewhat of an equivalent of the type A horizontal standard that addresses the requirements spelled out in  [Annex I, Part I, point (1)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above.
+
+This specification aims to address the following issue:
+
+1. Provide a specification that is freely accessible and royalty-free so that open source projects can implement it.
+2. Formalize recognized good practices that improve the security posture of open source projects.
+3. Provide a machine-readable way (for example through dedicated SBOM fields) for open source projects to document and transparently share factual information about the cyber resilience practices that they implement in order to faciliate the due diligence of manufacturers.
+4. Help resolve the challenge of assessing risk for components whose use-cases aren't known at the time of development, by providing transparency on the project's posture to manufactueres integrating them, allowing them to carry out their own risk assessment as part of their due diligence obligations.
+
+Where appropriate, this specification will reference and build on exsiting material, notably collected in the [inventory][]. It may be broken down into separare documents.
+
+Note: The challenge of assessing risk for components whose use-cases aren't known at the time of development might benefit from its own white paper.
+
 
 <details>
   <summary>More info</summary>
@@ -236,15 +264,20 @@ The Specification on principles for cyber resilience for open source development
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** ISO
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
 * **First draft by:**
 * **Final draft by:** 
     
 </details>
 
+
 ### Specification on generic security requirements for open source components
 
-The Specification on generic security requirements for open source components is based on Annex I, Part I, point (2).
+This specification is intended to addresses the requirements spelled out in [Annex I, Part I, point (2)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. In that sence it is somewhat in between the type B horizontal standards and vertical standards and is sometimes referred to as a "broad vertical."
+
+It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above and work closely with the [Specification on principles for cyber resilience for open source development][cyber resilience principles] mentioned above.
+
+This specification will provide a machine-readable way (for example through dedicated SBOM fields) for open source projects to document and transparently share factual information about which cyber security requirements defined in [Annex I, Part I, point (2)][] are relevant to the project, whether they are addressed by the project, or whether they need to be handled by the integrator.
 
 <details>
   <summary>More info</summary>
@@ -255,7 +288,7 @@ The Specification on generic security requirements for open source components is
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** ISO
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
 * **First draft by:**
 * **Final draft by:** 
     
@@ -264,9 +297,9 @@ The Specification on generic security requirements for open source components is
 
 ### Security policy for open source software stewards
 
-[Article 24(1)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_24) of the CRA states that _"open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product."_ This specification will help open source software stewards meet their obligations by specifying minimum requirements that stewards must implement to meet them and provide a structure or format to document their cybersecurity  policy, possibly in a machine-readable way.
+[Article 24(1)] of the CRA states that _"open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product."_ This specification will help open source software stewards meet their obligations by specifying minimum requirements that stewards must implement to meet them and provide a structure or format to document their cybersecurity  policy, possibly in a machine-readable way.
 
-This specification will leverage existing resources and best practies as identified in our [inventory](#inventory) and will interact closely with the [Vulnerability handling specification](#vulnerability-handling-specification) and the [Specification on principles for cyber resilience for open source development](#specification-on-principles-for-cyber-resilience-for-open-source-development) described above.
+This specification will leverage existing resources and best practies as identified in our [inventory][] and will interact closely with the [Vulnerability handling specification][vulnerability handling] and the [Specification on principles for cyber resilience for open source development][cyber resilience principles] described above.
 
 <details>
   <summary>More info</summary>
@@ -277,7 +310,7 @@ This specification will leverage existing resources and best practies as identif
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** ISO
-* **Relevant liaisions**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
 * **First draft by:** May 2025
 * **Final draft by:** 
     
@@ -297,7 +330,7 @@ This specification will leverage existing resources and best practies as identif
 
 The Cyber Resilience SIG can form task forces that focus on a particular topic for a fixed period of time.
 
-A task force must must have one or more leads, an area of focus, a set of deliverables, and an end date by which it must present its deliverables and recommendations to the SIG and/or request an extension.
+A task force must have one or more leads, an area of focus, a set of deliverables, and an end date by which it must present its deliverables and recommendations to the SIG and/or request an extension.
 
 A task force's proceedings are public.
 
@@ -332,3 +365,19 @@ As new regulations impacting open source communities emerge, it is expected that
 [EFSL]: https://www.eclipse.org/legal/efsl/
 [TFs]: #current-task-forces
 [Cyber Resilience Practices Project]: #cyber-resilience-practices-project
+
+[Article 13(5)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13
+[Article 24(1)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_24
+[Article 25]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_25
+[Annex I, Part I, point (1)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I
+[Annex I, Part I, point (2)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I
+
+[FAQ]: #cra-faq
+[inventory]: #inventory 
+[SBOMs]: #white-paper-on-sboms
+[due diligence]: #white-paper-on-due-diligence-obligation-of-manufacturers
+[security attestations]: #white-paper-on-security-attestations
+[vulnerability handling]: #vulnerability-handling-specification
+[cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source-development 
+[generic-security-requirements]:#specification-on-generic-security-requirements-for-open-source-components
+[security policy]: #security-policy-for-open-source-software-stewards
