@@ -21,28 +21,36 @@ flowchart LR
     manufacturer == performs due diligence ==> foss
     steward["Steward"] == reports vulnerabilities & incidents to ==> enisa["ENISA / CSIRT"]
     steward == collaborates with ==> msa["Market Surveillance"]
-    prog["Attestation program"] == facilitates due diligence ==> manufacturer
-    steward == may participate in ==> prog
-    maintainers["Maintainers"] == may participate in ==> prog
-    manufacturer == finances ==> prog
+    attest["Security attestation program"] == facilitates due diligence ==> manufacturer
+    steward == may participate in ==> attest
+    maintainers["Maintainers"] == may participate in ==> attest
+    manufacturer == finances ==> attest
     steward == sustains ==> foss
     maintainers == maintains ==> foss
     manufacturer == upstreams security fixes ==> foss
     manufacturer -- places on the market --> product["Product"]
+    attest == aligned with ==> standards["Harmonised standards"] 
+    manufacturer -- implements --> standards
+    standards -- provide presumption of conformity to --> product
     foss -- integrated into --> product
     product -- purchased by --> user["User"]
-
-
+    
     style steward fill:#BBDEFB,stroke:#2962FF
-    style foss fill:#C8E6C9,stroke:#00C853
-    style manufacturer stroke:#FF6D00,fill:#FFE0B2
-    style maintainers fill:#E1BEE7,stroke:#AA00FF
-    style prog fill:#FFF9C4,stroke:#FFD600
-    linkStyle 1,7,10 stroke:#FF6D00,fill:none
     linkStyle 2,3,5,8 stroke:#2962FF,fill:none
-    linkStyle 6,9 stroke:#AA00FF,fill:none
-    linkStyle 4 stroke:#FFD600,fill:none
+
+    style manufacturer stroke:#FF6D00,fill:#FFE0B2
+    linkStyle 1,7,10 stroke:#FF6D00,fill:none
+
+    style foss fill:#C8E6C9,stroke:#00C853
     linkStyle 0 stroke:#00C853,fill:none
+
+    style maintainers fill:#E1BEE7,stroke:#AA00FF
+    linkStyle 6,9 stroke:#AA00FF,fill:none
+
+    style attest fill:#FFF9C4,stroke:#FFD600
+    linkStyle 4,12 stroke:#FFD600,fill:none
+ 
+    style standards fill:#FFCDD2,stroke:#D50000
 ```
 
 ### Deliverables
