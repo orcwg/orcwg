@@ -21,7 +21,7 @@ The Scope of the Cyber Resilience SIG is a strict subset of the scope of ORC WG.
 In 2025, the SIG will focus on deliverables necessary to help the open source community (and notably _open source software stewards_) meet the regulatory obligations outlined in the CRA and help downstream users (_manufacturers_) be able to continue to leverage open source in their products and services while meeting their own regulatory requirements. This is expressed by the colored nodes and edges in the diagram below.
 
 ```mermaid
-flowchart
+flowchart LR
     foss["Open source project"] == integrated by ==> manufacturer["Manufacturer"] 
     manufacturer == performs due diligence ==> foss
     steward["Steward"] == reports vulnerabilities & incidents to ==> enisa["ENISA / CSIRT"]
@@ -36,7 +36,6 @@ flowchart
     manufacturer -- places on the market --> product["Product"]
     attest == aligned with ==> standards["Harmonised standards"] 
     standards -- implemented by --> manufacturer
-    standards -- provide presumption of conformity to --> product
     foss -- integrated into --> product
     product -- purchased by --> user["User"]
     
