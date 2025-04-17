@@ -66,6 +66,7 @@ flowchart LR
 | [Specification on generic security requirements for open source components][generic security requirements] | Specification | [Cyber Resilience Practices Project][] | | |
 | [Security policy for open source software stewards][security policy] | Specification | [Cyber Resilience Practices Project][] | | |
 
+At the discretion of the [SIG leads](#leads), the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the European Commission, ENISA, the CRA Expert Group, the European Standards Organisations, Market Surveillance Authorities, or any other relavant institution.
 
 ```mermaid
 gantt
