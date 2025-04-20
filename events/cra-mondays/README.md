@@ -25,5 +25,7 @@ Sébastien Heurtematte will be joining us to tell us more about OCCTET, an EU-fu
 **Sébastien Heurtematte**, member of the Eclipse Foundation, is the coordinator of the OCCTET project, leading a consortium of 7 partners across Europe working to make Cyber Resilience Act (CRA) compliance simpler and more accessible for SMEs. With a strong technical background in open source, release engineering, and supply chain, he brings years of experience simplifying complex processes and addressing security challenges. Passionate about collaboration and accessibility, he focuses on making CRA compliance practical and approachable for both open source projects and SMEs.
 
 #### References
+- [Slides presented during the CRA session](presentations/2025-04-14-sebastien-huertematte-OCCTET.pdf)
 - [OCCTET Website](https://occtet.eu/)
 - [European Cybersecurity Competence Centre and Network](https://cybersecurity-centre.europa.eu/index_en)
+  
