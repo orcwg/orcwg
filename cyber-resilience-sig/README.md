@@ -66,7 +66,7 @@ flowchart LR
 | [White paper on SBOMs][SBOMs] | White paper | Dedicated task force | April 2025 | June 2025 |
 | [White paper on due diligence obligation of manufacturers][due diligence] | White paper | Dedicated task force | | |
 | [White paper on Attestations][security attestations] | White paper | Dedicated task force | | |
-| [Vulnerability handling specification][vulnerability handling] | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
+| [Vulnerability management specification][vulnerability management] | Specification | [Cyber Resilience Practices Project][] | March 2025 | |
 | [Specification on principles for cyber resilience for open source development][cyber resilience principles] | Specification | [Cyber Resilience Practices Project][] | | |
 | [Specification on generic security requirements for open source components][generic security requirements] | Specification | [Cyber Resilience Practices Project][] | | |
 | [Security policy for open source software stewards][security policy] | Specification | [Cyber Resilience Practices Project][] | | |
@@ -97,7 +97,7 @@ gantt
 
     section on Attestations
 
-    section Vulnerability Handling Spec
+    section Vulnerability management spec
     Create proposal: November 2024, March 2025
     Contribution proposal to WG: milestone, March 2025, 1d
     Draft v1.0 RC: March 2025, June 2025
@@ -147,7 +147,7 @@ This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert
 
 #### White paper on SBOMs
 
-Software Bills of Materials (SBOMs) play a crucial role in the implementation of the Cyber Resilience Act (CRA), in particular for vulnerability handling. Yet, there are no agreed-upon best practices for the usage and adoption of SBOMs across open source communities and numerous misunderstandings about how they work. There are competing standards, disagreements about whether open source projects should provide SBOMs or whether they're artifacts that integrators of open source components should generate, disagreements about the data they should contain, and a general lack of neutral information on the topic.
+Software Bills of Materials (SBOMs) play a crucial role in the implementation of the Cyber Resilience Act (CRA), in particular for vulnerability management. Yet, there are no agreed-upon best practices for the usage and adoption of SBOMs across open source communities and numerous misunderstandings about how they work. There are competing standards, disagreements about whether open source projects should provide SBOMs or whether they're artifacts that integrators of open source components should generate, disagreements about the data they should contain, and a general lack of neutral information on the topic.
 
 The goal of this white paper is to fill this gap by providing commonly agreed upon information about SBOMs and their role in the open source ecosystem and provide recommendations for their adoption in the context of the CRA.
 
@@ -220,13 +220,13 @@ Note: This white paper might be combined with the paper on [due diligence][] des
 </details>
 
 
-#### Vulnerability handling specification
+#### Vulnerability management specification
 
-The [Vulnerability handling specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for open source codebases. It details the necessary components of a vulnerability handling policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
+The [Vulnerability management specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for open source codebases. It details the necessary components of a vulnerability management policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
 
 Although the initial motivitation for this specification is to help compliance with the essential requirements of the CRA, the intention is for this specification to be agnostic of a particular legislation.
 
-The Vulnerability handling specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
+The Vulnerability management specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
 
 <details>
   <summary>More info</summary>
@@ -304,7 +304,7 @@ This specification will provide a machine-readable way (for example through dedi
 
 [Article 24(1)] of the CRA states that _"open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product."_ This specification will help open source software stewards meet their obligations by specifying minimum requirements that stewards must implement to meet them and provide a structure or format to document their cybersecurity  policy, possibly in a machine-readable way.
 
-This specification will leverage existing resources and best practies as identified in our [inventory][] and will interact closely with the [Vulnerability handling specification][vulnerability handling] and the [Specification on principles for cyber resilience for open source development][cyber resilience principles] described above.
+This specification will leverage existing resources and best practies as identified in our [inventory][] and will interact closely with the [Vulnerability management specification][vulnerability management] and the [Specification on principles for cyber resilience for open source development][cyber resilience principles] described above.
 
 <details>
   <summary>More info</summary>
@@ -377,7 +377,7 @@ As new regulations impacting open source communities emerge, it is expected that
 [SBOMs]: #white-paper-on-sboms
 [due diligence]: #white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #white-paper-on-security-attestations
-[vulnerability handling]: #vulnerability-handling-specification
+[vulnerability management]: #vulnerability-management-specification
 [cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source-development 
 [generic security requirements]:#specification-on-generic-security-requirements-for-open-source-components
 [security policy]: #security-policy-for-open-source-software-stewards
