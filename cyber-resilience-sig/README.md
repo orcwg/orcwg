@@ -57,6 +57,19 @@ flowchart LR
     style standards fill:#FFCDD2,stroke:#D50000
 ```
 
+### Equivalence between products and for open source components
+
+The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts for some of the key requirements for products targeted at open source components. Here's a table comparing both products and open source and referencing relevant Cyber Resilience SIG deliverables for each
+
+| Role | For products | Equivalent for open source components | Relevant deliverables |
+|---|---|---|---|
+| Compliance requirements | Ensure product is designed, developed and produced in accordance with the essential cybersecurity requirements | Exercise due diligence | [White paper on due diligence][due diligence] | 
+| Helps meet compliance requirements | CEN/CENELEC and ETSI harmonised standards | ORC WG specifications | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
+| Indicates compliance | CE Mark | Attestation program | [White paper on attestations][security attestations] | 
+| Provides information to users | Technical documentation | Attestation program | White papers on [attestations][security attestations] and [due diligence][]|
+| Manage vulnerabilities | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
+
+
 ### Deliverables
 
 | Deliverable name | Type | Owner | First draft due | Final draft due | 
@@ -71,7 +84,7 @@ flowchart LR
 | [Specification on generic security requirements for open source components][generic security requirements] | Specification | [Cyber Resilience Practices Project][] | | |
 | [Security policy for open source software stewards][security policy] | Specification | [Cyber Resilience Practices Project][] | | |
 
-At the discretion of the [SIG leads](#leads), the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the European Commission, ENISA, the CRA Expert Group, the European Standards Organisations, Market Surveillance Authorities, or any other relevant institution.
+_Note that, at the discretion of the [SIG leads](#leads), the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the European Commission, ENISA, the CRA Expert Group, the European Standards Organisations, Market Surveillance Authorities, or any other relevant institution._
 
 ```mermaid
 gantt
@@ -379,6 +392,6 @@ As new regulations impacting open source communities emerge, it is expected that
 [due diligence]: #white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #white-paper-on-security-attestations
 [vulnerability management]: #vulnerability-management-specification
-[cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source-development 
+[cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source 
 [generic security requirements]:#specification-on-generic-security-requirements-for-open-source-components
 [security policy]: #security-policy-for-open-source-software-stewards
