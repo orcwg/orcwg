@@ -14,6 +14,7 @@ This page provides details on:
 | Year  | Date   | Location   | Title    |   Link |
 |-------|--------|------------|--------- |----|
 |2025 | 14/04 | [Jitsi](https://meet.jit.si/moderated/afe9a4643dd84fb5123e1a745a0fd90b749a44c6fb91d582505628215ee52d98) | [CRA Mondays](./cra-mondays/) - Talk with Sébastien Heurtematte|
+| 2025| 28/04 | [Jitsi](https://meet.jit.si/moderated/afe9a4643dd84fb5123e1a745a0fd90b749a44c6fb91d582505628215ee52d98) | [CRA Mondays](./cra-mondays/) - Talk with Olle E. Johansson |
 
 
 [//]: #  (Event Name: [Title of the Event] )
