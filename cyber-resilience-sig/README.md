@@ -76,9 +76,9 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 | Role | For products | Equivalent for open source components | Relevant deliverables |
 |---|---|---|---|
 | **Compliance requirements** | Ensure product is designed, developed and produced in accordance with the essential cybersecurity requirements | **Exercise due diligence** | [White paper on due diligence][due diligence] | 
-| **Helps meet compliance requirements** | CEN/CENELEC and ETSI harmonised standards | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
+| **Helps meet compliance requirements** | CEN/CENELEC and ETSI harmonised standards | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements][] specs |
 | **Indicates compliance** | CE Mark | Security Attestation | [White paper on attestations][security attestations] | 
-| **Provides information to users** | Technical documentation | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
+| **Provides information to users** | Technical documentation | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements][] specs |
 | **Manage vulnerabilities** | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
 
 
@@ -204,7 +204,7 @@ Secondly, this paper will outline steps that open source projects could take to 
 
 Finally, this paper will examine the tension between the practical necessity for manufacturers to shift security left (i.e. with the open source projects) and their inability to compel those projects to take on this responsability—given that compliance obligations rightfully rest with the manufacturers—and will underline the need for incentives-aligning mechanisms to resolve this tension.
 
-This white paper will be shared with the [EU Commission][] and the [CRA Expert Group][] and will provide important context for the [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) described below.
+This white paper will be shared with the [EU Commission][] and the [CRA Expert Group][] and will provide important context for the [Specification on generic security requirements for open source components][generic security requirements] described below.
 
 Note: This white paper might be combined with the paper on [security attestations][] described below.
 
@@ -274,7 +274,7 @@ This specification will help open source softare stewards meet the obligations o
 
 #### Specification on principles for cyber resilience for open source
 
-This specification is intended to be somewhat of an equivalent of the type A horizontal standard that addresses the requirements spelled out in  [Annex I, Part I, point (1)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above.
+This specification is intended address the requirements spelled out in [Annex I, Part I, point (1)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above.
 
 This specification aims to address the following issue:
 
@@ -283,7 +283,7 @@ This specification aims to address the following issue:
 3. Provide a machine-readable way (for example through dedicated SBOM fields) for open source projects to document and transparently share factual information about the cyber resilience practices that they implement in order to faciliate the due diligence of manufacturers.
 4. Help resolve the challenge of assessing risk for components whose use-cases aren't known at the time of development, by providing transparency on the project's posture to manufactueres integrating them, allowing them to carry out their own risk assessment as part of their due diligence obligations.
 
-Where appropriate, this specification will reference and build on exsiting material, notably collected in the [inventory][]. It may be broken down into separare documents.
+Where appropriate, this specification will reference and build on existing material, notably collected in the [inventory][]. It may be broken down into separare documents or combined with the [Specification on generic security requirements for open source components][generic security requirements] detailed below to specify a "broad vertical."
 
 Note: The challenge of assessing risk for components whose use-cases aren't known at the time of development might benefit from its own white paper.
 
@@ -306,11 +306,11 @@ Note: The challenge of assessing risk for components whose use-cases aren't know
 
 #### Specification on generic security requirements for open source components
 
-This specification is intended to addresses the requirements spelled out in [Annex I, Part I, point (2)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. In that sence it is somewhat in between the type B horizontal standards and vertical standards and is sometimes referred to as a "broad vertical."
-
-It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above and work closely with the [Specification on principles for cyber resilience for open source development][cyber resilience principles] mentioned above.
+This specification is intended to addresses the requirements spelled out in [Annex I, Part I, point (2)][] but specifically targeted at open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above and work closely with the [Specification on principles for cyber resilience for open source development][cyber resilience principles] mentioned above.
 
 This specification will provide a machine-readable way (for example through dedicated SBOM fields) for open source projects to document and transparently share factual information about which cyber security requirements defined in [Annex I, Part I, point (2)][] are relevant to the project, whether they are addressed by the project, or whether they need to be handled by the integrator.
+
+Where appropriate, this specification will reference and build on existing material, notably collected in the [inventory][]. It may be broken down into separare documents or combined with the [Specification on principles for cyber resilience for open source][cyber resilience principles] detailed above to specify a "broad vertical."
 
 <details>
   <summary>More info</summary>
