@@ -152,7 +152,7 @@ A first version of the CRA FAQ will be contributed to the [CRA Expert Group][] i
 
 #### Inventory
 
-The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide specification and standardization effort with easy access to documented industry and community best practices related to the development and integration of open source software and to the interactions between developers and consumers of open source.
+The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide specification and standardization effort with easy access to documented industry and community best practices related to the development and integration of open source software and to the interactions between developers and consumers of open source.
 
 This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [CRA Expert Group][].
 
@@ -254,6 +254,8 @@ Although the initial motivitation for this specification is to help compliance w
 
 The Vulnerability management specification, along with related input will be shared with [CEN/CENELEC][] as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
 
+This specification will help open source softare stewards meet the obligations of their light-touch regulatory regime.
+
 <details>
   <summary>More info</summary>
   
@@ -331,6 +333,8 @@ This specification will provide a machine-readable way (for example through dedi
 [Article 24(1)] of the CRA states that _"open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product."_ This specification will help open source software stewards meet their obligations by specifying minimum requirements that stewards must implement to meet them and provide a structure or format to document their cybersecurity  policy, possibly in a machine-readable way.
 
 This specification will leverage existing resources and best practies as identified in our [inventory][] and will interact closely with the [Vulnerability management specification][vulnerability management] and the [Specification on principles for cyber resilience for open source development][cyber resilience principles] described above.
+
+This specification will help open source softare stewards meet the obligations of their light-touch regulatory regime.
 
 <details>
   <summary>More info</summary>
