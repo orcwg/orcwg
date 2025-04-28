@@ -84,7 +84,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 | [Specification on generic security requirements for open source components][generic security requirements] | Specification | [Cyber Resilience Practices Project][] | | |
 | [Security policy for open source software stewards][security policy] | Specification | [Cyber Resilience Practices Project][] | | |
 
-_Note that, at the discretion of the [SIG leads](#leads), the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the European Commission, ENISA, the CRA Expert Group, the European Standards Organisations, Market Surveillance Authorities, or any other relevant institution._
+_Note that the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the European Commission, ENISA, the CRA Expert Group, the European Standards Organisations, Market Surveillance Authorities, or any other relevant institution._
 
 ```mermaid
 gantt
