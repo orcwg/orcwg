@@ -57,6 +57,18 @@ flowchart LR
     style standards fill:#FFCDD2,stroke:#D50000
 ```
 
+### Key stakeholders
+
+The SIG intends to collaborate closely with and provide input to the following stakholders:
+
+* EU Commission
+* CRA Expert Group
+* CEN/CENELEC
+* ETSI
+* ENISA
+* Market Surveillance Authorities
+
+
 ### Equivalence between products and open source components
 
 The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts targeted at open source components. The following table compares products and open source components and references relevant Cyber Resilience SIG deliverables for each.
@@ -84,7 +96,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 | [Specification on generic security requirements for open source components][generic security requirements] | Specification | [Cyber Resilience Practices Project][] | | |
 | [Security policy for open source software stewards][security policy] | Specification | [Cyber Resilience Practices Project][] | | |
 
-_Note that the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the European Commission, ENISA, the CRA Expert Group, the European Standards Organisations, Market Surveillance Authorities, or any other relevant institution._
+_Note that the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 
 ```mermaid
 gantt
@@ -120,9 +132,9 @@ gantt
 
 #### CRA FAQ
 
-The [CRA FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) represents a community effort to collect and answer frequently asked questions about the Cyber Resilience Act (CRA) as it relates to open source.  The purpose of this effort is twofold. First, consolidate community understanding of the CRA. Secondly, outline areas of the CRA which remain unclear and would benefit from Guidance from the European Commission.
+The [CRA FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) represents a community effort to collect and answer frequently asked questions about the Cyber Resilience Act (CRA) as it relates to open source.  The purpose of this effort is twofold. First, consolidate community understanding of the CRA. Secondly, outline areas of the CRA which remain unclear and would benefit from Guidance from the [European Commission][EU Commission].
 
-A first version of the CRA FAQ will be contributed to the CRA Expert Group in advance of the group's next in-person meeting on June 5, 2025.
+A first version of the CRA FAQ will be contributed to the [CRA Expert Group][] in advance of the group's next in-person meeting on June 5, 2025.
 
 <details>
   <summary>More info</summary>
@@ -132,7 +144,7 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
 * **License:** CC-BY 4.0
 * **Owner:** [FAQ Task Force][TFs]
 * **Input to:** EU Guidance 
-* **Relevant liaisions**: EU Commission, CRA Expert Group 
+* **Relevant liaisions**: [EU Commission][], [CRA Expert Group][] 
 * **First draft by:** June 2025
 * **Final draft by:** 
     
@@ -142,7 +154,7 @@ A first version of the CRA FAQ will be contributed to the CRA Expert Group in ad
 
 The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open-source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide specification and standardization effort with easy access to documented industry and community best practices related to the development and integration of open source software and to the interactions between developers and consumers of open source.
 
-This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert Group.
+This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [CRA Expert Group][].
 
 <details>
   <summary>More info</summary>
@@ -152,7 +164,7 @@ This inventory will be contributed to CEN/CENELEC and ETSI and to the CRA Expert
 * **License:** CC-BY 4.0
 * **Owner:** [Inventory Task Force][TFs]
 * **Input to:** Harmonised standards, ORC WG white papers and specifications
-* **Relevant liaisions**: CEN/CENELEC
+* **Relevant liaisions**: [CEN/CENELEC][]
 * **First draft by:** May 2025
 * **Final draft by:** June 2025
     
@@ -165,7 +177,7 @@ Software Bills of Materials (SBOMs) play a crucial role in the implementation of
 
 The goal of this white paper is to fill this gap by providing commonly agreed upon information about SBOMs and their role in the open source ecosystem and provide recommendations for their adoption in the context of the CRA.
 
-This white paper will leverage the resources collected in the [inventory][] and will be contributed to the EU Commission, the CRA Expert Group, and CEN/CENELEC.
+This white paper will leverage the resources collected in the [inventory][] and will be contributed to the [EU Commission][], the [CRA Expert Group][], and [CEN/CENELEC][].
 
 <details>
   <summary>More info</summary>
@@ -175,7 +187,7 @@ This white paper will leverage the resources collected in the [inventory][] and 
 * **License:** CC-BY 4.0
 * **Owner:** Dedicated Task Force
 * **Input to:** EU Guidance, Implementing Act, Harmonised standards
-* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][], [Market Surveillance][]
 * **First draft by:** April 2025
 * **Final draft by:** June 2025
     
@@ -192,7 +204,7 @@ Secondly, this paper will outline steps that open source projects could take to 
 
 Finally, this paper will examine the tension between the practical necessity for manufacturers to shift security left (i.e. with the open source projects) and their inability to compel those projects to take on this responsability—given that compliance obligations rightfully rest with the manufacturers—and will underline the need for incentives-aligning mechanisms to resolve this tension.
 
-This white paper will be shared with the EU Commission and the CRA Expert Group and will provide important context for the [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) described below.
+This white paper will be shared with the [EU Commission][] and the [CRA Expert Group][] and will provide important context for the [Specification on generic security requirements for open source components](#specification-on-generic-security-requirements-for-open-source-components) described below.
 
 Note: This white paper might be combined with the paper on [security attestations][] described below.
 
@@ -204,7 +216,7 @@ Note: This white paper might be combined with the paper on [security attestation
 * **License:** CC-BY 4.0
 * **Owner:** Dedicated Task Force
 * **Input to:** EU Guidance, Implementing Act, Harmonised standards
-* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
 * **First draft by:** 
 * **Final draft by:**
     
@@ -227,7 +239,7 @@ Note: This white paper might be combined with the paper on [due diligence][] des
 * **License:** CC-BY 4.0
 * **Owner:** Dedicated Task Force
 * **Input to:** EU Guidance, Implementing Act, Harmonised standards
-* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
 * **First draft by:** 
 * **Final draft by:**
     
@@ -240,7 +252,7 @@ The [Vulnerability management specification](https://github.com/orcwg/vulnerabil
 
 Although the initial motivitation for this specification is to help compliance with the essential requirements of the CRA, the intention is for this specification to be agnostic of a particular legislation.
 
-The Vulnerability management specification, along with related input will be shared with CEN/CENELEC as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
+The Vulnerability management specification, along with related input will be shared with [CEN/CENELEC][] as contribution to the [Harmonised Standard on vulnerability handling](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026).
 
 <details>
   <summary>More info</summary>
@@ -251,7 +263,7 @@ The Vulnerability management specification, along with related input will be sha
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** Harmonised standards
-* **Relevant liaisons**: CEN/CENELEC
+* **Relevant liaisons**: [CEN/CENELEC][]
 * **First draft by:** May 2025
 * **Final draft by:** 
     
@@ -283,7 +295,7 @@ Note: The challenge of assessing risk for components whose use-cases aren't know
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** ISO
-* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
 * **First draft by:**
 * **Final draft by:** 
     
@@ -307,7 +319,7 @@ This specification will provide a machine-readable way (for example through dedi
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** ISO
-* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
 * **First draft by:**
 * **Final draft by:** 
     
@@ -329,7 +341,7 @@ This specification will leverage existing resources and best practies as identif
 * **Final license**: [EFSL][]
 * **Owner:** [Cyber Resilience Practices Project][]
 * **Input to:** ISO
-* **Relevant liaisons**: EU Commission, CRA Expert Group, CEN/CENELEC
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
 * **First draft by:** May 2025
 * **Final draft by:** 
     
@@ -395,3 +407,11 @@ As new regulations impacting open source communities emerge, it is expected that
 [cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source 
 [generic security requirements]:#specification-on-generic-security-requirements-for-open-source-components
 [security policy]: #security-policy-for-open-source-software-stewards
+
+[EU Commission]: #key-stakeholders
+[CRA Expert Group]: #key-stakeholders
+[CEN/CENELEC]: #key-stakeholders
+[ETSI]: #key-stakeholders
+[ESOs]: #key-stakeholders
+[ENISA]: #key-stakeholders
+[Market Surveillance]: #key-stakeholders
