@@ -63,11 +63,11 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 
 | Role | For products | Equivalent for open source components | Relevant deliverables |
 |---|---|---|---|
-| Compliance requirements | Ensure product is designed, developed and produced in accordance with the essential cybersecurity requirements | Exercise due diligence | [White paper on due diligence][due diligence] | 
-| Helps meet compliance requirements | CEN/CENELEC and ETSI harmonised standards | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
-| Indicates compliance | CE Mark | Security Attestation | [White paper on attestations][security attestations] | 
-| Provides information to users | Technical documentation | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
-| Manage vulnerabilities | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
+| **Compliance requirements** | Ensure product is designed, developed and produced in accordance with the essential cybersecurity requirements | **Exercise due diligence** | [White paper on due diligence][due diligence] | 
+| **Helps meet compliance requirements** | CEN/CENELEC and ETSI harmonised standards | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
+| **Indicates compliance** | CE Mark | Security Attestation | [White paper on attestations][security attestations] | 
+| **Provides information to users** | Technical documentation | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
+| **Manage vulnerabilities** | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
 
 
 ### Deliverables
