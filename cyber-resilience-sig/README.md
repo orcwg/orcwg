@@ -59,14 +59,14 @@ flowchart LR
 
 ### Equivalence between products and for open source components
 
-The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts for some of the key requirements for products targeted at open source components. Here's a table comparing both products and open source and referencing relevant Cyber Resilience SIG deliverables for each
+The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts for some of the key requirements for products targeted at open source components. Here's a table comparing both products and open source and referencing relevant Cyber Resilience SIG deliverables for each.
 
 | Role | For products | Equivalent for open source components | Relevant deliverables |
 |---|---|---|---|
 | Compliance requirements | Ensure product is designed, developed and produced in accordance with the essential cybersecurity requirements | Exercise due diligence | [White paper on due diligence][due diligence] | 
-| Helps meet compliance requirements | CEN/CENELEC and ETSI harmonised standards | ORC WG specifications | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
+| Helps meet compliance requirements | CEN/CENELEC and ETSI harmonised standards | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
 | Indicates compliance | CE Mark | Security Attestation | [White paper on attestations][security attestations] | 
-| Provides information to users | Technical documentation | ORC WG specifications | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
+| Provides information to users | Technical documentation | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements] specs |
 | Manage vulnerabilities | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
 
 
