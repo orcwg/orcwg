@@ -57,9 +57,9 @@ flowchart LR
     style standards fill:#FFCDD2,stroke:#D50000
 ```
 
-### Equivalence between products and for open source components
+### Equivalence between products and open source components
 
-The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts for some of the key requirements for products targeted at open source components. Here's a table comparing both products and open source and referencing relevant Cyber Resilience SIG deliverables for each.
+The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts targeted at open source components. The following table compares products and open source components and references relevant Cyber Resilience SIG deliverables for each.
 
 | Role | For products | Equivalent for open source components | Relevant deliverables |
 |---|---|---|---|
