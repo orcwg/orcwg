@@ -37,6 +37,13 @@ Check out our archive:
 |-------|--------|------------|----------------------------------------------------------------------------------|--------------------------------------|
 | 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[link](https://github.com/orcwg/orcwg/blob/main/events/2025/FOSDEM/2025-01-29-the-cra-is-here.md)| 
 | 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-workshop)| 
+
+### YouTube Playlists
+
+Watch recordings of our past virtual events:
+
+- [CRA Mondays](https://www.youtube.com/playlist?list=PLy7t4z5SYNaT-DjqGR0ORSSZGZYW8qmRs)
+- [Unpacking the CRA](https://www.youtube.com/playlist?list=PLy7t4z5SYNaTnHCiz8ADmGZ_z6YZGd0wI)
   
 ## 🤝 Get Involved
 
