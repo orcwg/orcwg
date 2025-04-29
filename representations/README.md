@@ -34,12 +34,6 @@ List of ESO and related institutions that are involved in CRA standardization ac
  - Inventory
  - Security policy for open source software stewards
  - Specification on principles for cyber resilience for open source development 
- 
-
-#### Specific objectives and due dates
-|Objective | ORC lead | Deadline |
-| ------- | ---- | ---- |
-|  Contribution to CEN/CENELEC WG9 PT1 | | |
 
 ---
 ### CEN/CENELEC WG9 PT2 - Generic Security Requirements
@@ -53,12 +47,6 @@ List of ESO and related institutions that are involved in CRA standardization ac
  - Inventory
  - Security policy for open source software stewards
  - Specification on principles for cyber resilience for open source development 
- 
-
-#### Specific objectives and due dates
-|Objective | ORC lead | Deadline |
-| ------- | ---- | ---- |
-|  Contribution to CEN/CENELEC WG9 PT1 | | |
 
 ---
 ### CEN/CENELEC WG9 PT3 - Vulnerability Handling 
@@ -69,10 +57,6 @@ List of ESO and related institutions that are involved in CRA standardization ac
 
 [Vulnerability Management Specification project](https://github.com/orcwg/vulnerability-management-spec)
 
-#### Key objective and dates
-|Objective | ORC lead | Deadline |
-| ------- | ---- | ---- |
-| Contribution to CEN/CENELEC WG9 PT3 | | |
 
 ---
 
