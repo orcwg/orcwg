@@ -10,12 +10,11 @@ This page provides details on:
 - Past events, including recordings, slides, and summaries (when available).
 - How to get involved and contribute to event planning.
 
-## 📅 CRA Mondays
-| Year  | Date   | Location   | Title    |
-|-------|--------|------------|--------- |
-|2025 | 28/04 | [Jitsi](https://meet.jit.si/moderated/afe9a4643dd84fb5123e1a745a0fd90b749a44c6fb91d582505628215ee52d98) | [CRA Mondays](./cra-mondays/) - Talk with Olle E. Johansson|
+## 🗓️ CRA Mondays
 
-## 📅 Upcoming Events
+Every Monday after the SIG call, we host a guest from our community to discuss CRA adjacent topics. [[Learn more →](./cra-mondays/)]
+
+## 🗓️ Upcoming Events
 | Year  | Date   | Location   | Title    |   Link |
 |-------|--------|------------|--------- |----|
 | | | | | |

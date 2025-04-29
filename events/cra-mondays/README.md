@@ -19,7 +19,7 @@ He spends his days coaching organizations in building secure products and implem
 
 ### 🗓️ April 28, 2025: Olle E. Johansson on managing CVEs in an unstable world
 The cybersecurity community has been up in arms over the last few days as MITRE announced that its US government funding for running the Common Vulnerabilities and Exposures (CVE) program wasn't being renewed. While the funding was extended since, this was a wakeup call for the community. Olle E. Johansson shared an [opinionated white paper](https://docs.google.com/document/d/1u6yPlCla7SO6YuHakjvmcGtcEmHdp-NANaqpTDTA7Q0/edit?usp=sharing) on this topic. He'll be presenting this paper during the call and we'll use it as a basis for discussion.
-([slides]() | [video]())
+([slides](2025-04-28-olle-e-johnansson.pdf) | [video]())
 
 <details>
 <summary>More info</summary>
