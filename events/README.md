@@ -34,7 +34,7 @@ Every Monday after the SIG call, we host a guest from our community to discuss C
 Check out our archive:
 | Year  | Date   | Location   | Title                                                                            | Link to materials                    |
 |-------|--------|------------|----------------------------------------------------------------------------------|--------------------------------------|
-| 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[link](https://github.com/orcwg/orcwg/blob/main/events/2025-01-29-the-cra-is-here)| 
+| 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-meetup)| 
 | 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-workshop)| 
 
 ### YouTube Playlists
