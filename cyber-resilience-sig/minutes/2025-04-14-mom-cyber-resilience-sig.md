@@ -12,6 +12,7 @@
 
 <details>
 <summary><b>Participants </b></summary>
+ 
 * Tobie Langel (UnlockOpen / Eclipse)  
 * Juan Rico (Eclipse Foundation)  
 * Alberto Pianon (Array)  
@@ -39,6 +40,7 @@
 * Luke Davies  
 * Aeva Black  
 * Sal Kimmich
+  
  </details>
 
 
