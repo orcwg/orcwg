@@ -12,7 +12,7 @@ This page provides details on:
 
 ## 🗓️ CRA Mondays
 
-Every Monday after the SIG call, we host a guest from our community to discuss CRA adjacent topics. [[Learn more →](./cra-mondays/)]
+Every Monday after the SIG call, we host a guest from our community to discuss CRA adjacent topics. [Learn more →](./cra-mondays/)
 
 ## 🗓️ Upcoming Events
 | Year  | Date   | Location   | Title    |   Link |
