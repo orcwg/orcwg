@@ -45,7 +45,7 @@ flowchart LR
 |---:|---|---|---|---|
 | **1.** | **Documentation** | | | |
 | | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][TFs] | April 2025 | June 2025 |
-| | 1.2 [inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
+| | 1.2 [Inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
 | | | | | |
 | **2.** | **Inputs** | | | |
 | ✅ | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
