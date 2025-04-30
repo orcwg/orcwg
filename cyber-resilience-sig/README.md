@@ -89,6 +89,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 |---|---|---|---|---|
 | [CRA FAQ][FAQ] | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | [inventory][] | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
+| [Input to draft implementing act on product categories][] | Input | Cyber Resilience SIG | March 18, 2025 | April 18, 2025 |
 | [White paper on SBOMs][SBOMs] | White paper | Dedicated task force | April 2025 | June 2025 |
 | [White paper on due diligence obligation of manufacturers][due diligence] | White paper | Dedicated task force | | |
 | [White paper on Attestations][security attestations] | White paper | Dedicated task force | | |
@@ -118,6 +119,10 @@ gantt
     Organize inventory: February 2025, May 2025
     Publish Inventory: milestone, May 2025, 1d
     
+    section Input to draft act on product categories
+    Collect community input: 13 March 2025, 18 April 2025
+    Submit input: milestone, 18 April 2025, 1d
+
     section on SBOMs
 
     section on Due diligence
@@ -171,6 +176,24 @@ This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [C
     
 </details>
 
+
+#### Input to the Draft EU Commission Implementing Regulation on the technical description of important and critical product
+
+On March 13, 2025, the European Commission released draft implementing regulation on the definition of important and critical product categories and opened public consultations until April 18, 2025. The SIG collected community comments and feedback and [submitted it](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14449-Technical-description-of-important-and-critical-products-with-digital-elements/F3536950_en) to the European Commission using the requested spreadsheet on April 18, 2025. ([Markdown version](https://github.com/orcwg/cra-hub/blob/main/product-definitions/input-to-draft-regulation.md/input-to-draft-regulation.md) | [XLSX version](./input-to-draft-regulation-2025-04-18.xlsx))
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** <https://github.com/orcwg/cra-hub/tree/main/product-definitions#have-your-say---public-consultations-and-feedback>
+* **Type:** Input
+* **License:** CC-BY 4.0
+* **Owner:** Cyber Resilience SIG
+* **Input to:** [EU Commission][]
+* **Relevant liaisions**: [EU Commission][]
+* **First draft by:** March 18, 2025
+* **Final draft by:** April 18, 2025
+    
+</details>
 
 #### White paper on SBOMs
 
@@ -406,6 +429,8 @@ As new regulations impacting open source communities emerge, it is expected that
 [FAQ]: #cra-faq
 [inventory]: #inventory 
 [SBOMs]: #white-paper-on-sboms
+[input product categories]: #input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
+
 [due diligence]: #white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #white-paper-on-security-attestations
 [vulnerability management]: #vulnerability-management-specification
