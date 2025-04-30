@@ -1,39 +1,3 @@
-```mermaid
-gantt
-    title Deliverables Timeline
-    dateFormat  D MMMM YYYY
-    axisFormat %b %Y
-    tickInterval 1month
-
-    section CRA FAQ
-    Collect community FAQs: 1 December 2024, 31 December 2025
-    Draft v1.0: 1 January 2025, 1 June 2025
-    Publish CRA FAQ v1.0: milestone, 1 June 2025, 1d
-    Draft v2.0: 1 June 2025, 1 November 2025
-    Publish CRA FAQ v2.0: milestone, 1 November 2025, 1d
-
-    section Inventory
-    Collect community input: done, 1 December 2024, 30 April 2025
-    Organize inventory: 1 February 2025, 30 May 2025
-    Publish Inventory: milestone, 30 May 2025, 1d
-    
-    section Input to draft act on product categories
-    Collect community input: done, 13 March 2025, 18 April 2025
-    Submit input: done, milestone, 18 April 2025, 1d
-
-    section on SBOMs
-
-    section on Due diligence
-
-    section on Attestations
-
-    section Vulnerability management spec
-    Create proposal: done, 1 November 2024, 1 March 2025
-    Contribution proposal to WG: done, milestone, 1 March 2025, 1d
-    Draft v1.0 RC: 1 March 2025, 1 June 2025
-    Publish v1.0 RC: milestone, 1 June 2025, 1d
-```
-
 # Deliverables Plan
 
 In 2025, the [Cyber Resilience SIG][SIG] will focus on deliverables necessary to help the open source community (and notably _open source software stewards_) meet the regulatory obligations outlined in the CRA and help downstream users (_manufacturers_) be able to continue to leverage open source in their products and services while meeting their own regulatory requirements. This is expressed by the colored nodes and edges in the diagram below.
@@ -372,6 +336,41 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 | **Manage vulnerabilities** | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
 
 
+```mermaid
+gantt
+    title Deliverables Timeline
+    dateFormat  D MMMM YYYY
+    axisFormat %b %Y
+    tickInterval 1month
+
+    section CRA FAQ
+    Collect community FAQs: 1 December 2024, 31 December 2025
+    Draft v1.0: 1 January 2025, 1 June 2025
+    Publish CRA FAQ v1.0: milestone, 1 June 2025, 1d
+    Draft v2.0: 1 June 2025, 1 November 2025
+    Publish CRA FAQ v2.0: milestone, 1 November 2025, 1d
+
+    section Inventory
+    Collect community input: done, 1 December 2024, 30 April 2025
+    Organize inventory: 1 February 2025, 30 May 2025
+    Publish Inventory: milestone, 30 May 2025, 1d
+    
+    section Input to draft act on product categories
+    Collect community input: done, 13 March 2025, 18 April 2025
+    Submit input: done, milestone, 18 April 2025, 1d
+
+    section on SBOMs
+
+    section on Due diligence
+
+    section on Attestations
+
+    section Vulnerability management spec
+    Create proposal: done, 1 November 2024, 1 March 2025
+    Contribution proposal to WG: done, milestone, 1 March 2025, 1d
+    Draft v1.0 RC: 1 March 2025, 1 June 2025
+    Publish v1.0 RC: milestone, 1 June 2025, 1d
+```
 
 [EFSL]: https://www.eclipse.org/legal/efsl/
 [TFs]: ./README.md#current-task-forces
