@@ -43,19 +43,19 @@ flowchart LR
 
 | | Deliverable name | Owner | First draft due | Final draft due |
 |---|---|---|---|---|
-| | **Documentation** | | | |
-| | [CRA FAQ][FAQ] | [FAQ Task Force][TFs] | April 2025 | June 2025 |
+| | **1. Documentation** | | | |
+| | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | | [inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
 | | | | | |
-| | **Inputs** | | | |
-| ✅ | [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
+| | **2. Inputs** | | | |
+| ✅ | [2.1 Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | | | | | |
-| | **White papers** | | | |
+| | **3. White papers** | | | |
 | | [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
 | | [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
 | | [White paper on Attestations][security attestations] | Dedicated task force | | |
 | | | | | |
-| | **Specifications** | | | |
+| | **4. Specifications** | | | |
 | | [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
 | | [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | | |
 | | [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | | |
