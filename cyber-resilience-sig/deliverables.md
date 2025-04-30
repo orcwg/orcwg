@@ -42,7 +42,7 @@ flowchart LR
 ## Deliverables
 
 | | Deliverable name | Owner | First draft due | Final draft due |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | | **Documentation** | | | |
 | | [CRA FAQ][FAQ] | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | | [inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
