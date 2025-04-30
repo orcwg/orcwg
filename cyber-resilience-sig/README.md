@@ -25,7 +25,7 @@ In 2025, the SIG will focus on deliverables necessary to help the open source co
 
 ## Cyber Resilience Practices Project
 
-* [Proposal for the Cyber Resilience Practices Project](https://projects.eclipse.org/projects/technology.crp)
+* [Cyber Resilience Practices Project](https://projects.eclipse.org/projects/technology.crp)
 
 ### Project leads
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
