@@ -103,25 +103,25 @@ _Note that the Cyber Resilience SIG is empowered to create additional white pape
 ```mermaid
 gantt
     title Deliverables Timeline
-    dateFormat  MMMM YYYY
-    axisFormat %Y-%b
+    dateFormat  D MMMM YYYY
+    axisFormat %b %Y
     tickInterval 1month
 
     section CRA FAQ
-    Collect community FAQs: December 2024, December 2025
-    Draft v1.0: January 2025, June 2025
-    Publish CRA FAQ v1.0: milestone, June 2025, 1d
-    Draft v2.0: June 2025, November 2025
-    Publish CRA FAQ v2.0: milestone, November 2025, 1d
+    Collect community FAQs: 1 December 2024, 31 December 2025
+    Draft v1.0: 1 January 2025, 1 June 2025
+    Publish CRA FAQ v1.0: milestone, 1 June 2025, 1d
+    Draft v2.0: 1 June 2025, 1 November 2025
+    Publish CRA FAQ v2.0: milestone, 1 November 2025, 1d
 
     section Inventory
-    Collect community input: December 2024, April 2025
-    Organize inventory: February 2025, May 2025
-    Publish Inventory: milestone, May 2025, 1d
+    Collect community input: done, 1 December 2024, 30 April 2025
+    Organize inventory: 1 February 2025, 30 May 2025
+    Publish Inventory: milestone, 30 May 2025, 1d
     
     section Input to draft act on product categories
-    Collect community input: 13 March 2025, 18 April 2025
-    Submit input: milestone, 18 April 2025, 1d
+    Collect community input: done, 13 March 2025, 18 April 2025
+    Submit input: done, milestone, 18 April 2025, 1d
 
     section on SBOMs
 
@@ -130,10 +130,10 @@ gantt
     section on Attestations
 
     section Vulnerability management spec
-    Create proposal: November 2024, March 2025
-    Contribution proposal to WG: milestone, March 2025, 1d
-    Draft v1.0 RC: March 2025, June 2025
-    Publish v1.0 RC: milestone, June 2025, 1d
+    Create proposal: done, 1 November 2024, 1 March 2025
+    Contribution proposal to WG: done, milestone, 1 March 2025, 1d
+    Draft v1.0 RC: 1 March 2025, 1 June 2025
+    Publish v1.0 RC: milestone, 1 June 2025, 1d
 ```
 
 #### CRA FAQ
