@@ -21,7 +21,7 @@ The Scope of the Cyber Resilience SIG is a strict subset of the scope of ORC WG.
 
 In 2025, the SIG will focus on deliverables necessary to help the open source community (and notably _open source software stewards_) meet the regulatory obligations outlined in the CRA and help downstream users (_manufacturers_) be able to continue to leverage open source in their products and services while meeting their own regulatory requirements.
 
-👉 [Deliverables Plan](./deliverables.md)
+* [Deliverables Plan](./deliverables.md)
 
 ## Cyber Resilience Practices Project
 
