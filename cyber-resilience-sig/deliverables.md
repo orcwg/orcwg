@@ -1,6 +1,6 @@
 # Deliverables Plan
 
-In 2025, the SIG will focus on deliverables necessary to help the open source community (and notably _open source software stewards_) meet the regulatory obligations outlined in the CRA and help downstream users (_manufacturers_) be able to continue to leverage open source in their products and services while meeting their own regulatory requirements. This is expressed by the colored nodes and edges in the diagram below.
+In 2025, the [Cyber Resilience SIG][SIG] will focus on deliverables necessary to help the open source community (and notably _open source software stewards_) meet the regulatory obligations outlined in the CRA and help downstream users (_manufacturers_) be able to continue to leverage open source in their products and services while meeting their own regulatory requirements. This is expressed by the colored nodes and edges in the diagram below.
 
 ```mermaid
 flowchart LR
@@ -45,7 +45,7 @@ flowchart LR
 |---|---|---|---|---|
 | [CRA FAQ][FAQ] | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | [inventory][] | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
-| [Input to draft implementing act on product categories][input product categories] | Input | Cyber Resilience SIG | March 18, 2025 | April 18, 2025 |
+| [Input to draft implementing act on product categories][input product categories] | Input | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | [White paper on SBOMs][SBOMs] | White paper | Dedicated task force | April 2025 | June 2025 |
 | [White paper on due diligence obligation of manufacturers][due diligence] | White paper | Dedicated task force | | |
 | [White paper on Attestations][security attestations] | White paper | Dedicated task force | | |
@@ -54,7 +54,7 @@ flowchart LR
 | [Specification on generic security requirements for open source components][generic security requirements] | Specification | [Cyber Resilience Practices Project][] | | |
 | [Security policy for open source software stewards][security policy] | Specification | [Cyber Resilience Practices Project][] | | |
 
-_Note that the Cyber Resilience SIG is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
+_Note that the [Cyber Resilience SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 
 
 ### 1. Documentation
@@ -104,7 +104,7 @@ This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [C
 
 #### 2.1 Input to the Draft EU Commission Implementing Regulation on the technical description of important and critical product
 
-On March 13, 2025, the European Commission released draft implementing regulation on the definition of important and critical product categories and opened public consultations until April 18, 2025. The SIG collected community comments and feedback and [submitted it](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14449-Technical-description-of-important-and-critical-products-with-digital-elements/F3536950_en) to the European Commission using the requested spreadsheet on April 18, 2025. ([Markdown version](https://github.com/orcwg/cra-hub/blob/main/product-definitions/input-to-draft-regulation.md/input-to-draft-regulation.md) | [XLSX version](./input-to-draft-regulation-2025-04-18.xlsx))
+On March 13, 2025, the European Commission released draft implementing regulation on the definition of important and critical product categories and opened public consultations until April 18, 2025. The [Cyber Resilience SIG][SIG] collected community comments and feedback and [submitted it](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14449-Technical-description-of-important-and-critical-products-with-digital-elements/F3536950_en) to the European Commission using the requested spreadsheet on April 18, 2025. ([Markdown version](https://github.com/orcwg/cra-hub/blob/main/product-definitions/input-to-draft-regulation.md/input-to-draft-regulation.md) | [XLSX version](./input-to-draft-regulation-2025-04-18.xlsx))
 
 <details>
   <summary>More info</summary>
@@ -112,7 +112,7 @@ On March 13, 2025, the European Commission released draft implementing regulatio
 * **Source:** <https://github.com/orcwg/cra-hub/tree/main/product-definitions#have-your-say---public-consultations-and-feedback>
 * **Type:** Input
 * **License:** CC-BY 4.0
-* **Owner:** Cyber Resilience SIG
+* **Owner:** [Cyber Resilience SIG][SIG]
 * **Input to:** [EU Commission][]
 * **Relevant liaisions**: [EU Commission][]
 * **First draft by:** March 18, 2025
@@ -307,7 +307,7 @@ This specification will help open source softare stewards meet the obligations o
 
 ## Key stakeholders
 
-The SIG intends to collaborate closely with and provide input to the following stakholders:
+The [Cyber Resilience SIG][SIG] intends to collaborate closely with and provide input to the following stakholders:
 
 * EU Commission
 * CRA Expert Group
@@ -318,7 +318,7 @@ The SIG intends to collaborate closely with and provide input to the following s
 
 ## Equivalence between products and open source components
 
-The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts targeted at open source components. The following table compares products and open source components and references relevant Cyber Resilience SIG deliverables for each.
+The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts targeted at open source components. The following table compares products and open source components and references relevant [Cyber Resilience SIG][SIG] deliverables for each.
 
 | Role | For products | Equivalent for open source components | Relevant deliverables |
 |---|---|---|---|
@@ -332,6 +332,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 
 [EFSL]: https://www.eclipse.org/legal/efsl/
 [TFs]: ./README.md#current-task-forces
+[SIG]: ./README.md
 [Cyber Resilience Practices Project]: ./README.md#cyber-resilience-practices-project
 
 [Article 13(5)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13
