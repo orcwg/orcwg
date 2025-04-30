@@ -39,30 +39,6 @@ flowchart LR
     style standards fill:#FFCDD2,stroke:#D50000
 ```
 
-## Key stakeholders
-
-The SIG intends to collaborate closely with and provide input to the following stakholders:
-
-* EU Commission
-* CRA Expert Group
-* CEN/CENELEC
-* ETSI
-* ENISA
-* Market Surveillance Authorities
-
-## Equivalence between products and open source components
-
-The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts targeted at open source components. The following table compares products and open source components and references relevant Cyber Resilience SIG deliverables for each.
-
-| Role | For products | Equivalent for open source components | Relevant deliverables |
-|---|---|---|---|
-| **Compliance requirements** | Ensure product is designed, developed and produced in accordance with the essential cybersecurity requirements | Exercise due diligence | [White paper on due diligence][due diligence] | 
-| **Helps meet compliance requirements** | CEN/CENELEC and ETSI harmonised standards | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements][] specs |
-| **Indicates compliance** | CE Mark | Security Attestation | [White paper on attestations][security attestations] | 
-| **Provides information to users** | Technical documentation | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements][] specs |
-| **Manage vulnerabilities** | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
-
-
 ## Deliverables
 
 | Deliverable name | Type | Owner | First draft due | Final draft due | 
@@ -363,6 +339,31 @@ This specification will help open source softare stewards meet the obligations o
 * **Final draft by:** 
     
 </details>
+
+## Key stakeholders
+
+The SIG intends to collaborate closely with and provide input to the following stakholders:
+
+* EU Commission
+* CRA Expert Group
+* CEN/CENELEC
+* ETSI
+* ENISA
+* Market Surveillance Authorities
+
+## Equivalence between products and open source components
+
+The CRA focuses mainly on the compliance of products, but that doesn't mean that there aren't equivalent concepts targeted at open source components. The following table compares products and open source components and references relevant Cyber Resilience SIG deliverables for each.
+
+| Role | For products | Equivalent for open source components | Relevant deliverables |
+|---|---|---|---|
+| **Compliance requirements** | Ensure product is designed, developed and produced in accordance with the essential cybersecurity requirements | Exercise due diligence | [White paper on due diligence][due diligence] | 
+| **Helps meet compliance requirements** | CEN/CENELEC and ETSI harmonised standards | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements][] specs |
+| **Indicates compliance** | CE Mark | Security Attestation | [White paper on attestations][security attestations] | 
+| **Provides information to users** | Technical documentation | TBD | [Principles for cyber resilience][cyber resilience principles] and [Generic security requirements][] specs |
+| **Manage vulnerabilities** | CEN/CENELEC and ETSI harmonised standards | ORC WG specification | [Vulnerability management spec][vulnerability management] |
+
+
 
 [EFSL]: https://www.eclipse.org/legal/efsl/
 [TFs]: ./README.md#current-task-forces
