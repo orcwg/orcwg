@@ -159,7 +159,7 @@ This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [C
 </details>
 
 
-### 2. Input
+### 2. Inputs
 
 #### 2.1 Input to the Draft EU Commission Implementing Regulation on the technical description of important and critical product
 
@@ -180,7 +180,7 @@ On March 13, 2025, the European Commission released draft implementing regulatio
 </details>
 
 
-### 3. White paper
+### 3. White papers
 
 #### 3.1 White paper on SBOMs
 
