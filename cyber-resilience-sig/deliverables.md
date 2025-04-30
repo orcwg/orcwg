@@ -45,21 +45,21 @@ flowchart LR
 |---|---|---|---|---|
 | | **1. Documentation** | | | |
 | | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][TFs] | April 2025 | June 2025 |
-| | [inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
+| | 1.2 [inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
 | | | | | |
 | | **2. Inputs** | | | |
-| ✅ | [2.1 Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
+| ✅ | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | | | | | |
 | | **3. White papers** | | | |
-| | [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
-| | [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
-| | [White paper on Attestations][security attestations] | Dedicated task force | | |
+| | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
+| | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
+| | 3.3 [White paper on Attestations][security attestations] | Dedicated task force | | |
 | | | | | |
 | | **4. Specifications** | | | |
-| | [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
-| | [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | | |
-| | [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | | |
-| | [Security policy for open source software stewards][security policy] | [Cyber Resilience Practices Project][] | | |
+| | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
+| | 4.2 [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | | |
+| | 4.3 [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | | |
+| | 4.4 [Security policy for open source software stewards][security policy] | [Cyber Resilience Practices Project][] | | |
 
 _Note that the [Cyber Resilience SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 
