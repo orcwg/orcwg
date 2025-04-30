@@ -48,7 +48,7 @@ flowchart LR
 | [inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 | |
 | | | | | |
 | **Inputs** | | | | |
-| [Input to draft implementing act on product categories][input product categories] | Input | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 | ✅ |
+| [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 | ✅ |
 | | | | | |
 | **White papers** | | | | |
 | [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 | |
