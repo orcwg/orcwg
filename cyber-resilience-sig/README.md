@@ -89,7 +89,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 |---|---|---|---|---|
 | [CRA FAQ][FAQ] | Documentation | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | [inventory][] | Documentation | [Inventory Task Force][TFs] | April 2025 | June 2025 |
-| [Input to draft implementing act on product categories][] | Input | Cyber Resilience SIG | March 18, 2025 | April 18, 2025 |
+| [Input to draft implementing act on product categories][input product categories] | Input | Cyber Resilience SIG | March 18, 2025 | April 18, 2025 |
 | [White paper on SBOMs][SBOMs] | White paper | Dedicated task force | April 2025 | June 2025 |
 | [White paper on due diligence obligation of manufacturers][due diligence] | White paper | Dedicated task force | | |
 | [White paper on Attestations][security attestations] | White paper | Dedicated task force | | |
