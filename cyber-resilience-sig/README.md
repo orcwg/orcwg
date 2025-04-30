@@ -83,7 +83,7 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 
 | Name | Focus Area | Lead(s) | Deliverables | Minutes | End date | 
 |---|---|---|---|---|---|
-| Deliverables Plan Task Force | Define a deliverables plan for the SIG for 2025 | Tobie Langel ([@tobie](https://github.com/tobie)) | Deliverables Plan | [Minutes](./minutes/deliverables-plan-task-force) | 2025-03-03 |
+| Deliverables Plan Task Force | Define a deliverables plan for the SIG for 2025 | Tobie Langel ([@tobie](https://github.com/tobie)) | [Deliverables Plan][./deliverables.md] | [Minutes](./minutes/deliverables-plan-task-force) | 2025-03-03 |
 | FAQ Task Force | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-task-force-leads](https://github.com/orgs/orcwg/teams/faq-task-force-leads) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
 | Inventory Task Force | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-task-force-leads](https://github.com/orgs/orcwg/teams/inventory-task-force-leads) | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
 
@@ -100,32 +100,3 @@ As new regulations impacting open source communities emerge, it is expected that
 [@mbarbero]: https://github.com/mbarbero
 [@webmink]: https://github.com/webmink
 
-[EFSL]: https://www.eclipse.org/legal/efsl/
-[TFs]: #current-task-forces
-[Cyber Resilience Practices Project]: #cyber-resilience-practices-project
-
-[Article 13(5)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13
-[Article 24(1)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_24
-[Article 25]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_25
-[Annex I, Part I, point (1)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I
-[Annex I, Part I, point (2)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I
-
-[FAQ]: #cra-faq
-[inventory]: #inventory 
-[SBOMs]: #white-paper-on-sboms
-[input product categories]: #input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
-
-[due diligence]: #white-paper-on-due-diligence-obligation-of-manufacturers
-[security attestations]: #white-paper-on-security-attestations
-[vulnerability management]: #vulnerability-management-specification
-[cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source 
-[generic security requirements]:#specification-on-generic-security-requirements-for-open-source-components
-[security policy]: #security-policy-for-open-source-software-stewards
-
-[EU Commission]: #key-stakeholders
-[CRA Expert Group]: #key-stakeholders
-[CEN/CENELEC]: #key-stakeholders
-[ETSI]: #key-stakeholders
-[ESOs]: #key-stakeholders
-[ENISA]: #key-stakeholders
-[Market Surveillance]: #key-stakeholders
