@@ -348,16 +348,17 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [Annex I, Part I, point (1)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I
 [Annex I, Part I, point (2)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I
 
-[FAQ]: #cra-faq
-[inventory]: #inventory 
-[SBOMs]: #white-paper-on-sboms
-[input product categories]: #input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
-[due diligence]: #white-paper-on-due-diligence-obligation-of-manufacturers
-[security attestations]: #white-paper-on-security-attestations
-[vulnerability management]: #vulnerability-management-specification
-[cyber resilience principles]: #specification-on-principles-for-cyber-resilience-for-open-source 
-[generic security requirements]:#specification-on-generic-security-requirements-for-open-source-components
-[security policy]: #security-policy-for-open-source-software-stewards
+[FAQ]: #11-cra-faq
+[inventory]: #12-inventory 
+[input product categories]: #21-input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
+[SBOMs]: #31-white-paper-on-sboms
+[due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
+[security attestations]: #33-white-paper-on-security-attestations
+[vulnerability management]: #41-vulnerability-management-specification
+[cyber resilience principles]: #42-specification-on-principles-for-cyber-resilience-for-open-source 
+[generic security requirements]:#43-specification-on-generic-security-requirements-for-open-source-components
+[security policy]: #44-security-policy-for-open-source-software-stewards
+
 
 [EU Commission]: #key-stakeholders
 [CRA Expert Group]: #key-stakeholders
