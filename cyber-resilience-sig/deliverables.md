@@ -314,7 +314,7 @@ This specification will help open source softare stewards meet the obligations o
 
 ## Key stakeholders
 
-The [Cyber Resilience SIG][SIG] intends to collaborate closely with and provide input to the following stakholders:
+The [Cyber Resilience SIG][SIG] intends to collaborate closely with and provide input to the following stakeholders:
 
 * EU Commission
 * CRA Expert Group
