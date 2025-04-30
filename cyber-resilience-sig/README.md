@@ -25,7 +25,7 @@ In 2025, the SIG will focus on deliverables necessary to help the open source co
 
 ## Cyber Resilience Practices Project
 
-In its [eliverables Plan](./deliverables.md), the SIG has identified [a set of specifications](./deliverables.md#4-specifications) that are required to further its mission. The intention is for the Cyber Resilience Practices Project to host these specifications and develop them with guidance from the SIG.
+In its [Deliverables Plan](./deliverables.md), the SIG has identified [a set of specifications](./deliverables.md#4-specifications) that are required to further its mission. The intention is for the Cyber Resilience Practices Project to host these specifications and develop them with guidance from the SIG.
 
 * [Cyber Resilience Practices Project](https://projects.eclipse.org/projects/technology.crp)
 
