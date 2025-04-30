@@ -116,9 +116,9 @@ gantt
     Publish v1.0 RC: milestone, 1 June 2025, 1d
 ```
 
-### Documentation
+### 1. Documentation
 
-#### CRA FAQ
+#### 1.1 CRA FAQ
 
 The [CRA FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) represents a community effort to collect and answer frequently asked questions about the Cyber Resilience Act (CRA) as it relates to open source.  The purpose of this effort is twofold. First, consolidate community understanding of the CRA. Secondly, outline areas of the CRA which remain unclear and would benefit from Guidance from the [European Commission][EU Commission].
 
@@ -138,7 +138,7 @@ A first version of the CRA FAQ will be contributed to the [CRA Expert Group][] i
     
 </details>
 
-#### Inventory
+#### 1.2 Inventory
 
 The goal of the [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) is to provide a comprehensive list of resources that are relevant to the CRA obligations of open source software stewards and manufacturers when it comes to the development and usage of open source. The underlying purpose is to provide specification and standardization effort with easy access to documented industry and community best practices related to the development and integration of open source software and to the interactions between developers and consumers of open source.
 
@@ -159,9 +159,9 @@ This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [C
 </details>
 
 
-### Input
+### 2. Input
 
-#### Input to the Draft EU Commission Implementing Regulation on the technical description of important and critical product
+#### 2.1 Input to the Draft EU Commission Implementing Regulation on the technical description of important and critical product
 
 On March 13, 2025, the European Commission released draft implementing regulation on the definition of important and critical product categories and opened public consultations until April 18, 2025. The SIG collected community comments and feedback and [submitted it](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14449-Technical-description-of-important-and-critical-products-with-digital-elements/F3536950_en) to the European Commission using the requested spreadsheet on April 18, 2025. ([Markdown version](https://github.com/orcwg/cra-hub/blob/main/product-definitions/input-to-draft-regulation.md/input-to-draft-regulation.md) | [XLSX version](./input-to-draft-regulation-2025-04-18.xlsx))
 
@@ -180,9 +180,9 @@ On March 13, 2025, the European Commission released draft implementing regulatio
 </details>
 
 
-### White paper
+### 3. White paper
 
-#### White paper on SBOMs
+#### 3.1 White paper on SBOMs
 
 Software Bills of Materials (SBOMs) play a crucial role in the implementation of the Cyber Resilience Act (CRA), in particular for vulnerability handling. Yet, there are no agreed-upon best practices for the usage and adoption of SBOMs across open source communities and numerous misunderstandings about how they work. There are competing standards, disagreements about whether open source projects should provide SBOMs or whether they're artifacts that integrators of open source components should generate, disagreements about the data they should contain, and a general lack of neutral information on the topic.
 
@@ -205,7 +205,7 @@ This white paper will leverage the resources collected in the [inventory][] and 
 </details>
 
 
-#### White paper on due diligence obligation of manufacturers
+#### 3.2 White paper on due diligence obligation of manufacturers
 
 The due diligence obligation of manufacturers outlined in [Article 13(5)][] of the CRA is the cornerstone of the relationship between manufacturers and the open source ecosystem.
 
@@ -234,7 +234,7 @@ Note: This white paper might be combined with the paper on [security attestation
 </details>
 
 
-#### White paper on security attestations
+#### 3.3 White paper on security attestations
 
 [Article 25][] of the CRA introduces security attestations for free and open-source software as a mechanism to facilitate the due diligence obligation of manufacturers when integrating open source components. While the white paper on due diligence will explore _what_ this due diligence obligation is and examine the tension between the practical necessity for manufacturers to shift security left and their inability to compel open source projects to take on this additional responsibility, this paper will explore _how_ security attestation can be used as a mechanism to resolve this tension and create incentives-alignment between manufacturers and open source projects.
 
@@ -257,9 +257,9 @@ Note: This white paper might be combined with the paper on [due diligence][] des
 </details>
 
 
-### Specifications
+### 4. Specifications
 
-#### Vulnerability management specification
+#### 4.1 Vulnerability management specification
 
 The [Vulnerability management specification](https://github.com/orcwg/vulnerability-management-spec/blob/main/spec.md) focuses on vulnerability management for open source codebases. It details the necessary components of a vulnerability management policy, including procedures for receiving reports, resolving issues, and disclosing vulnerabilities. Additionally, it specifies the requirements for managing vulnerable dependencies.
 
@@ -285,7 +285,7 @@ This specification will help open source softare stewards meet the obligations o
 </details>
 
 
-#### Specification on principles for cyber resilience for open source
+#### 4.2 Specification on principles for cyber resilience for open source
 
 This specification is intended address the requirements spelled out in [Annex I, Part I, point (1)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above.
 
@@ -317,7 +317,7 @@ Note: The challenge of assessing risk for components whose use-cases aren't know
 </details>
 
 
-#### Specification on generic security requirements for open source components
+#### 4.3 Specification on generic security requirements for open source components
 
 This specification is intended to addresses the requirements spelled out in [Annex I, Part I, point (2)][] but specifically targeted at open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMS][], [due diligence][], and [security attestations][] mentioned above and work closely with the [Specification on principles for cyber resilience for open source development][cyber resilience principles] mentioned above.
 
@@ -341,7 +341,7 @@ Where appropriate, this specification will reference and build on existing mater
 </details>
 
 
-#### Security policy for open source software stewards
+#### 4.4 Security policy for open source software stewards
 
 [Article 24(1)] of the CRA states that _"open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product."_ This specification will help open source software stewards meet their obligations by specifying minimum requirements that stewards must implement to meet them and provide a structure or format to document their cybersecurity  policy, possibly in a machine-readable way.
 
