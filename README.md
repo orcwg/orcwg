@@ -5,7 +5,7 @@ Home of the Open Regulatory Compliance (ORC) Working Group of the Eclipse Founda
 ## Cyber Resilience SIG
 
 * [SIG Landing page](./cyber-resilience-sig/)
-* [Deliverables plan](./cyber-resilience-sig/README.md#deliverables-plan)
+* [Deliverables plan](./cyber-resilience-sig/deliverables.md)
 * SIG [meetings](./MEETINGS.md#cyber-resilience-sig-call) & [meeting minutes](./cyber-resilience-sig/minutes)
 * [CRA Hub](https://github.com/orcwg/cra-hub/)
 
