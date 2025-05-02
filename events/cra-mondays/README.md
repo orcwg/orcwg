@@ -17,6 +17,7 @@ He spends his days coaching organizations in building secure products and implem
 
 ## Previous episodes
 
+<a name="episode-2"></a>
 ### 🗓️ April 28, 2025: Olle E. Johansson on managing CVEs in an unstable world
 The cybersecurity community has been up in arms over the last few days as MITRE announced that its US government funding for running the Common Vulnerabilities and Exposures (CVE) program wasn't being renewed. While the funding was extended since, this was a wakeup call for the community. Olle E. Johansson shared an [opinionated white paper](https://docs.google.com/document/d/1u6yPlCla7SO6YuHakjvmcGtcEmHdp-NANaqpTDTA7Q0/edit?usp=sharing) on this topic. He'll be presenting this paper during the call and we'll use it as a basis for discussion.
 ([slides](2025-04-28-olle-e-johnansson.pdf) | [video](https://youtu.be/zSsGLJTgWvU?si=11oIsKc8ac43pH5M))
@@ -33,6 +34,7 @@ This talk willcover a proposal for a globally coordinated platform for vulnerabi
  
 </details>
 
+<a name="episode-1"></a>
 ### 🗓️ April 14, 2025: Sébastien Heurtematte on facilitating CRA compliance for SMEs with OCCTET
 
 Sébastien Heurtematte will be joining us to tell us more about OCCTET, an EU-funded initiative aimed at improving the cybersecurity and CRA compliance of SMEs. He'll also share with us the initial report on a survey OCCTET has been running with SMEs and open source stewards to learn more about their concerns when it comes to CRA compliance.
