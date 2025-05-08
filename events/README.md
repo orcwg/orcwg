@@ -17,7 +17,7 @@ Every Monday after the SIG call, we host a guest from our community to discuss C
 ## 🗓️ Upcoming Events
 | Year  | Date   | Location   | Title    |   Link |
 |-------|--------|------------|--------- |----|
-| | | | | |
+| 2025 | 27/05 | Virtual | The Cyber Resilience Act and Open Source: What Maintainers Really Need to Know | [Watch the stream](https://maintainermonth.github.com/schedule/2025-05-27-CRA) |
 
 [//]: #  (Event Name: [Title of the Event] )
 
