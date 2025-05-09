@@ -53,6 +53,30 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 | FAQ Task Force | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-task-force-leads](https://github.com/orgs/orcwg/teams/faq-task-force-leads) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
 | Inventory Task Force | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-task-force-leads](https://github.com/orgs/orcwg/teams/inventory-task-force-leads) | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
 
+## Key stakeholder coordination
+
+In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a shared calendar and liaisons from within its members. Liaisons leads (marked with an asterisk "*" in the table below) are responsible for:
+
+1. keeping the calendar up to date with meetings of the group or subgroup they're reponsible for,
+2. collecting publicly shareable meeting notes, and
+3. providing updates during SIG calls.
+
+### Current liaisons
+
+| Group | Subgroup | Liaisons | Meeting notes |
+|---|---|---|---|
+| **CRA Expert Group** |  | <li>Dirk-Willem van Gulik <li>Mikaël Barbero <li>Tobie Langel* |  |
+|  | Product categories descriptions | <li>Tobie Langel* |  |
+|  | Open source workstrand | <li>Tobie Langel* |  |
+|  | Risk assessment workstrand |  |  |
+|  | Remote data processing workstrand |  |  |
+|  | Market surveillance workstrand |  |  |
+| **CEN/CENELEC WG9** |  | <li>Lars Franke <li>Marta Rybczynska <li>Mikaël Barbero <li>Timo Perala <li>Tobie Langel |  |
+|  | PT1 | <li>Lars Franke <li>Mikaël Barbero <li>Timo Perala <li>Tobie Langel |  |
+|  | PT2 | <li>Lars Franke <li>Mikaël Barbero <li>Timo Perala <li>Tobie Langel |  |
+|  | PT3 | <li>Lars Franke <li>Marta Rybczynska* <li>Mikaël Barbero <li>Timo Perala <li>Tobie Langel |  |
+| **ETSI TS CYBER EUSR** |  | <li>Jordan Maris <li>Juan Rico <li>Simon Phipps |  |
+
 ## Why a Cyber Resilience SIG?
 
 ORC WG is chartered to address any regulation impacting open source communities and open source usage. It can establish Special Interest Groups (SIGs) for domain-specific work. 
