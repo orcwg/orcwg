@@ -41,7 +41,7 @@
 None
 
 ## Supporting Materials
-
+[Slides shared during the meeting](./resentations/2025-04-30-outreach-and-engagement-call.pdf)
 ## Next Meeting
 
 May 22th, 2025 \- 14:00 CEST
