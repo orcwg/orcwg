@@ -81,7 +81,7 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 |  | PT2 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT3 | Lars Franke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 ||
-| **ETSI TS CYBER EUSR** |  | Jordan Maris, Juan Rico, Simon Phipps |  |
+| **ETSI CYBER-EUSR** |  | Jordan Maris, Juan Rico, Simon Phipps |  |
 
 ## Why a Cyber Resilience SIG?
 
