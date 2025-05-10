@@ -55,18 +55,19 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 
 ## Key stakeholder coordination
 
-In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a shared calendar and liaisons from within its members. For their group or subgroups, liaisons leads (identified in the table below) are responsible for:
+In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a [shared calendar][coord calendar] and representatives from within its members. For their group or subgroups, liaisons leads (identified in the table below) are responsible for:
 
-1. Keeping the shared calendar up to date.
-2. Collecting publicly shareable meeting notes.
-3. Providing updates during SIG calls.
-4. Sharing the consensus of the SIG.
+1. Keeping the [shared calendar][coord calendar] up to date.
+2. Making sure important meetings are attended.
+3. Collecting publicly shareable meeting notes.
+4. Providing updates during SIG calls.
+5. Sharing the consensus of the SIG.
 
-Liaisons leads may delegate their responsabilities to other liaisons in their group or subgroup.
+Liaisons leads may delegate their responsabilities to other SIG members within their group or subgroup.
 
 ### Current liaisons
 
-| Group | Subgroup | Liaisons | Meeting notes |
+| Group | Subgroup | Representatives | Meeting notes |
 |---|---|---|---|
 | **CRA Expert Group** |  | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** _(lead)_ |  |
 |  | Product categories descriptions | **Tobie Langel** _(lead)_ |  |
@@ -95,3 +96,4 @@ As new regulations impacting open source communities emerge, it is expected that
 [@mbarbero]: https://github.com/mbarbero
 [@webmink]: https://github.com/webmink
 
+[coord calendar]: https://calendar.google.com/calendar/embed?src=c_5c658735d0e74ce8caf97a1d06efd2ed01dbfc47ca6abbf6d13c90b48dd9e744%40group.calendar.google.com 
