@@ -55,29 +55,32 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 
 ## Key stakeholder coordination
 
-In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a shared calendar and liaisons from within its members. Liaisons leads (identified in the table below) are responsible for:
+In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a shared calendar and liaisons from within its members. For their group or subgroups, liaisons leads (identified in the table below) are responsible for:
 
-1. keeping the calendar up to date with meetings of the group or subgroup they're reponsible for,
-2. collecting publicly shareable meeting notes, and
-3. providing updates during SIG calls.
+1. Keeping the shared calendar up to date.
+2. Collecting publicly shareable meeting notes.
+3. Providing updates during SIG calls.
+4. Sharing the conensus of the SIG.
+
+Leads may delegate their responsabilities to alternates.
 
 ### Current liaisons
 
 | Group | Subgroup | Liaisons | Meeting notes |
 |---|---|---|---|
-| **CRA Expert Group** |  | Dirk-Willem van Gulik, Mikaël Barbero, Tobie Langel _(lead)_ |  |
-|  | Product categories descriptions | Tobie Langel _(lead)_ |  |
-|  | Open source workstrand | Tobie Langel _(lead)_ |  |
-|  | Risk assessment workstrand |  |  |
-|  | Remote data processing workstrand |  |  |
-|  | Market surveillance workstrand |  |  |
+| **CRA Expert Group** |  |              Lead: Tobie Langel<br>Alt: Dirk-Willem van Gulik, Mikaël Barbero |  |
+|  | Product categories descriptions |   Lead: Tobie Langel |  |
+|  | Open source workstrand |            Lead: Tobie Langel |  |
+|  | Risk assessment workstrand |        Lead: TBD |  |
+|  | Remote data processing workstrand | Lead: TBD |  |
+|  | Market surveillance workstrand |    Lead: TBD |  |
 ||
-| **CEN/CENELEC WG9** |  | Juan Rico, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT1 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT2 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT3 | Lars Franke, Marta Rybczynska  _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+| **CEN/CENELEC WG9** |  | Lead: TBD              <br>Alt: Juan Rico, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT1 |                 Lead: TBD              <br>Alt: Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT2 |                 Lead: TBD              <br>Alt: Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT3 |                 Lead: Marta Rybczynska <br>Alt: Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 ||
-| **ETSI TS CYBER EUSR** |  | Jordan Maris, Juan Rico, Simon Phipps |  |
+| **ETSI TS CYBER EUSR** |  | Lead: TBD <br>Alt: Jordan Maris, Juan Rico, Simon Phipps |  |
 
 ## Why a Cyber Resilience SIG?
 
