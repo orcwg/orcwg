@@ -60,25 +60,25 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stake
 1. Keeping the shared calendar up to date.
 2. Collecting publicly shareable meeting notes.
 3. Providing updates during SIG calls.
-4. Sharing the conensus of the SIG.
+4. Sharing the consensus of the SIG.
 
-L iaisons leads may delegate their responsabilities to other liaisons in their group or subgroup.
+Liaisons leads may delegate their responsabilities to other liaisons in their group or subgroup.
 
 ### Current liaisons
 
 | Group | Subgroup | Liaisons | Meeting notes |
 |---|---|---|---|
-| **CRA Expert Group** |  | Dirk-Willem van Gulik, Mikaël Barbero, Tobie Langel _(lead)_ |  |
-|  | Product categories descriptions | Tobie Langel _(lead)_ |  |
-|  | Open source workstrand | Tobie Langel _(lead)_ |  |
+| **CRA Expert Group** |  | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** _(lead)_ |  |
+|  | Product categories descriptions | **Tobie Langel** _(lead)_ |  |
+|  | Open source workstrand | **Tobie Langel** _(lead)_ |  |
 |  | Risk assessment workstrand |  |  |
 |  | Remote data processing workstrand |  |  |
 |  | Market surveillance workstrand |  |  |
 ||
-| **CEN/CENELEC WG9** |  | Juan Rico, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+| **CEN/CENELEC WG9** |  | **Juan Rico** _(lead)_, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT1 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT2 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT3 | Lars Franke, Marta Rybczynska  _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT3 | Lars Franke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 ||
 | **ETSI TS CYBER EUSR** |  | Jordan Maris, Juan Rico, Simon Phipps |  |
 
