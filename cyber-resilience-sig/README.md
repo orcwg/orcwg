@@ -62,25 +62,25 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stake
 3. Providing updates during SIG calls.
 4. Sharing the conensus of the SIG.
 
-Leads may delegate their responsabilities to alternates.
+L iaisons leads may delegate their responsabilities to other liaisons in their group or subgroup.
 
 ### Current liaisons
 
 | Group | Subgroup | Liaisons | Meeting notes |
 |---|---|---|---|
-| **CRA Expert Group** |  |              Lead: Tobie Langel<br>Alt: Dirk-Willem van Gulik, Mikaël Barbero |  |
-|  | Product categories descriptions |   Lead: Tobie Langel |  |
-|  | Open source workstrand |            Lead: Tobie Langel |  |
-|  | Risk assessment workstrand |        Lead: TBD |  |
-|  | Remote data processing workstrand | Lead: TBD |  |
-|  | Market surveillance workstrand |    Lead: TBD |  |
+| **CRA Expert Group** |  | Dirk-Willem van Gulik, Mikaël Barbero, Tobie Langel _(lead)_ |  |
+|  | Product categories descriptions | Tobie Langel _(lead)_ |  |
+|  | Open source workstrand | Tobie Langel _(lead)_ |  |
+|  | Risk assessment workstrand |  |  |
+|  | Remote data processing workstrand |  |  |
+|  | Market surveillance workstrand |  |  |
 ||
-| **CEN/CENELEC WG9** |  | Lead: TBD              <br>Alt: Juan Rico, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT1 |                 Lead: TBD              <br>Alt: Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT2 |                 Lead: TBD              <br>Alt: Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT3 |                 Lead: Marta Rybczynska <br>Alt: Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+| **CEN/CENELEC WG9** |  | Juan Rico, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT1 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT2 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT3 | Lars Franke, Marta Rybczynska  _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 ||
-| **ETSI TS CYBER EUSR** |  | Lead: TBD <br>Alt: Jordan Maris, Juan Rico, Simon Phipps |  |
+| **ETSI TS CYBER EUSR** |  | Jordan Maris, Juan Rico, Simon Phipps |  |
 
 ## Why a Cyber Resilience SIG?
 
