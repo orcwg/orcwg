@@ -71,10 +71,12 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stake
 |  | Risk assessment workstrand |  |  |
 |  | Remote data processing workstrand |  |  |
 |  | Market surveillance workstrand |  |  |
+||
 | **CEN/CENELEC WG9** |  | Juan Rico, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT1 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT2 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT3 | Lars Franke, Marta Rybczynska  _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+||
 | **ETSI TS CYBER EUSR** |  | Jordan Maris, Juan Rico, Simon Phipps |  |
 
 ## Why a Cyber Resilience SIG?
