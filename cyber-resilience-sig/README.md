@@ -55,7 +55,7 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 
 ## Key stakeholder coordination
 
-In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a shared calendar and liaisons from within its members. Liaisons leads (in bold the table below) are responsible for:
+In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a shared calendar and liaisons from within its members. Liaisons leads (identified in the table below) are responsible for:
 
 1. keeping the calendar up to date with meetings of the group or subgroup they're reponsible for,
 2. collecting publicly shareable meeting notes, and
@@ -65,16 +65,16 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stake
 
 | Group | Subgroup | Liaisons | Meeting notes |
 |---|---|---|---|
-| **CRA Expert Group** |  | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** |  |
-|  | Product categories descriptions | **Tobie Langel** |  |
-|  | Open source workstrand | **Tobie Langel** |  |
+| **CRA Expert Group** |  | Dirk-Willem van Gulik, Mikaël Barbero, Tobie Langel _(lead)_ |  |
+|  | Product categories descriptions | Tobie Langel _(lead)_ |  |
+|  | Open source workstrand | Tobie Langel _(lead)_ |  |
 |  | Risk assessment workstrand |  |  |
 |  | Remote data processing workstrand |  |  |
 |  | Market surveillance workstrand |  |  |
 | **CEN/CENELEC WG9** |  | Juan Rico, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT1 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT2 | Lars Franke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT3 | Lars Franke, **Marta Rybczynska**, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT3 | Lars Franke, Marta Rybczynska  _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 | **ETSI TS CYBER EUSR** |  | Jordan Maris, Juan Rico, Simon Phipps |  |
 
 ## Why a Cyber Resilience SIG?
