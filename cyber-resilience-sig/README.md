@@ -76,7 +76,7 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 |  | Remote data processing workstrand |  |  |
 |  | Market surveillance workstrand |  |  |
 ||
-| **CEN/CENELEC WG9** |  | **Juan Rico** _(lead)_, Lars Franke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+| **CEN/CENELEC WG9** |  | **Juan Rico** _(lead)_, Lars Francke, Marta Rybczynska, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT1 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT2 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT3 | Lars Francke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Timo Perala, Tobie Langel |  |
