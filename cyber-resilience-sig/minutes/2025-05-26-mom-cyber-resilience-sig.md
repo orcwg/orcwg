@@ -5,8 +5,10 @@
 |   0 | Welcome & approve [previous minutes](https://github.com/orcwg/orcwg/pull/94) | Tobie |
 |   5 | [Pending action items](#pending-action-items) from last SIG call | Tobie |
 |  10 | Steering & Spec Committee updates | SIG Leads |
-|  20 | ESOs updates | liaisons |
-|  30 | CRA Expert Group updates | liaisons |
+|  15 | | |
+|  20 | ESOs updates | Liaisons |
+|  25 | | |
+|  30 | CRA Expert Group updates | Liaisons |
 |  35 | FAQ TF update | FAQ TF leads |
 |  40 | Resource Inventory update ([#228](https://github.com/orcwg/cra-hub/pull/228)) | Inventory TF leads |
 |  45 | Open source projects type white paper update ([#93](https://github.com/orcwg/orcwg/pull/93)) | Tobie |
