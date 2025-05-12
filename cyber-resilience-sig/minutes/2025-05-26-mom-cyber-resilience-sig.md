@@ -13,7 +13,7 @@
 |  50 | BSI / FSFE questionnaire update | Tobie |
 |  55 | AOB | |
 
-## Previous action items
+## Pending action items
 
 - [ ] figure out how to manage non-institutional liaisons e.g. OpenSSF  
 - [ ] organize PT3 discussion call  
