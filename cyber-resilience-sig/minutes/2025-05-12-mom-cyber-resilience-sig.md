@@ -2,7 +2,7 @@
 ##  Agenda
 | Min | Agenda Topics | Moderator |
 | --: | ----- | --- |
-|   0 | Welcome & approve previous minutes | Tobie |
+|   0 | Welcome & approve [previous minutes](https://github.com/orcwg/orcwg/pull/92) | Tobie |
 |   5 | Steering & Spec Committee updates | SIG Leads |
 |  10 | Keeping liaisons organized ([#91](https://github.com/orcwg/orcwg/pull/91)) | Tobie |
 |  15 | ESOs updates | liaisons |
