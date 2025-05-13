@@ -77,7 +77,7 @@
 * Waiting for names of most rapporteurs  
 * One group of open source consultants have won on a rapporteur contract  
 * Simon has stood for vice-chair of EUSR  
-  * Oner candidate for each seat (Chair, 2x Vice Chair)  
+  * One candidate for each seat (Chair, 2x Vice Chair); vote June 11  
   * Most advanced WI at present: PKI  
   * Looking for folks who are familiar with the network stack to get involved  
 
