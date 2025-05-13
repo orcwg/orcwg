@@ -66,19 +66,19 @@
 
 #### ETSI update
 
-* 18 work items  
-* 9 of which are still in the process of being turned into actual work items  
+* About 18 work items  
+* About half of which are still in the process of being turned into actual work items  
 * Might be grouped in a number of larger groups (4-5: e.g. operating systems will include bootloaders, etc.)  
 * Inken representing Debian  
   * Operating Systems  
   * Boot Loader  
   * etc.
-* Other person representing Zen project focused on Hypervisors
-* Waiting for names of rapporteurs  
-* One group of open source maintainers have won on a contract  
+* Gabriel representing XCP-ng (Xen) project focused on Hypervisors
+* Waiting for names of most rapporteurs  
+* One group of open source consultants have won on a rapporteur contract  
 * Simon has stood for vice-chair of EUSR  
-  * No chair  
-  * Only spec so far: public key consumption  
+  * Oner candidate for each seat (Chair, 2x Vice Chair)  
+  * Most advanced WI at present: PKI  
   * Looking for folks who are familiar with the network stack to get involved  
 
 #### CEN/CENELEC PT3 
