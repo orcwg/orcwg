@@ -83,7 +83,8 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 ||
 | **ETSI CYBER-EUSR** | _(work items)_ | Jordan Maris, Juan Rico, Roman Zhukov, **Simon Phipps** _(lead)_, Daniel Thompson-Yvetot | [Notes](./etsi-cyber-eusr/) |
 |  | Browsers | **Daniel Thompson-Yvetot** _(lead)_ |  |
-|  | Operating Systems | Roman Zhukov |  |
+|  | Hypervisors | **Roman Zhukov** _(lead)_ |  |
+|  | Operating Systems | **Roman Zhukov** _(lead)_ |  |
 
 ## Why a Cyber Resilience SIG?
 
