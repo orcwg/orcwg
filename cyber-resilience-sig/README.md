@@ -53,6 +53,39 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 | FAQ Task Force | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-task-force-leads](https://github.com/orgs/orcwg/teams/faq-task-force-leads) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
 | Inventory Task Force | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-task-force-leads](https://github.com/orgs/orcwg/teams/inventory-task-force-leads) | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
 
+## Key stakeholder coordination
+
+In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a [shared calendar][coord calendar] ([iCal format][coord ical]) and representatives from within its members. For their group or subgroups, liaisons leads (identified in the table below) are responsible for:
+
+1. Keeping the [shared calendar][coord calendar] up to date.
+2. Making sure important meetings are attended.
+3. Collecting publicly shareable meeting notes.
+4. Providing updates during SIG calls.
+5. Sharing the consensus of the SIG.
+
+Liaisons leads may delegate their responsabilities to other SIG members within their group or subgroup.
+
+### Current liaisons
+
+| Group | Subgroup | Representatives | Meeting notes |
+|---|---|---|---|
+| **CRA Expert Group** | _(work strands)_ | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** _(lead)_ | [Notes](./coordination/cra-expert-group/) |
+|  | Product categories | **Tobie Langel** _(lead)_ |  |
+|  | Open source | **Tobie Langel** _(lead)_ |  |
+|  | Risk assessment |  |  |
+|  | Remote data processing |  |  |
+|  | Market surveillance |  |  |
+||
+| **CEN/CENELEC WG9** | _(project teams)_  | **Juan Rico** _(lead)_, Lars Francke, Marta Rybczynska, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel | [Notes](./coordination/cen-cenelec-wg9/) |
+|  | PT1 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT2 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT3 | Lars Francke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel |  |
+||
+| **ETSI CYBER-EUSR** | _(work items)_ | Jordan Maris, Juan Rico, Roman Zhukov, **Simon Phipps** _(lead)_, Daniel Thompson-Yvetot | [Notes](./coordination/etsi-cyber-eusr/) |
+|  | Browsers | **Daniel Thompson-Yvetot** _(lead)_ |  |
+|  | Hypervisors | **Roman Zhukov** _(lead)_ |  |
+|  | Operating Systems | **Roman Zhukov** _(lead)_ |  |
+
 ## Why a Cyber Resilience SIG?
 
 ORC WG is chartered to address any regulation impacting open source communities and open source usage. It can establish Special Interest Groups (SIGs) for domain-specific work. 
@@ -66,3 +99,5 @@ As new regulations impacting open source communities emerge, it is expected that
 [@mbarbero]: https://github.com/mbarbero
 [@webmink]: https://github.com/webmink
 
+[coord calendar]: https://calendar.google.com/calendar/embed?src=c_5c658735d0e74ce8caf97a1d06efd2ed01dbfc47ca6abbf6d13c90b48dd9e744%40group.calendar.google.com 
+[coord ical]: https://calendar.google.com/calendar/ical/c_5c658735d0e74ce8caf97a1d06efd2ed01dbfc47ca6abbf6d13c90b48dd9e744%40group.calendar.google.com/public/basic.ics
