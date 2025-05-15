@@ -54,6 +54,7 @@ flowchart LR
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
 | | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
 | | 3.3 [White paper on Attestations][security attestations] | Dedicated task force | | |
+| | 3.4 [White paper on types of open source projects][open source project types] | [Cyber Resilience SIG][SIG] | | |
 | | | | | |
 | **4.** | **Specifications** | | | |
 | | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
@@ -197,6 +198,28 @@ Note: This white paper might be combined with the paper on [due diligence][] des
 * **Type:** White paper
 * **License:** CC-BY 4.0
 * **Owner:** Dedicated Task Force
+* **Input to:** EU Guidance, Implementing Act, Harmonised standards
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
+* **First draft by:** 
+* **Final draft by:**
+    
+</details>
+
+#### 3.4 White paper on types of open source projects
+
+The open source ecosystem is a rich ecosystem composed of very different types of projects and of communities, organizations, and maintainers supporting them. This diversity of project and community types isn't well documented and is rarely considered by policymakers. As a result, the whole open source ecosystem is often lumped together as a whole, or separated into arbitrary groups that don't match reality. The purpose of this white paper is threefold:
+
+1. Identify important traits of open source projects that help differentiate and categorize projects into meaningful groups.
+2. Define a set of categories based on those traits.
+3. Provide examples of open source projects for each category and demonstrate where they fit and why.
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** TBD
+* **Type:** White paper
+* **License:** CC-BY 4.0
+* **Owner:** Cyber Resilience SIG
 * **Input to:** EU Guidance, Implementing Act, Harmonised standards
 * **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
 * **First draft by:** 
@@ -391,6 +414,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
+[open source project types]: #34-white-paper-on-types-of-open-source-projects
 [vulnerability management]: #41-vulnerability-management-specification
 [cyber resilience principles]: #42-specification-on-principles-for-cyber-resilience-for-open-source 
 [generic security requirements]:#43-specification-on-generic-security-requirements-for-open-source-components
