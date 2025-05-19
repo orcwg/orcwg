@@ -70,8 +70,8 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 | Group | Subgroup | Representatives | Meeting notes |
 |---|---|---|---|
 | **CRA Expert Group** | _(work strands)_ | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** _(lead)_ | [Notes](./coordination/cra-expert-group/) |
-|  | Product categories | **Tobie Langel** _(lead)_ |  |
-|  | Open source | **Tobie Langel** _(lead)_ |  |
+|  | Product categories | Timo Perala, **Tobie Langel** _(lead)_ |  |
+|  | Open source | Timo Perala, **Tobie Langel** _(lead)_ |  |
 |  | Risk assessment |  |  |
 |  | Remote data processing |  |  |
 |  | Market surveillance |  |  |
@@ -81,7 +81,7 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 |  | PT2 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
 |  | PT3 | Lars Francke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel |  |
 ||
-| **ETSI CYBER-EUSR** | _(work items)_ | Jordan Maris, Juan Rico, Roman Zhukov, **Simon Phipps** _(lead)_, Daniel Thompson-Yvetot | [Notes](./coordination/etsi-cyber-eusr/) |
+| **ETSI CYBER-EUSR** | _(work items)_ | Daniel Thompson-Yvetot, Jordan Maris, Juan Rico, Roman Zhukov, **Simon Phipps** _(lead)_, Timo Perala | [Notes](./coordination/etsi-cyber-eusr/) |
 |  | Browsers | **Daniel Thompson-Yvetot** _(lead)_ |  |
 |  | Hypervisors | **Roman Zhukov** _(lead)_ |  |
 |  | Operating Systems | **Roman Zhukov** _(lead)_ |  |
