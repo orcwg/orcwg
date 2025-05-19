@@ -5,7 +5,7 @@
 <a name="episode-4"></a>
 ### 🗓️ May 26, 2025: Fukami on learning how to stop worrying and love the NLF
 
-This presentation dives into the so-called New Legislative Framework (NLF) and how it relates to the CRA and other European product legislation. The aim is to get a better understanding of the key parts, including market oversight, the role of standards, CE marking and the Blue Guide as a document on how to place products on the European market.
+The New Legislative Framework (NLF) is a package of EU measures that reinforces the application and enforcement of internal market legislation in the EU. It alse stablishes a common legal framework for products in the form of a toolbox of measures for use in future legislation on which the CRA builds. In this presentation Fukami, will dive into the NLF and how it relates to the CRA and other European product legislation. The aim is to get a better understanding of the key parts, including market oversight, the role of standards, CE marking and the Blue Guide and document how to place products on the European market.
 
 Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works for the OpenSSF as EU Policy Advisor. He is member of ETSI, the CRA EG on behalf of OpenSSF and in JTC13/WG9.
 
