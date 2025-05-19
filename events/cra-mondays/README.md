@@ -1,12 +1,33 @@
 # CRA Mondays
 
-## 🗓️ Next edition: June 23, 2025: Pedro Demolder on managing CRA compliance from a legal perspective
+## Upcoming
+
+<a name="episode-4"></a>
+### 🗓️ May 26, 2025: Fukami on learning how to stop worrying and love the NLF
+
+This presentation dives into the so-called New Legislative Framework (NLF) and how it relates to the CRA and other European product legislation. The aim is to get a better understanding of the key parts, including market oversight, the role of standards, CE marking and the Blue Guide as a document on how to place products on the European market.
+
+Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works for the OpenSSF as EU Policy Advisor. He is member of ETSI, the CRA EG on behalf of OpenSSF and in JTC13/WG9.
+
+🗓️ When: **May 26, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-05-26T15:00:00.000Z&msg=CRA%20Mondays))\
+ 📍 Where: [Zoom](#)\
+ ➕ [Add to calendar](#)
+
+<a name="episode-5"></a>
+### 🗓️ June 9, 2025: Arnaud Le Hors on SLSA
+
+🗓️ When: **June 9, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-09T15:00:00.000Z&msg=CRA%20Mondays))\
+ 📍 Where: [Zoom](#)\
+ ➕ [Add to calendar](#)
+
+<a name="episode-6"></a>
+### 🗓️ June 23, 2025: Pedro Demolder on managing CRA compliance from a legal perspective
 
 Most of the impact of the CRA on the open source ecosystem will be indirect, through manufacturers exercising due diligence when integrating open source components in their products. How can we prepare for this, help avoid friction, and even possibly create better outcomes for the open source ecosystem? By better understanding the mindset of manufacturers faced with the compliance requirements of the CRA. And who better than a lawyer specialized in IT compliance to walk us through it? That's why we're so excited to welcome Pedro Demolder, Attorney at Timelex, who will share with us how he's advising his clients on CRA compliance.
 
- 🗓️ When: **June 23, 5pm CEST** - right after the SIG Call\
- 📍 Where: [Jitsi](https://meet.jit.si/moderated/afe9a4643dd84fb5123e1a745a0fd90b749a44c6fb91d582505628215ee52d98)\
- ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA2MjNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+ 🗓️ When: **June 23, 5pm CEST** - right after the SIG Call([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+ 📍 Where: [Zoom](#)\
+ ➕ [Add to calendar](#)
 
 ---
 
