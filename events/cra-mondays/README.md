@@ -13,12 +13,16 @@ Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works f
  📍 Where: [Zoom](#)\
  ➕ [Add to calendar](#)
 
+ ---
+
 <a name="episode-5"></a>
 ### 🗓️ June 9, 2025: Arnaud Le Hors on SLSA
 
 🗓️ When: **June 9, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-09T15:00:00.000Z&msg=CRA%20Mondays))\
  📍 Where: [Zoom](#)\
  ➕ [Add to calendar](#)
+
+---
 
 <a name="episode-6"></a>
 ### 🗓️ June 23, 2025: Pedro Demolder on managing CRA compliance from a legal perspective
