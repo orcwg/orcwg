@@ -10,8 +10,8 @@ The New Legislative Framework (NLF) is a package of EU measures that reinforces 
 Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works for the OpenSSF as EU Policy Advisor. He is member of ETSI, the CRA EG on behalf of OpenSSF and in JTC13/WG9.
 
 🗓️ When: **May 26, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-05-26T15:00:00.000Z&msg=CRA%20Mondays))\
- 📍 Where: [Zoom](#)\
- ➕ [Add to calendar](#)
+ 📍 Where: [Zoom](https://eclipse.zoom.us/j/83194182550?jst=2)\
+ ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA1MjZUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
 
  ---
 
@@ -19,8 +19,8 @@ Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works f
 ### 🗓️ June 9, 2025: Arnaud Le Hors on SLSA
 
 🗓️ When: **June 9, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-09T15:00:00.000Z&msg=CRA%20Mondays))\
- 📍 Where: [Zoom](#)\
- ➕ [Add to calendar](#)
+ 📍 Where: [Zoom](https://eclipse.zoom.us/j/85385310037?jst=2)\
+ ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA2MDlUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
 
 ---
 
