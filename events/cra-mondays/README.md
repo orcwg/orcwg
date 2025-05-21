@@ -42,7 +42,7 @@ Most of the impact of the CRA on the open source ecosystem will be indirect, thr
 The [OWASP Software Assurance Maturity Model (SAMM)](https://owasp.org/www-project-samm/) is an open framework designed to help organizations implement a Secure Development LifeCycle (SDLC). 
 Understanding how manufacturers implement the processes required to build products that are secure by design, is essential to understand how they will consider their due diligence requirements when ingesting open source components. 
 Maxim Baele is one of the SAMM core team members that maintain the model, using it on a daily basis to help organizations across the globe build secure products.
-(slides & video - coming soon)
+([slides](2025-05-12-maxim-baele.pdf) & video - coming soon)
 
 <details>
 <summary>More info</summary>
