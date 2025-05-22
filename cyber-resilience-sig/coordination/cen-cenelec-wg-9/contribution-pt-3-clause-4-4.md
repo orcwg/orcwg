@@ -6,7 +6,7 @@ Provide the content for the **informative** section on open source software stew
 
 ## Context
 
-- This is the standard for vulnerability handling covering the requirements defined in [Annex I Part II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I) of the CRA.
+- This is the standard for vulnerability handling covering the requirements defined in [Annex I, Part II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I) of the CRA.
 - The standard only focuses on what's in this annex, not any other obligations.
 - The standard is aimed at manufacturers, not stewards.
 - The section we're asked to contribute too is _informative_ (not _normative_), which means it doesn't create any requirements for anybody; it's just there to provide context.
