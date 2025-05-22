@@ -49,7 +49,7 @@ flowchart LR
 | | | | | |
 | **2.** | **Inputs** | | | |
 | ✅ | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
-| ✅ | 2.2 [Input to Vulnerability Handling Standard][] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
+| ✅ | 2.2 [Input to Vulnerability Handling Standard][input PT3 clause 4.4] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -429,6 +429,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [FAQ]: #11-cra-faq
 [inventory]: #12-inventory 
 [input product categories]: #21-input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
+[input PT3 clause 4.4]: #22-input-to-the-vulnerability-handling-standard-of-cencenelec-wg-9-pt-3
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
