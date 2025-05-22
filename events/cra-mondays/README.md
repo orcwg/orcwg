@@ -29,7 +29,7 @@ Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works f
 
 Most of the impact of the CRA on the open source ecosystem will be indirect, through manufacturers exercising due diligence when integrating open source components in their products. How can we prepare for this, help avoid friction, and even possibly create better outcomes for the open source ecosystem? By better understanding the mindset of manufacturers faced with the compliance requirements of the CRA. And who better than a lawyer specialized in IT compliance to walk us through it? That's why we're so excited to welcome Pedro Demolder, Attorney at Timelex, who will share with us how he's advising his clients on CRA compliance.
 
- 🗓️ When: **June 23, 5pm CEST** - right after the SIG Call([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+ 🗓️ When: **June 23, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
  📍 Where: [Zoom](#)\
  ➕ [Add to calendar](#)
 
