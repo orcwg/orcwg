@@ -49,6 +49,7 @@ flowchart LR
 | | | | | |
 | **2.** | **Inputs** | | | |
 | ✅ | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
+| ✅ | 2.2 [Input to Vulnerability Handling Standard][] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -128,6 +129,23 @@ On March 13, 2025, the European Commission released draft implementing regulatio
     
 </details>
 
+#### 2.2 Input to the Vulnerability Handling Standard of CEN/CENELEC WG 9 PT 3
+
+The rapporteur for [CEN/CENELEC WG 9 PT 3][] requested input for the section on open source software stewards of the Vulnerability Handling Standard. Members of the [Cyber Resilience SIG][SIG] participating in PT 3 worked together to prepare a [contribution](../coordination/cen-cenelec-wg-9/contribution-pt-3-clause-4-4.md) and submitted it to PT 3 on May 20, 2025.
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** <https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/contribution-pt-3-clause-4-4.md>
+* **Type:** Input
+* **License:** CC-BY 4.0
+* **Owner:** [Cyber Resilience SIG][SIG]
+* **Input to:** [CEN/CENELEC WG 9 PT 3][]
+* **Relevant liaisions**: [CEN/CENELEC WG 9 PT 1][], [CEN/CENELEC WG 9 PT 3][]
+* **First draft by:** May 20, 2025
+* **Final draft by:** May 20, 2025
+    
+</details>
 
 ### 3. White papers
 
@@ -422,9 +440,14 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 
 
 [EU Commission]: #key-stakeholders
-[CRA Expert Group]: #key-stakeholders
-[CEN/CENELEC]: #key-stakeholders
-[ETSI]: #key-stakeholders
+[CRA Expert Group]: ../#cra-expert-group
+[CEN/CENELEC]:           ../#cen-cenelec-wg-9
+[CEN/CENELEC WG 9]:      ../#cen-cenelec-wg-9
+[CEN/CENELEC WG 9 PT 1]: ../#cen-cenelec-wg-9
+[CEN/CENELEC WG 9 PT 2]: ../#cen-cenelec-wg-9
+[CEN/CENELEC WG 9 PT 3]: ../#cen-cenelec-wg-9
+[ETSI]:            ../#etsi-cyber-eusr
+[ETSI CYBER-EUSR]: ../#etsi-cyber-eusr
 [ESOs]: #key-stakeholders
 [ENISA]: #key-stakeholders
 [Market Surveillance]: #key-stakeholders
