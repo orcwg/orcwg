@@ -131,7 +131,7 @@ On March 13, 2025, the European Commission released draft implementing regulatio
 
 #### 2.2 Input to the Vulnerability Handling Standard of CEN/CENELEC WG 9 PT 3
 
-The rapporteur for [CEN/CENELEC WG 9 PT 3][] requested input for the section on open source software stewards of the Vulnerability Handling Standard. Members of the [Cyber Resilience SIG][SIG] participating in PT 3 worked together to prepare a [contribution](../coordination/cen-cenelec-wg-9/contribution-pt-3-clause-4-4.md) and submitted it to PT 3 on May 20, 2025.
+The rapporteur for [CEN/CENELEC WG 9 PT 3][] requested input for the section on open source software stewards of the Vulnerability Handling Standard. Members of the [Cyber Resilience SIG][SIG] participating in PT 3 worked together to prepare a [contribution](./coordination/cen-cenelec-wg-9/contribution-pt-3-clause-4-4.md) and submitted it to PT 3 on May 20, 2025.
 
 <details>
   <summary>More info</summary>
