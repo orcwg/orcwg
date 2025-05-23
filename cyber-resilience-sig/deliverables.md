@@ -441,14 +441,14 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 
 
 [EU Commission]: #key-stakeholders
-[CRA Expert Group]: ../#cra-expert-group
-[CEN/CENELEC]:           ../#cen-cenelec-wg-9
-[CEN/CENELEC WG 9]:      ../#cen-cenelec-wg-9
-[CEN/CENELEC WG 9 PT 1]: ../#cen-cenelec-wg-9
-[CEN/CENELEC WG 9 PT 2]: ../#cen-cenelec-wg-9
-[CEN/CENELEC WG 9 PT 3]: ../#cen-cenelec-wg-9
-[ETSI]:            ../#etsi-cyber-eusr
-[ETSI CYBER-EUSR]: ../#etsi-cyber-eusr
+[CRA Expert Group]: ./#cra-expert-group
+[CEN/CENELEC]:           ./#cen-cenelec-wg-9
+[CEN/CENELEC WG 9]:      ./#cen-cenelec-wg-9
+[CEN/CENELEC WG 9 PT 1]: ./#cen-cenelec-wg-9
+[CEN/CENELEC WG 9 PT 2]: ./#cen-cenelec-wg-9
+[CEN/CENELEC WG 9 PT 3]: ./#cen-cenelec-wg-9
+[ETSI]:            ./#etsi-cyber-eusr
+[ETSI CYBER-EUSR]: ./#etsi-cyber-eusr
 [ESOs]: #key-stakeholders
 [ENISA]: #key-stakeholders
 [Market Surveillance]: #key-stakeholders
