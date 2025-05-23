@@ -69,19 +69,19 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 
 | Group | Subgroup | Representatives | Meeting notes |
 |---|---|---|---|
-| **CRA Expert Group** | _(work strands)_ | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** _(lead)_ | [Notes](./coordination/cra-expert-group/) |
+| <a href="#cra-expert-group" name="cra-expert-group">CRA Expert Group</a> | _(work strands)_ | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** _(lead)_ | [Notes](./coordination/cra-expert-group/) |
 |  | Product categories | Timo Perala, **Tobie Langel** _(lead)_ |  |
 |  | Open source | Timo Perala, **Tobie Langel** _(lead)_ |  |
 |  | Risk assessment |  |  |
 |  | Remote data processing |  |  |
 |  | Market surveillance |  |  |
 ||
-| **CEN/CENELEC WG9** | _(project teams)_  | **Juan Rico** _(lead)_, Lars Francke, Marta Rybczynska, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel | [Notes](./coordination/cen-cenelec-wg9/) |
-|  | PT1 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT2 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT3 | Lars Francke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel |  |
+| <a href="#cen-cenelec-wg-9" name="cen-cenelec-wg-9">CEN/CENELEC WG 9</a> | _(project teams)_  | **Juan Rico** _(lead)_, Lars Francke, Marta Rybczynska, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel | [Notes](./coordination/cen-cenelec-wg-9/) |
+|  | PT 1 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT 2 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
+|  | PT 3 | Lars Francke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel |  |
 ||
-| **ETSI CYBER-EUSR** | _(work items)_ | Daniel Thompson-Yvetot, Jordan Maris, Juan Rico, Roman Zhukov, **Simon Phipps** _(lead)_, Timo Perala | [Notes](./coordination/etsi-cyber-eusr/) |
+| <a href="#etsi-cyber-eusr" name="etsi-cyber-eusr">ETSI CYBER-EUSR</a> | _(work items)_ | Daniel Thompson-Yvetot, Jordan Maris, Juan Rico, Roman Zhukov, **Simon Phipps** _(lead)_, Timo Perala | [Notes](./coordination/etsi-cyber-eusr/) |
 |  | Browsers | **Daniel Thompson-Yvetot** _(lead)_ |  |
 |  | Hypervisors | **Roman Zhukov** _(lead)_ |  |
 |  | Operating Systems | **Roman Zhukov** _(lead)_ |  |
