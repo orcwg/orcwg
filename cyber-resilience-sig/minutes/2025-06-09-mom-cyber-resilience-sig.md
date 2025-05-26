@@ -22,7 +22,7 @@
 
 - [ ] Open PR to add statements on CVEs to deliverables plan & get SIG started on this.
 - [ ] Continue work on infrastructure facilitating coordination around standardization.
-- [ ] Open pull request to create vulnerability handling task force and share on the mailing list.
+- [X] Open pull request to create vulnerability handling task force and share on the mailing list: _[#104](https://github.com/orcwg/orcwg/pull/104)_
 - [ ] Start thread with volunteers for BSI/FSFE questionnaire
 
 
