@@ -28,6 +28,7 @@ Rationale for these goals:
 - Stewards are a new class of actors that manufacturers might not be familiar with, it’s useful to give them additional context.
 - There’s a common misconception that all open source projects will have stewards, it is useful to remind manufacturers that this isn’t the case.
 - As this standard will be behind a paywall, we want to avoid placing any requirements on open source in it.
+- As this standard will apply to manufacturers that incorporate open-source, we want to provide sufficiently-clear guidance to support positive interactions between manufacturers and open-source projects.
 
 ## Contribution submitted on May 20, 2025
 
