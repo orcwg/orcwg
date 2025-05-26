@@ -73,7 +73,7 @@ This talk will cover a proposal for a globally coordinated platform for vulnerab
 ### 🗓️ April 14, 2025: Sébastien Heurtematte on facilitating CRA compliance for SMEs with OCCTET
 
 Sébastien Heurtematte will be joining us to tell us more about OCCTET, an EU-funded initiative aimed at improving the cybersecurity and CRA compliance of SMEs. He'll also share with us the initial report on a survey OCCTET has been running with SMEs and open source stewards to learn more about their concerns when it comes to CRA compliance.
-([slides](./2025-04-14-sebastien-huertematte.pdf) | [video](https://www.youtube.com/watch?v=1CWy55AhEnc))
+([slides](./2025-04-14-sebastien-heurtematte.pdf) | [video](https://www.youtube.com/watch?v=1CWy55AhEnc))
 
 <details>
 <summary>More info</summary>
