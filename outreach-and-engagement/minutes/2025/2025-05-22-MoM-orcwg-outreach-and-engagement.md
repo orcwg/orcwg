@@ -8,8 +8,10 @@
 | Speaker support (swag and slides) | Shanda | 15 |
 | AOB | All | 5 |
 
-## ATTENDEES
 
+<details>
+<summary><b>Participants </b></summary>
+  
 - Shanda Giacomoni (Eclipse Foundation)  
 - Juan Rico (Eclipse Foundation)
 - Alistair Woodman (Erlang Ecosystem Foundation)
@@ -18,6 +20,7 @@
 - Jan Westerkamp (iJUG)
 - Jordan Maris (Open Source Initiative)
 - Gerardo Lisboa (ESOP)
+</details>
 
 # Minutes
 ## Notes
