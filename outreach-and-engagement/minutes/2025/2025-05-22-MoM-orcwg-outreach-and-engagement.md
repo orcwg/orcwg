@@ -8,7 +8,7 @@
 | Speaker support (swag and slides) | Shanda | 15 |
 | AOB | All | 5 |
 
-# ATTENDEES
+## ATTENDEES
 
 - Shanda Giacomoni (Eclipse Foundation)  
 - Juan Rico (Eclipse Foundation)
@@ -20,6 +20,7 @@
 - Gerardo Lisboa (ESOP)
 
 # Minutes
+## Notes
 - The group reviewed the proposed Fall 2025 event calendar ([event spreadsheet](https://docs.google.com/spreadsheets/d/1-Z8M4-d_of59WP47bfncVvTO3vX3E2OZ9GAS_ismBGs/edit?usp=sharing)).
   - **Action**: Community members are encouraged to add a column with their name. 
 - Event-specific notes:
@@ -30,17 +31,21 @@
   - **SFS Con**: Will feature a CRA-focused track; participation seen as relevant and timely.
   - **GitHub Universe**: Seen as a good fit to engage younger developers.
   - **Black Hat Europe**: Identified as a must-attend; high relevance to ORC mission.
-- A draft speaker deck was shared for community review ([ORC in 1 Slide](https://docs.google.com/presentation/d/1J6uNPMRRHfm9phnk7SKA_fOJVjv8Fkjnbp6leT15xB8/edit?usp=sharing)).
+- Supporting materials for public presentations where ORC is included:
+    - ORC in 1 or 2 slides - First attemp is already avialble [here](https://docs.google.com/presentation/d/1J6uNPMRRHfm9phnk7SKA_fOJVjv8Fkjnbp6leT15xB8/edit?usp=sharing)).
+    - Deliverables explained in 1 slide - To be created and socialized for feedback.
+    - Full pitch deck - To be created and socialized for feedback.
+    - For each of the available materials there will be a communication and a call for comments and contributions to the community.
   - **Action**: Open deck for public/community feedback.
 - Discussion on promotional materials:
   - General consensus that swag would be valuable for speakers (e.g., shirts, stickers).
   - A fun idea was suggested: tissues branded to “wipe away CRA tears.”
  
-# AOB
+## AOB
 
 - None
 
-# Supporting Materials
+## Supporting Materials
 
 - [Fall 2025 Event Planning Spreadsheet](https://docs.google.com/spreadsheets/d/1-Z8M4-d_of59WP47bfncVvTO3vX3E2OZ9GAS_ismBGs/edit?usp=sharing)  
 - [Draft Planning Deck](https://docs.google.com/presentation/d/1J6uNPMRRHfm9phnk7SKA_fOJVjv8Fkjnbp6leT15xB8/edit?usp=sharing)
