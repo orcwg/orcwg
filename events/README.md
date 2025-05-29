@@ -36,7 +36,7 @@ Check out our archive:
 |-------|--------|------------|----------------------------------------------------------------------------------|--------------------------------------|
 | 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-meetup)| 
 | 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-workshop)| 
-| 2025 | 27/05 | Virtual | The Cyber Resilience Act and Open Source: What Maintainers Really Need to Know | [Watch the recording]([https://maintainermonth.github.com/schedule/2025-05-27-CRA](https://www.youtube.com/live/DLxZdU8kzxM?si=L-mu99GN7R_OeUPS)) |
+| 2025 | 27/05 | Virtual | The Cyber Resilience Act and Open Source: What Maintainers Really Need to Know | [Watch the recording](https://www.youtube.com/live/DLxZdU8kzxM?si=L-mu99GN7R_OeUPS) |
 
 
 ### YouTube Playlists
