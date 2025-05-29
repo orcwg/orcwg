@@ -35,10 +35,10 @@
   - **GitHub Universe**: Seen as a good fit to engage younger developers.
   - **Black Hat Europe**: Identified as a must-attend; high relevance to ORC mission.
 - Supporting materials for public presentations where ORC is included:
-    - ORC in 1 or 2 slides - First attemp is already avialble [here](https://docs.google.com/presentation/d/1J6uNPMRRHfm9phnk7SKA_fOJVjv8Fkjnbp6leT15xB8/edit?usp=sharing)).
-    - Deliverables explained in 1 slide - To be created and socialized for feedback.
-    - Full pitch deck - To be created and socialized for feedback.
-    - For each of the available materials there will be a communication and a call for comments and contributions to the community.
+    - ORC in 1 or 2 slides - First attempt is already available [here](https://docs.google.com/presentation/d/1J6uNPMRRHfm9phnk7SKA_fOJVjv8Fkjnbp6leT15xB8/edit?usp=sharing).
+    - Deliverables explained in 1 slide - To be created and socialised for feedback.
+    - Full pitch deck - To be created and socialised for feedback.
+    - For each of the available materials, there will be a communication and a call for comments and contributions to the community.
   - **Action**: Open deck for public/community feedback.
 - Discussion on promotional materials:
   - General consensus that swag would be valuable for speakers (e.g., shirts, stickers).
