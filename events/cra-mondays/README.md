@@ -2,19 +2,6 @@
 
 ## Upcoming
 
-<a name="episode-4"></a>
-### 🗓️ May 26, 2025: Fukami on learning how to stop worrying and love the NLF
-
-The New Legislative Framework (NLF) is a package of EU measures that reinforces the application and enforcement of internal market legislation in the EU. It also establishes a common legal framework for products in the form of a toolbox of measures for use in future legislation on which the CRA builds. In this presentation, Fukami will dive into the NLF and how it relates to the CRA and other European product legislation. The aim is to get a better understanding of the key parts, including market oversight, the role of standards, CE marking and the Blue Guide and document how to place products on the European market.
-
-Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works for the OpenSSF as EU Policy Advisor. He is member of ETSI, the CRA EG on behalf of OpenSSF and in JTC13/WG9.
-
-🗓️ When: **May 26, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-05-26T15:00:00.000Z&msg=CRA%20Mondays))\
- 📍 Where: [Zoom](https://eclipse.zoom.us/j/83194182550?jst=2)\
- ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA1MjZUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
- ---
-
 <a name="episode-5"></a>
 ### 🗓️ June 9, 2025: Arnaud Le Hors on SLSA
 
@@ -36,6 +23,19 @@ Most of the impact of the CRA on the open source ecosystem will be indirect, thr
 ---
 
 ## Previous episodes
+
+<a name="episode-4"></a>
+### 🗓️ May 26, 2025: Fukami on learning how to stop worrying and love the NLF
+The New Legislative Framework (NLF) is a package of EU measures that reinforces the application and enforcement of internal market legislation in the EU. It also establishes a common legal framework for products in the form of a toolbox of measures for use in future legislation on which the CRA builds. In this presentation, Fukami will dive into the NLF and how it relates to the CRA and other European product legislation. The aim is to get a better understanding of the key parts, including market oversight, the role of standards, CE marking and the Blue Guide and document how to place products on the European market.
+([slides](2025-05-26-Fukami.pdf) | [video](https://youtu.be/7CbHwsKVD80))
+
+<details>
+<summary>More info</summary>
+ 
+Bio: [Fukami](https://www.linkedin.com/in/fukami/) lives in Brussels and works for the OpenSSF as EU Policy Advisor. He is member of ETSI, the CRA EG on behalf of OpenSSF and in JTC13/WG9.
+
+</details>
+
 
 <a name="episode-3"></a>
 ### 🗓️ May 12, 2025: Maxim Baele on OWASP SAMM
