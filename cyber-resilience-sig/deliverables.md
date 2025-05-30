@@ -451,7 +451,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [inventory]: #12-inventory 
 [input product categories]: #21-input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
 [input PT3 clause 4.4]: #22-input-to-the-vulnerability-handling-standard-of-cencenelec-wg-9-pt-3
-[input open source hardware]: 23-input-to-the-cra-expert-groups-open-source-workstrand-on-open-source-hardware
+[input open source hardware]: #23-input-to-the-cra-expert-groups-open-source-workstrand-on-open-source-hardware
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
