@@ -161,7 +161,7 @@ This [input](https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig
 * **Type:** Input
 * **License:** CC-BY 4.0
 * **Owner:** [Cyber Resilience SIG][SIG]
-* **Input to:** [EU Guidance][]
+* **Input to:** EU Guidance
 * **Relevant liaisions**: [EU Commission][], [CRA Expert Group][]
 * **First draft by:** May 30, 2025
 * **Final draft by:** June 16, 2025
