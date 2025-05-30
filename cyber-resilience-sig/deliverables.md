@@ -152,12 +152,12 @@ The rapporteur for [CEN/CENELEC WG 9 PT 3][] requested input for the section on 
 
 The European Commission sought the [Cyber Resilience SIG][SIG]'s input to better understand some of the concerns raised by the open source harware commnunity as part of its consultation on the technical definitions of important and critical products. After consulting with members of the open source hardware community through the dedicated mailing list hosted by OpenForum Europe and some back and forth with the Commission, we agreed that the best course of action was to provide input to the Commission's Guidance on open source via the [CRA Expert Group][]. This input would clarify what open source hardware is, demonstrate its functional equivalence to open source software, and argue that it should therefore be treated as open source software under the CRA.
 
-This input will be provided to the open source workstrand of the [CRA Expert Group][] at the very latest on June 16, 2025.
+This [input](https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig/coordination/cra-expert-group/foss-guidance-ope-source-hardware.md) will be provided to the open source workstrand of the [CRA Expert Group][] at the very latest on June 16, 2025.
 
 <details>
   <summary>More info</summary>
   
-* **Source:**
+* **Source:** <https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig/coordination/cra-expert-group/foss-guidance-ope-source-hardware.md>
 * **Type:** Input
 * **License:** CC-BY 4.0
 * **Owner:** [Cyber Resilience SIG][SIG]
