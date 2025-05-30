@@ -59,6 +59,16 @@ Some discussion in PT 3:
 - Suggestion to consider if the the text is required in the standard at all.
 - Conclusion: for time being the text remains as Clause 4.4, moving to Annex or deleting entirely is an easy quick job.
 
+## Discussion and feedback on May 28, 2025
+
+The contribution was discussed again during the PT 3 call on May 28, 2025.
+
+The result of the discussion:
+
+- The current text rephrases CRA's sections on stewards, and it should not be doing that
+- Instead, it should be describing (for manufacturers) how to interact with Open Source Stewards in the vulnerability reporting contect (like CVD - coordinated vulnerability disclosure)
+- The section has been moved to Annex C and has been asked to aim at: helping manufacturers understand interactions with open source stewards, describe the role of open source as introduced in the CRA text, describe the relation with the standards and what is expected and reasonable.
+
 ## Acknowledgments
 
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
