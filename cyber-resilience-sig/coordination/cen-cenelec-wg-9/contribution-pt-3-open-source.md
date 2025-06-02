@@ -69,6 +69,35 @@ The result of the discussion:
 - Instead, it should be describing (for manufacturers) how to interact with Open Source Stewards in the vulnerability reporting contect (like CVD - coordinated vulnerability disclosure)
 - The section has been moved to Annex C and has been asked to aim at: helping manufacturers understand interactions with open source stewards, describe the role of open source as introduced in the CRA text, describe the relation with the standards and what is expected and reasonable.
 
+## Proposition of the annex outline
+
+As the expected main audience of the annex, the goal could be to explain main misconceptions, and also explain what could and could not be expected from open source projects.
+
+Proposed outline:
+
+- There will be open source with stewards and open source without stewards. Both types will likely use similar methods for vulnerbaility handling, but with some slight differences.
+
+- Open source projects usually follow CVD practices, details of this varies from one project to another. They generally follow guidelines available under an open source licence. Security policies of each projects are publicly documented, if they have been agreed on.
+
+- Open source projects are not suppliers, so they will usually not respond to request for filling CRA paperwork. It might be offered as a separate service by freelancers, service companies related with the project, or the project itself. Some project might decide to prepare templates, but this fact, and the scope of templates, is their choice.
+
+- Relations between stewards and open source projects
+ - Stewards usually cannot oblidge the project to perform a specific action (example: develop a fix)
+ - Stewards can act as coordinators in the CVD process
+ - Stewards prepare security policy for the projects they support
+
+- Differences between projects with and without stewards
+ - Projects with stewards will have security policies, while projects without stewards might not have them
+ - Stewards might offer an unified way of contact for security issues for all projects they support, manufacturers needs to contact projects without stewards indirectly
+
+- Expectations of open source project when being contacted by manufacturers about a potential vulnerability
+ - Open source projects usually have SECURITY (.txt, .md...) file in their source repository with the preferred way to contact them for a security issue
+ - Open source projects expect patches under a compatible (with that given project) open source licence
+ - Open source projects will not sign NDAs (non disclosure agreements), but they do participate in CVD (coordinated vulnerability disclosure)
+ - Open source projects may have expected response and time to fix, but it is not their obligation
+ - Manufacturers who want to have a fix developed, might contact the project to suggest freelancers or support companies offering such services
+
+
 ## Acknowledgments
 
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
