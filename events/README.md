@@ -17,7 +17,7 @@ Every Monday after the SIG call, we host a guest from our community to discuss C
 ## 🗓️ Upcoming Events
 | Year  | Date   | Location   | Title    |   Link |
 |-------|--------|------------|--------- |----|
-| 2025 | 1-2/07 | Geneva International Conference Center | Sovereignty by Design - part of Global Collaboration on Wallets and Credentials| Get your free ticket [here](https://lu.ma/gc25-eclipse) |
+| 2025 | 1-2/07 | Geneva International Conference Center | Sovereignty by Design: Regulatory compliance and the CRA - part of Global Collaboration on Wallets and Credentials| Get your free ticket [here](https://lu.ma/gc25-eclipse) |
 
 [//]: #  (Event Name: [Title of the Event] )
 
