@@ -3,7 +3,18 @@
 ## Upcoming
 
 <a name="episode-5"></a>
-### 🗓️ June 9, 2025: Arnaud Le Hors on SLSA
+### 🗓️ June 9, 2025: Arnaud Le Hors on Supply-chain Levels for Software Artifacts (SLSA)
+
+SLSA is a security framework, a specification, for describing and incrementally improving supply chain security, established by industry consensus within OpenSSF. It is organized into a series of levels that describe increasing security guarantees, to prevent tampering, improve integrity, and secure packages and infrastructure. It’s how you get from "safe enough" to being as resilient as possible, at any link in the software supply chain.
+
+This presentation will introduce attendees to SLSA, its current status, and what’s in the works.
+
+<details>
+<summary>More info</summary>
+ 
+**Bio:** Arnaud Le Hors is Senior Technical Staff Member of Open Technologies at IBM, working on a range of technologies with a primary focus on Open Source supply chain security and AI. He has been working on standards and open source for over 30 years. Arnaud was editor of several key web specifications including HTML and DOM and was a pioneer of open source with the release of libXpm in 1990. Arnaud is the main representative for IBM at W3C and INCITS, Co-Chair of the LF AI & Data Generative AI Commons, a member of the OpenSSF Technical Advisory Committee.
+
+</details>
 
 🗓️ When: **June 9, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-09T15:00:00.000Z&msg=CRA%20Mondays))\
  📍 Where: [Zoom](https://eclipse.zoom.us/j/85385310037?jst=2)\
@@ -12,9 +23,26 @@
 ---
 
 <a name="episode-6"></a>
-### 🗓️ June 23, 2025: Pedro Demolder on managing CRA compliance from a legal perspective
+### 🗓️ June 23, 2025: Pedro Demolder on The CRA: Why even your fridge might need a lawyer
 
-Most of the impact of the CRA on the open source ecosystem will be indirect, through manufacturers exercising due diligence when integrating open source components in their products. How can we prepare for this, help avoid friction, and even possibly create better outcomes for the open source ecosystem? By better understanding the mindset of manufacturers faced with the compliance requirements of the CRA. And who better than a lawyer specialized in IT compliance to walk us through it? That's why we're so excited to welcome Pedro Demolder, Attorney at Timelex, who will share with us how he's advising his clients on CRA compliance.
+Most of the impact of the Cyber Resilience Act (CRA) on the open source ecosystem will be indirect – but not insignificant. As manufacturers face new due diligence obligations when integrating open source components into their products and services, it’s essential to understand how open source is legally categorized under the CRA and what that means in practice.
+In this session, we’ll explore what this categorization implies for open source contributors and maintainers, how we can prepare for the changes ahead, and how the open source community might even benefit from constructive dialogue around compliance. You’ll gain insight into how manufacturers and their legal teams approach CRA compliance – and how that mindset could affect your project.
+Who better to guide us through this than a lawyer specializing in IT compliance? That’s why we’re excited to welcome Pedro Demolder, attorney at Timelex, who will share how he advises clients navigating the CRA and what it means for the future of open source.
+
+<details>
+<summary>More info</summary>
+
+**Key-points**
+- The CRA as a category of legislation
+- The importance of the CRA for businesses
+- The role of components, including open source, under the CRA
+- Due diligence obligations for manufacturers
+- Conformity assessments and security attestations
+ 
+**Bio:** Pedro Demolder is an IP/IT and data protection lawyer at Timelex. He assists both SMEs and multinationals with GDPR and Data Act compliance, performing audits and helping implement legal requirements into daily operations, systems, and processes. He regularly advises on complex matters at the intersection of technology law and other domains, such as online platforms, product manufacturing, and HR. Pedro is well-versed in drafting information notices for a wide range of target audiences and negotiating data processing, data exchange, and data sharing agreements.
+Pedro also advises clients on all aspects of cybersecurity, including the legal, technical, operational, and organisational dimensions of information security. He supports the setup of compliance frameworks, breach notification procedures, and contingency planning. In addition, he provides trainings on data protection and cybersecurity obligations, ensuring that legal requirements are understood and embedded in practice.
+
+</details>
 
  🗓️ When: **June 23, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
  📍 Where: [Zoom](#)\
