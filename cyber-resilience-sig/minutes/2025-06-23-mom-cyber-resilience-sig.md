@@ -4,7 +4,7 @@
 
 | Min | Agenda Topics | Moderator |
 | --: | ----- | --- |
-|   0 | Welcome & approve [previous minutes](https://github.com/orcwg/orcwg/pull/115) | Tobie |
+|   0 | Welcome & approve [previous minutes](https://github.com/orcwg/orcwg/pull/116) | Tobie |
 |   5 | [Pending action items](#pending-action-items) from last SIG call | Tobie |
 |  10 | Steering & Spec Committee updates | [SIG Leads][] |
 |  15 |  | |
