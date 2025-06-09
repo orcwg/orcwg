@@ -51,6 +51,7 @@ flowchart LR
 | ✅ | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | ✅ | 2.2 [Input to Vulnerability Handling Standard][input PT3 clause 4.4] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
 | | 2.3 [Input to EU Guidance on open source hardware][input open source hardware] | [Cyber Resilience SIG][SIG] | May 30, 2025 | June 16, 2025 |
+| | 2.4 [Input to the Vulnerability Handling Standard][input PT3 annex] | [Vulnerability Handling Task Force][] | June 16, 2025 | |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -166,6 +167,24 @@ This [input](https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig
 * **First draft by:** May 30, 2025
 * **Final draft by:** June 16, 2025
     
+</details>
+
+#### 2.4 Input to the Vulnerability Handling Standard of CEN/CENELEC WG 9 PT 3
+
+Following the delivery 2.2, the rapporteur for [CEN/CENELEC WG 9 PT 3][] asked for an informative annnex for the Vulnerability Handling Standard.
+
+<details>
+  <summary>More info</summary>
+
+* **Source:** <https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/contribution-pt-3-annex.md>
+* **Type:** Input
+* **License:** CC-BY 4.0
+* **Owner:** [Vulnerability Handling Task Force][SIG]
+* **Input to:** [CEN/CENELEC WG 9 PT 3][]
+* **Relevant liaisions**: [CEN/CENELEC WG 9 PT 3][]
+* **First draft by:** June 16, 2025
+* **Final draft by:** date not known yet
+
 </details>
 
 ### 3. White papers
