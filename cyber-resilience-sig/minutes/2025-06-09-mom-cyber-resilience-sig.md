@@ -13,7 +13,7 @@
 |  25 | ESOs updates | [ESO Liaisons][] |
 |  30 |  | |
 |  35 | Vulnerability Handling TF update | Vulnerability Handling TF leads |
-|  40 | Resource Inventory update ([#228](https://github.com/orcwg/cra-hub/pull/228)) | Inventory TF leads |
+|  40 | Resource Inventory TF update ([#228](https://github.com/orcwg/cra-hub/pull/228)) | Inventory TF leads |
 |  45 | BSI / FSFE questionnaire update | Tobie |
 |  50 | FAQ TF update | FAQ TF leads |
 |  55 | AOB | |
@@ -23,7 +23,7 @@
 - [ ] Open PR to add statements on CVEs to deliverables plan & get SIG started on this.
 - [ ] Continue work on infrastructure facilitating coordination around standardization.
 - [X] Open pull request to create vulnerability handling task force and share on the mailing list: _[#104](https://github.com/orcwg/orcwg/pull/104)_
-- [ ] Start thread with volunteers for BSI/FSFE questionnaire
+- [X] Start thread with volunteers for BSI/FSFE questionnaire
 
 
 <details>
