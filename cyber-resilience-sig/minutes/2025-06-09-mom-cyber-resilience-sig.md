@@ -73,7 +73,7 @@
       - Jeremy Stanley <jeremy@openinfra.dev>
       - Sal kimmich <salkimmich@gmail.com>
       - Olle E. Johansson <oej@edvina.net>
-      - Dick Brooks <ick@businesscyberguardian.com>
+      - Dick Brooks <dick@businesscyberguardian.com>
       - Arnout Engelen <engelen@apache.org>
   - [X] Tobie to add missing folks to Vulnerability handling TF GH team  
 - [x] Start thread with volunteers for BSI/FSFE questionnaire  
