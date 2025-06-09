@@ -1,13 +1,16 @@
-# Contribution to CEN/CENELEC WG 9 PT 3 Vulnerability Handling Standard Annex on Open Source Stewards
+# Contribution to CEN/CENELEC WG 9 PT 3 Vulnerability Handling Standard Annex on Open Source
 
 ## Request
 
 Provide the content for the **informative** section on open source software stewards (Annex C).
 
+> [!WARNING]
+> There is a misconception, even from PT 3, that manufacturers will only interface with open source software stewards when dealing with open source software. This obvioulsy isn't the case: many—if not most—open source projects will not have stewards. We need to work with PT 3 to rename the annex and reframe the request to include all open source projects (and not just the subset that will have stewards).
+
 ## Context
 
-- This is the standard for vulnerability handling covering the requirements defined in [Annex I, Part II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I) of the CRA.
-- The standard only focuses on what's in this annex of the CRA, not any other obligations.
+- This is the standard for vulnerability handling covering the _essential requirements_ defined in [Annex I, Part II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I) of the CRA.
+- The standard only focuses on those _essential requirements_, not on any other obligations.
 - The standard is aimed at manufacturers, not stewards.
 - The section we're asked to contribute too is _informative_ (not _normative_), which means it doesn't create any requirements for anybody; it's just there to provide context.
 - The section *should not reword the CRA content*, including what stewards are.
