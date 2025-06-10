@@ -34,4 +34,4 @@ Some discussion in PT 3:
 
 ## Action items
 
-
+None.
