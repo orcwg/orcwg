@@ -35,7 +35,7 @@ Pedro also advises clients on all aspects of cybersecurity, including the legal,
 <a name="episode-5"></a>
 ### 🗓️ June 9, 2025: Arnaud Le Hors on Supply-chain Levels for Software Artifacts (SLSA)
 
-SLSA is a security framework, a specification, for describing and incrementally improving supply chain security, established by industry consensus within OpenSSF. It is organized into a series of levels that describe increasing security guarantees, to prevent tampering, improve integrity, and secure packages and infrastructure. It’s how you get from "safe enough" to being as resilient as possible, at any link in the software supply chain. This presentation will introduce attendees to SLSA, its current status, and what’s in the works. (slides & video - coming soon)
+SLSA is a security framework, a specification, for describing and incrementally improving supply chain security, established by industry consensus within OpenSSF. It is organized into a series of levels that describe increasing security guarantees, to prevent tampering, improve integrity, and secure packages and infrastructure. It’s how you get from "safe enough" to being as resilient as possible, at any link in the software supply chain. This presentation will introduce attendees to SLSA, its current status, and what’s in the works. (slides - coming soon | [video](https://youtu.be/5t9EGPTll64))
 
 <details>
 <summary>More info</summary>
