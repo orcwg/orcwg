@@ -1,5 +1,5 @@
 ---
-Group: [CEN/CENELEC WG 9](../../#cen-cenelec-wg-9)
+Group: CEN/CENELEC WG 9
 Subgroup: PT 3
 Date: 21 May 2025
 ---
