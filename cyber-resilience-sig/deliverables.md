@@ -50,7 +50,7 @@ flowchart LR
 | **2.** | **Inputs** | | | |
 | ✅ | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | ✅ | 2.2 [Input to Vulnerability Handling Standard][input PT3 clause 4.4] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
-| | 2.3 [Input to EU Guidance on open source hardware][input open source hardware] | [Cyber Resilience SIG][SIG] | May 30, 2025 | June 16, 2025 |
+| | 2.3 [Input to EU Guidance on open source hardware][input open source hardware] | [Open Source Hardware Task Force][TFs] | May 30, 2025 | June 16, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -160,7 +160,7 @@ This [input](https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig
 * **Source:** <https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig/coordination/cra-expert-group/foss-guidance-ope-source-hardware.md>
 * **Type:** Input
 * **License:** CC-BY 4.0
-* **Owner:** [Cyber Resilience SIG][SIG]
+* **Owner:** [Open Source Hardware Task Force][TFs]
 * **Input to:** EU Guidance
 * **Relevant liaisions**: [EU Commission][], [CRA Expert Group][]
 * **First draft by:** May 30, 2025
