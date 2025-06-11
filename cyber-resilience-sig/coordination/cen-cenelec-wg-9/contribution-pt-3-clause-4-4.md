@@ -41,35 +41,6 @@ Not all open-source projects that a manufacturer depends on should be expected t
 
 Stewards are not responsible for developing remedies for the vulnerabilities reported in the software for which they are Stewards. However, a Steward must report severe incidents of which they are aware that impact the tools and services they provide to support open-source software development. Additionally, a Steward has a limited reporting obligation if they are involved in developing the open-source software for which they are Stewards.
 
-## Feedback received on May 21, 2025
-
-Contribution was presented on May 21, 2025 during a PT 3 call.
-
-- No major comments.
-- ToDos:
-  - We need to do away with all "shalls", this is informative text.
-  - Also have to check that we don't duplicate CRA text.
-  - Check with PT 3 Rapporteur that contribution covers what is necessary.
-
-Some discussion in PT 3:
-
-- Suggestion to doublecheck the text is in alignment with PT1's draft.
-- Confirmation that the [Standardisation Request](https://github.com/orcwg/cra-hub/tree/main/resources#february-3-2025---standardisation-request) has no reference to stewards, therefore nothing to be considered from that point of view.
-- Proposal to remove the text from the "General" clause (clause 4) and move it to Annex.
-- Suggestion to consider if the the text is required in the standard at all.
-- Conclusion: for time being the text remains as Clause 4.4, moving to Annex or deleting entirely is an easy quick job.
-
-## Discussion and feedback on May 28, 2025
-
-The contribution was discussed again during the PT 3 call on May 28, 2025. The result of the discussion:
-
-- The current text rephrases CRA's sections on stewards, and it should not be doing that
-- Instead, it should be describing (for manufacturers) how to interact with Open Source Stewards in the vulnerability reporting contect (like CVD - coordinated vulnerability disclosure)
-- The section has been moved to Annex C and has been asked to aim at: helping manufacturers understand interactions with open source stewards, describe the role of open source as introduced in the CRA text, describe the relation with the standards and what is expected and reasonable.
-
-> [!WARNING]
-> PT 3 seems to believe that manufacturers will only deal with open source software stewards when interfacing with open source. Part of the work we need to do is to educate PT 3 and manufacturers on how to interface with open source projects _in general_ not just through manufacturers.
-
 ## Acknowledgments
 
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
