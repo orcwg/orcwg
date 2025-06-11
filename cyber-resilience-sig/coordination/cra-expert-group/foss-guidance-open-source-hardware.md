@@ -18,6 +18,7 @@ This input will be provided to the open source workstrand of the [CRA Expert Gro
 > 
 > As open source hardware source files are functionally equivalent to free and open source software source code, they are treated in the same manner under the CRA. Similarly, the obligations of open source software stewards apply equally to legal persons that meet the definition, regardless of whether they are sustaining open source software or open source hardware.
 
+
 ## Acknowledgments
 
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
