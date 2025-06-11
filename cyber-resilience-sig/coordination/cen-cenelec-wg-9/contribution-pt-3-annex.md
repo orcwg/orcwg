@@ -14,6 +14,21 @@ Provide the content for the **informative** section on open source software stew
 - The standard is aimed at manufacturers, not stewards.
 - The section we're asked to contribute too is _informative_ (not _normative_), which means it doesn't create any requirements for anybody; it's just there to provide context.
 - The section *should not reword the CRA content*, including what stewards are.
+- The sections should cover only vulnerability management for now.
+
+## Goals
+
+The goals for the document as listed in the call for contributions are:
+
+> We are looking not only for comments but for actual contributions to creating a section that can help:
+> — Manufacturers need to understand the interactions with open-source stewards better.
+> — Allowing the open source community to have a better overview of this role introduced within the CRA legal text.
+> — Make explicit the relation with this actual standard and what is expected and reasonable for this type of economic operator.
+>
+
+The goals from the community are:
+- Explain to manufacturers how their interactions will like with open source projects (ones with and without stewards) during various parts of the vulnerability management process
+- Help better communication by explaining what manufacturers should and shouldn't expect from open source projects
 
 ## Proposed abstract of the submission
 
