@@ -17,11 +17,11 @@ _Name and affiliation of open source community members present during the call a
 
 _Please remember that these notes are public. Please only share information that is necessary for the open source community to provide input on and to understand the direction of the standardization effort._
 
-Discussion on the Annex on Open Source Stewards:
-- ORC to provide one slide to the PT3 chair with the vulnerability meeting date/time and the working space once they are available.
-- There is a need for a commitment on a delivery date: before the end of the month (June 2025) if it is to be included in the first review, or later if the contribution is to be added at a subsequent stage (possible for informative content).
+Discussion on the Annex C on Open Source Stewards in PT3 draft standard:
+- We agreed that ORC will provide one slide to the PT3 chair with the Vulnerability Handling task force meeting date/time and the working space once they are available.
+- There is a need for a commitment preferably by June 18th from ORC on a delivery date for the contribution on Annex C. If ORC commits to deliver before the end of the month (June 2025) the Annex text will be included in the first review of the PT3 draft. If the delivery date ORC commits to is later (after June 2025), the contribution will be added to PT3 draft standard at a subsequent stage. This is possible and ok for PT3 as Annex C is informative content.
 
 ## Action items
 
-- [ ] ORC to provide one slide to the PT3 chair with the vulnerability meeting date/time and the working space once they are available.
-- [ ] ORC to commit on the delivery date
+- [ ] ORC to provide one slide to the PT3 chair with the Vulnerability Handling task force meeting date/time and the working space once they are available.
+- [ ] ORC to commit on the delivery date for contribution to Annex C in PT3 draft
