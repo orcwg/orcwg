@@ -52,7 +52,8 @@ flowchart LR
 | 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
 | 🚀 | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][TFs] | May 30, 2025 | June 16, 2025 |
 | | 2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4] | [Vulnerability Handling Task Force][TFs] | June 30, 2025 | |
-| 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 |June 12, 2025 |
+| 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 | June 12, 2025 |
+| | 2.6 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-6] | [Cyber Resilience SIG][SIG] | June 14, 2025 | June 20, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -194,7 +195,7 @@ As part of its process, CEN/CENELEC WG 9 PT 1 requested comments on its [Horizon
 
 <details>
   <summary>More info</summary>
-  
+
 * **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-5.md>
 * **Type:** Comments
 * **License:** CC-BY 4.0
@@ -203,6 +204,24 @@ As part of its process, CEN/CENELEC WG 9 PT 1 requested comments on its [Horizon
 * **Relevant liaisions**: [CEN/CENELEC WG 9 PT 1][]
 * **First draft by:** June 12, 2025
 * **Final draft by:** June 12, 2025
+
+</details>
+
+#### 2.6 Feedback to call for evidence on Cybersecurity Act Revision
+
+Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en) as part of its [initiative to revise the Cybersecurity Act (CSA)](https://digital-strategy.ec.europa.eu/en/news/commission-opens-consultation-revising-eu-cybersecurity-act). Urge for a stronger technical and strategic role for ENISA in light of the [recent funding issues of the US CVE program](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures#2025_funding_issues) and the increased importance of vulnerability handling in EU legislation.
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** <https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md>
+* **Type:** Feedback
+* **License:** CC-BY 4.0
+* **Owner:** [Cyber Resilience SIG][SIG]
+* **Input to:** [EU Commission][]
+* **Relevant liaisions**: [ENISA][], [EU Commission][]
+* **First draft by:** June 14, 2025
+* **Final draft by:** June 20, 2025
     
 </details>
 
