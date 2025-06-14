@@ -26,9 +26,9 @@ In light of the [CSA review](https://digital-strategy.ec.europa.eu/en/news/commi
 * MITRE’s role as Secretariat plays a key role to provide a resource to boost supply chain resilience.  Whilst it is regrettable the recent publicity and uncertainty in funding we are pleased that this matter has now been partially resolved.  
 * The momentary alarm did however serve as a timely reminder to both governments and industry as to CVE’s global importance and need for wider  global support. The establishment of [the CVE foundation](https://www.thecvefoundation.org/) provides ever greater visibility in supporting this crucial namespace pillar of global supply chain resilience.
 * Indeed, this has also been recognised by several European governments who subsequently confirmed their wish to support (technically and financially) and thus we would hope that this support can be mirrored at an EU level, perhaps via ENISA, into a system which is mirrored infrastructure in Europe and co-developed.
-* We also see the growing role of national Computer Security Incident Response Team (CSIRTs), such as the National Cyber Security Centre (NSSC) in Ireland, largely supporting bug bounty programs, Capture the Flag (CTF) and other activities with local academia, government and businesses, investing in vulnerability discovery and management, and thus important to double down on the CVE program in a uniformed, cross-European and international way.
-* It would also be advisable for the European Commission to include this need for reinforced collaboration in their next inter-institutional dialogue with CISA.
-* Whilst we recognise the importance of NIS2’s European Vulnerability Database (EUVD) we feel there is still room for better alignment and co-ordination. Indeed, the EUVD’s beta version includes identifiers which are not aligned with CVEs or easily mapped.  This poses a significant risk to organisations and companies defending critical networks versus criminal or state sponsored hackers due to similar patterns but dissimilar meanings. This will create chaos for all producers and consumers of software bills of materials (SBOMs) and of vulnerability and exploitation data.  
+* We also see the growing role of national Computer Security Incident Response Team (CSIRTs), such as the National Cyber Security Centre (NCSC) in Ireland, largely supporting bug bounty programs, Capture the Flag (CTF) and other activities with local academia, government and businesses, investing in vulnerability discovery and management, and thus important to double down on the CVE program in a uniformed, cross-European and international way.
+* It would also be advisable for the European Commission to include this need for reinforced collaboration in their next inter-institutional dialogue with USA CISA.
+* Whilst we recognise the importance of NIS2’s European Vulnerability Database (EUVD) we feel there is still room for better alignment and co-ordination. Indeed, the EUVD’s beta version includes identifiers which are not aligned with CVEs or easily mapped.  This poses a significant risk to organisations and companies defending critical networks versus criminal or state sponsored hackers due to similar patterns but dissimilar meanings. This will create chaos for all producers and consumers of software bills of materials (SBOMs) and of vulnerability and exploitation data. It also increases the reporting burden on software producers if they end up needing to apply for both CVE and EUVD assignments on each disclosed vulnerability.
 
 We remain at your disposal for further information and collaboration. 
 
@@ -39,6 +39,7 @@ Best regards,
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
 
 James Lovegrove,
+Jeremy Stanley,
 Roman Zhukov,
 and Tobie Langel.
 
