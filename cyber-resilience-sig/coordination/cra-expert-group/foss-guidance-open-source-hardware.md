@@ -14,9 +14,9 @@ This input will be provided to the open source workstrand of the [CRA Expert Gro
 > 
 > Computer hardware is typically developed from source files—such as hardware description language (HDL) code, schematics, or layout files—which describe the structure and function of the final physical product. These files are analogous to source code in software development. The source files themselves are not products with digital elements under the CRA; they are design inputs, not functional hardware. The actual product only emerges when these source files are manufactured into physical components or integrated into a system.
 > 
-> Like free and open source software, 'open source hardware' is hardware source files openly shared and licensed with rights to make them freely accessible, usable, modifiable, and redistributable. Open source hardware is developed, maintained, and distributed openly, including via online platforms.
+> Like free and open source software, open source hardware source files are openly shared and licensed with rights to make them freely accessible, usable, modifiable, and redistributable. Open source hardware source files are developed, maintained, and distributed openly, including via online platforms. Only when open source hardware source files are made available on the market, and therefore supplied for distribution or use in the course of a commercial activity, should they fall within the scope of the CRA.
 > 
-> As open source hardware is functionally equivalent to free and open source software, it is treated in the same manner under the CRA. Similarly, the obligations of open source software stewards apply equally to legal persons that meet the definition, regardless of whether they are sustaining open source software or open source hardware.
+> As open source hardware source files are functionally equivalent to free and open source software source code, they are treated in the same manner under the CRA. Similarly, the obligations of open source software stewards apply equally to legal persons that meet the definition, regardless of whether they are sustaining open source software or open source hardware.
 
 
 ## Acknowledgments
