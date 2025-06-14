@@ -51,7 +51,7 @@ flowchart LR
 | 🚀 | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
 | ✅ | 2.3 [Input to EU Guidance on open source hardware][input open source hardware] | [Cyber Resilience SIG][SIG] | May 30, 2025 | June 16, 2025 |
-| | 2.4 [Input to the Vulnerability Handling Standard][input PT3 annex] | [Vulnerability Handling Task Force][] | June 16, 2025 | |
+| | 2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4] | [Vulnerability Handling Task Force][TFs] | June 16, 2025 | |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -169,21 +169,21 @@ This [input](https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig
     
 </details>
 
-#### 2.4 Input to the Vulnerability Handling Standard of CEN/CENELEC WG 9 PT 3
+#### 2.4 Contribution to  CEN/CENELEC Vulnerability Handling Standard Annex C
 
 Following the delivery 2.2, the rapporteur for [CEN/CENELEC WG 9 PT 3][] asked for an informative annnex for the Vulnerability Handling Standard.
 
 <details>
   <summary>More info</summary>
 
-* **Source:** <https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/contribution-pt-3-annex.md>
+* **Source:** <https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-4.md>
 * **Type:** Input
 * **License:** CC-BY 4.0
 * **Owner:** [Vulnerability Handling Task Force][SIG]
 * **Input to:** [CEN/CENELEC WG 9 PT 3][]
 * **Relevant liaisions**: [CEN/CENELEC WG 9 PT 3][]
 * **First draft by:** June 16, 2025
-* **Final draft by:** date not known yet
+* **Final draft by:**
 
 </details>
 
@@ -471,6 +471,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [input product categories]: #21-input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
 [deliverable-2-2]: #22-contribution-to-cencenelec-vulnerability-handling-standard-clause-2-2
 [input open source hardware]: #23-input-to-the-cra-expert-groups-open-source-workstrand-on-open-source-hardware
+[deliverable-2-4]: #24-contribution-to-cencenelec-vulnerability-handling-standard-annex-c
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
