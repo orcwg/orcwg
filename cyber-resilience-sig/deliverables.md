@@ -154,7 +154,7 @@ The rapporteur for [CEN/CENELEC WG 9 PT 3][] requested input for the section on 
 
 The European Commission sought the [Cyber Resilience SIG][SIG]'s input to better understand some of the concerns raised by the open source hardware commnunity as part of its consultation on the technical definitions of important and critical products. After consulting with members of the open source hardware community through the dedicated mailing list hosted by OpenForum Europe and some back and forth with the Commission, we agreed that the best course of action was to provide input to the Commission's Guidance on open source via the [CRA Expert Group][]. This input would clarify what open source hardware is, demonstrate its functional equivalence to open source software, and argue that it should therefore be treated as open source software under the CRA.
 
-This [input](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cra-expert-group/foss-guidance-open-source-hardware.md) will be provided to the open source workstrand of the [CRA Expert Group][] at the very latest on June 16, 2025.
+This [input](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cra-expert-group/deliverable-2-3.md) will be provided to the open source workstrand of the [CRA Expert Group][] at the very latest on June 16, 2025.
 
 <details>
   <summary>More info</summary>
@@ -185,6 +185,8 @@ Following the delivery 2.2, the rapporteur for [CEN/CENELEC WG 9 PT 3][] asked f
 * **Relevant liaisions**: [CEN/CENELEC WG 9 PT 3][]
 * **First draft by:** June 30, 2025
 * **Final draft by:**
+
+</details>
 
 #### 2.5 Comments on CEN/CENELEC PT 1 Standard
 
@@ -487,7 +489,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [inventory]: #12-inventory 
 [input product categories]: #21-input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
 [deliverable-2-2]: #22-contribution-to-cencenelec-vulnerability-handling-standard-clause-2-2
-[deliverable-2-3]: #23-contribution-to-cra-expert-groups-open-source-workstrand-on-open-source-hardware
+[deliverable-2-3]: #23-contribution-to-open-source-eu-guidance-on-open-source-hardware
 [deliverable-2-4]: #24-contribution-to-cencenelec-vulnerability-handling-standard-annex-c
 [deliverable-2-5]: #25-comments-on-cencenelec-pt-1-standard
 [SBOMs]: #31-white-paper-on-sboms
