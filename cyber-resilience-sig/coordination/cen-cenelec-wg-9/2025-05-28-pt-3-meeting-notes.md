@@ -1,7 +1,9 @@
 ---
+SIG: Cyber Resilience SIG
+Document Type: Liaison meeting notes
 Group: CEN/CENELEC WG 9
 Subgroup: PT 3
-Date: 28 May 2025
+Date: 2025-05-28
 ---
 
 # Meeting notes
