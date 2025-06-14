@@ -52,6 +52,7 @@ flowchart LR
 | 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
 | ✅ | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][TFs] | May 30, 2025 | June 16, 2025 |
 | | 2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4] | [Vulnerability Handling Task Force][TFs] | June 30, 2025 | |
+| 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 |June 12, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -185,6 +186,22 @@ Following the delivery 2.2, the rapporteur for [CEN/CENELEC WG 9 PT 3][] asked f
 * **First draft by:** June 30, 2025
 * **Final draft by:**
 
+#### 2.5 Comments on CEN/CENELEC PT 1 Standard
+
+As part of its process, CEN/CENELEC WG 9 PT 1 requested comments on its [Horizontal standard on General principles for cyber resilience (JT013089)](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026) from its working group participants (note this was not a public call for comments).
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-5.md>
+* **Type:** Comments
+* **License:** CC-BY 4.0
+* **Owner:** [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] 
+* **Input to:** [CEN/CENELEC WG 9 PT 1][]
+* **Relevant liaisions**: [CEN/CENELEC WG 9 PT 1][]
+* **First draft by:** June 12, 2025
+* **Final draft by:** June 12, 2025
+    
 </details>
 
 ### 3. White papers
@@ -472,6 +489,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [deliverable-2-2]: #22-contribution-to-cencenelec-vulnerability-handling-standard-clause-2-2
 [deliverable-2-3]: #23-contribution-to-cra-expert-groups-open-source-workstrand-on-open-source-hardware
 [deliverable-2-4]: #24-contribution-to-cencenelec-vulnerability-handling-standard-annex-c
+[deliverable-2-5]: #25-comments-on-cencenelec-pt-1-standard
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
