@@ -2,26 +2,6 @@
 
 ## Upcoming
 
-<a name="episode-5"></a>
-### 🗓️ June 9, 2025: Arnaud Le Hors on Supply-chain Levels for Software Artifacts (SLSA)
-
-SLSA is a security framework, a specification, for describing and incrementally improving supply chain security, established by industry consensus within OpenSSF. It is organized into a series of levels that describe increasing security guarantees, to prevent tampering, improve integrity, and secure packages and infrastructure. It’s how you get from "safe enough" to being as resilient as possible, at any link in the software supply chain.
-
-This presentation will introduce attendees to SLSA, its current status, and what’s in the works.
-
-<details>
-<summary>More info</summary>
- 
-**Bio:** Arnaud Le Hors is Senior Technical Staff Member of Open Technologies at IBM, working on a range of technologies with a primary focus on Open Source supply chain security and AI. He has been working on standards and open source for over 30 years. Arnaud was editor of several key web specifications including HTML and DOM and was a pioneer of open source with the release of libXpm in 1990. Arnaud is the main representative for IBM at W3C and INCITS, Co-Chair of the LF AI & Data Generative AI Commons, a member of the OpenSSF Technical Advisory Committee.
-
-</details>
-
-🗓️ When: **June 9, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-09T15:00:00.000Z&msg=CRA%20Mondays))\
- 📍 Where: [Zoom](https://eclipse.zoom.us/j/85385310037?jst=2)\
- ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA2MDlUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
----
-
 <a name="episode-6"></a>
 ### 🗓️ June 23, 2025: Pedro Demolder on The CRA: Why even your fridge might need a lawyer
 
@@ -45,12 +25,25 @@ Pedro also advises clients on all aspects of cybersecurity, including the legal,
 </details>
 
  🗓️ When: **June 23, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
- 📍 Where: [Zoom](#)\
- ➕ [Add to calendar](#)
+ 📍 Where: [Zoom](https://eclipse.zoom.us/j/4904674754?omn=89584971434&jst=3)\
+ ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA2MjNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
 
 ---
 
 ## Previous episodes
+
+<a name="episode-5"></a>
+### 🗓️ June 9, 2025: Arnaud Le Hors on Supply-chain Levels for Software Artifacts (SLSA)
+
+SLSA is a security framework, a specification, for describing and incrementally improving supply chain security, established by industry consensus within OpenSSF. It is organized into a series of levels that describe increasing security guarantees, to prevent tampering, improve integrity, and secure packages and infrastructure. It’s how you get from "safe enough" to being as resilient as possible, at any link in the software supply chain. This presentation will introduce attendees to SLSA, its current status, and what’s in the works. ([slides](2025-06-09-ArnaudLeHors.pdf) | [video](https://youtu.be/5t9EGPTll64))
+
+<details>
+<summary>More info</summary>
+ 
+**Bio:** Arnaud Le Hors is Senior Technical Staff Member of Open Technologies at IBM, working on a range of technologies with a primary focus on Open Source supply chain security and AI. He has been working on standards and open source for over 30 years. Arnaud was editor of several key web specifications including HTML and DOM and was a pioneer of open source with the release of libXpm in 1990. Arnaud is the main representative for IBM at W3C and INCITS, Co-Chair of the LF AI & Data Generative AI Commons, a member of the OpenSSF Technical Advisory Committee.
+
+</details>
+
 
 <a name="episode-4"></a>
 ### 🗓️ May 26, 2025: Fukami on learning how to stop worrying and love the NLF
