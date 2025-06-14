@@ -1,4 +1,14 @@
-# Contribution to CEN/CENELEC WG 9 PT 3 Vulnerability Handling Standard Clause 4.4
+---
+SIG: Cyber Resilience SIG
+Document Type: Deliverable
+Number: 2.2
+Status: 🚀 Contributed
+Group: CEN/CENELEC WG 9
+Subgroup: PT 3
+Date: 2025-05-20
+---
+
+# Contribution to CEN/CENELEC Vulnerability Handling Standard Clause 4.4
 
 ## Request
 
