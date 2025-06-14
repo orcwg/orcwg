@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Task force: FAQ TF
 Document type: Minutes
-Status: Proposed agenda
+Status: 🗓️ Proposed agenda
 Date: 2025-mm-dd
 ---
 
