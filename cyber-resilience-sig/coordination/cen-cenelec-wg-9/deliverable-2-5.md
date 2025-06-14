@@ -17,15 +17,15 @@ As part of its process, CEN/CENELEC WG 9 PT 1 requested comments on its [Horizon
 
 ## Goals
 
-1. Prevent the open source ecosystem from having to purchase standards to comply to the CRA.
- * Prevent requirements placed on stewards, open source projects, and maintainers in CEN/CENELEC standards as these standards aren't freely available.
+1. Prevent the open source ecosystem from having to purchase standards to comply to the CRA
+    * Prevent requirements placed on stewards, open source projects, and maintainers in CEN/CENELEC standards as these standards aren't freely available.
 2. Avoid placing unnecessary demands on the open source ecosystem
- * Prevent requirements placed on manufacturers that rely on stewards, open source projects, or maintainers performing certain actions they have no obligations to perform.
- * Prevent requirements that might lead manufacturers to expect the same interactions with stewards, open source projects, or maintainers as they have with their suppliers.
+    * Prevent requirements placed on manufacturers that rely on stewards, open source projects, or maintainers performing certain actions they have no obligations to perform.
+    * Prevent requirements that might lead manufacturers to expect the same interactions with stewards, open source projects, or  maintainers as they have with their suppliers.
 3. Maintain a leveled playing field
- * Prevent requirements placed on manufacturers which unfairly favor proprietary software (such as mandating security by obscurity, for example).
+    * Prevent requirements placed on manufacturers which unfairly favor proprietary software (such as mandating security by obscurity, for example).
 4. Maintain Europe's ability to leverage open source
- * Prevent requirements that unreasonably burden manufacturers integrating open source components.
+    * Prevent requirements that unreasonably burden manufacturers integrating open source components.
 
 ## Comments
 
