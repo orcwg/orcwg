@@ -14,7 +14,7 @@ Date: 2025-mm-dd
 |   3 | Approve minutes | Tobie |
 |   5 | [Pending action items](#pending-action-items) from last TF call | Tobie |
 |  10 |  | |
-|  15 | TF status update (([Project board](https://github.com/orgs/orcwg/projects/7))) | TF leads |
+|  15 | TF status update ([Project board](https://github.com/orgs/orcwg/projects/7)) | TF leads |
 |  20 |  | |
 |  25 |  | |
 |  30 |  | |
