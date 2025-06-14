@@ -31,12 +31,11 @@ As part of its process, CEN/CENELEC WG 9 PT 1 requested comments on its [Horizon
 
 We identified two sections of the [Horizontal standard on General principles for cyber resilience (JT013089)][JT013089] that were concerning given the goals stated above and submitted comments for them:
 
-**Section 5.5** which describes a required consultation process when integrating third party components including open source software that would require manufacturers to build a 1:1 relationship with open source maitainers in order to be able to integrate open source components.
+**Clause 5.5** describes a required consultation process when integrating third-party components, including open source software, that would require manufacturers to build a 1:1 relationship with open source maintainers in order to integrate open source components.
 
-**Section 6.12** which essentially describes due diligence requirements for third party componentns, and also included a number of requirements that were concerning given the above mentioned goals.
+**Clause 6.12** essentially describes due diligence requirements for third-party components and includes a number of requirements that are concerning given the above-mentioned goals.
 
-We submitted our comments on June 12, 2025 using the requested docx template.
-
+We submitted [our comments](./eclipse-foundation-JT013089-comments.docx) on June 12, 2025 using the requested docx template.
 
 | Line number | Clause / Subclause | Paragraph / Figure / Table | Type of comment | Comments | Proposed change |
 |---|---|---|---|---|---|
