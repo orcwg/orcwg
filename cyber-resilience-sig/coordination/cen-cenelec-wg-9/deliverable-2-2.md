@@ -1,4 +1,14 @@
-# Contribution to CEN/CENELEC WG 9 PT 3 Vulnerability Handling Standard Clause 4.4
+---
+SIG: Cyber Resilience SIG
+Document Type: Deliverable
+Number: 2.2
+Status: 🚀 Contributed
+Group: CEN/CENELEC WG 9
+Subgroup: PT 3
+Date: 2025-05-20
+---
+
+# Contribution to CEN/CENELEC Vulnerability Handling Standard Clause 4.4
 
 ## Request
 
@@ -40,24 +50,6 @@ To facilitate the reporting of vulnerabilities, Stewards shall create, implement
 Not all open-source projects that a manufacturer depends on should be expected to be supported by a Steward. The obligations of the manufacturers towards those projects remain the same regardless.
 
 Stewards are not responsible for developing remedies for the vulnerabilities reported in the software for which they are Stewards. However, a Steward must report severe incidents of which they are aware that impact the tools and services they provide to support open-source software development. Additionally, a Steward has a limited reporting obligation if they are involved in developing the open-source software for which they are Stewards.
-
-## Feedback received on May 21, 2025
-
-Contribution was presented on May 21, 2025 during a PT 3 call.
-
-- No major comments.
-- ToDos:
-  - We need to do away with all "shalls", this is informative text.
-  - Also have to check that we don't duplicate CRA text.
-  - Check with PT 3 Rapporteur that contribution covers what is necessary.
-
-Some discussion in PT 3:
-
-- Suggestion to doublecheck the text is in alignment with PT1's draft.
-- Confirmation that the [Standardisation Request](https://github.com/orcwg/cra-hub/tree/main/resources#february-3-2025---standardisation-request) has no reference to stewards, therefore nothing to be considered from that point of view.
-- Proposal to remove the text from the "General" clause (clause 4) and move it to Annex.
-- Suggestion to consider if the the text is required in the standard at all.
-- Conclusion: for time being the text remains as Clause 4.4, moving to Annex or deleting entirely is an easy quick job.
 
 ## Acknowledgments
 
