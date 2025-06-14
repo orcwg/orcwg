@@ -52,7 +52,7 @@ flowchart LR
 | 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
 | ✅ | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][TFs] | May 30, 2025 | June 16, 2025 |
 | | 2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4] | [Vulnerability Handling Task Force][TFs] | June 30, 2025 | |
-| 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 |
+| 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 |June 12, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -188,13 +188,13 @@ Following the delivery 2.2, the rapporteur for [CEN/CENELEC WG 9 PT 3][] asked f
 
 #### 2.5 Comments on CEN/CENELEC PT 1 Standard
 
-AS part of it's process, CEN/CENELEC had an internal call for comments for it's PT 1 standard.
+As part of its process, CEN/CENELEC WG 9 PT 1 requested comments on its [Horizontal standard on General principles for cyber resilience (JT013089)](https://github.com/orcwg/cra-hub/blob/main/standards.md#milestone-1---horizontal-standards-due-august-30-2026) from its working group participants (note this was not a public call for comments).
 
 <details>
   <summary>More info</summary>
   
-* **Source:**
-* **Type:** Comment
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-5.md>
+* **Type:** Comments
 * **License:** CC-BY 4.0
 * **Owner:** [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] 
 * **Input to:** [CEN/CENELEC WG 9 PT 1][]
