@@ -47,10 +47,10 @@ flowchart LR
 | | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][TFs] | April 2025 | June 2025 |
 | | 1.2 [Inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
 | | | | | |
-| **2.** | **Inputs** | | | |
+| **2.** | **Inputs & contributions** | | | |
 | 🚀 | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
-| ✅ | 2.3 [Input to EU Guidance on open source hardware][input open source hardware] | [Open Source Hardware Task Force][TFs] | May 30, 2025 | June 16, 2025 |
+| ✅ | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][TFs] | May 30, 2025 | June 16, 2025 |
 | | 2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4] | [Vulnerability Handling Task Force][TFs] | June 30, 2025 | |
 | | | | | |
 | **3.** | **White papers** | | | |
@@ -111,7 +111,7 @@ This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [C
 </details>
 
 
-### 2. Inputs
+### 2. Inputs & contributions
 
 #### 2.1 Input to the Draft EU Commission Implementing Regulation on the technical description of important and critical product
 
@@ -138,7 +138,7 @@ The rapporteur for [CEN/CENELEC WG 9 PT 3][] requested input for the section on 
 <details>
   <summary>More info</summary>
   
-* **Source:** <https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-2.md>
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-2.md>
 * **Type:** Input
 * **License:** CC-BY 4.0
 * **Owner:** [Cyber Resilience SIG][SIG]
@@ -149,16 +149,16 @@ The rapporteur for [CEN/CENELEC WG 9 PT 3][] requested input for the section on 
     
 </details>
 
-#### 2.3 Input to the CRA Expert Group's Open Source Workstrand on open source hardware
+#### 2.3 Contribution to open source EU Guidance on open source hardware
 
 The European Commission sought the [Cyber Resilience SIG][SIG]'s input to better understand some of the concerns raised by the open source hardware commnunity as part of its consultation on the technical definitions of important and critical products. After consulting with members of the open source hardware community through the dedicated mailing list hosted by OpenForum Europe and some back and forth with the Commission, we agreed that the best course of action was to provide input to the Commission's Guidance on open source via the [CRA Expert Group][]. This input would clarify what open source hardware is, demonstrate its functional equivalence to open source software, and argue that it should therefore be treated as open source software under the CRA.
 
-This [input](https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig/coordination/cra-expert-group/foss-guidance-open-source-hardware.md) will be provided to the open source workstrand of the [CRA Expert Group][] at the very latest on June 16, 2025.
+This [input](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cra-expert-group/foss-guidance-open-source-hardware.md) will be provided to the open source workstrand of the [CRA Expert Group][] at the very latest on June 16, 2025.
 
 <details>
   <summary>More info</summary>
   
-* **Source:** <https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig/coordination/cra-expert-group/foss-guidance-open-source-hardware.md>
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cra-expert-group/deliverable-2-3.md>
 * **Type:** Input
 * **License:** CC-BY 4.0
 * **Owner:** [Open Source Hardware Task Force][TFs]
@@ -176,7 +176,7 @@ Following the delivery 2.2, the rapporteur for [CEN/CENELEC WG 9 PT 3][] asked f
 <details>
   <summary>More info</summary>
 
-* **Source:** <https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-4.md>
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-4.md>
 * **Type:** Input
 * **License:** CC-BY 4.0
 * **Owner:** [Vulnerability Handling Task Force][SIG]
@@ -470,7 +470,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [inventory]: #12-inventory 
 [input product categories]: #21-input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
 [deliverable-2-2]: #22-contribution-to-cencenelec-vulnerability-handling-standard-clause-2-2
-[input open source hardware]: #23-input-to-the-cra-expert-groups-open-source-workstrand-on-open-source-hardware
+[deliverable-2-3]: #23-contribution-to-cra-expert-groups-open-source-workstrand-on-open-source-hardware
 [deliverable-2-4]: #24-contribution-to-cencenelec-vulnerability-handling-standard-annex-c
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers

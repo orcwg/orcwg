@@ -1,4 +1,14 @@
-# Input to the CRA Expert Group's Open Source Workstrand on open source hardware
+---
+SIG: Cyber Resilience SIG
+Document Type: Deliverable
+Number: 2.3
+Status: ✅ Approved
+Group: CRA Expert Group
+Subgroup: Open Source Workstrand
+Date: 2025-06-14
+---
+
+# Contribution to open source EU Guidance on open source hardware
 
 ## Context
 
