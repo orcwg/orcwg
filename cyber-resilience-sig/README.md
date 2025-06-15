@@ -76,24 +76,24 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 
 ### Current liaisons
 
-| Group | Subgroup | Representatives | Meeting notes |
-|---|---|---|---|
-| <a href="#cra-expert-group" name="cra-expert-group">CRA Expert Group</a> | _(work strands)_ | Dirk-Willem van Gulik, Mikaël Barbero, **Tobie Langel** _(lead)_ | [Notes](./coordination/cra-expert-group/) |
-|  | Product categories | Timo Perala, **Tobie Langel** _(lead)_ |  |
-|  | Open source | Timo Perala, **Tobie Langel** _(lead)_ |  |
-|  | Risk assessment |  |  |
-|  | Remote data processing |  |  |
-|  | Market surveillance |  |  |
+| Group | Subgroup | GitHub Team | Lead | Meeting notes |
+|---|---|---|---|---|
+| <a href="#cra-expert-group" name="cra-expert-group">CRA Expert Group</a> | _(work strands)_ | [@orcwg/cra-expert-group](https://github.com/orgs/orcwg/teams/cra-expert-group) | Tobie Langel | [Notes](./coordination/cra-expert-group/) |
+|  | Product categories     |  | Tobie Langel |  |
+|  | Open source            |  | Tobie Langel |  |
+|  | Risk assessment        |  |              |  |
+|  | Remote data processing |  |              |  |
+|  | Market surveillance    |  |              |  |
 ||
-| <a href="#cen-cenelec-wg-9" name="cen-cenelec-wg-9">CEN/CENELEC WG 9</a> | _(project teams)_  | **Juan Rico** _(lead)_, Lars Francke, Marta Rybczynska, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel | [Notes](./coordination/cen-cenelec-wg-9/) |
-|  | PT 1 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT 2 | Lars Francke, Mikaël Barbero, Timo Perala, Tobie Langel |  |
-|  | PT 3 | Lars Francke, **Marta Rybczynska** _(lead)_, Mikaël Barbero, Roman Zhukov, Timo Perala, Tobie Langel |  |
+| <a href="#cen-cenelec-wg-9" name="cen-cenelec-wg-9">CEN/CENELEC WG 9</a> | _(project teams)_  | [@orcwg/cen-cenelec-wg-9](https://github.com/orgs/orcwg/teams/cen-cenelec-wg-9) | Juan Rico | [Notes](./coordination/cen-cenelec-wg-9/) |
+|  | PT 1 |  |  |  |
+|  | PT 2 |  |  |  |
+|  | PT 3 |  | Marta Rybczynska |  |
 ||
-| <a href="#etsi-cyber-eusr" name="etsi-cyber-eusr">ETSI CYBER-EUSR</a> | _(work items)_ | Daniel Thompson-Yvetot, Jordan Maris, Juan Rico, Roman Zhukov, **Simon Phipps** _(lead)_, Timo Perala | [Notes](./coordination/etsi-cyber-eusr/) |
-|  | Browsers | **Daniel Thompson-Yvetot** _(lead)_ |  |
-|  | Hypervisors | **Roman Zhukov** _(lead)_ |  |
-|  | Operating Systems | **Roman Zhukov** _(lead)_ |  |
+| <a href="#etsi-cyber-eusr" name="etsi-cyber-eusr">ETSI CYBER-EUSR</a> | _(work items)_ | [@orcwg/etsi-cyber-eusr](https://github.com/orgs/orcwg/teams/etsi-cyber-eusr) | Simon Phipps | [Notes](./coordination/etsi-cyber-eusr/) |
+|  | Browsers          |  | Daniel Thompson-Yvetot |  |
+|  | Hypervisors       |  | Roman Zhukov |  |
+|  | Operating Systems |  | Roman Zhukov |  |
 
 ## Why a Cyber Resilience SIG?
 
