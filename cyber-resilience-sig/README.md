@@ -2,15 +2,20 @@
 
 Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
+GitHub Team: [@orcwg/cyber-resilience-sig-leads](https://github.com/orgs/orcwg/teams/cyber-resilience-sig)
+
 ## Meetings
 
 * [Meeting info](../MEETINGS.md)
 * [Minutes](./minutes/)
 
 ## Leads
+
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
 * Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
 * Timo Perala ([@timop62][]), Nokia
+
+GitHub Team: [@orcwg/cyber-resilience-sig-leads](https://github.com/orgs/orcwg/teams/cyber-resilience-sig-leads)
 
 ## Scope
 
@@ -30,6 +35,7 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified a [set of 
 * [Cyber Resilience Practices Project](https://projects.eclipse.org/projects/technology.crp)
 
 ### Project leads
+
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
 * Mikael Barbero ([@mbarbero][]), Eclipse Foundation
 * Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
@@ -47,13 +53,13 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 
 ### Current task forces
 
-| Name | Focus Area | Lead(s) | Deliverables | Minutes | End date | 
+| Name | Focus Area | GitHub Team | Deliverables | Minutes | End date | 
 |---|---|---|---|---|---|
 | Deliverables Plan Task Force | Define a deliverables plan for the SIG for 2025 | Tobie Langel ([@tobie](https://github.com/tobie)) | [Deliverables Plan](./deliverables.md) | [Minutes](./minutes/deliverables-plan-task-force) | 2025-03-03 |
-| FAQ Task Force | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-task-force-leads](https://github.com/orgs/orcwg/teams/faq-task-force-leads) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
-| Inventory Task Force | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-task-force-leads](https://github.com/orgs/orcwg/teams/inventory-task-force-leads) | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
-| Vulnerability Handling Task Force | <li>Help coordinate input to [CEN/CENELEC PT 3](#cen-cenelec-wg-9)<li>Provide input to the SIG and Cyber Resilience Practices Project on [deliverables plan](./deliverables.md) and [proposed specs](./deliverables.md#4-specifications) | [@orcwg/vulnerability-handling-task-force-leads](https://github.com/orgs/orcwg/teams/vulnerability-handling-task-force-leads) | Possible white paper on vulnerability handling | [Minutes](./minutes/vulnerability-handling-task-force) | 2025-12-31 |
-| Open Source Hardware Task Force | Provide input and comments to [key stakeholders](#key-stakeholder-coordination) on matters pertaining to open source hardware | [@orcwg/open-source-hardware-task-force](https://github.com/orgs/orcwg/teams/open-source-hardware-task-force) | Input and comments | [Minutes](./minutes/open-source-hardware-task-force) | 2027-12-31 |
+| FAQ Task Force | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-tf](https://github.com/orgs/orcwg/teams/faq-tf) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
+| Inventory Task Force | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-tf](https://github.com/orgs/orcwg/teams/inventory-tf) | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
+| Vulnerability Handling Task Force | <li>Help coordinate input to [CEN/CENELEC PT 3](#cen-cenelec-wg-9)<li>Provide input to the SIG and Cyber Resilience Practices Project on [deliverables plan](./deliverables.md) and [proposed specs](./deliverables.md#4-specifications) | [@orcwg/vulnerability-handling-tf](https://github.com/orgs/orcwg/teams/vulnerability-handling-tf) | Possible white paper on vulnerability handling | [Minutes](./minutes/vulnerability-handling-task-force) | 2025-12-31 |
+| Open Source Hardware Task Force | Provide input and comments to [key stakeholders](#key-stakeholder-coordination) on matters pertaining to open source hardware | [@orcwg/open-source-hardware-task-force](https://github.com/orgs/orcwg/teams/open-source-hardware-tf) | Input and comments | [Minutes](./minutes/open-source-hardware-tf) | 2027-12-31 |
 
 
 ## Key stakeholder coordination
