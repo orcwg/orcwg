@@ -1,6 +1,5 @@
 ---
 SIG: Cyber Resilience SIG
-Subgroup: CEN/CENELEC W9 PT1 Liaisons
 Document Type: Deliverable
 Number: 2.5
 Status: 🚀 Submitted
