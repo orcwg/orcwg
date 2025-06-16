@@ -29,7 +29,7 @@ Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.
 > 
 > We also believe that ENISA should step up as a CNA of Last Resource (for Europe, regardless of report or vendors jurisdiction). Secondly we believe that ENISA should contribute systematically and long term to the CVE system as a whole; in general, and in particular around governance, establishing industry best practices and driving improvements. This also includes a pro-active, operational role, in ensuring that coordinated disclosure processes are followed and that the data is of sufficient quality to be useful in a European setting in general and for compliance with, for example, NIS2 and the CRA in particular. This may, at times, include helping the industry by annotating records, defining vocabulary or by re-publishing advisories after normalisation.
 > 
-> MITRE’s role as Secretariat plays a key role to provide a resource to boost supply chain resilience.  Whilst it is regrettable the recent publicity and uncertainty in funding we are pleased that this matter has now been partially resolved.  
+> MITRE’s role as Secretariat plays a key role to provide a resource to boost supply chain resilience. While its recent publicity and uncertainty in funding are regrettable, we are pleased that this matter has now been partially resolved.  
 > 
 > The momentary alarm did however serve as a timely reminder to both governments and industry as to CVE’s global importance for supply chain resilience and need for wider global support.
 > 
