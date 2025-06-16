@@ -35,7 +35,7 @@ Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.
 > 
 > Indeed, this has also been recognised by several European governments who subsequently confirmed their wish to support (technically and financially) and thus we would hope that this support can be mirrored at an EU level, perhaps via ENISA, into a system which is mirrored infrastructure in Europe and co-developed.
 > 
-> We also see the growing role of national Computer Security Incident Response Team (CSIRTs), such as the National Cyber Security Centre (NCSC) in Ireland, largely supporting bug bounty programs, Capture the Flag (CTF) and other activities with local academia, government and businesses, investing in vulnerability discovery and management, and thus important to double down on the CVE program in a uniformed, cross-European and international way.
+> We also see the growing role of national Computer Security Incident Response Team (CSIRTs), such as the National Cyber Security Centre (NCSC) in Ireland, largely supporting bug bounty programs, Capture the Flag (CTF) and other activities with local academia, government and businesses, investing in vulnerability discovery and management, and thus it is important to double down on the CVE program in a uniformed, cross-European and international way.
 > 
 > It would also be advisable for the European Commission to include this need for reinforced collaboration in their next inter-institutional dialogue with USA CISA.
 > 
