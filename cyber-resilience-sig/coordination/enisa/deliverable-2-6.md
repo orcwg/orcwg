@@ -57,7 +57,8 @@ James Lovegrove,
 Jeremy Stanley,
 Olle E. Johansson,
 Roman Zhukov,
-and Tobie Langel.
+Tobie Langel,
+and Ulises Gascon.
 
 If you have contributed to this document and aren't properly acknowledged or if you want to edit or remove your name, please let us know by [opening an issue](https://github.com/orcwg/orcwg/issues/new) and we will fix this right away.
 
