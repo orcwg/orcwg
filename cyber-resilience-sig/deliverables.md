@@ -44,14 +44,14 @@ flowchart LR
 | | Deliverable name | Owner | First draft due | Final draft due |
 |---:|---|---|---|---|
 | **1.** | **Documentation** | | | |
-| | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][TFs] | April 2025 | June 2025 |
-| | 1.2 [Inventory][] | [Inventory Task Force][TFs] | April 2025 | June 2025 |
+| | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][] | April 2025 | June 2025 |
+| | 1.2 [Inventory][] | [Inventory Task Force][] | April 2025 | June 2025 |
 | | | | | |
 | **2.** | **Inputs & contributions** | | | |
 | 🚀 | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
 | 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
-| 🚀 | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][TFs] | May 30, 2025 | June 16, 2025 |
-| | 2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4] | [Vulnerability Handling Task Force][TFs] | June 30, 2025 | |
+| 🚀 | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][] | May 30, 2025 | June 16, 2025 |
+| | 2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4] | [Vulnerability Handling Task Force][] | June 30, 2025 | |
 | 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 |June 12, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
@@ -83,7 +83,7 @@ A first version of the CRA FAQ will be contributed to the [CRA Expert Group][] i
 * **Source:** <https://github.com/orcwg/cra-hub/blob/main/faq.md>
 * **Type:** Documentation
 * **License:** CC-BY 4.0
-* **Owner:** [FAQ Task Force][TFs]
+* **Owner:** [FAQ Task Force][]
 * **Input to:** EU Guidance 
 * **Relevant liaisions**: [EU Commission][], [CRA Expert Group][] 
 * **First draft by:** June 2025
@@ -103,7 +103,7 @@ This inventory will be contributed to [CEN/CENELEC][] and [ETSI][] and to the [C
 * **Source:** <https://github.com/orcwg/cra-hub/blob/main/inventory.md>
 * **Type:** Documentation
 * **License:** CC-BY 4.0
-* **Owner:** [Inventory Task Force][TFs]
+* **Owner:** [Inventory Task Force][]
 * **Input to:** Harmonised standards, ORC WG white papers and specifications
 * **Relevant liaisions**: [CEN/CENELEC][]
 * **First draft by:** May 2025
@@ -162,7 +162,7 @@ This [input](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coord
 * **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cra-expert-group/deliverable-2-3.md>
 * **Type:** Input
 * **License:** CC-BY 4.0
-* **Owner:** [Open Source Hardware Task Force][TFs]
+* **Owner:** [Open Source Hardware Task Force][]
 * **Input to:** EU Guidance
 * **Relevant liaisions**: [EU Commission][], [CRA Expert Group][]
 * **First draft by:** May 30, 2025
@@ -475,8 +475,14 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 
 
 [EFSL]: https://www.eclipse.org/legal/efsl/
-[TFs]: ./README.md#current-task-forces
+
 [SIG]: ./README.md
+[TFs]:                               ./README.md#current-task-forces
+[Deliverables Plan Task Force]:      ./README.md#deliverables-plan-tf
+[FAQ Task Force]:                    ./README.md#faq-tf
+[Inventory Task Force]:              ./README.md#inventory-tf
+[Vulnerability Handling Task Force]: ./README.md#vulnerability-handling-tf
+[Open Source Hardware Task Force]:   ./README.md#open-source-hardware-tf
 [Cyber Resilience Practices Project]: ./README.md#cyber-resilience-practices-project
 
 [Article 13(5)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13
