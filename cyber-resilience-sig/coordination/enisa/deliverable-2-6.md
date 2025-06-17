@@ -31,7 +31,7 @@ Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.
 > 
 > MITRE’s role as Secretariat for CVE program plays a key role to provide a resource to boost supply chain resilience. While its recent publicity and uncertainty in funding are regrettable, we are pleased that this matter has now been partially resolved.  
 > 
-> The momentary alarm did however serve as a timely reminder to both governments and industry as to CVE’s global importance for supply chain resilience and need for wider global support.
+> The momentary alarm did however serve as a timely reminder to both governments and industry as to the global importance of a free, distributed and trusted vulnerability intelligence system for supply chain resilience and need for wider global support.
 > 
 > Indeed, this has also been recognised by several European governments who subsequently confirmed their wish to support (technically and financially) and thus we would hope that this support can be mirrored at an EU level, perhaps via ENISA, into a system which is mirrored infrastructure in Europe and co-developed.
 > 
