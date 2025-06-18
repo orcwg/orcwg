@@ -10,7 +10,9 @@
 * Daniel Dilger ([@mm73628486283][]), Mercedes-Benz Tech Innovation GmbH
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
 * Jonne Soininen ([@josoinin][]), Nokia _(alternate)_
+* Pavel Hruza, Red Hat _(alternate)_
 * Roberto Di Cosmo ([@rdicosmo][]), Software Heritage Foundation - Inria Foundation
+* Roman Zhukov ([rozhukov][]), Red Hat
 * Tim Herresm, Mercedes-Benz Tech Innovation GmbH _(alternate)_
 * Timo Perala ([@timop62][]), Nokia
 * Victor Roland ([@Viko-legal][]), OBEO
@@ -27,3 +29,4 @@
 [@rdicosmo]: https://github.com/rdicosmo
 [@timop62]: https://github.com/timop62
 [@Viko-legal]: https://github.com/Viko-legal
+[rozhukov]: https://github.com/rozhukov
