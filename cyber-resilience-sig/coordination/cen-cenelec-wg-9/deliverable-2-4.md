@@ -2,15 +2,19 @@
 SIG: Cyber Resilience SIG
 Document Type: Deliverable
 Number: 2.4
-Status: ⚠️ Draft
+Status: ❌ Cancelled
 Group: CEN/CENELEC WG 9
 Subgroup: PT 3
 Date: 2025-05-20
+Cancelled: 2025-06-19
 ---
 
-# Contribution to CEN/CENELEC Vulnerability Handling Standard Annex C
+# ~~~Contribution to CEN/CENELEC Vulnerability Handling Standard Annex C~~~
 
 ## Request
+
+> [!NOTE]
+> CEN/CENELEC W9 plenary decided to rescind this contribution request. As a result the Vulnerability Handling Task Force decided to cancel the deliverable during its [June 19 meeting](../../vulnerability-handling-task-force/2025-06-19-mom-vulnerability-handling-tf.md).
 
 Provide the content for the **informative** section on open source software stewards (Annex C). Additionally, provide:
 
