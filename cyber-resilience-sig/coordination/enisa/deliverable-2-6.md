@@ -21,10 +21,11 @@ Feedback provided on June 20, 2025 (reference: [F3567995](https://ec.europa.eu/i
 * Urge the EU Commission to increase ENISA's mandate regarding CVE handling
 * Avoid disproportionate reliance on U.S. government funding for CVEs
 
-## Draft feedback
+## Feedback
 
 > [!NOTE]
 > Feedback must be provided in a comment box (so no formatting option). Text length is limited to 4,000 characters.
+- [Feedback (PDF)](./deliverable-2-6-orcwg-csa-revision-feedback.pdf)
 
 > In light of the CSA review and wider need for harmonisation of vulnerability disclosure requirements across several EU regulations (e.g. CRA, NIS2, DORA, AI act) as well as further sharing of supply-chain best-practices, the Open Regulatory Compliance (ORC) Working Group of the Eclipse Foundation wishes to share and reiterate the importance of the Common Vulnerabilities and Exposures (CVE) system and a stronger technical and strategic role for ENISA given its growing international objective:
 > 
