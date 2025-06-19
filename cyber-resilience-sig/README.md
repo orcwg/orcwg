@@ -54,7 +54,7 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 ### Current task forces
 
 | Name | Focus Area | GitHub Team | Slack Channel | Deliverables | Minutes | End date | 
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | <a href="#deliverables-plan-tf" name="deliverables-plan-tf">Deliverables Plan Task Force</a> | Define a deliverables plan for the SIG for 2025 | Tobie Langel ([@tobie](https://github.com/tobie)) | | [Deliverables Plan](./deliverables.md) | [Minutes](./minutes/deliverables-plan-task-force) | 2025-03-03 |
 | <a href="#faq-tf" name="faq-tf">FAQ Task Force</a> | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-tf](https://github.com/orgs/orcwg/teams/faq-tf) | [#tf-faq](https://app.slack.com/client/T083EEQCLCC/C08M5H2BQV8) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
 | <a href="#inventory-tf" name="inventory-tf">Inventory Task Force</a> | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-tf](https://github.com/orgs/orcwg/teams/inventory-tf) | | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
