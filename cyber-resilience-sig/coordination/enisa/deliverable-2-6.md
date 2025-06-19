@@ -37,7 +37,7 @@ Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.
 > 
 > We also see the growing role of national Computer Security Incident Response Team (CSIRTs), such as the National Cyber Security Centre (NCSC) in Ireland, largely supporting bug bounty programs, Capture the Flag (CTF) and other activities with local academia, government and businesses, investing in vulnerability discovery and management, and thus it is important to double down on the CVE program in a uniformed, cross-European and international way.
 > 
-> It would also be advisable for the European Commission to include this need for reinforced collaboration in their next inter-institutional dialogue with USA CISA.
+> It would also be advisable for the European Commission to include this need for reinforced collaboration in its next inter-institutional dialogue with the USA's CISA and the UK's NCSC.
 > 
 >  While we recognise the importance of NIS2’s European Vulnerability Database (EUVD), we believe there is still room for better alignment and coordination. The EUVD beta includes identifiers that are not aligned or easily mapped to CVEs. This fragmentation creates confusion for producers and consumers of software bills of materials (SBOMs) and vulnerability data, reduces Europe’s ability to defend against criminal and state-sponsored threats, and increases compliance burdens and operational complexity for software teams, open source maintainers, and users. The European Commission should revise the CSA to ensure better alignment between CVE and EUVD systems.
 > 
