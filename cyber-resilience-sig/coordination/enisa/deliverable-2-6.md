@@ -14,7 +14,7 @@ Submitted: 2025-06-20
 
 Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en) as part of its [initiative to revise the Cybersecurity Act (CSA)](https://digital-strategy.ec.europa.eu/en/news/commission-opens-consultation-revising-eu-cybersecurity-act). Urge for a stronger technical and strategic role for ENISA in light of the [recent funding issues of the US CVE program](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures#2025_funding_issues) and the increased importance of vulnerability handling in EU legislation.
 
-Feedback was provided on June 20, 2025 (Feedback reference [F3567995](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F3567995_en)).
+Feedback provided on June 20, 2025 (reference: [F3567995](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F3567995_en)).
 
 ## Goals
 
