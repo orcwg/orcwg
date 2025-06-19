@@ -494,7 +494,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [FAQ]: #11-cra-faq
 [inventory]: #12-inventory 
 [input product categories]: #21-input-to-the-draft-eu-commission-implementing-regulation-on-the-technical-description-of-important-and-critical-product
-[deliverable-2-2]: #22-contribution-to-cencenelec-vulnerability-handling-standard-clause-2-2
+[deliverable-2-2]: #22-contribution-to-cencenelec-vulnerability-handling-standard-clause-44
 [deliverable-2-3]: #23-contribution-to-open-source-eu-guidance-on-open-source-hardware
 [deliverable-2-4]: #24-contribution-to-cencenelec-vulnerability-handling-standard-annex-c
 [deliverable-2-5]: #25-comments-on-cencenelec-pt-1-standard
