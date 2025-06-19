@@ -24,7 +24,7 @@ Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.
 ## Feedback
 
 > [!NOTE]
-> Feedback must be provided in a comment box (so no formatting option). Text length is limited to 4,000 characters.
+> ~~Feedback must be provided in a comment box (so no formatting option). Text length is limited to 4,000 characters.~~
 
 > In light of the CSA review and wider need for harmonisation of vulnerability disclosure requirements across several EU regulations (e.g. CRA, NIS2, DORA, AI act) as well as further sharing of supply-chain best-practices, the Open Regulatory Compliance (ORC) Working Group of the Eclipse Foundation wishes to share and reiterate the importance of the Common Vulnerabilities and Exposures (CVE) system and a stronger technical and strategic role for ENISA given its growing international objective:
 > 
