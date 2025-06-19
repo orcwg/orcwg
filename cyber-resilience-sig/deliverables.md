@@ -517,7 +517,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [deliverable-2-3]: #23-contribution-to-open-source-eu-guidance-on-open-source-hardware
 [deliverable-2-4]: #24-contribution-to-cencenelec-vulnerability-handling-standard-annex-c
 [deliverable-2-5]: #25-comments-on-cencenelec-pt-1-standard
-[deliverable-2-6]: #feedback-on-cybersecurity-act-csa-revision
+[deliverable-2-6]: #26-feedback-on-cybersecurity-act-csa-revision
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
