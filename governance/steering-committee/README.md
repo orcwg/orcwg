@@ -26,7 +26,8 @@
 [@dirkx]: https://github.com/dirkx
 [@josoinin]: https://github.com/josoinin
 [@mm73628486283]: https://github.com/mm73628486283
+[@pavelhruza]: https://github.com/pavelhruza
 [@rdicosmo]: https://github.com/rdicosmo
+[@rozhukov]: https://github.com/rozhukov
 [@timop62]: https://github.com/timop62
 [@Viko-legal]: https://github.com/Viko-legal
-[@rozhukov]: https://github.com/rozhukov
