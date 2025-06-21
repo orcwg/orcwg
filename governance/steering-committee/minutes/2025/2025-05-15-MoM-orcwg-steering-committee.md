@@ -1,14 +1,12 @@
 ---
-Governance: Steering Committee meeting
+Committee: Steering Committee
 Document Type: Minutes
-Status: Approved by the SC on 2025-06-12
+Status: ✅ Approved
 Date: 2025-05-15
+Approved: 2025-06-12
 ---
 
-
-# **Open Regulatory Compliance Working Group** Steering Committee Meeting
-
-###  15 May, 2025 
+# AGENDA
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
