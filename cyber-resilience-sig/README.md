@@ -2,7 +2,7 @@
 
 Cyber Resilience Special Interest Group (SIG) of ORC WG.
 
-GitHub Team: [@orcwg/cyber-resilience-sig-leads](https://github.com/orgs/orcwg/teams/cyber-resilience-sig)
+GitHub Team: [@orcwg/cyber-resilience-sig](https://github.com/orgs/orcwg/teams/cyber-resilience-sig)
 
 ## Meetings
 
