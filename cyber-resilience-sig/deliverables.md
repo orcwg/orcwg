@@ -54,6 +54,7 @@ flowchart LR
 | ❌ | ~~2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4]~~ | ~~[Vulnerability Handling Task Force][]~~ | ~~June 30, 2025~~ | |
 | 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 |June 12, 2025 |
 | 🚀 | 2.6 [2.6 Feedback on Cybersecurity Act (CSA) Revision][deliverable-2-6] | [Cyber Resilience SIG][SIG] | June 14, 2025 | June 20, 2025 |
+| 🚀 | 2.7 [Comments to EU Guidance on open source][deliverable-2-7] | [CRA Expert Group liaisons][CRA Expert Group] | June 18, 2025 | June 20, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -221,6 +222,27 @@ Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.
 * **Input to:** [EU Commission][]
 * **Relevant liaisions**: [ENISA][], [EU Commission][]
 * **First draft by:** June 14, 2025
+* **Final draft by:** June 20, 2025
+    
+</details>
+
+#### 2.7 Comments to EU Guidance on open source
+
+The [EU Commission][] requested comments from the open source workstrand of the [CRA Expert Group][] on its first draft of the first part of its Guidance on open source. This was not a public call for comments.
+
+This input was provided to the open source workstrand of the [CRA Expert Group][] on June 20, 2025.
+
+As the draft guidance cannot be shared outside of the CRA Expert Group, neither can the comments.
+
+<details>
+  <summary>More info</summary>
+  
+* **Source:** 
+* **License:** 
+* **Owner:** [CRA Expert Group liaisons][CRA Expert Group]
+* **Input to:** EU Guidance
+* **Relevant liaisions**: [CRA Expert Group][], [EU Commission][]
+* **First draft by:** June 18, 2025
 * **Final draft by:** June 20, 2025
     
 </details>
@@ -518,6 +540,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [deliverable-2-4]: #24-contribution-to-cencenelec-vulnerability-handling-standard-annex-c
 [deliverable-2-5]: #25-comments-on-cencenelec-pt-1-standard
 [deliverable-2-6]: #26-feedback-on-cybersecurity-act-csa-revision
+[deliverable-2-7]: #27-comments-to-eu-guidance-on-open-source
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
