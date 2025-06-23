@@ -1,4 +1,11 @@
-###  28 April 2025
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-04-28
+Approved: 2025-05-12
+---
+
 ##  Agenda
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
@@ -13,8 +20,7 @@
 | Deliverables Plan | Tobie | 20 |
 | AOB | | 5 |
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
  
 - Tobie Langel (UnlockOpen/Eclipse)
 - Timo Perälä (Nokia)
@@ -39,10 +45,10 @@
 - Jeremy Stanley (Spec Committee, OpenInfra Foundation, SPI)
 - Daniel Thompson-Yvetot (Tauri)
 
-</details>
 
 
-## Notes
+
+## Minutes
 
 ### Approve previous minutes  
   - Approved, Tobie to merge

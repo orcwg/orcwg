@@ -1,4 +1,11 @@
-###  12 May 2025
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-05-12
+Approved: 2025-05-26
+---
+
 ##  Agenda
 | Min | Agenda Topics | Moderator |
 | --: | ----- | --- |
@@ -15,8 +22,7 @@
 |  56 | AOB | |
 
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
  
 * Tobie Langel (UnlockOpen/ Eclipse Foundation)  
 * Daniel Thompson-Yvetot (Tauri)  
@@ -39,8 +45,6 @@
 * Aeva Black  
 * Jeremy Stanley (Spec Committee, OpenInfra Foundation, SPI)  
 * Lars Francke (Stackable)  
-
-</details>
 
 ## Notes
 

@@ -1,6 +1,11 @@
- **Open Regulatory Compliance Working Group** Cyber Resilience SIG
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-03-03
+Approved: 2025-03-17
+---
 
-###  3 March 2025
 ##  Agenda
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
@@ -13,9 +18,7 @@
 | Inventory Task Force | Maxim & Tobie | 5 |
 | AOB | | 5 |
 
-## Notes 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
 
 * Juan Rico (Eclipse Foundation)  
 * Tobie Langel (UnlockOpen/Eclipse Foundation)  
@@ -45,7 +48,9 @@
 * Pierre Pochery (FreeBSD Foundation)  
 * Lucia Lanfri (CEN/CENELEC)  
 * Alberto Pianon (Array)
-</details>
+
+
+## Minutes
 
 ### Stakeholder consultation workshop for CRA Standardization
 

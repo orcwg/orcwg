@@ -1,7 +1,13 @@
- **Open Regulatory Compliance Working Group** Cyber Resilience SIG
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-03-17
+Approved: 2025-03-31
+---
 
-###  17 March 2025
 ##  Agenda
+
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
 | Approve [previous minutes](https://github.com/orcwg/orcwg/pull/48) | Juan | 2 |
@@ -13,8 +19,7 @@
 | Task Force updates:<li>[FAQ](https://github.com/orgs/orcwg/projects/7)<li>Inventory | Tobie | 5 |
 | AOB | | 3 |
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
  
 * Tobie Langel (UnlockOpen / Eclipse Foundation  
 * Juan Rico (Eclipse Foundation)  
@@ -42,16 +47,16 @@
 * Michael Schuster (BSI)  
 * Sal Kimmich  
 * Seth Larson
-</details>
 
-Notes:
 
-## Approve previous minutes
+## Minutes
+
+### Approve previous minutes
 
 * [previous minutes](https://github.com/orcwg/orcwg/pull/48)  
 * Approved
 
-## Steering & Spec Committee updates
+### Steering & Spec Committee updates
 
 * Deliverables Plan approved  
 * Cyber Resilience Practices Project in ballot  
@@ -62,7 +67,7 @@ Notes:
 * Leadership group consolidated to simplify:  
   * SIG leadership \- Chair and Co-Chair of the Steering Committee and the Chair of the Specification Committee
 
-## Collaboration on BSI (Bundesamtes für Sicherheit in der Informationstechnik) and FSFE questionnaire
+### Collaboration on BSI (Bundesamtes für Sicherheit in der Informationstechnik) and FSFE questionnaire
 
 * Michael Schuster & Alexander Sander  
 * Focus is more on civil society, but includes additional stakeholders  
@@ -72,33 +77,33 @@ Notes:
   * The expected outcome from the survey is not only answers but also new questions to provide guidance.  
   * Common effort aligning this survey with the FAQ, and consulting them to the CRA Expert Group and the EC as a potential way forward.
 
-## Technical definitions of Important & Critical Products
+### Technical definitions of Important & Critical Products
 
 * [Proposal](https://github.com/orcwg/cra-hub/blob/tobie-prod-reg/product-definitions/README.md#current-consultations)  
 * [Related pull request](https://github.com/orcwg/cra-hub/pull/164)  
 * It was presented the methodology to work on the proposal, submitting comments via pull request.  
 * As a note: The definitions could be amended by other European laws, not only the CRA.
 
-## Collaboration with the EU Commission
+### Collaboration with the EU Commission
 
 * Presented to the EC the Deliverable Plan with positive feedback.  
 * It was suggested to have a joint brainstorming as each deliverable is started, and when the first draft is ready.  
 * It is necessary to create an explainer for each deliverable to present them to ETSI and CEN/CENELEC \- simplifying people to understand the work we are doing.  
 * **EXPLAINER** concept \- high level description of 1 page describing what the next piece of work will look like.
 
-## Task force on advocacy / thought leadership?
+### Task force on advocacy / thought leadership?
 
 * [Related issue](https://github.com/orcwg/orcwg/issues/52#issuecomment-2723901813)  
 * Usage of the potential fines \- propose to take that money back to the open source community by setting a Soverign tech fund.  
 * Public access to the aggregated SBOMs \- [https://github.com/orcwg/orcwg/issues/52\#issuecomment-2723901813](https://github.com/orcwg/orcwg/issues/52#issuecomment-2723901813)   
 * People interested to reach out either in the issues, slack or any other mean
 
-## Task Force updates
+### Task Force updates
 
 * [FAQ](https://github.com/orgs/orcwg/projects/7)  
 * Inventory
 * No progress on this area in the last two weeks.
 
-## AOB
+### AOB
 
 * Proposal: Add a standing point “Reports from other projects and organisations” where we get VERY SHORT updates and pointers to more information
