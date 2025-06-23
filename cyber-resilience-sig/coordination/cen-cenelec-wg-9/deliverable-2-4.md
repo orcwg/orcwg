@@ -9,7 +9,7 @@ Date: 2025-05-20
 Cancelled: 2025-06-19
 ---
 
-# ~~~Contribution to CEN/CENELEC Vulnerability Handling Standard Annex C~~~
+# ~~Contribution to CEN/CENELEC Vulnerability Handling Standard Annex C~~
 
 ## Request
 
