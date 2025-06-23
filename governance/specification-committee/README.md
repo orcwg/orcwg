@@ -10,7 +10,7 @@
 * Dave Baker ([@dbaker-arch][]), Red Hat
 * Jeremy Stanley ([@fungi][]), Open Infrastructure Foundation
 * Jonne Soininen ([@josoinin][]), Nokia _(alternate)_
-* Shehnila Manzoor ([@shmanzoor][]), Red Hat
+* Shehnila Manzoor ([@shmanzoor][]), Red Hat _(alternate)_
 * Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
 * Tim Herresm, Mercedes-Benz Tech Innovation GmbH _(alternate)_ 
 * Timo Perala ([@timop62][]), Nokia
