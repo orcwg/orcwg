@@ -66,18 +66,17 @@ Date: 2025-06-23
 
 ### Pending action items from last sig call 
 
-* Open [PR](https://github.com/orcwg/orcwg/pull/127) to add statements on CVEs to deliverables plan & get SIG started on this  
-  * https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md  
-  * https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6-orcwg-csa-revision-feedback.pdf  
-*  Continue work on infrastructure facilitating coordination around standardization.  
+* Open [PR](https://github.com/orcwg/orcwg/pull/127) to add statements on CVEs to deliverables plan & get SIG started on this
+  * This was completed and shipped last week: [Deliverable 2.6](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md), [PDF](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6-orcwg-csa-revision-feedback.pdf  )
+* Continue work on infrastructure facilitating coordination around standardization.  
   * Weekly emails continue  
   * Not much progress outside of that  
   * Positive feedback from the SIG on those emails  
-*  Organize first Vulnerability Handling TF call.  
+* Organize first Vulnerability Handling TF call.  
   * More later in the call  
-*  Add missing volunteers to Vulnerability Handling TF GH team.  
+* Add missing volunteers to Vulnerability Handling TF GH team.  
   * Done  
-*  Close [work on BSI/FSFE questionnaire](https://github.com/orcwg/cra-hub/labels/Questionnaire).  
+* Close [work on BSI/FSFE questionnaire](https://github.com/orcwg/cra-hub/labels/Questionnaire).  
   * Should I close or merge the open pull requests \- waiting on Roman / Vick
 
 ### Welcome new senior policy advisor
