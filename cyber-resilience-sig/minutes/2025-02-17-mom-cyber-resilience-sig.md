@@ -1,6 +1,11 @@
-# **Open Regulatory Compliance Working Group** Cyber Resilience SIG
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-02-17
+Approved: 2025-03-03
+---
 
-###  17 February 2025
 ##  Agenda
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
@@ -12,8 +17,7 @@
 | Deliverable plan | Tobie | 5 |
 | AOB | | 5 |
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
 
 * Juan Rico (Eclipse Foundation)  
 * Tobie Langel (Eclipse Foundation)
@@ -49,7 +53,7 @@
 * Maxim Baele (OWASP)  
 * Pierre Pochery (FreeBSD Foundation)  
 * Thierry Carrez (OpenStack)
-</details> 
+
 
 ## Minutes
 ### FOSDEM & Workshop output 

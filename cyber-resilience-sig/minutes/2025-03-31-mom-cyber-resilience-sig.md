@@ -1,4 +1,11 @@
-###  31 March 2025
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-03-31
+Approved: 2025-04-28
+---
+
 ##  Agenda
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
@@ -11,8 +18,7 @@
 | [Vulnerability Management Specification](https://github.com/orcwg/vulnerability-management-spec) | Mikael | 10 |
 | AOB | | 5 |
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
  
  * Tobie Langel (UnlockOpen/Eclipse Foundation)  
  * Mathias Schindler (Github)  
@@ -33,9 +39,9 @@
 * Timo Perälä (Nokia)  
 * Dirk-Willem van Gulik (ASF)  
 * Vicky Risk (ISC)
-</details>
 
-## Notes
+
+## Minutes
 
 ### Approve previous minutes
 

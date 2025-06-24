@@ -1,4 +1,11 @@
-###  26 May 2025
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-05-26
+Approved: 2025-06-09
+---
+
 ##  Agenda
 | Min | Agenda Topics | Moderator |
 | --: | ----- | --- |
@@ -15,8 +22,7 @@
 |  50 | FAQ TF update | FAQ TF leads |
 |  55 | AOB | |
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
 
 * Tobie Langel (UnlockOpen/Eclipse Foundation)  
 * Juan Rico (Eclipse Foundation)  
@@ -39,9 +45,9 @@
 * Salve J. Nilsen (CPANSec)  
 * Dirk-Willem van Gulik (ASF) *\-- arrived late*
  
-</details>
 
-## Notes
+
+## Minutes
 
 ### Welcome & approve previous minutes
 

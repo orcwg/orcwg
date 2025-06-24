@@ -1,4 +1,11 @@
-###  9 June 2025
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-06-09
+Approved: 2025-06-23
+---
+
 ##  Agenda
 
 | Min | Agenda Topics | Moderator |
@@ -24,8 +31,7 @@
 - [X] Start thread with volunteers for BSI/FSFE questionnaire
 
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
 
 * Tobie Langel (UnlockOpen/Eclipse Foundation)  
 * Juan Rico (Eclipse Foundation)  
@@ -50,7 +56,7 @@
 * Simon Phipps (SWH/Meshed Insights)  
 * Æva Black
 
-</details>
+
 
 
 ## Minutes

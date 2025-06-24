@@ -1,4 +1,11 @@
-###  14 April 2025
+---
+SIG: Cyber Resilience SIG
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-04-14
+Approved: 2025-04-28
+---
+
 ##  Agenda
  Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
@@ -10,8 +17,7 @@
 | Deliverables Plan | Tobie |10 |
 | AOB | | 5 |
 
-<details>
-<summary><b>Participants </b></summary>
+## Attendees
  
 * Tobie Langel (UnlockOpen / Eclipse)  
 * Juan Rico (Eclipse Foundation)  
@@ -41,13 +47,14 @@
 * Aeva Black  
 * Sal Kimmich
   
- </details>
 
 
-## Notes
+
+## Minutes
 
 ### Approve previous minutes  
   * Will approve next call  
+
 ### Steering and Specification Committees Coordination  
   * Steering Committee update  
     * Meeting this week \- no updates.
@@ -64,7 +71,8 @@
     * Still requires some internal steps.  
   * ORC WG member who would like to handle liaison with OpenSSF  
     * It will be done through the members.  
-### CRA Mondays  
+
+### CRA Mondays
   * What’s this new thing?  
     * Adjacent topics that we care about  
   * How can we suggest topics and guests? [cra-mondays](https://github.com/orcwg/orcwg/labels/cra-mondays) label on orcwg/orcwg  
@@ -72,6 +80,7 @@
   * Is it being recorded?  
     * Yes  
   * What’s today’s topic?  
+
 ### Product definitions ([open issues and PRs](https://github.com/orcwg/cra-hub/pulls?q=is:pr+is:open+label:%22Critical+and+Important+Products%22))  
   * The deadline has been extended until the 18th of April  
   * Covering the open PRs  
@@ -79,6 +88,7 @@
       * To include Trusted Execution Environments  
   * The first discussion took longer than expected so it was decided to follow up asynchronously.  
   * Everyone is allowed to provide feedback to the EC. So for those in which the consensus is weak, it is not going to be submitted as ORC, but entitle everyone to reach out with their feedback to the EC.  
+
 ### Deliverable plan
 * Updated [deliverables plan](https://github.com/orcwg/orcwg/tree/tobie-going-deeper/cyber-resilience-sig#deliverables)  
   * Share plan with community  
@@ -87,8 +97,7 @@
     * Missing liaison with market surveillance in particular for SBOMs  
   * Next SIG call, decide which deliverables to focus on next and create task forces
 
-
-## Actions  
+## Actions
   * Collect feedback from the community the next week --> Deliverbales plan
     * Consolidate in the next SIG Call  
     * Call for volunteers to drive the work  
