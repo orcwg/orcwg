@@ -55,6 +55,7 @@ Date: 2025-06-23
 * Jeremy Stanley (OpenInfra Foundation, SPI)  
 * Friedrich Vandenberghe (imec)  
 * Daniel Thompson-Yvetot (Tauri)
+* Simon Phipps (Software Heritage Foundation - Inria Foundation)
 
 ## Minutes
 
