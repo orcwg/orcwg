@@ -215,7 +215,7 @@ Provide feedback to the [EU Commission][]'s [open call for evidence](https://ec.
 <details>
   <summary>More info</summary>
   
-* **Source:** <https://github.com/orcwg/orcwg/blob/tobie-oshw/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md>
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md>
 * **Type:** Feedback
 * **License:** CC-BY 4.0
 * **Owner:** [Cyber Resilience SIG][SIG]
