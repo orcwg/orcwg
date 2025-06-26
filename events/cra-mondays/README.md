@@ -2,12 +2,19 @@
 
 ## Upcoming
 
+The _CRA Mondays_ series will take a break for the summer and resume session in September 2025. 
+
+
+---
+
+## Previous episodes
+
 <a name="episode-6"></a>
 ### 🗓️ June 23, 2025: Pedro Demolder on The CRA: Why even your fridge might need a lawyer
 
 Most of the impact of the Cyber Resilience Act (CRA) on the open source ecosystem will be indirect – but not insignificant. As manufacturers face new due diligence obligations when integrating open source components into their products and services, it’s essential to understand how open source is legally categorized under the CRA and what that means in practice.
 In this session, we’ll explore what this categorization implies for open source contributors and maintainers, how we can prepare for the changes ahead, and how the open source community might even benefit from constructive dialogue around compliance. You’ll gain insight into how manufacturers and their legal teams approach CRA compliance – and how that mindset could affect your project.
-Who better to guide us through this than a lawyer specializing in IT compliance? That’s why we’re excited to welcome Pedro Demolder, attorney at Timelex, who will share how he advises clients navigating the CRA and what it means for the future of open source.
+Who better to guide us through this than a lawyer specializing in IT compliance? That’s why we’re excited to welcome Pedro Demolder, attorney at Timelex, who will share how he advises clients navigating the CRA and what it means for the future of open source. ([slides](2025-06-20-Pedro-Demolder.pdf) | [video](https://youtu.be/SP1xjDDLt9U))
 
 <details>
 <summary>More info</summary>
@@ -23,14 +30,6 @@ Who better to guide us through this than a lawyer specializing in IT compliance?
 Pedro also advises clients on all aspects of cybersecurity, including the legal, technical, operational, and organisational dimensions of information security. He supports the setup of compliance frameworks, breach notification procedures, and contingency planning. In addition, he provides trainings on data protection and cybersecurity obligations, ensuring that legal requirements are understood and embedded in practice.
 
 </details>
-
- 🗓️ When: **June 23, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
- 📍 Where: [Zoom](https://eclipse.zoom.us/j/4904674754?omn=89584971434&jst=3)\
- ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA2MjNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
----
-
-## Previous episodes
 
 <a name="episode-5"></a>
 ### 🗓️ June 9, 2025: Arnaud Le Hors on Supply-chain Levels for Software Artifacts (SLSA)
