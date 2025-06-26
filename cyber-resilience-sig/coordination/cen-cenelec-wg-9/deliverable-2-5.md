@@ -56,7 +56,7 @@ We submitted [our comments](./eclipse-foundation-JT013089-comments.docx) on June
    
 </details>
 
-At a high-level our comments center around the folllowing four concerns:
+At a high-level, our comments centered around the folllowing four concerns:
 
 ### 1. Incorrect assumption that manufacturers should expect similar relationships with open source maintainers and stewards as they have with commercial suppliers
 
