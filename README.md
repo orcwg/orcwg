@@ -23,6 +23,7 @@ Home of the Open Regulatory Compliance (ORC) Working Group of the Eclipse Founda
 * [Working Group Charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php)
 * [Antitrust Policy](https://www.eclipse.org/org/documents/Eclipse_Antitrust_Policy.pdf)
 * [Code of Conduct](https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php)
+* [Communication Channel Guidelines](https://www.eclipse.org/org/documents/communication-channel-guidelines/)
 
 ## Get involved
 
