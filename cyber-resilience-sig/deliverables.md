@@ -61,6 +61,7 @@ flowchart LR
 | | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
 | | 3.3 [White paper on Attestations][security attestations] | Dedicated task force | | |
 | | 3.4 [White paper on types of open source projects][open source project types] | [Cyber Resilience SIG][SIG] | | |
+| | 3.5 [White paper Open Source Software Stewards and CRA][open source stewards cra] | [Vulnerability Handling Task Force][] | | |
 | | | | | |
 | **4.** | **Specifications** | | | |
 | | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
@@ -345,6 +346,29 @@ The open source ecosystem is a rich ecosystem composed of very different types o
     
 </details>
 
+#### 3.5 White paper Open Source Software Stewards and CRA
+
+The Cyber Resilience Act (CRA) defines a new category of organizations, Open Source Stewards (Stewards hereafter). It also defines obligations for them that are different from those of other categories like manufacturers.
+
+This whitepaper will aim at elaborating on the obligations, restrictions, and penalties that will be imposed to Stewards.
+
+From the elaboration on the legal text, we will outline the missing pieces / documents / procedures that Stewards need to have to fulfil their obligations.
+
+The goal is NOT to provide a definition or guidance about who is and who is not a steward for an Product with Digital Element qualifying as Open Source Software.
+
+<details>
+  <summary>More info</summary>
+
+* **Source:** https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/whitepapers/open-source-stewards-and-cra.md
+* **Type:** White paper
+* **License:** CC-BY 4.0
+* **Owner:** Vulnerability Handling Task Force
+* **Input to:** EU Guidance, Implementing Act, Harmonised standards
+* **Relevant liaisons**: [EU Commission][], [CRA Expert Group][], [CEN/CENELEC][]
+* **First draft by:** TBA
+* **Final draft by:** TBA
+
+</details>
 
 ### 4. Specifications
 
