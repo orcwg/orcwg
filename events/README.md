@@ -20,6 +20,7 @@ Every Monday after the SIG call, we host a guest from our community to discuss C
 | 2025 | 11-12/09 | St. Julians, Malta | Comply Land | [Website](https://comply.land/)|
 | 2025 | 22-23/09 | Amsterdam, The Netherlands | The Things Conference | [Website](https://www.thethingsconference.com/)|
 | 2025 | 1-3/10 | Stockholm, Sweeden | Nordic Software Security Summit | [Website](https://nsss.se/)|
+| 2025 | 22-23/10 | Brussels, Belgium | Code and Compliance Community Day | [Website](https://www.eclipse-foundation.events/event/Code-and-compliance-Community-Day-2025/summary)|
 
 
 [//]: #  (Event Name: [Title of the Event] )
