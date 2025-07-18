@@ -1,10 +1,8 @@
 # Enhancing open source participation in EU Standardisation
 ## Introduction
-In light of the language in the Cyber Resilience Act (CRA) standardisation request, which states: *"Where relevant, particular account should be given to the needs of the free and open source software community,"* we believe it is essential to highlight the structural and practical barriers that currently limit meaningful open source participation in the European standardisation process. This document outlines key challenges faced by open source stakeholders and proposes actionable recommendations to ensure the European Standardization remains inclusive, effective, and aligned with the collaborative nature of modern software development.
+In light of the language in the Cyber Resilience Act (CRA) standardisation request, which states: *"Where relevant, particular account should be given to the needs of the free and open source software community,"* we believe it is essential to highlight the structural and practical barriers that currently limit meaningful open source participation in the European standardisation process. This document outlines key challenges faced by open source stakeholders and proposes actionable recommendations to ensure the European Standardisation remains inclusive, effective, and aligned with the collaborative nature of modern software development.
 
 ## Context and background
-In light of the language of the CRA standardisation request *"Where relevant, particular account should be given to the needs of the free and open source software community."* We feel that it is important to highlight the following aspects:
-
 Open source communities are at the heart of today’s digital infrastructure, driving innovation, security, and interoperability across the software ecosystem. Their collaborative development models, transparent processes, and global participation have made them indispensable to Europe’s digital resilience.
 
 However, current European standardisation frameworks, particularly those influencing regulatory efforts such as the Cyber Resilience Act (CRA), were not designed to accommodate the open, decentralised, and resource-constrained nature of open source collaboration. This structural mismatch is already hindering meaningful engagement from open source contributors in standards development processes crucial to Europe’s digital regulatory agenda.
@@ -77,6 +75,7 @@ Roman Zhukov,
 Tobie Langel,
 Adrian O'Sullivan,
 Daniel Thompson-Yvetot,
+Scott Lewis,
 and Juan Rico.
 
 If you have contributed to this document and aren't properly acknowledged or if you want to edit or remove your name, please let us know by [opening an issue](https://github.com/orcwg/orcwg/issues/new) and we will fix this right away.
