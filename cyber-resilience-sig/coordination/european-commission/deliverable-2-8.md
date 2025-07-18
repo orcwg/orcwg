@@ -1,6 +1,9 @@
 # Enhancing open source participation in EU Standardisation
+## Introduction
+In light of the language in the Cyber Resilience Act (CRA) standardisation request, which states: *"Where relevant, particular account should be given to the needs of the free and open source software community,"* we believe it is essential to highlight the structural and practical barriers that currently limit meaningful open source participation in the European standardisation process. This document outlines key challenges faced by open source stakeholders and proposes actionable recommendations to ensure the European Standardization remains inclusive, effective, and aligned with the collaborative nature of modern software development.
 
 ## Context and background
+In light of the language of the CRA standardisation request *"Where relevant, particular account should be given to the needs of the free and open source software community."* We feel that it is important to highlight the following aspects:
 
 Open source communities are at the heart of today’s digital infrastructure, driving innovation, security, and interoperability across the software ecosystem. Their collaborative development models, transparent processes, and global participation have made them indispensable to Europe’s digital resilience.
 
@@ -62,3 +65,18 @@ This would enable open source maintainers to align with compliance needs without
 ## Conclusion
 
 As the EU advances its regulatory ambitions through frameworks like the Cyber Resilience Act, the integration of open source perspectives in standardisation is not optional, it is essential. By addressing structural barriers and proactively supporting open source participation, the EU can enhance the legitimacy, relevance, and effectiveness of its standards. Open collaboration must be treated as a strength, not a constraint, in the pursuit of secure and resilient digital sovereignty.
+
+---
+## Acknowledgments
+
+The following people have contributed to this document either directly or indirectly (e.g. by raising questions, reviewing...):
+Marta Rybczynska,
+Jeremy Stanley,
+Lars Francke,
+Roman Zhukov,
+Tobie Langel,
+Adrian O'Sullivan,
+Daniel Thompson-Yvetot,
+and Juan Rico.
+
+If you have contributed to this document and aren't properly acknowledged or if you want to edit or remove your name, please let us know by [opening an issue](https://github.com/orcwg/orcwg/issues/new) and we will fix this right away.
