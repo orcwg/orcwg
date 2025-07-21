@@ -27,6 +27,6 @@ This document outlines:
 5\. Recognise open source foundations as formal stakeholders.
 
 📥 Access the Policy Brief
-You can read the full document [here](deliverable-2-8.md)
+You can read the full document [here](deliverable-2-8.md) ([PDF version](open-regulatory-compliance-wg-response-to-call-for-evidence-1025.pdf))
 
 
