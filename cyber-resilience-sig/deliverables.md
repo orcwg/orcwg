@@ -258,7 +258,7 @@ This input was provided to the European Commission on July 21, 2025.
 <details>
   <summary>More info</summary>
   
-* **Source:** 
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/european-commission/2025-07-call-for-evidence-1025/deliverable-2-8.md>
 * **License:** 
 * **Owner:** [Cyber Resilience SIG][SIG]
 * **Input to:** [EU Commission][]
