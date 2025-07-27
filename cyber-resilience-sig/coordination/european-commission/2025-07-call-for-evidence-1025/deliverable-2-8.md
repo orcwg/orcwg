@@ -33,18 +33,10 @@ Without transparent and timely agendas, open source contributors cannot plan to 
 
 Although public meetings are nominally open, the information shared is frequently too superficial or too delayed to allow meaningful feedback. Working drafts and concrete proposals are often withheld until the meeting itself, preventing effective preparation and discouraging future participation.
 
-### 6\. Encumbered Standards as a barrier to inclusive implementation
-Standards that are not freely and openly available due to licensing fees, standard-essential patents (SEPs), or other legal or contractual restrictions, create significant barriers to implementation. These encumbrances limit the ability of open source communities to adopt and contribute to standard-compliant solutions. In particular, the need to negotiate licenses or pay royalties is often incompatible with open development models and disproportionately excludes actors without the legal or financial capacity to navigate such complexities. 
-
 
 ## Recommendations for policy and practice
 
-### 1\. Enable rights-waived licensing for Standards 
-To ensure broad, inclusive adoption and to support innovation across the digital ecosystem, we recommend that any standards intended for software or digital implementation be either free of SEPs or licensed on a rights-waived basis—for example, through a clear and public non-assertion covenant. This approach, already common in international standardisation (e.g., IETF, W3C), provides legal certainty and removes the need for case-by-case patent licensing.
-
-We recommend that European Standards Organisations (ESOs) establish a dedicated IPR mode that allows and encourages rights-waived commitments for standards whose deliverables include digital elements such as code, APIs, file formats, or protocols. This will ensure that such standards can be implemented openly, without legal or financial barriers, and remain compatible with open source development practices.
-
-### 2\. Enable free and open access to standards for open source
+### 1\. Enable free and open access to standards for open source
 
 When standards are referenced in regulation and affect open source projects, they must be available freely and openly. Licensing fees or proprietary restrictions are incompatible with the open source model. We recommend:
 
@@ -56,15 +48,15 @@ When standards are referenced in regulation and affect open source projects, the
 
 This would enable open source maintainers to align with compliance needs without undermining their capacity or openness principles.
 
-### 3\. Promote standards interoperability
+### 2\. Promote standards interoperability
 
 To avoid duplication and fragmentation, EU policymakers and standards organisations should facilitate mutual recognition between EU-developed standards and globally recognised, community-used standards (IETF, W3C…). Open source projects often follow widely adopted best practices, and aligning new standards with existing ones can prevent unnecessary burden and maintain software quality and security.
 
-### 4\. Ensure inclusive global participation
+### 3\. Ensure inclusive global participation
 
 The standardisation process should actively support contributions from open source professionals worldwide, irrespective of location or nationality. Policies should reflect the global nature of software development, maintaining a balance between EU-specific objectives and international expertise in software, hardware, and system architecture.
 
-### 5\. Recognise open source Foundations as key stakeholders
+### 4\. Recognise open source Foundations as key stakeholders
 
 European and global open source foundations should be recognised as formal stakeholders in EU standardisation processes. Their institutional role enables them to facilitate community feedback, coordinate expert contributions, and provide valuable governance and accountability mechanisms aligned with EU goals.
 
