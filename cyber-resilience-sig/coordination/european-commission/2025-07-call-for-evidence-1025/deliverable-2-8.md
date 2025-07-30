@@ -1,3 +1,11 @@
+---
+SIG: Cyber Resilience SIG
+Document Type: Deliverable
+Number: 2.8
+Status: 🚀 Submitted
+Group: European Commission
+Date: 2025-07-21
+---
 # Enhancing open source participation in EU Standardisation
 ## Introduction
 In light of the language in the Cyber Resilience Act (CRA) standardisation request, which states: *"Where relevant, particular account should be given to the needs of the free and open source software community,"* we believe it is essential to highlight the structural and practical barriers that currently limit meaningful open source participation in the European standardisation process. This document outlines key challenges faced by open source stakeholders and proposes actionable recommendations to ensure the European Standardisation remains inclusive, effective, and aligned with the collaborative nature of modern software development.
