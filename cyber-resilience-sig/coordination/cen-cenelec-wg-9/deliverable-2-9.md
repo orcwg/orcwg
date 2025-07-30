@@ -1,3 +1,12 @@
+---
+SIG: Cyber Resilience SIG
+Document Type: Deliverable
+Number: 2.9
+Status: ⚠️ Draft
+Group: CEN/CENELEC WG 9
+Subgroup: PT 3
+Date: 2025-08-04
+---
 # Feedback to CEN/CENELEC PT3 Vulnerability Handling
 
 The current use of ISO/IEC 29147 in the PT3 draft appears incompatible with the Cyber Resilience Act (CRA) when applied to open source software. The CRA introduces a more nuanced understanding of software supply chains, particularly with respect to the role of open source, which is not adequately reflected in ISO/IEC 29147 or ISO/IEC 30111. We respectfully submit the following concerns and recommendations:
