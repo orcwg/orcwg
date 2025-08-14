@@ -28,6 +28,7 @@ That policy shall, in particular, include aspects related to:
 - Addressing vulnerabilities                                    
 - Remediating vulnerabilities 
 - Promote the sharing of information concerning discovered vulnerabilities within the open-source community
+- Enable the reporting of vulnerabilities to the project (or to the Steward) by any manufacturer integrating such project in their product, in accordance with the obligations of manufacturers under Article 13(6).
 
 ### Collaboration with Market Surveillance authorities — Article 24(2)
 
