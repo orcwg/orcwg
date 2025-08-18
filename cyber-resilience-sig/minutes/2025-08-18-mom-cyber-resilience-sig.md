@@ -16,18 +16,18 @@ Date: 2025-08-18
 |  15 | CRA Expert Group updates | [Expert Group Liaisons][] |
 |  20 | ESOs updates | [ESO Liaisons][] |
 |  25 | Vulnerability Handling TF update - [White paper](https://github.com/orcwg/orcwg/pull/150)  | Vulnerability Handling TF leads |
-|  30 | | |
-|  35 | Code & Compliance Preparation | Juan |
-|  40 | | |
+|  30 | Status of the FAQ and inventory | |
+|  35 | |  |
+|  40 | Code & Compliance Preparation | Juan |
 |  45 | | |
-|  50 | Status of the FAQ and inventory| |
+|  50 | Marketing Updates| Shanda |
 |  55 | AOB | |
 
 ## Pending action items
 
-	- [x] Volunteer to contribute to the white paper  
-	- [ ] Send to the mailing list a proposal for the Common dictionary work.  
-	- [x] Send to the mailing list information about the upcoming events.
+- [x] Volunteer to contribute to the white paper  
+- [ ] Send to the mailing list a proposal for the Common dictionary work.  
+- [x] Send to the mailing list information about the upcoming events.
 
 ## Attendees
 
