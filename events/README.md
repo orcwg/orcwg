@@ -15,12 +15,16 @@ This page provides details on:
 Every Monday after the SIG call, we host a guest from our community to discuss CRA adjacent topics. [Learn more →](./cra-mondays/)
 
 ## 🗓️ Upcoming Events
-| Year  | Date   | Location   | Title    |   Link |
-|-------|--------|------------|--------- |----|
-| 2025 | 11-12/09 | St. Julians, Malta | Comply Land | [Website](https://comply.land/)|
+| Year  | Date   | Location   | Title    |   Link | Community Members Available to Meet
+|-------|--------|------------|--------- |----|------------|
+| 2025 | 25-27/08 | Amsterdam, Netherlands | Open Source Summit Europe | [Website](https://events.linuxfoundation.org/open-source-summit-europe/)| 
+| 2025 | 11-12/09 | St. Julians, Malta | Comply.Land | [Website](https://comply.land/)| 
+| 2025 | 18/09 | Erfurt, Germany | Open Source Forum 2025 | [Website](https://www.bitkom.org/Forum-Open-Source-2025)|
 | 2025 | 22-23/09 | Amsterdam, The Netherlands | The Things Conference | [Website](https://www.thethingsconference.com/)|
 | 2025 | 1-3/10 | Stockholm, Sweeden | Nordic Software Security Summit | [Website](https://nsss.se/)|
-| 2025 | 22-23/10 | Brussels, Belgium | Code and Compliance Community Day | [Website](https://www.eclipse-foundation.events/event/Code-and-compliance-Community-Day-2025/summary)|
+| 2025 | 6-9/10 | Sophia Antipolis, France | ETSI Security Conference 2025 | [Website](https://www.etsi.org/events/upcoming-events/2481-etsi-security-conference-oct2025)|
+| 2025 | 8/10 | Bucharest, Romania | CRA - Making the EU Market Resilient | [Website](https://www.enisa.europa.eu/events/cra-making-the-eu-market-resilient)|
+| 2025 | 22-23/10 | Brussels, Belgium | Code and Compliance Community Day | [Website](https://www.eclipse-foundation.events/event/Code-and-compliance-Community-Day-2025/summary)| @jrico-eclipse
 
 
 [//]: #  (Event Name: [Title of the Event] )
