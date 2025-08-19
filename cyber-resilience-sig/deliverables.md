@@ -591,10 +591,12 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
 [security attestations]: #33-white-paper-on-security-attestations
 [open source project types]: #34-white-paper-on-types-of-open-source-projects
+[open source stewards cra]:#35-white-paper-open-source-software-stewards-and-cra
 [vulnerability management]: #41-vulnerability-management-specification
 [cyber resilience principles]: #42-specification-on-principles-for-cyber-resilience-for-open-source 
 [generic security requirements]:#43-specification-on-generic-security-requirements-for-open-source-components
 [security policy]: #44-security-policy-for-open-source-software-stewards
+
 
 
 [EU Commission]: #key-stakeholders
