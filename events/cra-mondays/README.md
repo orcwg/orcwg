@@ -7,28 +7,15 @@
 
 At the heart of the EU Cyber Resilience Act (CRA) and other emerging EU regulations lies a critical focus on supply chain security and Software Bill of Materials (SBOM). Ecma TC54, in collaboration with OWASP, is advancing this agenda through its work on “Software and system transparency.”
  
-In this sessionminar, you will gain insights into key initiatives shaping the future of software transparency—from OWASP CycloneDX to new efforts around software identifiers (PURL), Common Lifecycle Enumeration (CLE), and the Transparency Exchange API (TEA) for automating the delivery of transparency artefacts across the supply chain.
+In this session, you will gain insights into key initiatives shaping the future of software transparency—from OWASP CycloneDX to new efforts around software identifiers (PURL), Common Lifecycle Enumeration (CLE), and the Transparency Exchange API (TEA) for automating the delivery of transparency artefacts across the supply chain.
  
-The session will also provide an overview of Ecma International’s role as a global standards organization. A Q&A segment will give you the chance to engage directly with experts on these critical CRA-related standards.
-
-<details>
-<summary>More info</summary>
+The session will also provide an overview of Ecma International’s role as a global standards organisation. A Q&A segment will give you the chance to engage directly with experts on these critical CRA-related standards.
 
 **Speakers**
 - Olle E Johansson 
 - Steve Springett
 - Philippe Ombredanne
- 
-**Session overview**
-- Steve Springett – Introduction to TC54, CRA relevance, and an overview of current work in CycloneDX 1.7 and 2.0.
-- Olle E Johansson – The Transparency Exchange API (TEA)
-- Philippe Ombredanne – Introduction to PURL
-- Speaker (TBD) – Common Lifecycle Enumeration (CLE)
-- Steve Springett – Sustainability in Software Standards
-- Samina Husain – Ecma International Overview
-- Q&A
 
-</details>
  
 🗓️ When: **September 1, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
 📍 Where: [Zoom](https://eclipse.zoom.us/j/85385310037?jst=2)\
