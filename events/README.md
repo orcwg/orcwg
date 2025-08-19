@@ -18,9 +18,11 @@ Every Monday after the SIG call, we host a guest from our community to discuss C
 | Year  | Date   | Location   | Title    |   Link |
 |-------|--------|------------|--------- |----|
 | 2025 | 11-12/09 | St. Julians, Malta | Comply Land | [Website](https://comply.land/)|
+| 2025 | 18/09 | Erfurt, Germany | Bitkom, Forum Open Source 2025 | [Website](https://www.bitkom.org/Forum-Open-Source-2025)|
 | 2025 | 22-23/09 | Amsterdam, The Netherlands | The Things Conference | [Website](https://www.thethingsconference.com/)|
 | 2025 | 1-3/10 | Stockholm, Sweeden | Nordic Software Security Summit | [Website](https://nsss.se/)|
 | 2025 | 22-23/10 | Brussels, Belgium | Code and Compliance Community Day | [Website](https://www.eclipse-foundation.events/event/Code-and-compliance-Community-Day-2025/summary)|
+| 2025 | 29/10 | Madrid, Spain | Digital Resilience Forum | [Website](https://digitalresilienceforum.com/) |
 
 
 [//]: #  (Event Name: [Title of the Event] )
