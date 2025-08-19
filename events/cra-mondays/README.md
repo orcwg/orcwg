@@ -2,8 +2,24 @@
 
 ## Upcoming
 
-The _CRA Mondays_ series will take a break for the summer and resume session in September 2025. 
+<a name="episode-7"></a>
+### 🗓️ September 1, 2025: Unlocking Software Supply Chain Security: Updates from Ecma TC54 and OWASP
 
+At the heart of the EU Cyber Resilience Act (CRA) and other emerging EU regulations lies a critical focus on supply chain security and Software Bill of Materials (SBOM). Ecma TC54, in collaboration with OWASP, is advancing this agenda through its work on “Software and system transparency.”
+ 
+In this session, you will gain insights into key initiatives shaping the future of software transparency—from OWASP CycloneDX to new efforts around software identifiers (PURL), Common Lifecycle Enumeration (CLE), and the Transparency Exchange API (TEA) for automating the delivery of transparency artefacts across the supply chain.
+ 
+The session will also provide an overview of Ecma International’s role as a global standards organisation. A Q&A segment will give you the chance to engage directly with experts on these critical CRA-related standards.
+
+**Speakers**
+- Olle E Johansson 
+- Steve Springett
+- Philippe Ombredanne
+
+ 
+🗓️ When: **September 1, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/85385310037?jst=2)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA5MDFUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com&scp=ALL)
 
 ---
 
