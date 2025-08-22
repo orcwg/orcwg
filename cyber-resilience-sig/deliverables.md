@@ -379,6 +379,7 @@ The goal is NOT to provide a definition or guidance about who is and who is not 
   <summary>More info</summary>
 
 * **Source:** https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/whitepapers/open-source-stewards-and-cra.md
+* **Working in progress version:** https://github.com/orcwg/orcwg/pull/150
 * **Type:** White paper
 * **License:** CC-BY 4.0
 * **Owner:** Vulnerability Handling Task Force
