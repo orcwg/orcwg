@@ -41,7 +41,7 @@ flowchart LR
 
 ## Deliverables
 
-✍️ Work in Progress | ❌ Cancelled | 🚀 Submitted | No icon (planned but not yet started)
+✍️ Work in Progress | 🚀 Submitted | ❌ Cancelled  | No icon (planned but not yet started)
 
 | | Deliverable name | Owner | First draft due | Final draft due |
 |---:|---|---|---|---|
