@@ -41,11 +41,13 @@ flowchart LR
 
 ## Deliverables
 
+✍️ Work in Progress | 🚀 Submitted | ❌ Cancelled  | No icon (planned but not yet started)
+
 | | Deliverable name | Owner | First draft due | Final draft due |
 |---:|---|---|---|---|
 | **1.** | **Documentation** | | | |
-| | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][] | April 2025 | June 2025 |
-| | 1.2 [Inventory][] | [Inventory Task Force][] | April 2025 | June 2025 |
+| ✍️ | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][] | April 2025 | Dec 2025 |
+| ✍️ | 1.2 [Inventory][] | [Inventory Task Force][] | April 2025 | Sept 2025 |
 | | | | | |
 | **2.** | **Inputs & contributions** | | | |
 | 🚀 | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
@@ -63,7 +65,7 @@ flowchart LR
 | | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
 | | 3.3 [White paper on Attestations][security attestations] | Dedicated task force | | |
 | | 3.4 [White paper on types of open source projects][open source project types] | [Cyber Resilience SIG][SIG] | | |
-| | 3.5 [White paper Open Source Software Stewards and CRA][open source stewards cra] | [Vulnerability Handling Task Force][] | | |
+| ✍️ | 3.5 [White paper Open Source Software Stewards and CRA][open source stewards cra] | [Vulnerability Handling Task Force][] | | |
 | | | | | |
 | **4.** | **Specifications** | | | |
 | | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
@@ -397,6 +399,7 @@ The goal is NOT to provide a definition or guidance about who is and who is not 
   <summary>More info</summary>
 
 * **Source:** https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/whitepapers/open-source-stewards-and-cra.md
+* **Working in progress version:** https://github.com/orcwg/orcwg/pull/150
 * **Type:** White paper
 * **License:** CC-BY 4.0
 * **Owner:** Vulnerability Handling Task Force
