@@ -56,6 +56,7 @@ flowchart LR
 | 🚀 | 2.6 [Feedback on Cybersecurity Act (CSA) Revision][deliverable-2-6] | [Cyber Resilience SIG][SIG] | June 14, 2025 | June 20, 2025 |
 | 🚀 | 2.7 [Comments to EU Guidance on open source][deliverable-2-7] | [CRA Expert Group liaisons][CRA Expert Group] | June 18, 2025 | June 20, 2025 |
 | 🚀 | 2.8 [Response to the Call for evidence on the revision of the Standardisation Regulation 1025][deliverable-2-8] | [Cyber Resilience SIG][SIG] | July 5, 2025 | July 21, 2025 |
+| 🚀 | 2.9 [Comments on CEN/CENELEC PT3 Vulnerability Handling Standard][deliverable-2-9] | [Cyber Resilience SIG][SIG] | July 20, 2025 | August 4, 2025 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | April 2025 | June 2025 |
@@ -266,6 +267,23 @@ This input was provided to the European Commission on July 21, 2025.
 * **First draft by:** July 5, 2025
 * **Final draft by:** July 21, 2025
 </details>
+
+#### 2.9 Comments on CEN/CENELEC PT 3 Vulnerability Handling Standard
+
+As part of its process, CEN/CENELEC WG 9 PT 3 requested comments on its [Cybersecurity requirements for products with digital elements – Vulnerability Handling (JT013090)](https://github.com/orcwg/orcwg/blob/22221fce458747edf6c75fe40f9e77a925355997/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-9.md) from its working group participants (note this was not a public call for comments).
+
+<details>
+  <summary>More info</summary>
+
+* **Source:** <https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cen-cenelec-wg-9/deliverable-2-9.md>
+* **Type:** Comments
+* **License:** CC-BY 4.0
+* **Owner:** [CEN/CENELEC WG 9 PT 3 liaisons][CEN/CENELEC WG 9 PT 3] 
+* **Input to:** [CEN/CENELEC WG 9 PT 3][]
+* **Relevant liaisions**: [CEN/CENELEC WG 9 PT 3][]
+* **First draft by:** July 20, 2025
+* **Final draft by:** August 4, 2025
+
 
 ### 3. White papers
 
@@ -585,7 +603,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [deliverable-2-6]: #26-feedback-on-cybersecurity-act-csa-revision
 [deliverable-2-7]: #27-comments-to-eu-guidance-on-open-source
 [deliverable-2-8]: #28-response-to-the-call-for-evidence-on-the-revision-of-the-standardisation-regulation-1025
-
+[deliverable-2-9]: #29-comments-on-cencenelec-pt-3-vulnerability-handling-standard
 
 [SBOMs]: #31-white-paper-on-sboms
 [due diligence]: #32-white-paper-on-due-diligence-obligation-of-manufacturers
