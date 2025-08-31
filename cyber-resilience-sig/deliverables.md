@@ -285,7 +285,7 @@ As part of its process, CEN/CENELEC WG 9 PT 3 requested comments on its [Cyberse
 * **Relevant liaisions**: [CEN/CENELEC WG 9 PT 3][]
 * **First draft by:** July 20, 2025
 * **Final draft by:** August 4, 2025
-
+</details>
 
 ### 3. White papers
 
