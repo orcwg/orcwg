@@ -527,15 +527,19 @@ gantt
 
     section CRA FAQ
     Collect community FAQs: 1 December 2024, 31 December 2025
-    Draft v1.0: 1 January 2025, 1 June 2025
-    Publish CRA FAQ v1.0: milestone, 1 June 2025, 1d
-    Draft v2.0: 1 June 2025, 1 November 2025
-    Publish CRA FAQ v2.0: milestone, 1 November 2025, 1d
+    Develop draft v1.0: 1 February 2025, 31 December 2025
+    Publish v1.0 release candidate: milestone, 1 January 2026, 1d
+    Finalize v1.0: 1 January 2026, 1 February 2026
+    Publish v1.0 final: milestone, 1 February 2026, 1d
 
     section Inventory
     Collect community input: done, 1 December 2024, 30 April 2025
-    Organize inventory: 1 February 2025, 30 May 2025
-    Publish Inventory: milestone, 30 May 2025, 1d
+    Develop draft v1.0: done, 1 February 2025, 5 May 2025
+    Publish V1.0 release candidate: done, milestone, 5 May 2025, 1d
+    Finalize v1.0: 5 May 2025, 13 October 2025
+    Publish V1.0 final: milestone, 13 October 2025, 1d
+    Collect feedback: 13 October 2025, 24 November 2025
+    Publish V1.1 final: milestone, 24 November 2025, 1d
     
     section Input to draft act on product categories
     Collect community input: done, 13 March 2025, 18 April 2025
