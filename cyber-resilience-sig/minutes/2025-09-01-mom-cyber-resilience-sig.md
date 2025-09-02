@@ -39,6 +39,7 @@ Date: 2025-09-01
 - Æva Black  
 - Alistair Woodman (Erlang Ecosystem Foundation (EEF))  
 - Gerardo Lisboa (ESOP)
+- Tobie Langel (UnlockOpen/Eclipse Foundation)
 
 ## Notes
 
@@ -113,8 +114,9 @@ It was also mentioned that this is the first step to try to improve the situatio
 
 ### Status of the FAQ and inventory
 
-- It has been updated the FAQ roadmap  
-- The new structure and format will be discussed in the FAQ meeting on Friday
+- [FAQ roadmap](https://github.com/orcwg/cra-hub/issues/262) added to CRA Hub rpository and [Deliverables Plan timeline][timeline] updated accordingly 
+- Proposed FAQ format will be discussed in FAQ meeting this Friday
+- [Inventory timeline][timeline] also updated
 
   
 ### Code & Compliance
@@ -141,3 +143,4 @@ It was also mentioned that this is the first step to try to improve the situatio
 [SIG Leads]: https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#leads
 [ESO Liaisons]: https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#cen-cenelec-wg-9
 [Expert Group Liaisons]: https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#cra-expert-group
+timeline: https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/deliverables.md#timeline
