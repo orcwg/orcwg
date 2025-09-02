@@ -517,6 +517,7 @@ This specification will help open source softare stewards meet the obligations o
     
 </details>
 
+<a name=timeline></a>
 
 ```mermaid
 gantt
