@@ -2,11 +2,62 @@
 
 ## Upcoming
 
+<a name="episode-8"></a>
+### 🗓️ September 15, 2025: Why Do You Trust Software? Operationalizing CRA with the Eclipse Trustable Software Framework
+
+Modern products—from cars and planes to medical devices and consumer gadgets—depend on millions of lines of software hidden deep inside. The EU Cyber Resilience Act (CRA) now requires manufacturers and suppliers to prove that this software is secure, maintained, and resilient over the long term. But while the CRA defines *what* must be achieved, the industry is still asking *how*.
+
+The Eclipse Trustable Software Framework (TSF) may provide part of the answer. Built around six trustable tenets and exploring a FICO-style Trustable Score, TSF suggests a path for making software trust more measurable and auditable. In this session, we’ll discuss how TSF could complement CRA obligations, where it may help engineers, executives, and regulators, and why open collaboration is essential to shaping the future of trustable software.
+
+Join us to learn, question, and contribute to this conversation.
+
+<details>
+<summary>More info</summary>
+ 
+**Speaker: John Ellis**
+
+John Ellis is the President and Head of Product for Codethink, a world-class provider of
+critical, high-performance software projects for international-scale companies in a range
+of industries including Automotive, Finance, Medical, and IoT. Headquartered in
+Manchester, UK, Codethink has pioneered software industry thinking around concepts of
+trustable software, with a view to improving the quality of software engineering for
+societal good. Example customers include Arm, Bloomberg, BMW, Bosch, JLR, John
+Deere, Mercedes-Benz, Panasonic, Volkswagen, and Tesla.
+
+As a former executive at Motorola, Global Technologist at Ford Motor Company, and a
+consulting and startup veteran, John led or participated in teams that built many of the
+innovations we see today in connected vehicles on the ground and in the air.
+
+John is the best-selling author of _The Zero Dollar Car_, a former adjunct professor at
+University of Notre Dame, as well as a former translator in the 1992 Summer Olympics.
+
+John can be found online @ [www.johntellis.com](https://www.johntellis.com/).
+
+**Key Points:**
+
+- Exploring CRA in Practice: Learn how the Eclipse Trustable Software Framework (TSF) could help translate CRA’s broad legal requirements into practical engineering steps.
+
+- Trust Made Measurable: Consider how a FICO-style “Trustable Score” might offer a way to make software assurance auditable and comparable across organizations.
+
+- An Open Conversation: Join engineers, executives, regulators, and lawyers in the Eclipse community to discuss how TSF may evolve as part of CRA’s future.
+ 
+</details>
+ 
+🗓️ When: **September 15, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA5MTVUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+
+---
+
+## Previous episodes
+
 <a name="episode-7"></a>
 ### 🗓️ September 1, 2025: Unlocking Software Supply Chain Security: Updates from Ecma TC54 and OWASP
 
-At the heart of the EU Cyber Resilience Act (CRA) and other emerging EU regulations lies a critical focus on supply chain security and Software Bill of Materials (SBOM). Ecma TC54, in collaboration with OWASP, is advancing this agenda through its work on “Software and system transparency.”
- 
+At the heart of the EU Cyber Resilience Act (CRA) and other emerging EU regulations lies a critical focus on supply chain security and Software Bill of Materials (SBOM). Ecma TC54, in collaboration with OWASP, is advancing this agenda through its work on “Software and system transparency.” [slides - part 1](2025-09-01-TC54_CRA_Monday.pdf) [slides - part 2](2025-09-01-Framework_Ecma_CRA.pdf) | _video coming soon_
+
+<details> 
+<summary>More info</summary>
 In this session, you will gain insights into key initiatives shaping the future of software transparency—from OWASP CycloneDX to new efforts around software identifiers (PURL), Common Lifecycle Enumeration (CLE), and the Transparency Exchange API (TEA) for automating the delivery of transparency artefacts across the supply chain.
  
 The session will also provide an overview of Ecma International’s role as a global standards organisation. A Q&A segment will give you the chance to engage directly with experts on these critical CRA-related standards.
@@ -15,15 +66,7 @@ The session will also provide an overview of Ecma International’s role as a gl
 - Olle E Johansson 
 - Steve Springett
 - Philippe Ombredanne
-
- 
-🗓️ When: **September 1, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/85385310037?jst=2)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA5MDFUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com&scp=ALL)
-
----
-
-## Previous episodes
+</details>
 
 <a name="episode-6"></a>
 ### 🗓️ June 23, 2025: Pedro Demolder on The CRA: Why even your fridge might need a lawyer
