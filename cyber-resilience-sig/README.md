@@ -55,7 +55,7 @@ Task forces do not have any decision-making authority. Their role is advisory. T
 
 | Name | Focus Area | GitHub Team | Slack Channel | Deliverables | Minutes | End date | 
 |---|---|---|---|---|---|---|
-| <a href="#deliverables-plan-tf" name="deliverables-plan-tf">Deliverables Plan Task Force</a> | Define a deliverables plan for the SIG for 2025 | Tobie Langel ([@tobie](https://github.com/tobie)) | | [Deliverables Plan](./deliverables.md) | [Minutes](./minutes/deliverables-plan-task-force) | 2025-03-03 |
+| <a href="#deliverables-plan-tf" name="deliverables-plan-tf">Deliverables Plan Task Force</a> | Define a deliverables plan for the SIG for 2025 | | | [Deliverables Plan](./deliverables.md) | [Minutes](./minutes/deliverables-plan-task-force) | 2025-03-03 |
 | <a href="#faq-tf" name="faq-tf">FAQ Task Force</a> | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-tf](https://github.com/orgs/orcwg/teams/faq-tf) | [#tf-faq](https://app.slack.com/client/T083EEQCLCC/C08M5H2BQV8) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
 | <a href="#inventory-tf" name="inventory-tf">Inventory Task Force</a> | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-tf](https://github.com/orgs/orcwg/teams/inventory-tf) | | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
 | <a href="#vulnerability-handling-tf" name="vulnerability-handling-tf">Vulnerability Handling Task Force</a> | <li>Help coordinate input to [CEN/CENELEC PT 3](#cen-cenelec-wg-9)<li>Provide input to the SIG and Cyber Resilience Practices Project on [deliverables plan](./deliverables.md) and [proposed specs](./deliverables.md#4-specifications) | [@orcwg/vulnerability-handling-tf](https://github.com/orgs/orcwg/teams/vulnerability-handling-tf) | [#tf-vulnerability-handling](https://app.slack.com/client/T083EEQCLCC/C0926JH5Y8M) | Possible white paper on vulnerability handling | [Minutes](./minutes/vulnerability-handling-task-force) | 2025-12-31 |
@@ -78,9 +78,9 @@ Liaisons leads may delegate their responsabilities to other SIG members within t
 
 | Group | Subgroup | GitHub Team | Lead | Meeting notes |
 |---|---|---|---|---|
-| <a href="#cra-expert-group" name="cra-expert-group">CRA Expert Group</a> | _(work strands)_ | [@orcwg/cra-expert-group](https://github.com/orgs/orcwg/teams/cra-expert-group) | Tobie Langel | [Notes](./coordination/cra-expert-group/) |
-|  | Product categories     |  | Tobie Langel |  |
-|  | Open source            |  | Tobie Langel |  |
+| <a href="#cra-expert-group" name="cra-expert-group">CRA Expert Group</a> | _(work strands)_ | [@orcwg/cra-expert-group](https://github.com/orgs/orcwg/teams/cra-expert-group) |  | [Notes](./coordination/cra-expert-group/) |
+|  | Product categories     |  |  |  |
+|  | Open source            |  |  |  |
 |  | Risk assessment        |  |              |  |
 |  | Remote data processing |  |              |  |
 |  | Market surveillance    |  |              |  |
