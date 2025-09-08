@@ -54,7 +54,7 @@ John can be found online @ [www.johntellis.com](https://www.johntellis.com/).
 <a name="episode-7"></a>
 ### 🗓️ September 1, 2025: Unlocking Software Supply Chain Security: Updates from Ecma TC54 and OWASP
 
-At the heart of the EU Cyber Resilience Act (CRA) and other emerging EU regulations lies a critical focus on supply chain security and Software Bill of Materials (SBOM). Ecma TC54, in collaboration with OWASP, is advancing this agenda through its work on “Software and system transparency.” ([slides - part 1](2025-09-01-TC54_CRA_Monday.pdf) [slides - part 2](2025-09-01-Framework_Ecma_CRA.pdf) | [video](https://youtu.be/NglPCEu4pok)
+At the heart of the EU Cyber Resilience Act (CRA) and other emerging EU regulations lies a critical focus on supply chain security and Software Bill of Materials (SBOM). Ecma TC54, in collaboration with OWASP, is advancing this agenda through its work on “Software and system transparency.” ([slides - part 1](2025-09-01-TC54_CRA_Monday.pdf) [slides - part 2](2025-09-01-Framework_Ecma_CRA.pdf) | [video](https://youtu.be/NglPCEu4pok))
 
 <details> 
 <summary>More info</summary>
