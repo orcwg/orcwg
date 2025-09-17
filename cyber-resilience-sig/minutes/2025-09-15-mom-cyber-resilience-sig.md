@@ -44,6 +44,7 @@ Date: 2025-09-15
 - Daniel Dilger (Mercedes-Benz Tech Innovation)  
 - Dirk-Willem van Gulik (ASF)  
 - Vicky Risk (ISC.org)
+- Tobie Langel (UnlockOpen)
 
 ## Notes
 
