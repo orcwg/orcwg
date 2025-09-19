@@ -45,6 +45,7 @@ Date: 2025-09-15
 - Dirk-Willem van Gulik (ASF)  
 - Vicky Risk (ISC.org)
 - Tobie Langel (UnlockOpen)
+- Timo Perälä (Nokia)
 
 ## Notes
 
