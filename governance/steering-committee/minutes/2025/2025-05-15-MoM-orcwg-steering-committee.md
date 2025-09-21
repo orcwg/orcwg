@@ -1,6 +1,6 @@
 ---
 Committee: Steering Committee
-Document Type: Minutes
+Document type: Minutes
 Status: ✅ Approved
 Date: 2025-05-15
 Approved: 2025-06-12

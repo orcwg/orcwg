@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Minutes
-Status:  ✅ Approved
+Status: ✅ Approved
 Date: 2025-06-23
 ---
 
