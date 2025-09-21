@@ -51,6 +51,8 @@ A task force's proceedings are public.
 
 Task forces do not have any decision-making authority. Their role is advisory. Their deliverables do not represent the consensus of the SIG nor of the WG unless the SIG or WG formally adopts them.
 
+A GitHub team is created for every task force. The task force leads are assigned the role of maintainer for that team.
+
 ### Current task forces
 
 | Name | Focus Area | GitHub Team | Slack Channel | Deliverables | Minutes | End date | 
