@@ -11,6 +11,8 @@ License: CC-BY 4.0
 
 # White paper on due diligence obligation of manufacturers
 
+## Abstract
+
 The due diligence obligation of manufacturers outlined in [Article 13(5)][] of the CRA is the cornerstone of the relationship between manufacturers and the open source ecosystem.
 
 This white paper will attempt to clarify this obligation along with the related requirement that integrated open source components must not compromise the cybersecurity of the products they are integrated into. It will list the constraints manufacturers might face when integrating open source components—in particular components which aren't supported by open source software stewards, and propose solutions to enable manufacturers to continue leveraging open source components securely and at scale despite those constraints.
@@ -22,6 +24,10 @@ Finally, this paper will examine the tension between the practical necessity for
 This white paper will be shared with the [EU Commission][] and the [CRA Expert Group][] and will provide important context for the [Specification on generic security requirements for open source components][].
 
 Note: This white paper might be combined with the paper on [security attestations][].
+
+## Status of this document
+
+This is a draft document and may be updated, replaced or obsoleted at any time. It is inappropriate to cite this document as other than a work in progress. Publication of this document as a draft does not imply endorsement by the Eclipse Foundation, Open Regulatory Working Group Members, or contributors.
 
 ## Acknowledgments
 
