@@ -12,6 +12,8 @@ Final license: EFSL
 
 # Specification on principles for cyber resilience for open source
 
+## Description
+
 This specification is intended address the requirements spelled out in [Annex I, Part I, point (1)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMs][], [due diligence][], and [security attestations][] mentioned above.
 
 This specification aims to address the following issue:
@@ -24,14 +26,6 @@ This specification aims to address the following issue:
 Where appropriate, this specification will reference and build on existing material, notably collected in the [inventory][]. It may be broken down into separare documents or combined with the [Specification on generic security requirements for open source components][generic security requirements] detailed below to specify a "broad vertical."
 
 Note: The challenge of assessing risk for components whose use-cases aren't known at the time of development might benefit from its own white paper.
-
-## Acknowledgments
-
-The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
-
-Tobie Langel.
-
-If you have contributed to this document and aren't properly acknowledged or if you want to edit or remove your name, please let us know by [opening an issue](https://github.com/orcwg/orcwg/issues/new) and we will fix this right away.
 
 [Annex I, Part I, point (1)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I
 [SBOMs]: ../whitepapers/sboms.md
