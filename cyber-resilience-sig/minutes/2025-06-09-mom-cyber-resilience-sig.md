@@ -127,7 +127,7 @@ Approved: 2025-06-23
 
 * Goals:
   * Help coordinate input to CEN/CENELEC PT 3
-  * Provide input to the SIG and Cyber Resilience Practices Project on [deliverables plan](../deliverables.md) and [proposed specs](../deliverables.md#4-specifications)
+  * Provide input to the SIG and Cyber Resilience Practices Project on [deliverables plan](../deliverables.md) and [proposed specs](../proposed-specs/)
   * Possible white paper on vulnerability handling 
 
 ### Resource Inventory TF update (\#228) (Inventory TF leads)
