@@ -68,7 +68,7 @@ flowchart LR
 | ✍️ | 3.5 [White paper on open source software stewards and CRA][open source stewards cra] | [Vulnerability Handling Task Force][] | | |
 | | | | | |
 | **4.** | **Specifications** | | | |
-| 🗺️ | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
+| ✍️ | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
 | 🗺️ | 4.2 [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | | |
 | 🗺️ | 4.3 [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | | |
 | 🗺️ | 4.4 [Security policy for open source software stewards][security policy] | [Cyber Resilience Practices Project][] | | |
