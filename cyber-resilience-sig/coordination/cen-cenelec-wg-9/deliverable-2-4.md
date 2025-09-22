@@ -14,7 +14,7 @@ Cancelled: 2025-06-19
 ## Request
 
 > [!NOTE]
-> CEN/CENELEC W9 plenary decided to rescind this contribution request. As a result the Vulnerability Handling Task Force decided to cancel the deliverable during its [June 19 meeting](../../vulnerability-handling-task-force/2025-06-19-mom-vulnerability-handling-tf.md).
+> CEN/CENELEC W9 plenary decided to rescind this contribution request. As a result the Vulnerability Handling Task Force decided to cancel the deliverable during its [June 19 meeting](../../vulnerability-handling-tf/2025-06-19-mom-vulnerability-handling-tf.md).
 
 Provide the content for the **informative** section on open source software stewards (Annex C). Additionally, provide:
 
