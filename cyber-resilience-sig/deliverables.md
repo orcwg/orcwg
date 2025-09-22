@@ -181,7 +181,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [security attestations]: whitepapers/security-attestations.md
 [open source project types]: whitepapers/project-types.md
 [open source stewards cra]: whitepapers/stewards-and-cra.md
-[vulnerability management]: proposed-specs/vulnerability-management.md
+[vulnerability management]: https://github.com/orcwg/vulnerability-management-spec
 [cyber resilience principles]: proposed-specs/cyber-resilience-principles.md
 [generic security requirements]: proposed-specs/generic-security-requirements.md
 [security policy]: proposed-specs/security-policy.md
