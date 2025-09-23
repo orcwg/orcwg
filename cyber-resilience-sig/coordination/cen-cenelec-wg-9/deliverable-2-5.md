@@ -1,6 +1,6 @@
 ---
 SIG: Cyber Resilience SIG
-Document Type: Deliverable
+Document type: Deliverable
 Number: 2.5
 Status: 🚀 Submitted
 Group: CEN/CENELEC WG 9

@@ -1,6 +1,6 @@
 ---
 SIG: Cyber Resilience SIG
-Document Type: Liaison meeting notes
+Document type: Liaison meeting notes
 Group: CEN/CENELEC WG 9
 Subgroup: PT 3
 Date: 2025-06-11
