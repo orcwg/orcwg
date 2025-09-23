@@ -41,19 +41,9 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified a [set of 
 * Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
 * Timo Perala ([@timop62][]), Nokia
 
-## Task Forces
-
-The Cyber Resilience SIG can form task forces that focus on a particular topic for a fixed period of time.
-
-A task force must have one or more leads, an area of focus, a set of deliverables, and an end date by which it must present its deliverables and recommendations to the SIG and/or request an extension.
-
-A task force's proceedings are public.
-
-Task forces do not have any decision-making authority. Their role is advisory. Their deliverables do not represent the consensus of the SIG nor of the WG unless the SIG or WG formally adopts them.
-
-A GitHub team is created for every task force. The task force leads are assigned the role of maintainer for that team.
-
 ### Current task forces
+
+The Cyber Resilience SIG has formed the following [tasks forces][]:
 
 | Name | Focus Area | GitHub Team | Slack Channel | Deliverables | Minutes | End date | 
 |---|---|---|---|---|---|---|
@@ -112,3 +102,6 @@ As new regulations impacting open source communities emerge, it is expected that
 
 [coord calendar]: https://calendar.google.com/calendar/embed?src=c_5c658735d0e74ce8caf97a1d06efd2ed01dbfc47ca6abbf6d13c90b48dd9e744%40group.calendar.google.com 
 [coord ical]: https://calendar.google.com/calendar/ical/c_5c658735d0e74ce8caf97a1d06efd2ed01dbfc47ca6abbf6d13c90b48dd9e744%40group.calendar.google.com/public/basic.ics
+
+[task forces]: https://github.com/orcwg/orcwg/blob/main/working-mode.md#task-forces
+
