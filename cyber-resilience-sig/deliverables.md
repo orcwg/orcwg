@@ -151,11 +151,11 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 
 [SIG]: ./README.md
 [TFs]:                               ./README.md#current-task-forces
-[Deliverables Plan Task Force]:      ./README.md#deliverables-plan-tf
-[FAQ Task Force]:                    ./README.md#faq-tf
-[Inventory Task Force]:              ./README.md#inventory-tf
-[Vulnerability Handling Task Force]: ./README.md#vulnerability-handling-tf
-[Open Source Hardware Task Force]:   ./README.md#open-source-hardware-tf
+[Deliverables Plan Task Force]:      ./task-forces/deliverables-plan-tf/
+[FAQ Task Force]:                    ./task-forces/faq-tf/
+[Inventory Task Force]:              ./task-forces/inventory-tf/
+[Vulnerability Handling Task Force]: ./task-forces/vulnerability-handling-tf/
+[Open Source Hardware Task Force]:   ./task-forces/open-source-hardware-tf/
 [Cyber Resilience Practices Project]: ./README.md#cyber-resilience-practices-project
 
 [Article 13(5)]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13
