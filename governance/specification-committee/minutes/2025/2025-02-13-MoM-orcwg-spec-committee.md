@@ -1,3 +1,10 @@
+---
+Committee: Specification Committee
+Document type: Minutes
+Status: ✅ Approved
+Date: 2025-02-13
+---
+
 # **Open Regulatory Compliance Working Group** Specification Committee Meeting
 
 ###  13 February, 2025 

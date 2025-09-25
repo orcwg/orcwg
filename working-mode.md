@@ -6,6 +6,18 @@ This document captures how the ORC WG operates. It can be amended or broken down
 
 The ORC WG is subject to its [charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php) and the various documents it references, in particular: the Eclipse Foundation Working Group [Process](https://www.eclipse.org/org/workinggroups/process.php) and [Operations Guide](https://www.eclipse.org/org/workinggroups/operations.php).
 
+## Task Forces
+
+Special Interest Groups of the ORC WG can form task forces that focus on a particular topic for a fixed period of time.
+
+A task force must have one or more leads, an area of focus, a set of deliverables, and an end date by which it must present its deliverables and recommendations to the SIG and/or request an extension.
+
+A task force's proceedings are public.
+
+Task forces do not have any decision-making authority. Their role is advisory. Their deliverables do not represent the consensus of the SIG nor of the WG unless the SIG or WG formally adopts them.
+
+A GitHub team is created for every task force. The task force leads are assigned the role of maintainer for that team.
+
 ## Meetings
 
 Meetings:
@@ -26,3 +38,5 @@ Meeting minutes:
 - should be approved at the latest at the beginning of the next meeting
 
 Note: meetings of governing bodies have additional requirements defined in the [relevant documents](#applicable-documents).
+
+

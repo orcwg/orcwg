@@ -1,8 +1,8 @@
 ---
 SIG: Cyber Resilience SIG
-Document Type: Deliverable
+Document type: Deliverable
 Number: 
-Status: ⚠️ Draft
+Status: 📝 Draft
 Group: European Commission 
 Date: 2025-07-21
 ---

@@ -30,7 +30,7 @@ In 2025, the SIG will focus on deliverables necessary to help the open source co
 
 ## Cyber Resilience Practices Project
 
-In its [Deliverables Plan](./deliverables.md), the SIG has identified a [set of specifications](./deliverables.md#4-specifications) that are required to further its mission. The intention is for the Cyber Resilience Practices Project to host these specifications and develop them with guidance from the SIG.
+In its [Deliverables Plan](./deliverables.md), the SIG has identified a [set of specifications](./proposed-specs/) that are required to further its mission. The intention is for the Cyber Resilience Practices Project to host these specifications and develop them with guidance from the SIG.
 
 * [Cyber Resilience Practices Project](https://projects.eclipse.org/projects/technology.crp)
 
@@ -41,24 +41,16 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified a [set of 
 * Simon Phipps ([@webmink][]), Software Heritage Foundation - Inria Foundation
 * Timo Perala ([@timop62][]), Nokia
 
-## Task Forces
-
-The Cyber Resilience SIG can form task forces that focus on a particular topic for a fixed period of time.
-
-A task force must have one or more leads, an area of focus, a set of deliverables, and an end date by which it must present its deliverables and recommendations to the SIG and/or request an extension.
-
-A task force's proceedings are public.
-
-Task forces do not have any decision-making authority. Their role is advisory. Their deliverables do not represent the consensus of the SIG nor of the WG unless the SIG or WG formally adopts them.
-
 ### Current task forces
+
+The Cyber Resilience SIG has formed the following [tasks forces][]:
 
 | Name | Focus Area | GitHub Team | Slack Channel | Deliverables | Minutes | End date | 
 |---|---|---|---|---|---|---|
 | <a href="#deliverables-plan-tf" name="deliverables-plan-tf">Deliverables Plan Task Force</a> | Define a deliverables plan for the SIG for 2025 | | | [Deliverables Plan](./deliverables.md) | [Minutes](./minutes/deliverables-plan-task-force) | 2025-03-03 |
 | <a href="#faq-tf" name="faq-tf">FAQ Task Force</a> | Collect, answer, and organize questions from the community on the CRA | [@orcwg/faq-tf](https://github.com/orgs/orcwg/teams/faq-tf) | [#tf-faq](https://app.slack.com/client/T083EEQCLCC/C08M5H2BQV8) | [FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md) | [Minutes](./minutes/faq-task-force) | 2025-06-30 |
 | <a href="#inventory-tf" name="inventory-tf">Inventory Task Force</a> | Collect and organize resources relevant to the implementation of the CRA | [@orcwg/inventory-tf](https://github.com/orgs/orcwg/teams/inventory-tf) | | [Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md) | [Minutes](./minutes/inventory-task-force) | 2025-06-30 |
-| <a href="#vulnerability-handling-tf" name="vulnerability-handling-tf">Vulnerability Handling Task Force</a> | <li>Help coordinate input to [CEN/CENELEC PT 3](#cen-cenelec-wg-9)<li>Provide input to the SIG and Cyber Resilience Practices Project on [deliverables plan](./deliverables.md) and [proposed specs](./deliverables.md#4-specifications) | [@orcwg/vulnerability-handling-tf](https://github.com/orgs/orcwg/teams/vulnerability-handling-tf) | [#tf-vulnerability-handling](https://app.slack.com/client/T083EEQCLCC/C0926JH5Y8M) | Possible white paper on vulnerability handling | [Minutes](./minutes/vulnerability-handling-task-force) | 2025-12-31 |
+| <a href="#vulnerability-handling-tf" name="vulnerability-handling-tf">Vulnerability Handling Task Force</a> | <li>Help coordinate input to [CEN/CENELEC PT 3](#cen-cenelec-wg-9)<li>Provide input to the SIG and Cyber Resilience Practices Project on [deliverables plan](./deliverables.md) and [proposed specs](./proposed-specs/) | [@orcwg/vulnerability-handling-tf](https://github.com/orgs/orcwg/teams/vulnerability-handling-tf) | [#tf-vulnerability-handling](https://app.slack.com/client/T083EEQCLCC/C0926JH5Y8M) | Possible white paper on vulnerability handling | [Minutes](./minutes/vulnerability-handling-task-force) | 2025-12-31 |
 | <a href="#open-source-hardware-tf" name="open-source-hardware-tf">Open Source Hardware Task Force</a> | Provide input and comments to [key stakeholders](#key-stakeholder-coordination) on matters pertaining to open source hardware | [@orcwg/open-source-hardware-task-force](https://github.com/orgs/orcwg/teams/open-source-hardware-tf) | | Input and comments | [Minutes](./minutes/open-source-hardware-tf) | 2027-12-31 |
 
 
@@ -110,3 +102,6 @@ As new regulations impacting open source communities emerge, it is expected that
 
 [coord calendar]: https://calendar.google.com/calendar/embed?src=c_5c658735d0e74ce8caf97a1d06efd2ed01dbfc47ca6abbf6d13c90b48dd9e744%40group.calendar.google.com 
 [coord ical]: https://calendar.google.com/calendar/ical/c_5c658735d0e74ce8caf97a1d06efd2ed01dbfc47ca6abbf6d13c90b48dd9e744%40group.calendar.google.com/public/basic.ics
+
+[task forces]: https://github.com/orcwg/orcwg/blob/main/working-mode.md#task-forces
+

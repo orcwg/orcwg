@@ -1,6 +1,6 @@
 ---
 SIG: Cyber Resilience SIG
-Document Type: Deliverable
+Document type: Deliverable
 Number: 2.8
 Status: 🚀 Submitted
 Group: European Commission

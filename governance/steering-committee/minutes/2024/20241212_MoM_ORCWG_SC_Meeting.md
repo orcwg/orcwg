@@ -1,3 +1,10 @@
+---
+Committee: Steering Committee
+Document type: Minutes
+Status: ✅ Approved
+Date: 2024-12-12
+---
+
 # **Open Regulatory Compliance Working Group** Steering Committee Inaugural Meeting
 
 ###  12 December 2024
