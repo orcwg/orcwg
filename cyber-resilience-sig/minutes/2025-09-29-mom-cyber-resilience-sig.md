@@ -16,9 +16,9 @@ Date: 2025-09-29
 |  15 | 
 |  20 | 
 |  25 | Vulnerability Handling TF update +  [White paper](https://github.com/orcwg/orcwg/pull/150)  | Vulnerability Handling TF leads |
-|  30 | | |
-|  35 | CRA Expert Group | Ciarán |
-|  40 | Status of the FAQ and inventory | Tobie |
+|  30 | CRA Expert Group | Ciarán |
+|  35 | Status of the FAQ and inventory | Tobie |
+|  40 | 
 |  45 | Attestation proposal | Æva |
 |  50 | Code & Compliance + Marketing Update | Shanda + Juan |
 |  55 | AOB | |
