@@ -19,7 +19,7 @@ Date: 2025-09-29
 |  30 | | |
 |  35 | CRA Expert Group | Ciarán |
 |  40 | Status of the FAQ and inventory | Tobie |
-|  45 |  |  |
+|  45 | Attestation proposal | Æva |
 |  50 | Code & Compliance + Marketing Update | Shanda + Juan |
 |  55 | AOB | |
 
