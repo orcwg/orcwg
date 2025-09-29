@@ -114,7 +114,7 @@ Date: 2025-06-23
 
 ### Vulnerability Handling TF update
 
-* [Minutes](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/minutes/vulnerability-handling-task-force/2025-06-19-mom-vulnerability-handling-tf.md)  
+* [Minutes](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/task-forces/vulnerability-handling-tf/minutes/2025-06-19-mom-vulnerability-handling-tf.md)  
 * [SIG Deliverables plan](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/deliverables.md)  
 * [Bi-weekly call](https://github.com/orcwg/orcwg/blob/main/MEETINGS.md#vulnerability-handling-task-force-call)  
 * Folks to provide input on topics they’d like addressed  
