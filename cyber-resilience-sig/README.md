@@ -43,7 +43,7 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified a [set of 
 
 ### Current task forces
 
-The Cyber Resilience SIG has formed the following [tasks forces][]:
+The Cyber Resilience SIG has formed the following [task forces][]:
 
 | Name | Focus Area | GitHub Team | Slack Channel | Deliverables | Minutes | End date | 
 |---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@ In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stake
 4. Providing updates during SIG calls.
 5. Sharing the consensus of the SIG.
 
-Liaisons leads may delegate their responsabilities to other SIG members within their group or subgroup.
+Liaisons leads may delegate their responsibilities to other SIG members within their group or subgroup.
 
 ### Current liaisons
 
