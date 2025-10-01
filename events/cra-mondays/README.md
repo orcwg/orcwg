@@ -2,14 +2,42 @@
 
 ## Upcoming
 
+<a name="episode-9"></a>
+### 🗓️ October 13, 2025: Demystifying "simplified CC for CRA"
+
+Let's unpack the sCC4CRA methodology, specially designed to facilitate early compliance for default products, based on EUCC, fully self-assessed and simplified for CRA.
+
+This session will cover: 
+
+- What is sCC4CRA and why it matters
+- EUCC vs sCC4CRA: key differences
+- sCC4CRA alignment with standardisation work
+- how to use sCC4CRA
+- Future and next steps
+
+<details>
+<summary>More info</summary>
+ 
+**Speaker: Roger Riera**
+
+Roger Riera is a member of the European Commission’s Cyber Resilience Act (CRA) Expert Group as a Type A member, contributing to the effective implementation of the CRA regulation. Technical Manager at Applus+ Laboratories, specialising in hardware security, with 10 years of experience in the field
+
+</details>
+ 
+🗓️ When: **October 13, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTEwMTNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+
+---
+
+## Previous episodes
+
 <a name="episode-8"></a>
 ### 🗓️ September 15, 2025: Why Do You Trust Software? Operationalizing CRA with the Eclipse Trustable Software Framework
 
 Modern products—from cars and planes to medical devices and consumer gadgets—depend on millions of lines of software hidden deep inside. The EU Cyber Resilience Act (CRA) now requires manufacturers and suppliers to prove that this software is secure, maintained, and resilient over the long term. But while the CRA defines *what* must be achieved, the industry is still asking *how*.
 
-The Eclipse Trustable Software Framework (TSF) may provide part of the answer. Built around six trustable tenets and exploring a FICO-style Trustable Score, TSF suggests a path for making software trust more measurable and auditable. In this session, we’ll discuss how TSF could complement CRA obligations, where it may help engineers, executives, and regulators, and why open collaboration is essential to shaping the future of trustable software.
-
-Join us to learn, question, and contribute to this conversation.
+The Eclipse Trustable Software Framework (TSF) may provide part of the answer. Built around six trustable tenets and exploring a FICO-style Trustable Score, TSF suggests a path for making software trust more measurable and auditable. In this session, we’ll discuss how TSF could complement CRA obligations, where it may help engineers, executives, and regulators, and why open collaboration is essential to shaping the future of trustable software. ([video](https://youtu.be/Jnk_I2mI5xQ?si=FHcHSxE_ykxC3rFC))
 
 <details>
 <summary>More info</summary>
@@ -42,14 +70,6 @@ John can be found online @ [www.johntellis.com](https://www.johntellis.com/).
 - An Open Conversation: Join engineers, executives, regulators, and lawyers in the Eclipse community to discuss how TSF may evolve as part of CRA’s future.
  
 </details>
- 
-🗓️ When: **September 15, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTA5MTVUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
----
-
-## Previous episodes
 
 <a name="episode-7"></a>
 ### 🗓️ September 1, 2025: Unlocking Software Supply Chain Security: Updates from Ecma TC54 and OWASP
