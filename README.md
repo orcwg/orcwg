@@ -11,9 +11,10 @@ Home of the Open Regulatory Compliance (ORC) Working Group of the Eclipse Founda
 * SIG [meetings](./MEETINGS.md#cyber-resilience-sig-call) & [meeting minutes](./cyber-resilience-sig/minutes)
 * [CRA Hub](https://github.com/orcwg/cra-hub/)
 
-## Events
+## Outreach, Engagement & Events
 * [Workshops](./events/)
 * [CRA Mondays](./events/cra-mondays)
+* [Outreach & Engagement Community Calls](./outreach-and-engagement)
 
 ## Governance
 
