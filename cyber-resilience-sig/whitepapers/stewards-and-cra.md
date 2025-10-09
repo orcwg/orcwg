@@ -13,23 +13,237 @@ License: CC-BY 4.0
 
 ## Abstract
 
-The Cyber Resilience Act (CRA) defines a new category of organizations, open-source software stewards (stewards hereafter). It also defines obligations for them that are different from those of other categories like manufacturers.
+The Cyber Resilience Act (CRA) defines a new category of organizations, Open Source Stewards (Stewards hereafter). It also defines obligations for them that are different from those of other categories like manufacturers.
 
-This whitepaper will aim at elaborating on the obligations, restrictions, and penalties that will be imposed to stewards.
+This whitepaper will aim at elaborating on the obligations, restrictions, and penalties that will be imposed to Stewards.
 
-From the elaboration on the legal text, we will outline the missing pieces / documents / procedures that stewards need to have to fulfil their obligations.
+From the elaboration on the legal text, we will outline the missing pieces / documents / procedures that Stewards need to have to fulfil their obligations.
 
 The goal is NOT to provide a definition or guidance about who is and who is not a steward for an Product with Digital Element qualifying as Open Source Software.
+
+This document is NOT legal guidance, but the current understanding of the CRA by its contributors.
 
 ## Status of this document
 
 This is a draft document and may be updated, replaced or obsoleted at any time. It is inappropriate to cite this document as other than a work in progress. Publication of this document as a draft does not imply endorsement by the Eclipse Foundation, Open Regulatory Working Group Members, or contributors.
 
+## Obligations of Open Source Stewards
+
+Open Source Stewards are defined in the CRA as a separate group of actors, different from Manufacturers. A Steward must be a legal person (and organization like a company or a foundation, but not a single person) and is also different from the Open Source Project itself.
+
+Under the CRA, Stewards have specific obligations related to Open Source projects they are Stewards for.
+
+A formal relationship between any given Open Source Project and their Steward, is something these two may have to establish themselves. For example, a Steward organization may already be performing a supporting role for the project due to ownership of intellectual property, for historical reasons, or because the project leadership has entered into an agreement with a Steward organization explicitly, or because the project was originally founded as such.
+
+TODO: we should we talk about the location of stewards and the related market surveillance authority
+
+### Security Policy
+
+Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
+- encourage developing of secure products
+- effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities, and sharing of information concerning discovered vulnerabilities in the Open Source community
+- describe the process of voluntary reporting to a CSIRT (see below)
+
+The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between Stewards and their Projects vary, the Policy should take into account their common mode oe operations.
+
+Market Surveillance Authorities may request such a Security Policy.
+
+References: Article 24(1)
+
+        Cyber Resilience Act, Article 24(1):
+        
+        Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster 
+        the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the 
+        developers of that product. That policy shall also foster the voluntary reporting of vulnerabilities as laid down in
+        Article 15 by the developers of that product and take into account the specific nature of the open-source software 
+        steward and the legal and organisational arrangements to which it is subject. That policy shall, in particular, include
+        aspects related to documenting, addressing and remediating vulnerabilities and promote the sharing of information
+        concerning discovered vulnerabilities within the open-source community.
+
+In Open Source Projects, Security Policies are public (then the publication requirement is fulfilled) and published on the Project site and/or included in their source code repository.
+
+In practice, we see two patterns related to security policies:
+- Either the supporting organization publishes one, and Projects link to it in their documentation. This may include some minor clarifications, for example a specific link or email address to report vulnerabilities in that specific Project.
+- Or, Projects publish their policies based on the template provided by the supporting organization.
+
+In both cases, both the Steward and the Project will need to check if the Policy they provide includes all needed elements and that it is followed. In the case the Project does not follow the Policy, the Steward needs to define the way to follow, see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
+
+As the Policy needs to be followed, the Steward and the Project will need to agree on a way to create the policy and provide changes. For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting that project under that Foundation.
+
+What Stewards and Project will need:
+- The published Policy (that is larger in scope than a typical current security policy)
+- Evidence that the Policy is followed
+
+What resources could be created to help fulfilling that requirement:
+- A description about how to demonstrate that the policy is put in place - how to record it and store it such that an independent party can check that the policy exists (version-controlled documents, maintaining a change log, ...)
+- A description on how to prove that the Policy is actually being followed (tying policy statements to evidence)
+- A specification and/or template of the Policy, showing what it means for a policy to foster the development of secure PwDE: for example the list of methodologies of risk assessment, secure by design, secure by default, secure SDLC;
+and a process for effective handling of vulnerabilities by the developers of that product, description of the CVD process
+
+
+### Collaboration with Market Surveillance Authorities
+
+When Market Surveillance Authorities request assistance from a Steward related to one of their projects,
+the Steward shall cooperate with the goal of mitigating security risk posed by the Project they are a Steward for.
+
+In particular, the Market Surveillance Authority may request a copy of the Security Policy. This requirement
+should be easy to fullfill for Open Source Project if they publish the Policy on their web site, or in their
+source code repository. 
+
+However, the regulation also says "in a language which can be easily understood by that authority",
+what might mean the language(s) of the country the market surveillance is located. As most Projects and
+supporting organization publish their policies in English, it would be useful if those authorities accepted
+documents in that language. The language of the country of the Steward may be different than the language
+contributors of a given Project speak or understand.
+
+The Market Surveillance Authority may request documentation related to the Security Policy, with the requirement
+being "put in place and document in a verifiable manner a cybersecurity policy". In addition to the Policy itself,
+it means all other documents showing that the Policy had been applied. It could be for example: the published
+advisory (and in general, a list of published advosories) and the documentation of a CVD process in progress
+(in case of a wide-impact exploited security vulnerability without a published fix, for example).
+
+If a Market Surveillance Authority finds that a Steward does not comply with its obligations (what probably means
+not having the Policy and/or not promoting the best practices), they require Steward to ensure that all appropriate
+corrective actions are taken. As a result, Stewards "shall ensure" (formulation from the law) that all appropriate
+corrective action is taken in respect of their obligations. It means that the Steward needs to have a way to
+influence the Project in question to follow policies. A possible situation may be: not responding to vulnerability
+reports, or not documenting fixed vulnerabilities.
+
+The law requires the Steward to take actions, but clearly excludes any fees in the case of non-respect of the
+regulation.
+
+References: Article 24(2), Article 64(10b), Article 52(3)
+
+        Cyber Resilience Act, Article 24(2):
+        
+        Open-source software stewards shall cooperate with the market surveillance authorities, at their request,
+        with a view to mitigating the cybersecurity risks posed by a product with digital elements qualifying as
+        free and open-source software.
+
+        Further to a reasoned request from a market surveillance authority, open-source software stewards shall
+        provide that authority, in a language which can be easily understood by that authority, with the
+        documentation referred to in paragraph 1, in paper or electronic form.
+        
+        Cyber Resilience Act, Article 64(10) "Penalties":
+        
+        By way of derogation from paragraphs 3 to 9, the administrative fines referred to in those paragraphs shall not apply to the following:
+        [...] (b) any infringement of this Regulation by open-source software stewards.
+        
+        Cyber Resilience Act, Article 52 (3) "Market surveillance and control of products with digital elements in the Union market":
+
+        The market surveillance authorities designated under paragraph 2 of this Article shall also be responsible for carrying out
+        market surveillance activities in relation to the obligations for open-source software stewards laid down in Article 24.
+        Where a market surveillance authority finds that an open-source software steward does not comply with the obligations set
+        out in that Article, it shall require the open-source software steward to ensure that all appropriate corrective actions
+        are taken. Open-source software stewards shall ensure that all appropriate corrective action is taken in respect of their
+        obligations under this Regulation.
+        
+What Stewards and Project will need:
+- Know what organization is their market surveillance authority
+
+What resources could be created to help fulfilling that requirement:
+- A guide on finding out which is the appropriate market surveillance authority for each Steward
+- Verifying with market surveillance if they accept policies and communication in English
+
+### Mandatory reporting of exploited vulnerabilities and security incidents
+
+Steward must notify simultaneously to the CSIRT and to ENISA, via the single reporting platform: 
+- Any actively exploited vulnerability contained in the product
+- Any severe incident having an impact on the security of the product that it becomes aware of
+
+Stewards don’t have a delay for reporting actively exploited vulnerabilities or severe incidents.
+
+Stewards also need to inform users (see below).
+
+References: 16, 14(1), 14(3), 14(8), 24(3)
+
+What is needed:
+
+- How Stewards become aware of actively exploited vulnerabilities
+- How Stewards become aware of severe incidents
+
+### Informing users about exploited vulnerabilities and security incidents
+
+In case a Steward knows about an exploited vulnerability or a security incident related to their product,
+the Steward must inform the impacted users of the product,
+of that vulnerability or incident and inform them of possible mitigations they (user) can deploy to mitigate
+the impact. Such a security advisory should be distributed in structured, machine-readable format if possible.
+
+References: 16, 14(1), 14(3), 14(8), 24(3)
+
+What is needed: 
+- The advisory format and content (CSAF, VEX etc)
+
+### Voluntary vulnerability reporting
+
+Stewards may voluntary report vulnerabilities and incidents to a CSIRT or ENISA.
+
+References: Article 24(1)
+
+### A policy to develop secure products
+
+### A policy to effectively handle vulnerabilities
+
+The policy to effectively handle vulnerabilities should be a part of the security policy and include processes of:
+- documenting vulnerabilities
+- addressing vulnerabilities
+- remediating vulnerabilities
+- promoting information sharing in the open source community
+- enable reporting vulnerabilities to the project (or to the Stewards) by manufacturers including such a project in their product, according to obligations of the Manufacturer.
+
+References: Article 24(1) and 13(6).
+
+#### CSIRT designated as coordinator
+
+Steward must know who is their CSIRT designated as coordinator. The CSIRT is the one from the Member State where (in order of priority):
+- the Steward has their main establishment. Main establishment is where the decisions related to the cybersecurity of its products with digital elements are predominantly taken
+- the Steward has the establishment with the highest number of employees in the Union
+
+TODO: Check how this applies to Stewards who do not have a representation in the EU.
+
+If the Steward has no main establishment in the Union, the appropriate CSIRT is the one from the Member State in which:
+- the authorised representative acting on behalf of the Steward for the highest number of products of that Steward is established
+- the highest number of users of products of that Steward are located
+
+References: 24(3)
+
+## Restrictions
+
+Steward cannot affix the CE marking on the products they publish.
+
+References: recital 19
+
+### Glossary
+
+ENISA - European Union Agency for Cybersecurity
+CRA - Cyber Resilience Act
+CSIRT - Computer Security Incident Response Team
+CVD - Coordinated Vulnerability Disclosure
+PwDE or PWD - Product with Digital Elements (as defined by the CRA)
+SDLC - Secure Development Life Cycle
+
+### Contributors
+
+TODO: List contributors of the document
+
+### References
+
+TODO: list useful references, previous work, talks etc including items from the Inventory and FAQ
 
 ## Acknowledgments
 
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
 
-Marta Rybczynska.
+Mikaël Barbero
+Æva Black
+Arnout Engelen
+Tobie Langel
+Faidon Liambotis
+Jordan Maris
+Salve J. Nilsen
+Juan Rico
+Marta Rybczynska
+Daniel Thompson-Yvetot
+Martin von Willebrand
 
 If you have contributed to this document and aren't properly acknowledged or if you want to edit or remove your name, please let us know by [opening an issue](https://github.com/orcwg/orcwg/issues/new) and we will fix this right away.
