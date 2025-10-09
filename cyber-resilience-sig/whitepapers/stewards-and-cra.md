@@ -29,29 +29,54 @@ This is a draft document and may be updated, replaced or obsoleted at any time. 
 
 ## Obligations of Open Source Stewards
 
-Open Source Stewards are defined in the CRA as a separate group of actors, different from Manufacturers. They have specific obligations related to Open Source projects they are Stewards for.
+Open Source Stewards are defined in the CRA as a separate group of actors, different from Manufacturers. A Steward must be a legal person (and organization like a company or a foundation, but not a single person) and is also different from the Open Source Project itself.
+
+Under the CRA, Stewards have specific obligations related to Open Source projects they are Stewards for.
+
+A formal relationship between any given Open Source Project and their Steward, is something these two may have to establish themselves. For example, a Steward organization may already be performing a supporting role for the project due to ownership of intellectual property, for historical reasons, or because the project leadership has entered into an agreement with a Steward organization explicitly, or because the project was originally founded as such.
 
 ### Security Policy
 
-Stewards shall put in place and document in a verifiable manner a cybersecurity policy. That policy has goal of:
-- developing of secure products
-- effective handling of vulnerabilities by developers of that product
-- describe the process of voluntary reporting to CSIRT (see below)
+Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
+- encourage developing of secure products
+- effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities, and sharing of information concerning discovered vulnerabilities in the Open Source community
+- describe the process of voluntary reporting to a CSIRT (see below)
 
-The Steward may have the policy in paper or electronic form.
+The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between Stewards and their Projects vary, the Policy should take into account their common mode oe operations.
 
 Market Surveillance Authorities may request such a Security Policy.
 
 References: Article 24(1)
 
-What is needed:
-- A specification about how to demonstrate that the policy is put in place
-- How to record it and store it such that an independent party can check that the policy exists (version-controlled documents, maintaining a change log, ...)
-- It covers the required topics (scheduling regular reviews)
-- It’s actually being followed (tying policy statements to evidence)
-- The format of the Security Policy
-- Specification on what it means for a policy to foster the development of secure PwDE: policy must list methodologies of risk assessment, secure by design, secure by default, and secure SDLC
-an effective handling of vulnerabilities by the developers of that product: policy must contain description of CVD process
+        Cyber Resilience Act, article 24(1):
+        
+        Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster 
+        the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the 
+        developers of that product. That policy shall also foster the voluntary reporting of vulnerabilities as laid down in
+        Article 15 by the developers of that product and take into account the specific nature of the open-source software 
+        steward and the legal and organisational arrangements to which it is subject. That policy shall, in particular, include
+        aspects related to documenting, addressing and remediating vulnerabilities and promote the sharing of information
+        concerning discovered vulnerabilities within the open-source community.
+
+In Open Source Projects, Security Policies are public (then the publication requirement is fulfilled) and published on the Project site and/or included in their source code repository.
+
+In practice, we see two patterns related to security policies:
+- Either the supporting organization publishes one, and Projects link to it in their documentation. This may include some minor clarifications, for example a specific link or email address to report vulnerabilities in that specific Project.
+- Or, Projects publish their policies based on the template provided by the supporting organization.
+
+In both cases, both the Steward and the Project will need to check if the Policy they provide includes all needed elements and that it is followed. In the case the Project does not follow the Policy, the Steward needs to define the way to follow, see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
+
+As the Policy needs to be followed, the Steward and the Project will need to agree on a way to create the policy and provide changes. For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting that project under that Foundation.
+
+What Stewards and Project will need:
+- The published Policy (that is larger in scope than a typical current security policy)
+- Evidence that the Policy is followed
+
+What resources could be created to help fulfilling that requirement:
+- A description about how to demonstrate that the policy is put in place - how to record it and store it such that an independent party can check that the policy exists (version-controlled documents, maintaining a change log, ...)
+- A description on how to prove that the Policy is actually being followed (tying policy statements to evidence)
+- A specification and/or template of the Policy, showing what it means for a policy to foster the development of secure PwDE: for example the list of methodologies of risk assessment, secure by design, secure by default, secure SDLC;
+and a process for effective handling of vulnerabilities by the developers of that product, description of the CVD process
 
 
 ### Collaboration with Market Surveillance Authorities
