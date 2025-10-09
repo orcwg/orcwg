@@ -35,6 +35,8 @@ Under the CRA, Stewards have specific obligations related to Open Source project
 
 A formal relationship between any given Open Source Project and their Steward, is something these two may have to establish themselves. For example, a Steward organization may already be performing a supporting role for the project due to ownership of intellectual property, for historical reasons, or because the project leadership has entered into an agreement with a Steward organization explicitly, or because the project was originally founded as such.
 
+TODO: we should we talk about the location of stewards and the related market surveillance authority
+
 ### Security Policy
 
 Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
@@ -48,7 +50,7 @@ Market Surveillance Authorities may request such a Security Policy.
 
 References: Article 24(1)
 
-        Cyber Resilience Act, article 24(1):
+        Cyber Resilience Act, Article 24(1):
         
         Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster 
         the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the 
@@ -84,15 +86,64 @@ and a process for effective handling of vulnerabilities by the developers of tha
 When Market Surveillance Authorities request assistance from a Steward related to one of their projects,
 the Steward shall cooperate with the goal of mitigating security risk posed by the Project they are a Steward for.
 
-In particular, the Market Surveillance Authority may request a copy of the Security Policy.
+In particular, the Market Surveillance Authority may request a copy of the Security Policy. This requirement
+should be easy to fullfill for Open Source Project if they publish the Policy on their web site, or in their
+source code repository. 
 
-Where a Market Surveillance Aurhority finds that a Steward does not comply with its obligations,
-they require Steward to ensure that all appropriate corrective actions are taken.
-As a result, Stewards must ensure that all appropriate corrective action is taken in respect of their obligations.
+However, the regulation also says "in a language which can be easily understood by that authority",
+what might mean the language(s) of the country the market surveillance is located. As most Projects and
+supporting organization publish their policies in English, it would be useful if those authorities accepted
+documents in that language. The language of the country of the Steward may be different than the language
+contributors of a given Project speak or understand.
 
-But: the steward cannot be subject to administrative fines for any infringement of the CRA.
+The Market Surveillance Authority may request documentation related to the Security Policy, with the requirement
+being "put in place and document in a verifiable manner a cybersecurity policy". In addition to the Policy itself,
+it means all other documents showing that the Policy had been applied. It could be for example: the published
+advisory (and in general, a list of published advosories) and the documentation of a CVD process in progress
+(in case of a wide-impact exploited security vulnerability without a published fix, for example).
 
-References: Article 24(2), Article 64(10b)
+If a Market Surveillance Authority finds that a Steward does not comply with its obligations (what probably means
+not having the Policy and/or not promoting the best practices), they require Steward to ensure that all appropriate
+corrective actions are taken. As a result, Stewards "shall ensure" (formulation from the law) that all appropriate
+corrective action is taken in respect of their obligations. It means that the Steward needs to have a way to
+influence the Project in question to follow policies. A possible situation may be: not responding to vulnerability
+reports, or not documenting fixed vulnerabilities.
+
+The law requires the Steward to take actions, but clearly excludes any fees in the case of non-respect of the
+regulation.
+
+References: Article 24(2), Article 64(10b), Article 52(3)
+
+        Cyber Resilience Act, Article 24(2):
+        
+        Open-source software stewards shall cooperate with the market surveillance authorities, at their request,
+        with a view to mitigating the cybersecurity risks posed by a product with digital elements qualifying as
+        free and open-source software.
+
+        Further to a reasoned request from a market surveillance authority, open-source software stewards shall
+        provide that authority, in a language which can be easily understood by that authority, with the
+        documentation referred to in paragraph 1, in paper or electronic form.
+        
+        Cyber Resilience Act, Article 64(10) "Penalties":
+        
+        By way of derogation from paragraphs 3 to 9, the administrative fines referred to in those paragraphs shall not apply to the following:
+        [...] (b) any infringement of this Regulation by open-source software stewards.
+        
+        Cyber Resilience Act, Article 52 (3) "Market surveillance and control of products with digital elements in the Union market":
+
+        The market surveillance authorities designated under paragraph 2 of this Article shall also be responsible for carrying out
+        market surveillance activities in relation to the obligations for open-source software stewards laid down in Article 24.
+        Where a market surveillance authority finds that an open-source software steward does not comply with the obligations set
+        out in that Article, it shall require the open-source software steward to ensure that all appropriate corrective actions
+        are taken. Open-source software stewards shall ensure that all appropriate corrective action is taken in respect of their
+        obligations under this Regulation.
+        
+What Stewards and Project will need:
+- Know what organization is their market surveillance authority
+
+What resources could be created to help fulfilling that requirement:
+- A guide on finding out which is the appropriate market surveillance authority for each Steward
+- Verifying with market surveillance if they accept policies and communication in English
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
