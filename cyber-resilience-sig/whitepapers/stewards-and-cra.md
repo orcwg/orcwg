@@ -139,9 +139,11 @@ References: recital 19
 
 ### Glossary
 
+ENISA - European Union Agency for Cybersecurity
 CRA - Cyber Resilience Act
-CVD - Coordinated Vulnerability Dislosure
-PwDE - Product with Digital Elements (as defined by the CRA)
+CSIRT - Computer Security Incident Response Team
+CVD - Coordinated Vulnerability Disclosure
+PwDE or PWD - Product with Digital Elements (as defined by the CRA)
 
 ### Contributors
 
@@ -157,6 +159,14 @@ The following people have contributed to this document either directly or indire
 
 Mikaël Barbero
 Æva Black
+Arnout Engelen
+Tobie Langel
+Faidon Liambotis
+Jordan Maris
+Salve J. Nilsen
+Juan Rico
 Marta Rybczynska
+Daniel Thompson-Yvetot
+Martin von Willebrand
 
 If you have contributed to this document and aren't properly acknowledged or if you want to edit or remove your name, please let us know by [opening an issue](https://github.com/orcwg/orcwg/issues/new) and we will fix this right away.
