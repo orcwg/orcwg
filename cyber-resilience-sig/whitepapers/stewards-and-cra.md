@@ -164,7 +164,7 @@ What is needed:
 
 ### Informing users about exploited vulnerabilities and security incidents
 
-In case a Steward knows about an exploted vulnerability or a security incident related to their product,
+In case a Steward knows about an exploited vulnerability or a security incident related to their product,
 the Steward must inform the impacted users of the product,
 of that vulnerability or incident and inform them of possible mitigations they (user) can deploy to mitigate
 the impact. Such a security advisory should be distributed in structured, machine-readable format if possible.
@@ -220,6 +220,7 @@ CRA - Cyber Resilience Act
 CSIRT - Computer Security Incident Response Team
 CVD - Coordinated Vulnerability Disclosure
 PwDE or PWD - Product with Digital Elements (as defined by the CRA)
+SDLC - Secure Development Life Cycle
 
 ### Contributors
 
