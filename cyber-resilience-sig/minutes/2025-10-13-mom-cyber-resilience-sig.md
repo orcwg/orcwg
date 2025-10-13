@@ -51,37 +51,37 @@ Date: 2025-10-13
 ### Vulnerability handling
 
 - White paper link \- [https://github.com/orcwg/orcwg/pull/150](https://github.com/orcwg/orcwg/pull/150)   
-- Feedback included also links to the FAQs.  
-- First draft will be finished in the coming weeks, feedback will be requested to the community.  
-- Next meeting will be postponed to the 30th of October and we 
+-The white paper is an advanced state of development with several of the proposals received as feedback already integrated, and also the links to the FAQs.  
+- First draft will be finished in the coming weeks, and feedback from the community will be requested.  
+- Next meeting will be postponed to the 30th of October  
 
 ### CRA Expert Group
 
-- Meeting tomorrow  
-- Same rules of engagement, so we cannot disclose the documents themselves.  
-- We will have the meeting 
+- Meeting tomorrow to go through the main aspects of the agenda and the guidance documents included.
+- Same rules of engagement, so we cannot disclose the documents themselves.
+- We will report in case something critical is in the current text.  
+
 
 ### Attestations 
 
-- A series of meetings will be launched   
-- Blog post to announce the work  
-- GitHub page  
-- Code and compliance   
-- Devroom proposal for FOSDEM proposed  
-- Meetings will start on the 21st of October 16.00   
+- A series of meetings will be launched starting on the 21st of October at 16.00 CEST - 14.00 UTC
+- Blog post to announce the work that will be carried out
+- GitHub page is currently under preparation
+- There will be a workshop at Code and compliance to work on this - If anyone wants to share their ideas, reach out to Aeva.
+- Devroom proposal for FOSDEM has been submitted, for half-day  
 - Matrix Room to discuss attestations \- [https://matrix.to/\#/\#oss-attestations:fosdem.org](https://matrix.to/#/#oss-attestations:fosdem.org)    
-- If anyone wants to share their ideas, reach out to Aeva to discuss the proposal.
+
 
 ### Steering Committee meeting update
 
-- During the last SC meeting it was presented the current status of the membership with 58 members already.  
-- The group discussed about the deliverables and what actions should be implemented to improve our effectiveness. It was highlighted the role of editors as key to drive the plan to a successful execution.  
-- The CRA expert group was also cover, as a way to understand the guidance the EC is sharing. A meeting has been scheduled to discuss the CRA EG meeting with the ORC community.  
+- During the last SC meeting it was presented the current status of the membership (58 members).  
+- The group discussed the deliverables and what actions should be implemented to improve our effectiveness. It was highlighted that the role of editors as key to drive the plan to a successful execution.  
+- The CRA expert group was also covered, as a way to understand the guidance the EC is sharing. A meeting has been scheduled to discuss the CRA EG meeting with the ORC community.  
 - The SC went through the plan for the Code and Compliance event.
 
 ### Code and compliance
 
-- The event will be run as a single track event.  
+- The event will be run as a single-track event.  
 - We have rooms for meetings to extend discussions happening during the event.  
 - If you have not registered and want to attend the event, or if you have any questions about it, please contact us.
 
