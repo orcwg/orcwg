@@ -18,8 +18,8 @@ Date: 2025-10-13
 |  25 | 
 |  30 | CRA Expert Group | Ciarán |
 |  35 | 
-|  40 | Status of the FAQ and inventory | Tobie |
-|  45 | 
+|  40 | Status of the FAQ and inventory | Juan |
+|  45 | Voluntary Attestations | Æva| 
 |  50 | Code & Compliance + Marketing Update | Juan |
 |  55 | AOB | |
 
