@@ -2,10 +2,41 @@
 
 ## Upcoming
 
+<a name="episode-10"></a>
+### 🗓️ October 27, 2025: From closed rooms to open dialogue: how to participate in CRA vertical standards
+
+The development of vertical standards under the Cyber Resilience Act (CRA) is a critical step toward implementation, yet these processes are often opaque and difficult for stakeholders that are not members of the standardization bodies to engage with. This presentation introduces a new open platform designed to make participation accessible to the wider community. It enables developers, manufacturers, and open source contributors to review, comment, and share feedback, creating a bridge between technical expertise and regulatory work. 
+
+This session will cover: 
+
+- CRA vertical standards development under ETSI
+- Open participation in a traditional closed process
+- Tooling for participating
+
+<details>
+<summary>More info</summary>
+ 
+**Speaker: Jordan Maris**
+
+Jordan is the OSI's EU Policy Analyst. He spent the last three years as an assistant to a Member of the European Parliament, campaigning for Open Source Software in negotiations on laws such as the AI Act, Cyber Resilience Act and Product Liability Directive among others. Jordan is a long-time user of Open Source software and a strong advocate for the Public Money–Public Code principle. 
+
+</details>
+ 
+🗓️ When: **October 27, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTEwMjdUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+
+---
+
+## Previous episodes
+
 <a name="episode-9"></a>
 ### 🗓️ October 13, 2025: Demystifying "simplified CC for CRA"
 
 Let's unpack the sCC4CRA methodology, specially designed to facilitate early compliance for default products, based on EUCC, fully self-assessed and simplified for CRA.
+
+<details>
+<summary>More info</summary>
 
 This session will cover: 
 
@@ -14,23 +45,12 @@ This session will cover:
 - sCC4CRA alignment with standardisation work
 - how to use sCC4CRA
 - Future and next steps
-
-<details>
-<summary>More info</summary>
  
 **Speaker: Roger Riera**
 
 Roger Riera is a member of the European Commission’s Cyber Resilience Act (CRA) Expert Group as a Type A member, contributing to the effective implementation of the CRA regulation. Technical Manager at Applus+ Laboratories, specialising in hardware security, with 10 years of experience in the field
 
 </details>
- 
-🗓️ When: **October 13, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTEwMTNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
----
-
-## Previous episodes
 
 <a name="episode-8"></a>
 ### 🗓️ September 15, 2025: Why Do You Trust Software? Operationalizing CRA with the Eclipse Trustable Software Framework
