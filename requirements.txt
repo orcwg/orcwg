@@ -1,0 +1,9 @@
+mkdocs>=1.6.1
+mkdocs-multirepo-plugin>=0.8.3
+mkdocs-material>=9
+mkdocs-word-filter>=0.1.1
+mkdocs-macros-plugin>=0.3.0
+mkdocs-breadcrumbs-plugin>=0.1.10
+mkdocs-embed-external-markdown>=3.0.2
+mkdocs-material[imaging]
+mkdocs-same-dir>=v0.1.3
