@@ -33,7 +33,7 @@ Jordan is the OSI's EU Policy Analyst. He spent the last three years as an assis
 <a name="episode-9"></a>
 ### 🗓️ October 13, 2025: Demystifying "simplified CC for CRA"
 
-Let's unpack the sCC4CRA methodology, specially designed to facilitate early compliance for default products, based on EUCC, fully self-assessed and simplified for CRA.
+Let's unpack the sCC4CRA methodology, specially designed to facilitate early compliance for default products, based on EUCC, fully self-assessed and simplified for CRA. ([slides](2025-10-13_DemystifyingsCC4CRA.pdf) | [video](https://youtu.be/2JfterY07j8) | [project link](https://github.com/sCC4CRA))
 
 <details>
 <summary>More info</summary>
