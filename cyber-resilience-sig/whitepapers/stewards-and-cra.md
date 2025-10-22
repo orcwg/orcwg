@@ -166,10 +166,7 @@ development impossible.
 
 Stewards that do not handle the IT infrastructure do not report such incidents.
 
-When Stewards are reporting exploited vulnerabilities or severe incidents, they are required to inform affected users.
-In case of open source project, most reports will likely be public. It might be private and directed to the exact
-group of affected persons in case of IT compromise, for example to reset passwords and verify recent suspicious activity.
-The legal text suggest that this reporting does not need to be immediate, allowing time for analysis and verification.
+When Stewards are reporting exploited vulnerabilities or severe incidents, they are required to inform affected users (see below).
 
 When reporting, the Steward will use the single reporting platform and do not have a delay for reporting actively
 exploited vulnerabilities or severe incidents.
@@ -197,7 +194,33 @@ References: 16, 14(1), 14(3), 14(8), 24(3)
         that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this
         Article, and to ENISA. The manufacturer shall notify that incident via the single reporting platform established pursuant
         to Article 16.
-               
+        
+What Stewards and Projects will need:
+- Define a process on who from the Steward and/or Process performs that notification, how to handle credentials (if needed). This could be
+in the Steward Security Policy or a separate document that describes the implementation details, as agreed between the Steward and the Project.
+
+What resources could be created to help fulfilling that requirement:
+- A guide on filling reports on the common reporting platform
+
+### Informing users about exploited vulnerabilities and security incidents
+
+When Stewards are aware of exploited vulnerabilities or severe incidents, they are required to inform affected users.
+In case of open source project, most reports will likely be public. It might be private and directed to the exact
+group of affected persons in case of IT compromise, for example to reset passwords and verify recent suspicious activity.
+
+A typical report contains: information of the vulnerability/incident, any mitigations or measures users can
+deploy (for example: disable a feature, reset their password). The text recommends to provide that information
+in a machine-readable way. This could be any machine-readable advisory format, for example CSAF. Most Stewards
+will also likely choose to publish the information in human readable format, on a web page or email.
+
+The legal text suggest that this reporting does not need to be immediate, allowing time for analysis of the issue,
+verification and deploying fixes. It also suggests that this publication can be done in parallel to the reporting
+on the common reporting platform.
+
+If the Steward does not notify users in a reasonable time, the CSIRT can do it, if they find it appropriate.
+
+References: 16, 14(1), 14(3), 14(8), 24(3)
+
         Cyber Resilience Act, Article 14(8) "Reporting obligations of manufacturers":
 
         After becoming aware of an actively exploited vulnerability or a severe incident having an impact on the security of
@@ -208,25 +231,13 @@ References: 16, 14(1), 14(3), 14(8), 24(3)
         the users of the product with digital elements in a timely manner, the notified CSIRTs designated as coordinators may
         provide such information to the users when considered to be proportionate and necessary for preventing or mitigating
         the impact of that vulnerability or incident.
-        
+
 What Stewards and Projects will need:
-- Define a process on who from the Steward and/or Process performs that notification, how to handle credentials (if needed). This could be
-in the Steward Security Policy or a separate document that describes the implementation details, as agreed between the Steward and the Project.
+- Define a method how Steward notifies users of exploited vulnerabilities and severe incident. It can be a specific
+web page, mailing list, or a combination of methods.
 
 What resources could be created to help fulfilling that requirement:
 - Best practices of notifying users of exploited vulnerabilities and severe incidents
-
-### Informing users about exploited vulnerabilities and security incidents
-
-In case a Steward knows about an exploited vulnerability or a security incident related to their product,
-the Steward must inform the impacted users of the product,
-of that vulnerability or incident and inform them of possible mitigations they (user) can deploy to mitigate
-the impact. Such a security advisory should be distributed in structured, machine-readable format if possible.
-
-References: 16, 14(1), 14(3), 14(8), 24(3)
-
-What is needed: 
-- The advisory format and content (CSAF, VEX etc)
 
 ### Voluntary vulnerability reporting
 
@@ -271,6 +282,7 @@ References: recital 19
 
 ENISA - European Union Agency for Cybersecurity
 CRA - Cyber Resilience Act
+CSAF - Common Security Advisory Framework
 CSIRT - Computer Security Incident Response Team
 CVD - Coordinated Vulnerability Disclosure
 PwDE or PWD - Product with Digital Elements (as defined by the CRA)
