@@ -29,7 +29,8 @@ This is a draft document and may be updated, replaced or obsoleted at any time. 
 
 ## Obligations of Open Source Stewards
 
-Open Source Stewards are defined in the CRA as a separate group of actors, different from Manufacturers. A Steward must be a legal person (and organization like a company or a foundation, but not a single person) and is also different from the Open Source Project itself.
+Open Source Stewards are defined in the CRA as a separate group of actors, different from Manufacturers. A Steward must be a legal person
+(a registered legal entity such as a for-profit or non-profit company, a foundation, etc) and is also different from the Open Source Project itself.
 
 Under the CRA, Stewards have specific obligations related to Open Source projects they are Stewards for.
 
@@ -40,9 +41,9 @@ TODO: we should we talk about the location of stewards and the related market su
 ### Security Policy
 
 Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
-- encourage developing of secure products
+- encourage developing of secure Open Source software in by Projects under its stewardship
 - effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities, and sharing of information concerning discovered vulnerabilities in the Open Source community
-- describe the process of voluntary reporting to a CSIRT (see below)
+- describe the Project's vulnerability reporting and handling processes, including policies regarding voluntary reporting to and coordination with a national CSIRT (see below)
 
 The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between Stewards and their Projects vary, the Policy should take into account their common mode oe operations.
 
@@ -86,9 +87,10 @@ and a process for effective handling of vulnerabilities by the developers of tha
 When Market Surveillance Authorities request assistance from a Steward related to one of their projects,
 the Steward shall cooperate with the goal of mitigating security risk posed by the Project they are a Steward for.
 
-In particular, the Market Surveillance Authority may request a copy of the Security Policy. This requirement
-should be easy to fullfill for Open Source Project if they publish the Policy on their web site, or in their
-source code repository. 
+In particular, the Market Surveillance Authority may request a copy of the Security Policy.
+
+When an Open Source Project makes public their Security Policy (for example, by publishing on the Project
+site and/or including in the source code repository) then the publication requirement is fulfilled.
 
 However, the regulation also says "in a language which can be easily understood by that authority",
 what might mean the language(s) of the country the market surveillance is located. As most Projects and
@@ -211,7 +213,8 @@ What resources could be created to help fulfilling that requirement:
 
 ### Informing users about exploited vulnerabilities and security incidents
 
-When Stewards are aware of exploited vulnerabilities or severe incidents, they are required to inform affected users.
+In case a Steward knows about an actively-exploited vulnerability related to one of their Projects, or a security
+incident affecting them or the Project's infrastructure, they are required to inform affected users.
 In case of open source project, most reports will likely be public. It might be private and directed to the exact
 group of affected persons in case of IT compromise, for example to reset passwords and verify recent suspicious activity.
 
