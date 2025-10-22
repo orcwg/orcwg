@@ -147,20 +147,74 @@ What resources could be created to help fulfilling that requirement:
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
-Steward must notify simultaneously to the CSIRT and to ENISA, via the single reporting platform: 
-- Any actively exploited vulnerability contained in the product
-- Any severe incident having an impact on the security of the product that it becomes aware of
+Stewards have obligation for mandatory reporting of exploited vulnerabilities and severe incidents. However, this obligation
+is more limited in scope that the one of manufacturers.
 
-Stewards don’t have a delay for reporting actively exploited vulnerabilities or severe incidents.
+First, Stewards are expected to report exploited vulnerabilities if they are involved in the development of the product.
+It means that is the Steward is handling other elements that development (for example the Project is taking decisions independently),
+they do report. This matches the typical configuration of the relations between Stewards and Projects, when stewards aren't
+directly involved in the development. This is frequently the face for Foundations. In this case, the Steward has also no
+way to be aware of such an exploited vulnerability if not informed by the Project. The information that a vulnerability is
+being exploited might also come from external sources (like security researchers) and in this case, the Steward is not required
+to transfer the report.
 
-Stewards also need to inform users (see below).
+Secondly, the Steward is oblidged to report serious incidents affecting information systems they provide for the Open Source
+projects they host. This applies in a situation where it is teh Steward organization managing that inforastructure by its
+IT team. An example of such situation might include: the intrusion in the It infrastructure causing unauthorised modification
+of the version control system, taking over of accounts, or a longer unavalibility of the IT infrastructure making the
+development impossible.
+
+Stewards that do not handle the IT infrastructure do not report such incidents.
+
+When Stewards are reporting exploited vulnerabilities or severe incidents, they are required to inform affected users.
+In case of open source project, most reports will likely be public. It might be private and directed to the exact
+group of affected persons in case of IT compromise, for example to reset passwords and verify recent suspicious activity.
+The legal text suggest that this reporting does not need to be immediate, allowing time for analysis and verification.
+
+When reporting, the Steward will use the single reporting platform and do not have a delay for reporting actively
+exploited vulnerabilities or severe incidents.
 
 References: 16, 14(1), 14(3), 14(8), 24(3)
 
-What is needed:
+        Cyber Resilience Act, Article 24(3) "Obligations of open-source software stewards":
+        
+        The obligations laid down in Article 14(1) shall apply to open-source software stewards to the extent that they are
+        involved in the development of the products with digital elements. The obligations laid down in Article 14(3) and (8)
+        shall apply to open-source software stewards to the extent that severe incidents having an impact on the security of
+        products with digital elements affect network and information systems provided by the open-source software stewards
+        for the development of such products.
 
-- How Stewards become aware of actively exploited vulnerabilities
-- How Stewards become aware of severe incidents
+        Cyber Resilience Act, Article 14(1) "Reporting obligations of manufacturers":
+        
+        A manufacturer shall notify any actively exploited vulnerability contained in the product with digital elements that
+        it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this
+        Article, and to ENISA. The manufacturer shall notify that actively exploited vulnerability via the single reporting
+        platform established pursuant to Article 16.
+        
+        Cyber Resilience Act, Article 14(3) "Reporting obligations of manufacturers"
+
+        A manufacturer shall notify any severe incident having an impact on the security of the product with digital elements
+        that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this
+        Article, and to ENISA. The manufacturer shall notify that incident via the single reporting platform established pursuant
+        to Article 16.
+               
+        Cyber Resilience Act, Article 14(8) "Reporting obligations of manufacturers":
+
+        After becoming aware of an actively exploited vulnerability or a severe incident having an impact on the security of
+        the product with digital elements, the manufacturer shall inform the impacted users of the product with digital elements,
+        and where appropriate all users, of that vulnerability or incident and, where necessary, of any risk mitigation and
+        corrective measures that the users can deploy to mitigate the impact of that vulnerability or incident, where appropriate
+        in a structured, machine-readable format that is easily automatically processable. Where the manufacturer fails to inform
+        the users of the product with digital elements in a timely manner, the notified CSIRTs designated as coordinators may
+        provide such information to the users when considered to be proportionate and necessary for preventing or mitigating
+        the impact of that vulnerability or incident.
+        
+What Stewards and Projects will need:
+- Define a process on who from the Steward and/or Process performs that notification, how to handle credentials (if needed). This could be
+in the Steward Security Policy or a separate document that describes the implementation details, as agreed between the Steward and the Project.
+
+What resources could be created to help fulfilling that requirement:
+- Best practices of notifying users of exploited vulnerabilities and severe incidents
 
 ### Informing users about exploited vulnerabilities and security incidents
 
