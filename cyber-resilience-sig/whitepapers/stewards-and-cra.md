@@ -152,17 +152,24 @@ is more limited in scope that the one of manufacturers.
 
 First, Stewards are expected to report exploited vulnerabilities if they are involved in the development of the product.
 It means that is the Steward is handling other elements that development (for example the Project is taking decisions independently),
-they do report. This matches the typical configuration of the relations between Stewards and Projects, when stewards aren't
+they do report. 
+
+This matches the typical configuration of the relations between Stewards and Projects, when stewards aren't
 directly involved in the development. This is frequently the face for Foundations. In this case, the Steward has also no
 way to be aware of such an exploited vulnerability if not informed by the Project. The information that a vulnerability is
 being exploited might also come from external sources (like security researchers) and in this case, the Steward is not required
 to transfer the report.
 
+On the other hand, if Steward is involved in the development and operations (that could be frequently the case of companies
+stewarding Projects they do not monetize), their staff will likely also handle vulnerability reports. In this case
+they may receive information on exploitation or detect it directly. In this case, the Steward is required to report
+the exploited vulnerability.
+
 Secondly, the Steward is oblidged to report serious incidents affecting information systems they provide for the Open Source
 projects they host. This applies in a situation where it is teh Steward organization managing that inforastructure by its
-IT team. An example of such situation might include: the intrusion in the It infrastructure causing unauthorised modification
-of the version control system, taking over of accounts, or a longer unavalibility of the IT infrastructure making the
-development impossible.
+IT team. An example of such situation might include: the intrusion in the IT infrastructure causing unauthorised modification
+of the version control system, taking over of accounts, leaking of their signing keys, or a longer unavalibility of the
+IT infrastructure making the development impossible.
 
 Stewards that do not handle the IT infrastructure do not report such incidents.
 
@@ -210,7 +217,8 @@ group of affected persons in case of IT compromise, for example to reset passwor
 
 A typical report contains: information of the vulnerability/incident, any mitigations or measures users can
 deploy (for example: disable a feature, reset their password). The text recommends to provide that information
-in a machine-readable way. This could be any machine-readable advisory format, for example CSAF. Most Stewards
+in a machine-readable way. This could be any machine-readable advisory format, for example CSAF. They might also
+choose to update the CVE entry for an exploited vulnerability. Most Stewards
 will also likely choose to publish the information in human readable format, on a web page or email.
 
 The legal text suggest that this reporting does not need to be immediate, allowing time for analysis of the issue,
@@ -309,6 +317,7 @@ Jordan Maris
 Salve J. Nilsen
 Juan Rico
 Marta Rybczynska
+Jeremy Stanley
 Daniel Thompson-Yvetot
 Martin von Willebrand
 
