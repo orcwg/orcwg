@@ -13,7 +13,7 @@ Date: 2025-10-27
 |   0 | Welcome & approve [previous minutes](https://github.com/orcwg/orcwg/pull/194) | Juan |
 |   5 | [Pending action items](#pending-action-items) from last SIG call |  Juan |
 |  10 | Report from the Specification Committee meeting | SC chairs |
-|  15 | CRA Expert Group | Juan | 
+|  15 | CRA Expert Group | Juan/Ciarán | 
 |  20 | Vulnerability Handling TF update +  [White paper](https://github.com/orcwg/orcwg/pull/150)  | Vulnerability Handling TF leads |
 |  25 | 
 |  30 | Status of the FAQ and inventory | Tobie |
