@@ -351,19 +351,14 @@ References: 24(3), Directive 2022/2555
 
 Market surveillance authorities might request information from the Steward on their policies.
 
-Steward must know who is their market surveillance authority. The CSIRT is the one from the Member State where (in order of priority):
-- the Steward has their main establishment. Main establishment is where the decisions related to the cybersecurity of its products with digital elements are predominantly taken
-- the Steward has the establishment with the highest number of employees in the Union
-
-TODO: Check how this applies to Stewards who do not have a representation in the EU.
-
-If the Steward has no main establishment in the Union, the appropriate CSIRT is the one from the Member State in which:
-- the authorised representative acting on behalf of the Steward for the highest number of products of that Steward is established
-- the highest number of users of products of that Steward are located
+Steward must know who is their market surveillance authority. The same rules apply as for the choice of CSIRT.
         
 ## Restrictions
 
-Steward cannot affix the CE marking on the products they publish.
+As Stewards (and open source projects) follow less strict rules than PwDE placed on the market by Manufacturers, Steward cannot affix
+the CE marking on the products they publish. It also means that they do not provide the complete CRA documentations for its Projects.
+
+They might have an attestation program that provides equivalent documentation to the use of manufacturers.
 
 References: recital 19
 
@@ -377,13 +372,11 @@ CVD - Coordinated Vulnerability Disclosure
 PwDE or PWD - Product with Digital Elements (as defined by the CRA)
 SDLC - Secure Development Life Cycle
 
-### Contributors
-
-TODO: List contributors of the document
-
 ### References
 
-TODO: list useful references, previous work, talks etc including items from the Inventory and FAQ
+1. [The choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
+2. [ORC FAQ entries on Open Source Software Stewards](https://github.com/orcwg/cra-hub/blob/main/faq.md#open-source-software-stewards)
+3. [FOSDEM 2025 session: CRA Q&A on Open Source Stewards under the Cyber Resilience Act](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6638-cra-q-a-on-open-source-stewards-under-the-cyber-resilience-act/)
 
 ## Acknowledgments
 
