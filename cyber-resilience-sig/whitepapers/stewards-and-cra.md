@@ -180,7 +180,10 @@ When Stewards are reporting exploited vulnerabilities or severe incidents, they 
 When reporting, the Steward will use the single reporting platform and do not have a delay for reporting actively
 exploited vulnerabilities or severe incidents.
 
-References: 16, 14(1), 14(3), 14(8), 24(3)
+Stewards may receive information of exploited vulnerabilities and incidents from the CSIRT, if the CSIRT receives such information
+by the voluntary reporting. In this case, the Steward informs the affected Project.
+
+References: 16, 14(1), 14(3), 14(8), 24(3), 15
 
         Cyber Resilience Act, Article 24(3) "Obligations of open-source software stewards":
         
@@ -252,10 +255,45 @@ What resources could be created to help fulfilling that requirement:
 
 ### Voluntary vulnerability reporting
 
-Stewards may voluntary report vulnerabilities and incidents to a CSIRT or ENISA.
+Stewards may voluntary report vulnerabilities and incidents to a CSIRT or ENISA, or "near misses" (situation when
+the exploitation or incident were possible, but avoided), and may receive report
+by the means of CSIRT and/or ENSIA that come from vulontary reporting.
 
-References: Article 24(1)
+References: Article 24(1), 15
 
+        Cyber Resilience Act, Article 24(1) "Obligations of open-source software stewards"
+        
+        Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the
+        development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers
+        of that product. That policy shall also foster the voluntary reporting of vulnerabilities as laid down in Article 15 by the
+        developers of that product and take into account the specific nature of the open-source software steward and the legal
+        and organisational arrangements to which it is subject.[..]
+
+        Article (15)
+        
+        1. Manufacturers as well as other natural or legal persons may notify any vulnerability contained in a product
+        with digital elements as well as cyber threats that could affect the risk profile of a product with digital
+        elements on a voluntary basis to a CSIRT designated as coordinator or ENISA.
+        
+        2. Manufacturers as well as other natural or legal persons may notify any incident having an impact on the
+        security of the product with digital elements as well as near misses that could have resulted in such an
+        incident on a voluntary basis to a CSIRT designated as coordinator or ENISA.
+
+        3. The CSIRT designated as coordinator or ENISA shall process the notifications referred to in paragraphs 1 and 2
+        of this Article in accordance with the procedure laid down in Article 16.
+
+        The CSIRT designated as coordinator may prioritise the processing of mandatory notifications over voluntary notifications.
+
+        4. Where a natural or legal person other than the manufacturer notifies an actively exploited vulnerability or a
+        severe incident having an impact on the security of a product with digital elements in accordance with paragraph 1 or 2,
+        the CSIRT designated as coordinator shall without undue delay inform the manufacturer.
+
+        5. The CSIRTs designated as coordinators as well as ENISA shall ensure the confidentiality and appropriate protection
+        of the information provided by a notifying natural or legal person. Without prejudice to the prevention, investigation,
+        detection and prosecution of criminal offences, voluntary reporting shall not result in the imposition of any additional
+        obligations upon a notifying natural or legal person to which it would not have been subject had it not submitted the notification.
+
+        
 ### A policy to develop secure products
 
 ### A policy to effectively handle vulnerabilities
@@ -271,7 +309,49 @@ References: Article 24(1) and 13(6).
 
 #### CSIRT designated as coordinator
 
+The CRA text states that the Steward should perform reporting to the CSIRT designated as coordinator. However, this reporting is always
+done by the single reporting platform. The interaction with CSIRTs is two-way. The Steward/Project report to CSIRT, but the CSIRT also
+informs the Steward of potential vulnerabilities and incident that were reported to the CSIRT.
+
 Steward must know who is their CSIRT designated as coordinator. The CSIRT is the one from the Member State where (in order of priority):
+- the Steward has their main establishment. Main establishment is where the decisions related to the cybersecurity of its products with digital elements are predominantly taken
+- the Steward has the establishment with the highest number of employees in the Union
+- the Steward has the highest number of instances of its software
+
+If the Steward has no main establishment in the Union, the appropriate CSIRT is the one from the Member State in which:
+- the authorised representative acting on behalf of the Steward for the highest number of products of that Steward is established
+- the highest number of users of products of that Steward are located
+
+In practice, we can assume that the Steward/Project need to report by default to the CSIRT of the country the Steward has its headquaters.
+If the Steward has no European official representation, we assume the reporting can be done to one of the CSIRTs of big EU countries (like Germany, France, Spain, Italy etc),
+except is the specific Project has a strong user base in another country.
+
+Related ORC FAQ entries: [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
+
+References: 24(3), Directive 2022/2555
+
+        Directive 2022/2555, Article 12(1) "Coordinated vulnerability disclosure and a European vulnerability database":
+
+        Each Member State shall designate one of its CSIRTs as a coordinator for the purposes of coordinated vulnerability disclosure.
+        The CSIRT designated as coordinator shall act as a trusted intermediary, facilitating, where necessary, the interaction between
+        the natural or legal person reporting a vulnerability and the manufacturer or provider of the potentially vulnerable ICT products
+        or ICT services, upon the request of either party. The tasks of the CSIRT designated as coordinator shall include:
+        (a) identifying and contacting the entities concerned;
+        (b) assisting the natural or legal persons reporting a vulnerability; and
+        (c) negotiating disclosure timelines and managing vulnerabilities that affect multiple entities.
+
+        Member States shall ensure that natural or legal persons are able to report, anonymously where they so request, a vulnerability
+        to the CSIRT designated as coordinator. The CSIRT designated as coordinator shall ensure that diligent follow-up action is carried
+        out with regard to the reported vulnerability and shall ensure the anonymity of the natural or legal person reporting the vulnerability.
+        Where a reported vulnerability could have a significant impact on entities in more than one Member State, the CSIRT designated as
+        coordinator of each Member State concerned shall, where appropriate, cooperate with other CSIRTs designated as coordinators
+        within the CSIRTs network.
+
+#### Market surveillance authorities
+
+Market surveillance authorities might request information from the Steward on their policies.
+
+Steward must know who is their market surveillance authority. The CSIRT is the one from the Member State where (in order of priority):
 - the Steward has their main establishment. Main establishment is where the decisions related to the cybersecurity of its products with digital elements are predominantly taken
 - the Steward has the establishment with the highest number of employees in the Union
 
@@ -280,9 +360,7 @@ TODO: Check how this applies to Stewards who do not have a representation in the
 If the Steward has no main establishment in the Union, the appropriate CSIRT is the one from the Member State in which:
 - the authorised representative acting on behalf of the Steward for the highest number of products of that Steward is established
 - the highest number of users of products of that Steward are located
-
-References: 24(3)
-
+        
 ## Restrictions
 
 Steward cannot affix the CE marking on the products they publish.
