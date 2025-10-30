@@ -51,7 +51,7 @@ and sharing of information concerning discovered vulnerabilities in the Open Sou
 coordination with a national CSIRT (see below)
 
 The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between
-Stewards and their Projects vary, the Policy should take into account their common mode oe operations.
+Stewards and their Projects vary, the Policy should take into account their common mode of operations.
 
 Market Surveillance Authorities may request such a Security Policy.
 
@@ -113,7 +113,7 @@ contributors of a given Project speak or understand.
 The Market Surveillance Authority may request documentation related to the Security Policy, with the requirement
 being "put in place and document in a verifiable manner a cybersecurity policy". In addition to the Policy itself,
 it means all other documents showing that the Policy had been applied. It could be for example: the published
-advisory (and in general, a list of published advosories) and the documentation of a CVD process in progress
+advisory (and in general, a list of published advisories) and the documentation of a CVD process in progress
 (in case of a wide-impact exploited security vulnerability without a published fix, for example).
 
 If a Market Surveillance Authority finds that a Steward does not comply with its obligations (what probably means
@@ -179,10 +179,10 @@ stewarding Projects they do not monetize), their staff will likely also handle v
 they may receive information on exploitation or detect it directly. In this case, the Steward is required to report
 the exploited vulnerability.
 
-Secondly, the Steward is oblidged to report serious incidents affecting information systems they provide for the Open Source
-projects they host. This applies in a situation where it is teh Steward organization managing that inforastructure by its
+Secondly, the Steward is obliged to report serious incidents affecting information systems they provide for the Open Source
+projects they host. This applies in a situation where it is the Steward organization managing that infrastructure by its
 IT team. An example of such situation might include: the intrusion in the IT infrastructure causing unauthorised modification
-of the version control system, taking over of accounts, leaking of their signing keys, or a longer unavalibility of the
+of the version control system, taking over of accounts, leaking of their signing keys, or a longer unavailability of the
 IT infrastructure making the development impossible.
 
 Stewards that do not handle the IT infrastructure do not report such incidents.
@@ -269,7 +269,7 @@ What resources could be created to help fulfilling that requirement:
 
 Stewards may voluntary report vulnerabilities and incidents to a CSIRT or ENISA, or "near misses" (situation when
 the exploitation or incident were possible, but avoided), and may receive report
-by the means of CSIRT and/or ENSIA that come from vulontary reporting.
+by the means of CSIRT and/or ENISA that come from voluntary reporting.
 
 References: Article 24(1), 15
 
@@ -334,7 +334,7 @@ If the Steward has no main establishment in the Union, the appropriate CSIRT is 
 - the authorised representative acting on behalf of the Steward for the highest number of products of that Steward is established
 - the highest number of users of products of that Steward are located
 
-In practice, we can assume that the Steward/Project need to report by default to the CSIRT of the country the Steward has its headquaters.
+In practice, we can assume that the Steward/Project need to report by default to the CSIRT of the country the Steward has its headquarters.
 If the Steward has no European official representation, we assume the reporting can be done to one of the CSIRTs of big EU countries (like Germany, France, Spain, Italy etc),
 except is the specific Project has a strong user base in another country.
 
