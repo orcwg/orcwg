@@ -157,16 +157,17 @@ What Stewards and Project will need:
 
 What resources could be created to help fulfilling that requirement:
 - A guide on finding out which is the appropriate market surveillance authority for each Steward
-- Verifying with market surveillance if they accept policies and communication in English
+- Verifying with market surveillance if they accept policies and communication in a language acceptable
+to the Project and the Steward
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
 Stewards have obligation for mandatory reporting of exploited vulnerabilities and severe incidents. However, this obligation
-is more limited in scope that the one of manufacturers.
+is more limited in scope than the one of manufacturers.
 
 First, Stewards are expected to report exploited vulnerabilities if they are involved in the development of the product.
-It means that is the Steward is handling other elements that development (for example the Project is taking decisions independently),
-they do report. 
+This means that if the Steward is handling other elements than development (for example: finances only, and the Project
+is taking development decisions independently), the Steward does not report.
 
 This matches the typical configuration of the relations between Stewards and Projects, when stewards aren't
 directly involved in the development. This is frequently the face for Foundations. In this case, the Steward has also no
@@ -323,9 +324,9 @@ References: Article 24(1) and 13(6).
 
 The CRA text states that the Steward should perform reporting to the CSIRT designated as coordinator. However, this reporting is always
 done by the single reporting platform. The interaction with CSIRTs is two-way. The Steward/Project report to CSIRT, but the CSIRT also
-informs the Steward of potential vulnerabilities and incident that were reported to the CSIRT.
+informs the Steward of potential vulnerabilities and incidents that were reported to the CSIRT.
 
-Steward must know who is their CSIRT designated as coordinator. The CSIRT is the one from the Member State where (in order of priority):
+Stewards must know which CSIRT is their designated coordinator. The CSIRT is the one from the Member State where (in order of priority):
 - the Steward has their main establishment. Main establishment is where the decisions related to the cybersecurity of its products with digital elements are predominantly taken
 - the Steward has the establishment with the highest number of employees in the Union
 - the Steward has the highest number of instances of its software
@@ -336,7 +337,7 @@ If the Steward has no main establishment in the Union, the appropriate CSIRT is 
 
 In practice, we can assume that the Steward/Project need to report by default to the CSIRT of the country the Steward has its headquarters.
 If the Steward has no European official representation, we assume the reporting can be done to one of the CSIRTs of big EU countries (like Germany, France, Spain, Italy etc),
-except is the specific Project has a strong user base in another country.
+except if the specific Project has a strong user base in another country.
 
 Related ORC FAQ entries: [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
 
@@ -368,9 +369,9 @@ Steward must know who is their market surveillance authority. The same rules app
 ## Restrictions
 
 As Stewards (and open source projects) follow less strict rules than PwDE placed on the market by Manufacturers, Steward cannot affix
-the CE marking on the products they publish. It also means that they do not provide the complete CRA documentations for its Projects.
+the CE marking on the products they publish. It also means that they do not provide the complete CRA documentations for their Projects.
 
-They might have an attestation program that provides equivalent documentation to the use of manufacturers.
+They might have an attestation program that provides equivalent documentation for the use of manufacturers.
 
 References: the Cyber Resilience Act, recital 19:
 
@@ -410,6 +411,7 @@ Salve J. Nilsen
 Juan Rico
 Marta Rybczynska
 Jeremy Stanley
+Mark Thomas
 Daniel Thompson-Yvetot
 Martin von Willebrand
 
