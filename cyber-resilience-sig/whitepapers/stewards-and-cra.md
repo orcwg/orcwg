@@ -13,7 +13,8 @@ License: CC-BY 4.0
 
 ## Abstract
 
-The Cyber Resilience Act (CRA) defines a new category of organizations, Open Source Stewards (Stewards hereafter). It also defines obligations for them that are different from those of other categories like manufacturers.
+The Cyber Resilience Act (CRA) defines a new category of organizations, Open Source Stewards (Stewards hereafter). It also defines obligations
+for them that are different from those of other categories like manufacturers.
 
 This whitepaper will aim at elaborating on the obligations, restrictions, and penalties that will be imposed to Stewards.
 
@@ -25,7 +26,8 @@ This document is NOT legal guidance, but the current understanding of the CRA by
 
 ## Status of this document
 
-This is a draft document and may be updated, replaced or obsoleted at any time. It is inappropriate to cite this document as other than a work in progress. Publication of this document as a draft does not imply endorsement by the Eclipse Foundation, Open Regulatory Working Group Members, or contributors.
+This is a draft document and may be updated, replaced or obsoleted at any time. It is inappropriate to cite this document as other than
+a work in progress. Publication of this document as a draft does not imply endorsement by the Eclipse Foundation, Open Regulatory Working Group Members, or contributors.
 
 ## Obligations of Open Source Stewards
 
@@ -34,18 +36,22 @@ Open Source Stewards are defined in the CRA as a separate group of actors, diffe
 
 Under the CRA, Stewards have specific obligations related to Open Source projects they are Stewards for.
 
-A formal relationship between any given Open Source Project and their Steward, is something these two may have to establish themselves. For example, a Steward organization may already be performing a supporting role for the project due to ownership of intellectual property, for historical reasons, or because the project leadership has entered into an agreement with a Steward organization explicitly, or because the project was originally founded as such.
-
-TODO: we should we talk about the location of stewards and the related market surveillance authority
+A formal relationship between any given Open Source Project and their Steward, is something these two may have to establish themselves.
+For example, a Steward organization may already be performing a supporting role for the project due to ownership of intellectual property,
+for historical reasons, or because the project leadership has entered into an agreement with a Steward organization explicitly, or because
+the project was originally founded as such.
 
 ### Security Policy
 
 Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
 - encourage developing of secure Open Source software in by Projects under its stewardship
-- effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities, and sharing of information concerning discovered vulnerabilities in the Open Source community
-- describe the Project's vulnerability reporting and handling processes, including policies regarding voluntary reporting to and coordination with a national CSIRT (see below)
+- effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities,
+and sharing of information concerning discovered vulnerabilities in the Open Source community
+- describe the Project's vulnerability reporting and handling processes, including policies regarding voluntary reporting to and
+coordination with a national CSIRT (see below)
 
-The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between Stewards and their Projects vary, the Policy should take into account their common mode oe operations.
+The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between
+Stewards and their Projects vary, the Policy should take into account their common mode oe operations.
 
 Market Surveillance Authorities may request such a Security Policy.
 
@@ -61,24 +67,30 @@ References: Article 24(1)
         aspects related to documenting, addressing and remediating vulnerabilities and promote the sharing of information
         concerning discovered vulnerabilities within the open-source community.
 
-In Open Source Projects, Security Policies are public (then the publication requirement is fulfilled) and published on the Project site and/or included in their source code repository.
+In Open Source Projects, Security Policies are public (then the publication requirement is fulfilled) and published on
+the Project site and/or included in their source code repository.
 
 In practice, we see two patterns related to security policies:
-- Either the supporting organization publishes one, and Projects link to it in their documentation. This may include some minor clarifications, for example a specific link or email address to report vulnerabilities in that specific Project.
+- Either the supporting organization publishes one, and Projects link to it in their documentation. This may include some minor
+clarifications, for example a specific link or email address to report vulnerabilities in that specific Project.
 - Or, Projects publish their policies based on the template provided by the supporting organization.
 
-In both cases, both the Steward and the Project will need to check if the Policy they provide includes all needed elements and that it is followed. In the case the Project does not follow the Policy, the Steward needs to define the way to follow, see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
+In both cases, both the Steward and the Project will need to check if the Policy they provide includes all needed elements and that it
+is followed. In the case the Project does not follow the Policy, the Steward needs to define the way to follow, see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
 
-As the Policy needs to be followed, the Steward and the Project will need to agree on a way to create the policy and provide changes. For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting that project under that Foundation.
+As the Policy needs to be followed, the Steward and the Project will need to agree on a way to create the policy and provide changes.
+For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting that project under that Foundation.
 
 What Stewards and Project will need:
 - The published Policy (that is larger in scope than a typical current security policy)
 - Evidence that the Policy is followed
 
 What resources could be created to help fulfilling that requirement:
-- A description about how to demonstrate that the policy is put in place - how to record it and store it such that an independent party can check that the policy exists (version-controlled documents, maintaining a change log, ...)
+- A description about how to demonstrate that the policy is put in place - how to record it and store it such that an independent
+party can check that the policy exists (version-controlled documents, maintaining a change log, ...)
 - A description on how to prove that the Policy is actually being followed (tying policy statements to evidence)
-- A specification and/or template of the Policy, showing what it means for a policy to foster the development of secure PwDE: for example the list of methodologies of risk assessment, secure by design, secure by default, secure SDLC;
+- A specification and/or template of the Policy, showing what it means for a policy to foster the development of secure PwDE: 
+for example the list of methodologies of risk assessment, secure by design, secure by default, secure SDLC;
 and a process for effective handling of vulnerabilities by the developers of that product, description of the CVD process
 
 
@@ -360,7 +372,13 @@ the CE marking on the products they publish. It also means that they do not prov
 
 They might have an attestation program that provides equivalent documentation to the use of manufacturers.
 
-References: recital 19
+References: the Cyber Resilience Act, recital 19:
+
+        [..] legal persons who provide support on a sustained basis for the development of such products which are intended for commercial activities,
+        and who play a main role in ensuring the viability of those products (open-source software stewards), should be subject to a light-touch and
+        tailor-made regulatory regime. [..] Given that the light-touch and tailor-made regulatory regime does not subject those acting as open-source
+        software stewards to the same obligations as those acting as manufacturers under this Regulation, they should not be permitted to affix the CE
+        marking to the products with digital elements whose development they support.
 
 ### Glossary
 
