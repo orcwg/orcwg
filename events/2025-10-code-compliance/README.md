@@ -11,7 +11,7 @@ _Slides and recordings will be posted as they become available_
 | Presentation                                                                   | Speaker                                     | Slides | Recording |
 | ------------------------------------------------------------------------------ | ------------------------------------------- | ------ | --------- |
 | ORC Community Update                                                           | Juan Rico, Eclipse Foundation               | Slides | YouTube   |
-| Towards a New Collaboration Paradigm: Manufacturers, Stewards, Maintainers and Authorities | John Ellis, Marta García Hoyos, Marta Rybczynska, Sebastian Raible | [Summary]([./#towards-a-new-collaboration-paradigm-manufacturers-stewards-maintainers-and-authorities) | YouTube   |
+| Towards a New Collaboration Paradigm: Manufacturers, Stewards, Maintainers and Authorities | John Ellis, Marta García Hoyos, Marta Rybczynska, Sebastian Raible | [Summary](#towards-a-new-collaboration-paradigm-manufacturers-stewards-maintainers-and-authorities) | YouTube   |
 | The SECURE Project: Funding Opportunity for SMEs                               | Marie Gheysen,Centre for Cybersecurity Belgium (CCB)| [Slides](PresentationSECURE_CodeComplianceEvent.pdf) | YouTube   |
 | Understanding the Stewardship Role in CRA Compliance                           | Dirk-Willem van Gulik, The Apache Software Foundation | [Summary](#understanding-the-stewardship-role-in-cra-compliance) | YouTube   |
 | Attestation Framework & Objectives of the European Commission                  | Ciarán O'Riordan, Eclipse Foundation AISBL  | Slides | YouTube   |
