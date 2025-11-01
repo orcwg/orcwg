@@ -15,7 +15,7 @@ _Slides and recordings will be posted as they become available_
 | The SECURE Project: Funding Opportunity for SMEs                               | Marie Gheysen,Centre for Cybersecurity Belgium (CCB)| [Slides](PresentationSECURE_CodeComplianceEvent.pdf) | YouTube   |
 | Understanding the Stewardship Role in CRA Compliance                           | Dirk-Willem van Gulik, The Apache Software Foundation | [Summary](#understanding-the-stewardship-role-in-cra-compliance) | YouTube   |
 | Attestation Framework & Objectives of the European Commission                  | Ciarán O'Riordan, Eclipse Foundation AISBL  | Slides | YouTube   |
-| Introduction to CRA Attestations and Workshop Launch                           | Æva Black, Null Point Studio                | Slides | YouTube   |
+| Introduction to CRA Attestations and Workshop Launch                           | Æva Black, Null Point Studio                | Slides [Workshop Materials](https://github.com/orcwg/cra-attestations/tree/main/events/workshop-2025-10-code-and-compliance) | YouTube   |
 | From Manufacturer to Steward: Red Hat’s Approach to CRA Readiness              | Roman Zhukov, Red Hat                       | [Slides](Red_Hat-Roman_Zhukov.pdf) | YouTube   |
 | The Qt Company: Our Journey to CRA                                             | Petri Maanonen, The Qt Company              | [Slides](c&c-our-journey-to-cra-qt-petri-maanonen.pdf) | YouTube   |
 | Compliance in Practice: Nokia’s Perspective on the CRA                         | Timo Perälä, Nokia                          | Slides | YouTube   |
