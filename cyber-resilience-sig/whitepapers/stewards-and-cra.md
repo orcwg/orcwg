@@ -44,11 +44,16 @@ the project was originally founded as such.
 ### Security Policy
 
 Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
-- encourage developing of secure Open Source software in by Projects under its stewardship
+- encourage developing of secure 'products with digital elements'[^pwdnote]
 - effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities,
 and sharing of information concerning discovered vulnerabilities in the Open Source community
 - describe the Project's vulnerability reporting and handling processes, including policies regarding voluntary reporting to and
 coordination with a national CSIRT (see below)
+
+[^pwdnote]: The legal text says *Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity
+policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product.*
+There are different possible interpretation: either the "fostering" in the Policy applies to the FOSS project, to the integration
+of the FOSS project into Products by Manufacturers, or both. We trace the resolution of this doubt in [a dedicated FAQ entry](https://github.com/orcwg/cra-hub/issues/312)
 
 The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between
 Stewards and their Projects vary, the Policy should take into account their common mode of operations.
@@ -162,14 +167,14 @@ to the Project and the Steward
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
-Stewards have obligation for mandatory reporting of exploited vulnerabilities and severe incidents. However, this obligation
+Stewards have obligation for mandatory reporting of attively exploited vulnerabilities and severe incidents. However, this obligation
 is more limited in scope than the one of manufacturers.
 
-First, Stewards are expected to report exploited vulnerabilities if they are involved in the development of the product.
+First, Stewards are expected to report actively exploited vulnerabilities if they are involved in the development of the product.
 This means that if the Steward is handling other elements than development (for example: finances only, and the Project
 is taking development decisions independently), the Steward does not report.
 
-This matches the typical configuration of the relations between Stewards and Projects, when stewards aren't
+This matches the typical configuration of the relations between Stewards and Projects, when Stewards aren't
 directly involved in the development. This is frequently the face for Foundations. In this case, the Steward has also no
 way to be aware of such an exploited vulnerability if not informed by the Project. The information that a vulnerability is
 being exploited might also come from external sources (like security researchers) and in this case, the Steward is not required
