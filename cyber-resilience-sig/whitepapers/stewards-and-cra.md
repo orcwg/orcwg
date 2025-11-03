@@ -167,7 +167,7 @@ to the Project and the Steward
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
-Stewards have obligation for mandatory reporting of attively exploited vulnerabilities and severe incidents. However, this obligation
+Stewards have an obligation for the mandatory reporting of attively exploited vulnerabilities and severe incidents. However, this obligation
 is more limited in scope than the one of manufacturers.
 
 First, Stewards are expected to report actively exploited vulnerabilities if they are involved in the development of the product.
@@ -175,10 +175,12 @@ This means that if the Steward is handling other elements than development (for 
 is taking development decisions independently), the Steward does not report.
 
 This matches the typical configuration of the relations between Stewards and Projects, when Stewards aren't
-directly involved in the development. This is frequently the face for Foundations. In this case, the Steward has also no
-way to be aware of such an exploited vulnerability if not informed by the Project. The information that a vulnerability is
-being exploited might also come from external sources (like security researchers) and in this case, the Steward is not required
-to transfer the report.
+directly involved in the development. This is frequently the case for Foundations. In this case, the Steward has also no
+way to be aware of such an exploited vulnerability if not informed by the Project
+
+The information that a vulnerability is being exploited might also come from external sources (like security researchers). In this case,
+if the Steward is not involved in the development, they have no legal obligation to report. However, they should pass the report
+to the Project. It is an open question if the Project needs to report it or not, but it would be the best practice to follow.
 
 On the other hand, if Steward is involved in the development and operations (that could be frequently the case of companies
 stewarding Projects they do not monetize), their staff will likely also handle vulnerability reports. In this case
@@ -226,7 +228,7 @@ References: 16, 14(1), 14(3), 14(8), 24(3), 15
         to Article 16.
         
 What Stewards and Projects will need:
-- Define a process on who from the Steward and/or Process performs that notification, how to handle credentials (if needed). This could be
+- Define a process on who from the Steward and/or Project performs that notification, how to handle credentials (if needed). This could be
 in the Steward Security Policy or a separate document that describes the implementation details, as agreed between the Steward and the Project.
 
 What resources could be created to help fulfilling that requirement:
@@ -236,8 +238,10 @@ What resources could be created to help fulfilling that requirement:
 
 In case a Steward knows about an actively-exploited vulnerability related to one of their Projects, or a security
 incident affecting them or the Project's infrastructure, they are required to inform affected users.
-In case of open source project, most reports will likely be public. It might be private and directed to the exact
-group of affected persons in case of IT compromise, for example to reset passwords and verify recent suspicious activity.
+In case of open source project, most reports will likely be public. It might be private at the beginning,
+and directed to the exact group of affected persons in case of IT compromise, for example to reset passwords
+and verify recent suspicious activity. The best common practice is to publicly dislose that issues after
+the Steward and the Project have taken immediate measures.
 
 A typical report contains: information of the vulnerability/incident, any mitigations or measures users can
 deploy (for example: disable a feature, reset their password). The text recommends to provide that information
@@ -265,7 +269,7 @@ References: 16, 14(1), 14(3), 14(8), 24(3)
         the impact of that vulnerability or incident.
 
 What Stewards and Projects will need:
-- Define a method how Steward notifies users of exploited vulnerabilities and severe incident. It can be a specific
+- Define a method for how a Steward notifies users of exploited vulnerabilities and severe incidents. It can be a specific
 web page, mailing list, or a combination of methods.
 
 What resources could be created to help fulfilling that requirement:
@@ -273,8 +277,8 @@ What resources could be created to help fulfilling that requirement:
 
 ### Voluntary vulnerability reporting
 
-Stewards may voluntary report vulnerabilities and incidents to a CSIRT or ENISA, or "near misses" (situation when
-the exploitation or incident were possible, but avoided), and may receive report
+Stewards may voluntarily report vulnerabilities and incidents to a CSIRT or ENISA, or "near misses" (situation when
+the exploitation or incident were possible, but avoided), and may receive reports
 by the means of CSIRT and/or ENISA that come from voluntary reporting.
 
 References: Article 24(1), 15
@@ -328,7 +332,7 @@ References: Article 24(1) and 13(6).
 #### CSIRT designated as coordinator
 
 The CRA text states that the Steward should perform reporting to the CSIRT designated as coordinator. However, this reporting is always
-done by the single reporting platform. The interaction with CSIRTs is two-way. The Steward/Project report to CSIRT, but the CSIRT also
+done via the single reporting platform. The interaction with CSIRTs is two-way. The Steward/Project reports to CSIRT, but the CSIRT also
 informs the Steward of potential vulnerabilities and incidents that were reported to the CSIRT.
 
 Stewards must know which CSIRT is their designated coordinator. The CSIRT is the one from the Member State where (in order of priority):
