@@ -3,14 +3,25 @@
 ## Upcoming
 
 <a name="episode-10"></a>
-### 🗓️ November 10, 2025
+### 🗓️ November 10, 2025: OSS provenance and code signing: how SignPath Foundation guarantees software integrity for its member projects
 
-Details to come.
+Some OSS projects are maintained by a foundation like Eclipse, Apache, or Mozilla with often rigorous governance over the release process. However, this approach doesn’t scale, so most OSS projects ship unverified and often unsigned releases. This breaks the trust model of Linus’s Law, which is based on source code. Also, OSS releases are often unsigned, leading to a major security degradation and often usability issues. Unverified signing can lead to issues like the 2024 XZ Utils incident.
+
+SignPath Foundation provides free and secure code signing for 250 OSS projects. To achieve this, we had to go beyond key security: how can we guarantee that releases are safe to use?
+
+Key points:
+
+- Introduction of SignPath foundation
+- OSS project vetting and approval process
+- Automatic provenance verification of releases
+- Code signing challenges
+- CA certificate provisioning
+- Goals and limits of security and process vouching
 
 <details>
 <summary>More info</summary>
  
-**Speaker: TBC**
+**Speaker: Stefan Wenig, Founder of SignPath GmbH, director of SignPath Foundation**
 
 </details>
  
