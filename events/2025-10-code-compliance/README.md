@@ -17,7 +17,7 @@
 | From Manufacturer to Steward: Red Hat’s Approach to CRA Readiness              | Roman Zhukov, Red Hat                       | [Slides](Red_Hat-Roman_Zhukov.pdf) | [YouTube](https://youtu.be/Y9LnbFLBcEc?si=D91p-aH24sTJ4dlD)   |
 | The Qt Company: Our Journey to CRA                                             | Petri Maanonen, The Qt Company              | [Slides](c%26c-our-journey-to-cra-qt-petri-maanonen.pdf) | [YouTube](https://youtu.be/vBQPgO29JKQ?si=p8zgRKlhuJPylHgO)   |
 | Compliance in Practice: Nokia’s Perspective on the CRA                         | Timo Perälä, Nokia                          | Slides | [YouTube](https://youtu.be/5oRk5Shg5q4?si=73taUIpY2odzzH_z)   |
-| OCCTET: Turn CRA Awareness into Action                                         | Andreea Gălbău, Iulisa Zbranca, Marcel Mertens, Martin von Willebrand, Philippe Ombredanne, Sébastien Heurtematte| Slides  | [YouTube](https://youtu.be/54S-kJj1bv4?si=KK3iIYNsHYOww2o9)  |
+| OCCTET: Turn CRA Awareness into Action                                         | Andreea Gălbău, Iulisa Zbranca, Marcel Mertens, Martin von Willebrand, Philippe Ombredanne, Sébastien Heurtematte| [Slides](cc-occtet-occtetconsortium.pdf)  | [YouTube](https://youtu.be/54S-kJj1bv4?si=KK3iIYNsHYOww2o9)  |
 | Opportunities to Participate in Standardisation                                | Aki Rose Braun, Daniel Thompson-Yvetot, Jordan Maris, Aistė Merfeldaitė | [Summary](#opportunities-to-participate-in-standardisation) | [YouTube](https://youtu.be/a2DFmJWmDBw?si=QjFO7PQUlNRcyuvq) |
 
 
