@@ -126,7 +126,19 @@ not having the Policy and/or not promoting the best practices), they require Ste
 corrective actions are taken. As a result, Stewards "shall ensure" (formulation from the law) that all appropriate
 corrective action is taken in respect of their obligations. It means that the Steward needs to have a way to
 influence the Project in question to follow policies. A possible situation may be: not responding to vulnerability
-reports, or not documenting fixed vulnerabilities.
+reports at all, or not documenting fixed vulnerabilities.
+
+In a vulnerability management process, it is common that reporters and developers disagree about what is a
+vulnerability and what is not. In addition, multiple projects face AI-generated reports and low quality reports
+of minor issues[^reportingnote]. It is a best practice to document in the Policy the resolution procedure for
+conflicts and always respond to reports even if to say that the Project does not consider it a vulnerability.
+
+[^reportingnote]: This is a serious problem for the open source community, as each investigation requires
+time from developers. Low quality reports are caused, amongst other things, by the possible reward (a CVE number,
+or a bounty - which open source projects typically do not have) and we find reasonable that the Policy includes
+a process of handling abusive reports. In such cases, Projects and Stewards should keep a minimum of trace
+of their decison (example: emails) and may use additional guidelines on what is considered a vulnerability,
+for example the CVE Program rules.
 
 The law requires the Steward to take actions, but clearly excludes any fees in the case of non-respect of the
 regulation.
@@ -405,6 +417,7 @@ References: the Cyber Resilience Act, recital 19:
 1. [The choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
 2. [ORC FAQ entries on Open Source Software Stewards](https://github.com/orcwg/cra-hub/blob/main/faq.md#open-source-software-stewards)
 3. [FOSDEM 2025 session: CRA Q&A on Open Source Stewards under the Cyber Resilience Act](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6638-cra-q-a-on-open-source-stewards-under-the-cyber-resilience-act/)
+4. [CVE Numbering Authority (CNA) Operational Rules version 4.1.0](https://www.cve.org/Resources/Roles/Cnas/CNA_Rules_v4.1.0.pdf)
 
 ## Acknowledgments
 
