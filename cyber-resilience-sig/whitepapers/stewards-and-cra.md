@@ -167,7 +167,7 @@ to the Project and the Steward
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
-Stewards have an obligation for the mandatory reporting of attively exploited vulnerabilities and severe incidents. However, this obligation
+Stewards have an obligation for the mandatory reporting of actively exploited vulnerabilities and severe incidents. However, this obligation
 is more limited in scope than the one of manufacturers.
 
 First, Stewards are expected to report actively exploited vulnerabilities if they are involved in the development of the product.
