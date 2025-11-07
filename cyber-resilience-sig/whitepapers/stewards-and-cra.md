@@ -167,7 +167,7 @@ to the Project and the Steward
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
-Stewards have an obligation for the mandatory reporting of attively exploited vulnerabilities and severe incidents. However, this obligation
+Stewards have an obligation for the mandatory reporting of actively exploited vulnerabilities and severe incidents. However, this obligation
 is more limited in scope than the one of manufacturers.
 
 First, Stewards are expected to report actively exploited vulnerabilities if they are involved in the development of the product.
@@ -240,7 +240,7 @@ In case a Steward knows about an actively-exploited vulnerability related to one
 incident affecting them or the Project's infrastructure, they are required to inform affected users.
 In case of open source project, most reports will likely be public. It might be private at the beginning,
 and directed to the exact group of affected persons in case of IT compromise, for example to reset passwords
-and verify recent suspicious activity. The best common practice is to publicly dislose that issues after
+and verify recent suspicious activity. The best common practice is to publicly disclose that issues after
 the Steward and the Project have taken immediate measures.
 
 A typical report contains: information of the vulnerability/incident, any mitigations or measures users can
