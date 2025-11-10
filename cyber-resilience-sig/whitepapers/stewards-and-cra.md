@@ -240,7 +240,7 @@ In case a Steward knows about an actively-exploited vulnerability related to one
 incident affecting them or the Project's infrastructure, they are required to inform affected users.
 In case of open source project, most reports will likely be public. It might be private at the beginning,
 and directed to the exact group of affected persons in case of IT compromise, for example to reset passwords
-and verify recent suspicious activity. The best common practice is to publicly dislose that issues after
+and verify recent suspicious activity. The best common practice is to publicly disclose that issues after
 the Steward and the Project have taken immediate measures.
 
 A typical report contains: information of the vulnerability/incident, any mitigations or measures users can
