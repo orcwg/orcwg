@@ -43,35 +43,35 @@ flowchart LR
 
  🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled
 
-| | Deliverable name | Owner | First draft due | Final draft due |
-|---:|---|---|---|---|
-| **1.** | **Documentation** | | | |
-| ✍️ | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][] | April 2025 | Dec 2025 |
-| ✍️ | 1.2 [Inventory][] | [Inventory Task Force][] | April 2025 | Sept 2025 |
-| | | | | |
-| **2.** | **Inputs & contributions** | | | |
-| 🚀 | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | March 18, 2025 | April 18, 2025 |
-| 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | May 13, 2025 | May 21, 2025 |
-| 🚀 | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][] | May 30, 2025 | June 16, 2025 |
-| ❌ | ~~2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4]~~ | ~~[Vulnerability Handling Task Force][]~~ | ~~June 30, 2025~~ | |
-| 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | June 12, 2025 |June 12, 2025 |
-| 🚀 | 2.6 [Feedback on Cybersecurity Act (CSA) Revision][deliverable-2-6] | [Cyber Resilience SIG][SIG] | June 14, 2025 | June 20, 2025 |
-| 🚀 | 2.7 [Comments to EU Guidance on open source][deliverable-2-7] | [CRA Expert Group liaisons][CRA Expert Group] | June 18, 2025 | June 20, 2025 |
-| 🚀 | 2.8 [Response to the Call for evidence on the revision of the Standardisation Regulation 1025][deliverable-2-8] | [Cyber Resilience SIG][SIG] | July 5, 2025 | July 21, 2025 |
-| 🚀 | 2.9 [Comments on CEN/CENELEC PT3 Vulnerability Handling Standard][deliverable-2-9] | [Cyber Resilience SIG][SIG] | July 20, 2025 | August 4, 2025 |
-| | | | | |
-| **3.** | **White papers** | | | |
-| 🗺️ | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force |  |  |
-| 🗺️ | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
-| 🗺️ | 3.3 [White paper on security attestations][security attestations] | Dedicated task force | | |
-| 🗺️ | 3.4 [White paper on types of open source projects][open source project types] | [Cyber Resilience SIG][SIG] | | |
-| ✍️ | 3.5 [White paper on open source software stewards and CRA][open source stewards cra] | [Vulnerability Handling Task Force][] | | |
-| | | | | |
-| **4.** | **Specifications** | | | |
-| ✍️ | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | March 2025 | |
-| 🗺️ | 4.2 [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | | |
-| 🗺️ | 4.3 [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | | |
-| 🗺️ | 4.4 [Security policy for open source software stewards][security policy] | [Cyber Resilience Practices Project][] | | |
+| | Deliverable name | Owner | Type | Path | First draft due | Final draft due |
+|---:|---|---|:---:|---|---|---|
+| **1.** | **Documentation** | | | | | |
+| ✍️ | 1.1 [CRA FAQ][FAQ] | [FAQ Task Force][] | url | https://github.com/orcwg/cra-hub/blob/main/faq.md | April 2025 | Dec 2025 |
+| ✍️ | 1.2 [Inventory][] | [Inventory Task Force][] | url | https://github.com/orcwg/cra-hub/blob/main/inventory.md | April 2025 | Sept 2025 |
+| | | | | | | |
+| **2.** | **Inputs & contributions** | | | | | |
+| 🚀 | 2.1 [Input to draft implementing act on product categories][input product categories] | [Cyber Resilience SIG][SIG] | file | ./input-to-draft-regulation-2025-04-18.xlsx | March 18, 2025 | April 18, 2025 |
+| 🚀 | 2.2 [Contribution to Vulnerability Handling Standard Clause 4.4][deliverable-2-2] | [Cyber Resilience SIG][SIG] | file | coordination/cen-cenelec-wg-9/deliverable-2-2.md | May 13, 2025 | May 21, 2025 |
+| 🚀 | 2.3 [Contribution to open source EU Guidance on open source hardware][deliverable-2-3] | [Open Source Hardware Task Force][] | file | coordination/cra-expert-group/deliverable-2-3.md | May 30, 2025 | June 16, 2025 |
+| ❌ | ~~2.4 [Contribution to Vulnerability Handling Standard Annex C][deliverable-2-4]~~ | ~~[Vulnerability Handling Task Force][]~~ | file | coordination/cen-cenelec-wg-9/deliverable-2-4.md | ~~June 30, 2025~~ | |
+| 🚀 | 2.5 [Comments on CEN/CENELEC PT 1 Standard][deliverable-2-5] | [CEN/CENELEC WG 9 PT 1 liaisons][CEN/CENELEC WG 9 PT 1] | file | coordination/cen-cenelec-wg-9/deliverable-2-5.md | June 12, 2025 |June 12, 2025 |
+| 🚀 | 2.6 [Feedback on Cybersecurity Act (CSA) Revision][deliverable-2-6] | [Cyber Resilience SIG][SIG] | file | coordination/enisa/deliverable-2-6.md | June 14, 2025 | June 20, 2025 |
+| 🚀 | 2.7 [Comments to EU Guidance on open source][deliverable-2-7] | [CRA Expert Group liaisons][CRA Expert Group] | file | coordination/cra-expert-group/deliverable-2-7.md | June 18, 2025 | June 20, 2025 |
+| 🚀 | 2.8 [Response to the Call for evidence on the revision of the Standardisation Regulation 1025][deliverable-2-8] | [Cyber Resilience SIG][SIG] | file | coordination/european-commission/2025-07-call-for-evidence-1025/deliverable-2-8.md | July 5, 2025 | July 21, 2025 |
+| 🚀 | 2.9 [Comments on CEN/CENELEC PT3 Vulnerability Handling Standard][deliverable-2-9] | [Cyber Resilience SIG][SIG] | file | coordination/cen-cenelec-wg-9/deliverable-2-9.md | July 20, 2025 | August 4, 2025 |
+| | | | | | | |
+| **3.** | **White papers** | | | | | |
+| 🗺️ | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | file | whitepapers/sboms.md | April 2025 | June 2025 |
+| 🗺️ | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | file | whitepapers/due-diligence.md | | |
+| 🗺️ | 3.3 [White paper on security attestations][security attestations] | Dedicated task force | file | whitepapers/security-attestations.md | | |
+| 🗺️ | 3.4 [White paper on types of open source projects][open source project types] | [Cyber Resilience SIG][SIG] | file | whitepapers/project-types.md | | |
+| ✍️ | 3.5 [White paper on open source software stewards and CRA][open source stewards cra] | [Vulnerability Handling Task Force][] | file | whitepapers/stewards-and-cra.md | | |
+| | | | | | | |
+| **4.** | **Specifications** | | | | | |
+| ✍️ | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | url | https://github.com/orcwg/vulnerability-management-spec | March 2025 | |
+| 🗺️ | 4.2 [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | file | proposed-specs/cyber-resilience-principles.md | | |
+| 🗺️ | 4.3 [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | file | proposed-specs/generic-security-requirements.md | | |
+| 🗺️ | 4.4 [Security policy for open source software stewards][security policy] | [Cyber Resilience Practices Project][] | file | proposed-specs/security-policy.md | | |
 
 _Note that the [Cyber Resilience SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 
