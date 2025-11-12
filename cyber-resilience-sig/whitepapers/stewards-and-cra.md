@@ -345,8 +345,16 @@ If the Steward has no main establishment in the Union, the appropriate CSIRT is 
 - the highest number of users of products of that Steward are located
 
 In practice, we can assume that the Steward/Project need to report by default to the CSIRT of the country the Steward has its headquarters.
+
 If the Steward has no European official representation, we assume the reporting can be done to one of the CSIRTs of big EU countries (like Germany, France, Spain, Italy etc),
 except if the specific Project has a strong user base in another country.
+
+If the Steward/Project could not figure out the appropriate CSIRT using those rules, we currently assume that they can choose the one that they find the most appropriate.
+As the legislation seems to assume one CSIRT for Steward, multiple Projects will need to share the decision on the choice of the CSIRT. It would be the best
+practice to take that decision together between all concerned Projects and the Steward representatives.
+
+It will be also a good practice to document which CSIRT is the main one for each Project, in the standard security documentation on that Project and easy to find
+for anyone who wishes to report a vulnerability, and to contributors to that Project.
 
 Related ORC FAQ entries: [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
 
