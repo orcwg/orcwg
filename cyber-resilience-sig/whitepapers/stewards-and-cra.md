@@ -133,9 +133,16 @@ vulnerability and what is not. In addition, multiple projects face AI-generated 
 of minor issues[^reportingnote]. It is a best practice to document in the Policy the resolution procedure for
 conflicts and always respond to reports even if to say that the Project does not consider it a vulnerability.
 
+The best practice is also to document the Project security model and define which parts are in scope for
+reporting vulnerabilities. For example, the Project may be working on a new, experimental module, that
+has not been released yet. In this case it can state that this module is out of scope for vulnerability
+reporting, but may accept regular bug reports. Another example may be support for a legacy protocol for
+compatibility reasons, and that this protocol is known to have security weaknesses. In this case, the
+Project may document that it is not accepting vulnerability reports for that part of the code.
+
 [^reportingnote]: This is a serious problem for the open source community, as each investigation requires
 time from developers. Low quality reports are caused, amongst other things, by the possible reward (a CVE number,
-or a bounty - which open source projects typically do not have) and we find reasonable that the Policy includes
+or a bounty - which open source projects typically do not have) and we find it reasonable that the Policy includes
 a process of handling abusive reports. In such cases, Projects and Stewards should keep a minimum of trace
 of their decison (example: emails) and may use additional guidelines on what is considered a vulnerability,
 for example the CVE Program rules.
