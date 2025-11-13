@@ -132,6 +132,7 @@ In a vulnerability management process, it is common that reporters and developer
 vulnerability and what is not. In addition, multiple projects face AI-generated reports and low quality reports
 of minor issues[^reportingnote]. It is a best practice to document in the Policy the resolution procedure for
 conflicts and always respond to reports even if to say that the Project does not consider it a vulnerability.
+Also reports that do not relate to an undisclosed vulnerability can be ignored by the Project.
 
 The best practice is also to document the Project security model and define which parts are in scope for
 reporting vulnerabilities. For example, the Project may be working on a new, experimental module, that
