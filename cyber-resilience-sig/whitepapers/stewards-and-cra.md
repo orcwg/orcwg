@@ -132,13 +132,15 @@ In a vulnerability management process, it is common that reporters and developer
 vulnerability and what is not. In addition, multiple projects face AI-generated reports and low quality reports
 of minor issues[^reportingnote]. It is a best practice to document in the Policy the resolution procedure for
 conflicts and always respond to reports even if to say that the Project does not consider it a vulnerability.
+It may be helpful to document in the policy that reports that do not do not relate to an undisclosed vulnerability
+may be ignored by the Project.
 
 The best practice is also to document the Project security model and define which parts are in scope for
 reporting vulnerabilities. For example, the Project may be working on a new, experimental module, that
 has not been released yet. In this case it can state that this module is out of scope for vulnerability
 reporting, but may accept regular bug reports. Another example may be support for a legacy protocol for
 compatibility reasons, and that this protocol is known to have security weaknesses. In this case, the
-Project may document that it is not accepting vulnerability reports for that part of the code.
+Project may document that it is not accepting vulnerability reports the known weaknesses in the protocol.
 
 [^reportingnote]: This is a serious problem for the open source community, as each investigation requires
 time from developers. Low quality reports are caused, amongst other things, by the possible reward (a CVE number,
