@@ -55,22 +55,18 @@ Check out our archive:
 
 ### YouTube Playlists
 
-Watch recordings of our past virtual events:
+Watch recordings of our past events:
 
 - [CRA Mondays](https://www.youtube.com/playlist?list=PLy7t4z5SYNaT-DjqGR0ORSSZGZYW8qmRs)
 - [Unpacking the CRA](https://www.youtube.com/playlist?list=PLy7t4z5SYNaTnHCiz8ADmGZ_z6YZGd0wI)
+- [Code & Compliance 2025](https://youtube.com/playlist?list=PLy7t4z5SYNaSwD6AGfFCeCc39ISaNccYc&si=PdRvkWVVL3Byydgn)
   
 ## 🤝 Get Involved
 
-We encourage community participation! Here’s how you can contribute:
+We encourage community participation! If you’re hosting, speaking at, or participating in an event that may interest the ORC community, we’d love to hear about it.
 
-- Propose an Event: If you’d like to host or suggest an event, open an issue in this repository with details.
-  - Event Name
-  - Date & Time
-  - Location
-  - Brief Description
-  - Rgistration Link 
-- Speak at an Event: Interested in sharing your expertise? Reach out to us!
+Anyone with an Eclipse Foundation account can [submit an event](https://newsroom.eclipse.org/node/add/events) through our newsroom. When appropriate, we’ll help spread the word by sharing your submission through our social media channels, mailing lists, and more.
+
 
 
 
