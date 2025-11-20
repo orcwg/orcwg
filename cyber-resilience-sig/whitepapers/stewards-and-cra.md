@@ -18,7 +18,7 @@ for them that are different from those of other categories like manufacturers.
 
 This whitepaper will aim at elaborating on the obligations, restrictions, and penalties that will be imposed to Stewards.
 
-From the elaboration on the legal text, we will outline the missing pieces / documents / procedures that Stewards need to have to fulfil their obligations.
+From the elaboration on the legal text, we will outline the missing pieces, documents, and procedures that Stewards need to have to fulfill their obligations.
 
 The goal is NOT to provide a definition or guidance about who is and who is not a steward for an Product with Digital Element qualifying as Open Source Software.
 
@@ -29,10 +29,21 @@ This document is NOT legal guidance, but the current understanding of the CRA by
 This is a draft document and may be updated, replaced or obsoleted at any time. It is inappropriate to cite this document as other than
 a work in progress. Publication of this document as a draft does not imply endorsement by the Eclipse Foundation, Open Regulatory Working Group Members, or contributors.
 
-## Obligations of Open Source Stewards
+## Introduction
 
 Open Source Stewards are defined in the CRA as a separate group of actors, different from Manufacturers. A Steward must be a legal person
-(a registered legal entity such as a for-profit or non-profit company, a foundation, etc) and is also different from the Open Source Project itself.
+(a [registered legal entity](https://cra.orcwg.org/faq/stewards/who-can-be-steward/) such as a for-profit or non-profit company, a foundation, etc) and is also different from the Open Source Project itself.
+
+Before the CRA, there was no such an actor in the law. The existence of the role of Open Source Stewards removes the risks of
+Open Source actors that could be classified as Manufacturers for the software they do not monetize.
+
+However, most Open Source projects today, especially small ones, [do not have a steward](https://cra.orcwg.org/faq/stewards/do-all-projects-have-stewards/). Obligations listed in this document do not apply to them.
+
+This document does not cover the question which organization is a Steward for a given Project, nor if an organization is a Steward
+or a Manufacturer. For more information, refer to questions in the [ORCWG FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md#open-source-software-stewards).
+
+
+## Obligations of Open Source Stewards
 
 Under the CRA, Stewards have specific obligations related to Open Source projects they are Stewards for.
 
