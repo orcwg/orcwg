@@ -43,7 +43,7 @@ the project was originally founded as such.
 
 ### Security Policy
 
-Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
+Stewards shall, with the cooperation of their Projects, develop, document and put in place and document a cybersecurity policy these Projects adopt. The policy's goals are:
 - encourage developing of secure 'products with digital elements'[^pwdnote]
 - effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities,
 and sharing of information concerning discovered vulnerabilities in the Open Source community
@@ -75,19 +75,25 @@ References: Article 24(1)
 In Open Source Projects, Security Policies are public (then the publication requirement is fulfilled) and published on
 the Project site and/or included in their source code repository.
 
-In practice, we see two patterns related to security policies:
-- Either the supporting organization publishes one, and Projects link to it in their documentation. This may include some minor
-clarifications, for example a specific link or email address to report vulnerabilities in that specific Project.
-- Or, Projects publish their policies based on the template provided by the supporting organization.
+In practice, we see at least three patterns related to security policies:
+- The supporting organization (Steward) creates and publishes one, and Projects agree to that policy, and link to it in their documentation.
+Project may make minor clarifications, for example add a specific link or email address to report vulnerabilities in that specific Project.
+- The supporting organization provides a template, and Projects publish their policies based on that template. In this case the number of
+changes in the Policy may be more significant.
+- The Project has a long-established public policy and that policy gets adapted by the Steward as their policy in the CRA terms.
 
-In both cases, both the Steward and the Project will need to check if the Policy they provide includes all needed elements and that it
-is followed. In the case the Project does not follow the Policy, the Steward needs to define the way to follow, see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
+In all cases, both the Steward and the Project will need to check if the Policy they provide includes all needed elements and that it
+is followed. In the case the Project does not follow the Policy, the Steward needs to define the action plan, see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
 
-As the Policy needs to be followed, the Steward and the Project will need to agree on a way to create the policy and provide changes.
 For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting that project under that Foundation.
+The Project and the Steward need to agree on the way to introduce changes to the Policy to match legal requirements and the
+current practices of the Project (for example: bug tracking tools, communication methods).
+
+The Project and the Steward need to agree on the way to introduce changes to the Policy to match legal requirements and the
+current practices of the Project (for example: bug tracking tools, communication methods).
 
 What Stewards and Project will need:
-- The published Policy (that is larger in scope than a typical current security policy)
+- The published Policy (that includes more elements than a typical security policy of a Project today)
 - Evidence that the Policy is followed
 
 What resources could be created to help fulfilling that requirement:
