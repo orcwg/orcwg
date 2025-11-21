@@ -86,14 +86,43 @@ is followed. In the case the Project does not follow the Policy, the Steward nee
 As the Policy needs to be followed, the Steward and the Project will need to agree on a way to create the policy and provide changes.
 For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting that project under that Foundation.
 
+#### A policy to develop secure products
+
+The legal text says *Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity
+policy to foster the development of a secure product with digital elements* without further clarifications. This section will need to be
+updated after the question of the meaning of this clause gets clarified, see [a dedicated FAQ entry](https://github.com/orcwg/cra-hub/issues/312).
+
+#### A policy to effectively handle vulnerabilities
+
+The policy to effectively handle vulnerabilities should be a part of the security policy, according to the Article 24(1), and include processes of:
+- documenting vulnerabilities - we understand this as documenting fixed or otherwise mitigated vulnerabilities, when they become public. Examples of techniques
+Projects may use are: CVE/EUVD entries, security advisories (in text and/or machine-readable formats). All such vulnerabilities should be documented, and that
+documentation available from a location that is easy to find for users. For example: it might be a link in `SECURITY.md` or on the Project's Security
+web page.
+- addressing vulnerabilities - the policy needs to define how the Project handles vulnerabilities, and it means the triaging and prioritization.
+This is a part of a typical security process of open source projects.
+- remediating vulnerabilities - the policy needs to define how the Project remediates vulnerabilities, which means either fixes, or mitigations.
+This is a part of a typical security process of open source projects.
+- promoting information sharing in the open source community - this is a new item, which is currently usually implicit. Under the CRA, this part
+of the policy will need to be documented. The best practices include: Projects need to share information about found vulnerabilities
+with their upstream. Also, if a vulnerability report they receive has a cause in one of their dependencies, they need to notify the Project team
+of that dependency. And finally, if there is a probability of a similar issue in similar projects (for example in various HTTP implementations),
+Projects should notify the potentially affected peers they know about.
+- enable reporting vulnerabilities to the project (or to the Stewards) by manufacturers including such a project in their product, according
+to obligations of the Manufacturer - each Project needs to allow reporting vulnerabilities.  This is a part of a typical security process of open source projects.
+
+#### Resources
+
 What Stewards and Project will need:
 - The published Policy (that is larger in scope than a typical current security policy)
 - Evidence that the Policy is followed
 
 What resources could be created to help fulfilling that requirement:
 - A description about how to demonstrate that the policy is put in place - how to record it and store it such that an independent
-party can check that the policy exists (version-controlled documents, maintaining a change log, ...)
-- A description on how to prove that the Policy is actually being followed (tying policy statements to evidence)
+party can check that the policy exists (version-controlled documents, maintaining a change log, ...). For example, the Policy may
+be stored in Project's `SECURITY.md` file, and versioned in git.
+- A description on how to prove that the Policy is actually being followed (tying policy statements to evidence). For example,
+the Policy may say that the security decisions are documented in the `Changelog` file that is versioned next to the `SECURITY.md`.
 - A specification and/or template of the Policy, showing what it means for a policy to foster the development of secure PwDE: 
 for example the list of methodologies of risk assessment, secure by design, secure by default, secure SDLC;
 and a process for effective handling of vulnerabilities by the developers of that product, description of the CVD process
@@ -246,7 +275,7 @@ the Steward and the Project have taken immediate measures.
 A typical report contains: information of the vulnerability/incident, any mitigations or measures users can
 deploy (for example: disable a feature, reset their password). The text recommends to provide that information
 in a machine-readable way. This could be any machine-readable advisory format, for example CSAF. They might also
-choose to update the CVE entry for an exploited vulnerability. Most Stewards
+choose to update the CVE entry (and/or EUVD entry in the future) for an exploited vulnerability. Most Stewards
 will also likely choose to publish the information in human readable format, on a web page or email.
 
 The legal text suggest that this reporting does not need to be immediate, allowing time for analysis of the issue,
@@ -314,20 +343,6 @@ References: Article 24(1), 15
         of the information provided by a notifying natural or legal person. Without prejudice to the prevention, investigation,
         detection and prosecution of criminal offences, voluntary reporting shall not result in the imposition of any additional
         obligations upon a notifying natural or legal person to which it would not have been subject had it not submitted the notification.
-
-        
-### A policy to develop secure products
-
-### A policy to effectively handle vulnerabilities
-
-The policy to effectively handle vulnerabilities should be a part of the security policy and include processes of:
-- documenting vulnerabilities
-- addressing vulnerabilities
-- remediating vulnerabilities
-- promoting information sharing in the open source community
-- enable reporting vulnerabilities to the project (or to the Stewards) by manufacturers including such a project in their product, according to obligations of the Manufacturer.
-
-References: Article 24(1) and 13(6).
 
 #### CSIRT designated as coordinator
 
@@ -397,6 +412,7 @@ References: the Cyber Resilience Act, recital 19:
 - CSAF - Common Security Advisory Framework
 - CSIRT - Computer Security Incident Response Team
 - CVD - Coordinated Vulnerability Disclosure
+- EUVD - European Vulnerability Database
 - PwDE or PWD - Product with Digital Elements (as defined by the CRA)
 - SDLC - Secure Development Life Cycle
 
@@ -405,6 +421,7 @@ References: the Cyber Resilience Act, recital 19:
 1. [The choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
 2. [ORC FAQ entries on Open Source Software Stewards](https://github.com/orcwg/cra-hub/blob/main/faq.md#open-source-software-stewards)
 3. [FOSDEM 2025 session: CRA Q&A on Open Source Stewards under the Cyber Resilience Act](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6638-cra-q-a-on-open-source-stewards-under-the-cyber-resilience-act/)
+4. [European Vulnerability Database](https://euvd.enisa.europa.eu/)
 
 ## Acknowledgments
 
@@ -415,6 +432,7 @@ The following people have contributed to this document either directly or indire
 - Arnout Engelen
 - Tobie Langel
 - Faidon Liambotis
+- flukavsky
 - Jordan Maris
 - Salve J. Nilsen
 - Juan Rico
