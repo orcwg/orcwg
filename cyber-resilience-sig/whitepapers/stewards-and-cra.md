@@ -220,6 +220,20 @@ to the Project and the Steward
 Stewards have an obligation for the mandatory reporting of actively exploited vulnerabilities and severe incidents. However, this obligation
 is more limited in scope than the one of manufacturers.
 
+The table below from the [FAQ entry on Steward obligation](https://cra.orcwg.org/faq/stewards/notification-obligations/) shows summary of
+Steward obligations depending on the services they provide to the Project:
+
+| Steward support level | Notify vulnerabilities[^1] | Notify incidents[^2] | General announcement[^3] | Message known users[^3] |
+| - |:-:|:-:|:-:|:-: |
+| Provides non-technical support only | N/A | N/A | N/A | N/A |
+| + provides IT infrastructure | N/A | ✅ | ✅ | N/A |
+| + provides engineering resources (incl. security) | ✅ | ✅ | ✅ | N/A |
+| + has 1:1 relationship with some users | ✅ | ✅ | ✅ | ✅|
+
+[^1]: [Art. 14(1)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14)
+[^2]: [Art. 14(3)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14)
+[^3]: [Art. 14(8)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14)
+
 First, Stewards are expected to report actively exploited vulnerabilities if they are involved in the development of the product.
 This means that if the Steward is handling other elements than development (for example: finances only, and the Project
 is taking development decisions independently), the Steward does not report.
