@@ -2,10 +2,81 @@
 
 ## Upcoming
 
+<a name="episode-12"></a>
+### 🗓️ November 24, 2025: When Disclosure Fails: Europe’s Struggle with CVD
+
+Coordinated Vulnerability Disclosure (CVD) is written into NIS2 and the Cyber Resilience Act as a cornerstone of Europe’s cybersecurity policy. In practice, though, the system is failing. When I reported a vulnerability in a major Belgian bank through the official channels, I was met with bureaucracy, legal threats, and a total lack of technical engagement; both from both the bank and Belgium’s national cybersecurity authority. What should have been a routine disclosure turned into a long standoff that perfectly illustrates how Europe’s CVD framework is broken.
+ 
+In this talk, I’ll show how these problems aren’t just Belgian, but systemic. Across the EU, policymakers treat CVD as a means to impose requirements on reporters instead of a commitment by organisations to receive and fix vulnerabilities. They confuse disclosure with bug bounties, enforce pointless formalities, and discourage the very people trying to help. I’ll explain what went wrong, why it matters for NIS2 and the CRA, and how we can fix CVD before it collapses under its own red tape.
+
+<details>
+<summary>More info</summary>
+ 
+**Speaker: Piet De Vaere, Product Cybersecurity Consultant**
+
+Piet is an electrical engineer, computer scientist, and consultant specializing in product cybersecurity compliance. His focus areas include the EU Cyber Resilience Act (CRA), the EU Radio Equipment Directive (RED DA), and the UK Product Security and Telecommunications Infrastructure (PSTI) Act. He regularly applies standards such as EN 303 645 and IEC 62443 to support compliance projects.
+
+</details>
+ 
+🗓️ When: **November 24, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTExMjRUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+
+---
+
+## Previous episodes
+
+<a name="episode-11"></a>
+### 🗓️ November 10, 2025: OSS provenance and code signing: how SignPath Foundation guarantees software integrity for its member projects
+
+Some OSS projects are maintained by a foundation like Eclipse, Apache, or Mozilla with often rigorous governance over the release process. However, this approach doesn’t scale, so most OSS projects ship unverified and often unsigned releases. This breaks the trust model of Linus’s Law, which is based on source code. Also, OSS releases are often unsigned, leading to a major security degradation and often usability issues. Unverified signing can lead to issues like the 2024 XZ Utils incident.
+
+<details>
+<summary>More info</summary>
+
+ SignPath Foundation provides free and secure code signing for 250 OSS projects. To achieve this, we had to go beyond key security: how can we guarantee that releases are safe to use?
+
+Key points:
+
+- Introduction of SignPath foundation
+- OSS project vetting and approval process
+- Automatic provenance verification of releases
+- Code signing challenges
+- CA certificate provisioning
+- Goals and limits of security and process vouching
+
+**Speaker: Stefan Wenig, Founder of SignPath GmbH, director of SignPath Foundation**
+
+</details>
+
+<a name="episode-10"></a>
+### 🗓️ October 27, 2025: From closed rooms to open dialogue: how to participate in CRA vertical standards
+
+The development of vertical standards under the Cyber Resilience Act (CRA) is a critical step toward implementation, yet these processes are often opaque and difficult for stakeholders that are not members of the standardization bodies to engage with. This presentation introduces a new open platform designed to make participation accessible to the wider community. It enables developers, manufacturers, and open source contributors to review, comment, and share feedback, creating a bridge between technical expertise and regulatory work. ([video](https://youtu.be/lCGBoNm0G08))
+
+<details>
+<summary>More info</summary>
+
+This session will cover: 
+
+- CRA vertical standards development under ETSI
+- Open participation in a traditional closed process
+- Tooling for participating
+ 
+**Speaker: Jordan Maris**
+
+Jordan is the OSI's EU Policy Analyst. He spent the last three years as an assistant to a Member of the European Parliament, campaigning for Open Source Software in negotiations on laws such as the AI Act, Cyber Resilience Act and Product Liability Directive among others. Jordan is a long-time user of Open Source software and a strong advocate for the Public Money–Public Code principle. 
+
+</details>
+
+
 <a name="episode-9"></a>
 ### 🗓️ October 13, 2025: Demystifying "simplified CC for CRA"
 
-Let's unpack the sCC4CRA methodology, specially designed to facilitate early compliance for default products, based on EUCC, fully self-assessed and simplified for CRA.
+Let's unpack the sCC4CRA methodology, specially designed to facilitate early compliance for default products, based on EUCC, fully self-assessed and simplified for CRA. ([slides](2025-10-13_DemystifyingsCC4CRA.pdf) | [video](https://youtu.be/2JfterY07j8) | [project link](https://github.com/sCC4CRA))
+
+<details>
+<summary>More info</summary>
 
 This session will cover: 
 
@@ -14,23 +85,12 @@ This session will cover:
 - sCC4CRA alignment with standardisation work
 - how to use sCC4CRA
 - Future and next steps
-
-<details>
-<summary>More info</summary>
  
 **Speaker: Roger Riera**
 
 Roger Riera is a member of the European Commission’s Cyber Resilience Act (CRA) Expert Group as a Type A member, contributing to the effective implementation of the CRA regulation. Technical Manager at Applus+ Laboratories, specialising in hardware security, with 10 years of experience in the field
 
 </details>
- 
-🗓️ When: **October 13, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNTEwMTNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
----
-
-## Previous episodes
 
 <a name="episode-8"></a>
 ### 🗓️ September 15, 2025: Why Do You Trust Software? Operationalizing CRA with the Eclipse Trustable Software Framework

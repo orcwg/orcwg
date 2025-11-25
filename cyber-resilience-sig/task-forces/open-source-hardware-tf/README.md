@@ -13,3 +13,5 @@ Provide input and comments to [key stakeholders](../../README.md#key-stakeholder
 ## Deliverables
 
 Input and comments
+
+- [Input to Guidance on Open Source Hardware](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/cra-expert-group/deliverable-2-3.md)
