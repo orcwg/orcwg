@@ -16,7 +16,7 @@ License: CC-BY 4.0
 The Cyber Resilience Act (CRA) defines a new category of organizations, Open Source Stewards (Stewards hereafter). It also defines obligations
 for them that are different from those of other categories like manufacturers.
 
-This whitepaper will aim at elaborating on the obligations, restrictions, and penalties that will be imposed to Stewards.
+This whitepaper will aim at elaborating on the obligations, restrictions, and penalties that will be imposed on Stewards.
 
 From the elaboration on the legal text, we will outline the missing pieces / documents / procedures that Stewards need to have to fulfil their obligations.
 
@@ -38,22 +38,22 @@ Under the CRA, Stewards have specific obligations related to Open Source project
 
 A formal relationship between any given Open Source Project and their Steward, is something these two may have to establish themselves.
 For example, a Steward organization may already be performing a supporting role for the project due to ownership of intellectual property,
-for historical reasons, or because the project leadership has entered into an agreement with a Steward organization explicitly, or because
+for historical reasons, because the project leadership has entered into an agreement with a Steward organization explicitly, or because
 the project was originally founded as such.
 
 ### Security Policy
 
-Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has goal of:
-- encourage developing of secure 'products with digital elements'[^pwdnote]
+Stewards shall put in place and document a cybersecurity policy that applies to their Projects. That policy has the goals of:
+- encouraging the development of secure 'products with digital elements'[^pwdnote]
 - effective handling of vulnerabilities by developers of that product including documenting, addressing and remediating vulnerabilities,
 and sharing of information concerning discovered vulnerabilities in the Open Source community
-- describe the Project's vulnerability reporting and handling processes, including policies regarding voluntary reporting to and
-coordination with a national CSIRT (see below)
+- describing the Project's vulnerability reporting and handling processes, including policies regarding voluntary reporting to, and
+coordination with, a national CSIRT (see below)
 
 [^pwdnote]: The legal text says *Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity
 policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product.*
-There are different possible interpretation: either the "fostering" in the Policy applies to the FOSS project, to the integration
-of the FOSS project into Products by Manufacturers, or both. We trace the resolution of this doubt in [a dedicated FAQ entry](https://github.com/orcwg/cra-hub/issues/312)
+There are different possible interpretations: either the "fostering" in the Policy applies to the FOSS project, to the integration
+of the FOSS project into Products by Manufacturers, or both. We trace the resolution of this question in [a dedicated FAQ entry](https://github.com/orcwg/cra-hub/issues/312)
 
 The Steward may have the policy in paper or electronic form, but it must be "verifiable". As the relationships between
 Stewards and their Projects vary, the Policy should take into account their common mode of operations.
@@ -84,33 +84,33 @@ In both cases, both the Steward and the Project will need to check if the Policy
 is followed. In the case the Project does not follow the Policy, the Steward needs to define the way to follow, see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
 
 As the Policy needs to be followed, the Steward and the Project will need to agree on a way to create the policy and provide changes.
-For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting that project under that Foundation.
+For example, accepting a generic Policy of a Foundation-Steward may be a requirement for creation of a project or accepting a project under that Foundation.
 
 What Stewards and Project will need:
 - The published Policy (that is larger in scope than a typical current security policy)
 - Evidence that the Policy is followed
 
 What resources could be created to help fulfilling that requirement:
-- A description about how to demonstrate that the policy is put in place - how to record it and store it such that an independent
+- A description of how to demonstrate that the policy is put in place - how to record it and store it such that an independent
 party can check that the policy exists (version-controlled documents, maintaining a change log, ...)
-- A description on how to prove that the Policy is actually being followed (tying policy statements to evidence)
-- A specification and/or template of the Policy, showing what it means for a policy to foster the development of secure PwDE: 
-for example the list of methodologies of risk assessment, secure by design, secure by default, secure SDLC;
-and a process for effective handling of vulnerabilities by the developers of that product, description of the CVD process
+- A description of how to prove that the Policy is actually being followed (tying policy statements to evidence)
+- A specification and/or template of the Policy, showing what it means for a policy to foster the development of secure PwDE. 
+For example: the list of methodologies of risk assessment, secure by design, secure by default, secure SDLC;
+a process for effective handling of vulnerabilities by the developers of that product; a description of the CVD process
 
 
 ### Collaboration with Market Surveillance Authorities
 
 When Market Surveillance Authorities request assistance from a Steward related to one of their projects,
-the Steward shall cooperate with the goal of mitigating security risk posed by the Project they are a Steward for.
+the Steward shall cooperate with the goal of mitigating security risk posed by the Project for which they are a Steward.
 
 In particular, the Market Surveillance Authority may request a copy of the Security Policy.
 
-When an Open Source Project makes public their Security Policy (for example, by publishing on the Project
+When an Open Source Project makes their Security Policy public (for example, by publishing on the Project
 site and/or including in the source code repository) then the publication requirement is fulfilled.
 
 However, the regulation also says "in a language which can be easily understood by that authority",
-what might mean the language(s) of the country the market surveillance is located. As most Projects and
+which might mean the language(s) of the country in which the market surveillance is located. As most Projects and
 supporting organization publish their policies in English, it would be useful if those authorities accepted
 documents in that language. The language of the country of the Steward may be different than the language
 contributors of a given Project speak or understand.
@@ -121,7 +121,7 @@ it means all other documents showing that the Policy had been applied. It could 
 advisory (and in general, a list of published advisories) and the documentation of a CVD process in progress
 (in case of a wide-impact exploited security vulnerability without a published fix, for example).
 
-If a Market Surveillance Authority finds that a Steward does not comply with its obligations (what probably means
+If a Market Surveillance Authority finds that a Steward does not comply with its obligations (which probably means
 not having the Policy and/or not promoting the best practices), they require Steward to ensure that all appropriate
 corrective actions are taken. As a result, Stewards "shall ensure" (formulation from the law) that all appropriate
 corrective action is taken in respect of their obligations. It means that the Steward needs to have a way to
@@ -158,11 +158,11 @@ References: Article 24(2), Article 64(10b), Article 52(3)
         obligations under this Regulation.
         
 What Stewards and Project will need:
-- Know what organization is their market surveillance authority
+- Know which organization is their market surveillance authority
 
 What resources could be created to help fulfilling that requirement:
 - A guide on finding out which is the appropriate market surveillance authority for each Steward
-- Verifying with market surveillance if they accept policies and communication in a language acceptable
+- Verifying with the market surveillance authority if they accept policies and communication in a language acceptable
 to the Project and the Steward
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
@@ -176,13 +176,13 @@ is taking development decisions independently), the Steward does not report.
 
 This matches the typical configuration of the relations between Stewards and Projects, when Stewards aren't
 directly involved in the development. This is frequently the case for Foundations. In this case, the Steward has also no
-way to be aware of such an exploited vulnerability if not informed by the Project
+way to be aware of such an exploited vulnerability if not informed by the Project.
 
 The information that a vulnerability is being exploited might also come from external sources (like security researchers). In this case,
 if the Steward is not involved in the development, they have no legal obligation to report. However, they should pass the report
-to the Project. It is an open question if the Project needs to report it or not, but it would be the best practice to follow.
+to the Project. It is an open question if the Project needs to report it or not, but it would be best practice to do so.
 
-On the other hand, if Steward is involved in the development and operations (that could be frequently the case of companies
+On the other hand, if Steward is involved in the development and operations (that could frequently be the case of companies
 stewarding Projects they do not monetize), their staff will likely also handle vulnerability reports. In this case
 they may receive information on exploitation or detect it directly. In this case, the Steward is required to report
 the exploited vulnerability.
@@ -228,17 +228,17 @@ References: 16, 14(1), 14(3), 14(8), 24(3), 15
         to Article 16.
         
 What Stewards and Projects will need:
-- Define a process on who from the Steward and/or Project performs that notification, how to handle credentials (if needed). This could be
-in the Steward Security Policy or a separate document that describes the implementation details, as agreed between the Steward and the Project.
+- Define a process on who from the Steward and/or Project performs that notification via the single reporting platform, how to handle credentials (if needed).
+This could be in the Steward Security Policy or a separate document that describes the implementation details, as agreed between the Steward and the Project.
 
 What resources could be created to help fulfilling that requirement:
-- A guide on filling reports on the common reporting platform
+- A guide to filling reports on the common reporting platform
 
 ### Informing users about exploited vulnerabilities and security incidents
 
 In case a Steward knows about an actively-exploited vulnerability related to one of their Projects, or a security
 incident affecting them or the Project's infrastructure, they are required to inform affected users.
-In case of open source project, most reports will likely be public. It might be private at the beginning,
+In case of an open source project, most reports will likely be public. It might be private at the beginning,
 and directed to the exact group of affected persons in case of IT compromise, for example to reset passwords
 and verify recent suspicious activity. The best common practice is to publicly disclose that issues after
 the Steward and the Project have taken immediate measures.
@@ -377,7 +377,7 @@ Steward must know who is their market surveillance authority. The same rules app
         
 ## Restrictions
 
-As Stewards (and open source projects) follow less strict rules than PwDE placed on the market by Manufacturers, Steward cannot affix
+As Stewards (and open source projects) follow less strict rules than PwDE placed on the market by Manufacturers, Stewards cannot affix
 the CE marking on the products they publish. It also means that they do not provide the complete CRA documentations for their Projects.
 
 They might have an attestation program that provides equivalent documentation for the use of manufacturers.
