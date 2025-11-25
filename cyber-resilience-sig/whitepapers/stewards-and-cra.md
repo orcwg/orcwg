@@ -383,16 +383,23 @@ If the Steward has no main establishment in the Union, the appropriate CSIRT is 
 In practice, we can assume that the Steward/Project need to report by default to the CSIRT of the country the Steward has its headquarters.
 
 If the Steward has no European official representation, we assume the reporting can be done to one of the CSIRTs of big EU countries (like Germany, France, Spain, Italy etc),
-except if the specific Project has a strong user base in another country. This subject should be clarified, especially for Stewards and Projects
+except if the specific Project has a strong user base in another country[^CSIRTload]. This subject should be clarified, especially for Stewards and Projects
 that do not have any representation in EU and for cases when there might be a language barier between the CSIRT and the Project. Also, ENISA
-could be a choice of a "CSIRT of last resoirt" for Stewards without a clear national alignment. 
+could be a choice of a "CSIRT of last resort" for Stewards without a clear national alignment.
+
+[^pwdnote]: This could lead, however, to high load on those CSIRTs. The CSIRT network may want to introduce a load-balancing mechanism
+to solve this issue. If that is the case, it would be a good practice to notify affected Stewards and Projects which CSIRT will be responsible
+for a given Project.
 
 If the Steward/Project could not figure out the appropriate CSIRT using those rules, we currently assume that they can choose the one that they find the most appropriate.
-As the legislation seems to assume one CSIRT for Steward, multiple Projects will need to share the decision on the choice of the CSIRT. It would be the best
-practice to take that decision together between all concerned Projects and the Steward representatives.
+As the legislation seems to assume a single CSIRT per Steward, multiple Projects will need to share the decision on the choice of the CSIRT.
 
-It will be also a good practice to document which CSIRT is the main one for each Project in the standard security documentation for that Project so it is easy
-to find both for anyone who wishes to report a vulnerability, and for contributors to that Project.
+It will be also good practice to explicitly name the main CSIRT for each Project in its standard security documentation, 
+making it easily findable for anyone wishing to report a vulnerability, as well as for contributors to that Project.
+
+Open Source usage being global in nature, different CSIRTs will likely receive reports about vulnerabilities for the same Project. Moreover,
+two parties may interpret conditions differently, and as such report to different CSIRTS for the same Project. It will be necessary to define rules of how
+those reports will be routed. ENISA may play a coordinator role in this scenario.
 
 Related ORC FAQ entries: [on CSIRTs](https://cra.orcwg.org/faq/vulnerability-handling/csirt/) and [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
 
@@ -476,6 +483,7 @@ The following people have contributed to this document either directly or indire
 - Mikaël Barbero
 - Æva Black
 - Arnout Engelen
+- Marta Garcia
 - Tobie Langel
 - Faidon Liambotis
 - flukavsky
