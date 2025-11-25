@@ -394,7 +394,7 @@ practice to take that decision together between all concerned Projects and the S
 It will be also a good practice to document which CSIRT is the main one for each Project in the standard security documentation for that Project so it is easy
 to find both for anyone who wishes to report a vulnerability, and for contributors to that Project.
 
-Related ORC FAQ entries: [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
+Related ORC FAQ entries: [on CSIRTs](https://cra.orcwg.org/faq/vulnerability-handling/csirt/) and [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
 
 References: 24(3), Directive 2022/2555
 
@@ -419,8 +419,8 @@ What Stewards and Projects will need:
 - Documentation which CSIRT is the main one for each Project. This could be in Project's source code files, like SECURITY
 
 What resources could be created to help fulfilling that requirement:
-- Clarification of rules on deciding on the main CSIRT to use for non-UE based Stewards
-- Clarification of rules on deciding on the main CSIRT is there is a language barier between the Project and the CSIRT
+- Clarification of rules on deciding on the main CSIRT to use for non-UE based Stewards, [pending guidance](https://cra.orcwg.org/pending-guidance/csirt-identification/)
+- Clarification of rules on deciding on the main CSIRT is there is a language barier between the Project and the CSIRT, [pending guidance](https://cra.orcwg.org/pending-guidance/csirt-identification/)
 
 #### Market surveillance authorities
 
