@@ -92,7 +92,7 @@ Date: 2025-11-24
 
 ### AOB
 
-- CFP for 𝐅𝐎𝐒𝐃𝐄𝐌 **𝐂𝐑𝐀 𝐈𝐧 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐃𝐞𝐯𝐫𝐨𝐨𝐦** is closing in 1 week \- deadline is 1st December 2025  
+- CFP for FOSDEM **CRA In Practice Devroom**  is closing in 1 week \- deadline is 1st December 2025  
   - We would love to see your ideas/proposals \- anything related to practical angle of the future CRA implementation, by all ecosystem players  
   - We’re thinking about the panel \- what topic/people you would like to see on it?  
     - One idea \- get OSS maintainers and hear their CRA plans, concerns, ideas  
