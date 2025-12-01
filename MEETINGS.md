@@ -32,7 +32,7 @@
 
 ## Voluntary attestations Call
 
-| When | Every other Tuesday at 3:00pm CET |
+| When | Every other Tuesday at 3:30pm CET |
 | :----- | :----- |
 |  | _(6:30am PT, 9:30am ET, 2:30pm BST, 4:30pm EET)_ |
 | **Attendees** | Open to all |
