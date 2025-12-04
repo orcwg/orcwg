@@ -31,7 +31,7 @@ Piet is an electrical engineer, computer scientist, and consultant specializing 
 <a name="episode-11"></a>
 ### 🗓️ November 10, 2025: OSS provenance and code signing: how SignPath Foundation guarantees software integrity for its member projects
 
-Some OSS projects are maintained by a foundation like Eclipse, Apache, or Mozilla with often rigorous governance over the release process. However, this approach doesn’t scale, so most OSS projects ship unverified and often unsigned releases. This breaks the trust model of Linus’s Law, which is based on source code. Also, OSS releases are often unsigned, leading to a major security degradation and often usability issues. Unverified signing can lead to issues like the 2024 XZ Utils incident.
+Some OSS projects are maintained by a foundation like Eclipse, Apache, or Mozilla with often rigorous governance over the release process. However, this approach doesn’t scale, so most OSS projects ship unverified and often unsigned releases. This breaks the trust model of Linus’s Law, which is based on source code. Also, OSS releases are often unsigned, leading to a major security degradation and often usability issues. Unverified signing can lead to issues like the 2024 XZ Utils incident. ([video](https://youtu.be/_fGOgByN08c))
 
 <details>
 <summary>More info</summary>
