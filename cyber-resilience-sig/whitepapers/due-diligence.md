@@ -29,11 +29,35 @@ Note: This white paper might be combined with the paper on [security attestation
 
 This is a draft document and may be updated, replaced or obsoleted at any time. It is inappropriate to cite this document as other than a work in progress. Publication of this document as a draft does not imply endorsement by the Eclipse Foundation, Open Regulatory Working Group Members, or contributors.
 
+## Contents
+
+1. What is due diligence
+2. To what do we apply due diligence
+
+    2.1 Which products
+
+    2.2 Which components of the product
+3. What and how to record due diligence, evidence
+
+    3.1 Levels of due diligence
+
+    3.2 What has to be checked
+
+4. What happens when due diligence fails
+
+5. How open source projects and stewards can help manufacturers to achieve due diligence
+    * Voluntary attestation
+    * Provide security history
+    * Maintain security process description and evidence it is followed
+6. Additional aspects/references
+    
+    >e.g. What will MSA investigate, what will they check, what should we be prepared for to show them?
+
 ## Acknowledgments
 
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
 
-Tobie Langel.
+Tobie Langel, Gergely Csatari, Timo Perälä. 
 
 If you have contributed to this document and aren't properly acknowledged or if you want to edit or remove your name, please let us know by [opening an issue](https://github.com/orcwg/orcwg/issues/new) and we will fix this right away.
 
