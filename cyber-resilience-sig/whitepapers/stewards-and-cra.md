@@ -416,10 +416,27 @@ If the Steward has no main establishment in the Union, the appropriate CSIRT is 
 - the highest number of users of products of that Steward are located
 
 In practice, we can assume that the Steward/Project need to report by default to the CSIRT of the country the Steward has its headquarters.
-If the Steward has no European official representation, we assume the reporting can be done to one of the CSIRTs of big EU countries (like Germany, France, Spain, Italy etc),
-except if the specific Project has a strong user base in another country.
 
-Related ORC FAQ entries: [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
+If the Steward has no European official representation, we assume the reporting can be done to one of the CSIRTs of big EU countries (like Germany, France, Spain, Italy etc),
+except if the specific Project has a strong user base in another country[^CSIRTload]. This subject should be clarified, especially for Stewards and Projects
+that do not have any representation in EU and for cases when there might be a language barier between the CSIRT and the Project. Also, ENISA
+could be a choice of a "CSIRT of last resort" for Stewards without a clear national alignment.
+
+[^pwdnote]: This could lead, however, to high load on those CSIRTs. The CSIRT network may want to introduce a load-balancing mechanism
+to solve this issue. If that is the case, it would be a good practice to notify affected Stewards and Projects which CSIRT will be responsible
+for a given Project.
+
+If the Steward/Project could not figure out the appropriate CSIRT using those rules, we currently assume that they can choose the one that they find the most appropriate.
+As the legislation seems to assume a single CSIRT per Steward, multiple Projects will need to share the decision on the choice of the CSIRT.
+
+It will be also good practice to explicitly name the main CSIRT for each Project in its standard security documentation, 
+making it easily findable for anyone wishing to report a vulnerability, as well as for contributors to that Project.
+
+Open Source usage being global in nature, different CSIRTs will likely receive reports about vulnerabilities for the same Project. Moreover,
+two parties may interpret conditions differently, and as such report to different CSIRTS for the same Project. It will be necessary to define rules of how
+those reports will be routed. ENISA may play a coordinator role in this scenario.
+
+Related ORC FAQ entries: [on CSIRTs](https://cra.orcwg.org/faq/vulnerability-handling/csirt/) and [on choice of CSIRT](https://github.com/orcwg/cra-hub/issues/167)
 
 References: 24(3), Directive 2022/2555
 
@@ -440,11 +457,25 @@ References: 24(3), Directive 2022/2555
         coordinator of each Member State concerned shall, where appropriate, cooperate with other CSIRTs designated as coordinators
         within the CSIRTs network.
 
+What Stewards and Projects will need:
+- Documentation which CSIRT is the main one for each Project. This could be in Project's source code files, like SECURITY
+
+What resources could be created to help fulfilling that requirement:
+- Clarification of rules on deciding on the main CSIRT to use for non-UE based Stewards, [pending guidance](https://cra.orcwg.org/pending-guidance/csirt-identification/)
+- Clarification of rules on deciding on the main CSIRT is there is a language barier between the Project and the CSIRT, [pending guidance](https://cra.orcwg.org/pending-guidance/csirt-identification/)
+
 #### Market surveillance authorities
 
 Market surveillance authorities might request information from the Steward on their policies.
 
-Steward must know who is their market surveillance authority. The same rules apply as for the choice of CSIRT.
+Steward must know who is their market surveillance authority. The same rules and question apply, as for the choice of CSIRT.
+
+What Stewards and Projects will need:
+- Documentation of the market surveillance authority of the Project and Steward. This could be in Project's source code files, like SECURITY
+
+What resources could be created to help fulfilling that requirement:
+- Clarification of rules on deciding on the market surveillance authority to use for non-UE based Stewards
+- Clarification of rules on deciding on the market surveillance authority is there is a language barier between the Project and the CSIRT
         
 ## Restrictions
 
@@ -487,6 +518,7 @@ The following people have contributed to this document either directly or indire
 - Mikaël Barbero
 - Æva Black
 - Arnout Engelen
+- Marta Garcia
 - Tobie Langel
 - Faidon Liambotis
 - flukavsky
