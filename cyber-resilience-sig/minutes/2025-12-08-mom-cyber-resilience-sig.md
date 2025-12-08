@@ -11,7 +11,7 @@ Date: 2025-12-08
 | Min | Agenda Topics | Moderator |
 | --: | ----- | --- |
 |   0 | Welcome & approve [previous minutes](https://github.com/orcwg/orcwg/pull/218) | Juan |
-|   5 | Report from the Specification Committee meeting | SC chairs |
+|   5 | Report from the Steering Committee meeting | SC chairs |
 |  10 |  | |
 |  15 | CRA Expert Group | Juan | 
 |  20 | Due diligence | Timo |
