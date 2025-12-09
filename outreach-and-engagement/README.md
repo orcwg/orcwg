@@ -1,17 +1,5 @@
 # Outreach & Engagement Community Call
 
-Hosted by the ORC Marketing Manager, this is a monthly meeting series to help shape and support our marketing efforts. There is no formal marketing committee, this meeting is open to anyone. 
+The Outreach and Engagement meeting series has now been merged into the [bi-weekly Cyber Resilience SIG call](https://github.com/orcwg/orcwg/blob/main/MEETINGS.md#cyber-resilience-sig-call).
 
-## Next meeting: October 15, 2025
-
-_Topic:_ Community Content - how we can get more voices speaking about ORC
-
-Agenda:
-- Strategic member blogging support
-- Fall event support
-- Videographer at Code & Compliance
-- Brainstorming content ideas
-
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M20zOG5lYjk0cTA2bTB0bmVwZmdqdWw2M2wgY183ZGI4ZTNmMTNjNGZhYzk4NDEwMzkxOGE5N2M3MDRiYjFkNjE5ZGEwZmRiNjZkMzNmMTc0Nzg0OWI2MDIwYWVhQGc&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
-Note: The September 16th meeting was cancelled due to a lack of participation. The agenda was moved to the following meeting. 
+This change streamlines our collaboration efforts and ensures that outreach and engagement are discussed alongside the topics the working group is focused on.
