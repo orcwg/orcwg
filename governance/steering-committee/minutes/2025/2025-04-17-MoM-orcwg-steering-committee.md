@@ -11,7 +11,7 @@ Date: 2025-04-17
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-| Approval of the [minutes of the previous ORC Steering Committee call](https://docs.google.com/document/d/1VArOcrNIl6znc_D_RCh8RkSaWdBvElJt9XdMchzPS3I/edit?tab=t.0#heading=h.gxn7522l60z2) | Sharon | 5 |
+| Approval of the [minutes of the previous ORC Steering Committee call](./2025-03-20-MoM-orcwg-steering-committee.md) | Sharon | 5 |
 | Membership Status and retrospective first 6 months of ORC | Open Forum | 20 |
 | Outreach and communication activities | Shanda | 10 |
 | Events | Shanda | 10 |
