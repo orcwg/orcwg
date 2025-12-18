@@ -111,7 +111,7 @@ The minutes of the Steering Committee meeting held on Sept 11th were approved.
 
 ## Supporting materials
 
-[Slides Presented during the Steering Committee] (./supporting-materials/2025-10-09-orc-steering-committee-slides.pdf)
+[Slides Presented during the Steering Committee](./supporting-materials/2025-10-09-orc-steering-committee-slides.pdf)
 
 ## Next Meeting
 
