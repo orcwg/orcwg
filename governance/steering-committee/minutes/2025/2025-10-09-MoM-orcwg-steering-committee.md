@@ -4,7 +4,7 @@
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-| Approval of the [minutes of the previous ORC Steering Committee call](https://docs.google.com/document/d/1ApP4emoO9neru_cXfqkw9mB2i-Mb7MqvVoI-NRPQyxk/edit?usp=sharing)  | Juan | 5 |
+| Approval of the minutes of the previous ORC Steering Committee call | Juan | 5 |
 | Analysis of the deliverable plan | Juan | 25 |
 | CRA Expert Group preparation | Juan | 10 |
 | 2026 Program plan preparation timeline | Juan | 5 |
@@ -104,7 +104,7 @@ The minutes of the Steering Committee meeting held on Sept 11th were approved.
 
 ## Supporting materials
 
-[2025-10-09-orc-steering-committee-slides.pdf](https://drive.google.com/file/d/1Ay_0jwc7ADZVGaQeBs1_oBHpHKU7yKPF/view?usp=sharing)
+[Slides Presented during the Steering Committee] (./supporting-materials/2025-10-09-orc-steering-committee-slides.pdf)
 
 ## Next Meeting
 
