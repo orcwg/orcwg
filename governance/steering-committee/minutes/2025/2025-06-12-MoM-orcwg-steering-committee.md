@@ -12,7 +12,7 @@ Approved: 2025-09-11
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-| Approval of the [minutes of the previous ORC Steering Committee call](https://docs.google.com/document/d/17kiKppfckfj8STPHZdKDD5rqrpTy0E4T9T6RWl4EEbI/edit?tab=t.0#heading=h.gxn7522l60z2) | Juan | 5 |
+| Approval of the minutes of the previous ORC Steering Committee call | Juan | 5 |
 | WG Status update | Juan | 5 |
 | CRA Expert Group meeting feedback | Juan/Tobie/Dirk-Willem | 15 |
 | Common Criteria | Dirk-Willem | 15 |
@@ -89,7 +89,7 @@ None
 
 ## Supporting materials
 
-Slides supporting the Steering Committee meeting can be found [here](https://drive.google.com/file/d/1pI4IGDmHbINc7Slnr2woDMXpuxoApfXE/view?usp=sharing). 
+[Slides presented during the Steering Commitee](./supporting-materials/2025-06-12-orc-steering-committee-slides.pdf)
 
 ## Next Meeting
 

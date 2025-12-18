@@ -10,7 +10,7 @@ Approved: 2025-06-12
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-| Approval of the [minutes of the previous ORC Steering Committee call](https://docs.google.com/document/d/1wsh4lOhpnoFBFlSKi3fep2VfMiBRiyLSyRp7lc5NY2o/edit?usp=sharing) | Juan | 5 |
+| Approval of the [minutes of the previous ORC Steering Committee call](./2025-04-17-MoM-orcwg-steering-committee.md) | Juan | 5 |
 | Working Group Status Update | Juan | 10 |
 | Launch of the first set of deliverables. | Juan | 15 |
 | CRA Expert Group meeting plan (June 4th). | Juan/Tobie | 20 |

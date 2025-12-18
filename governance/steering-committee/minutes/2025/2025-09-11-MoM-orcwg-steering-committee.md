@@ -12,7 +12,7 @@ Approved: 2025-10-09
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-| Approval of the [minutes of the previous ORC Steering Committee call](https://docs.google.com/document/d/17p8e2abZbGh6RVfV3393KskK0TqdKUYMWG7p9KZA5BM/edit?usp=sharing) (June 12\)  | Juan | 5 |
+| Approval of the minutes of the previous ORC Steering Committee call (June 12\)  | Juan | 5 |
 | WG Status update \- including staffing | Juan | 20 |
 | CEN/CENELEC PT3 request for Open Source contribution | Juan | 20 |
 | Code & compliance event update | Juan & Shanda | 10 |
@@ -104,7 +104,7 @@ The letter to the ESOs will be sent signed by the Co-Chairs on behalf of the wor
 
 ## Supporting materials
 
-[2025-09-11-orc-steering-committee-slides.pdf](https://drive.google.com/file/d/1EbocXk-XSKbI4bt7EiyDoA0jpKOsoU3N/view?usp=sharing)
+[Slides presented during the Steering Committee](./supporting-materials/2025-09-11-orc-steering-committee-slides.pdf)
 
 ## Next Meeting
 

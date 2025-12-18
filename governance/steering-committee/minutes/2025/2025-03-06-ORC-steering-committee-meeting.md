@@ -63,7 +63,7 @@ The deliverable plan is approved.
 
 ## Supporting Materials
 
-[2025-03-06-ORC-steering-committee.pdf](https://drive.google.com/file/d/1-TG2nO2JEa8I8V8VkorqJQYc3jZxB0Tg/view?usp=sharing)
+[Slides presented during the Steering Committee](./supporting-materials/2025-03-06-orc-steering-committee.pdf)
 
 ## Next Meeting
 
