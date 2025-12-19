@@ -13,7 +13,7 @@ License: CC-BY 4.0
 
 ## Abstract
 
-The Cyber Resilience Act (CRA) defines a new category of economic actors: Open Source Stewards (hereafter "Stewards"). It also defines obligations
+The Cyber Resilience Act (CRA) defines a new category of legal persons: Open Source Stewards (hereafter "Stewards"). It also defines obligations
 for them that differ from those applicable to other actors, such as manufacturers.
 
 This whitepaper aims to elaborate on the obligations, restrictions, and penalties that will be imposed on Stewards.
@@ -31,11 +31,11 @@ a work in progress. Publication of this draft does not imply endorsement by the 
 
 ## Introduction
 
-Open Source Stewards are defined in the CRA as a distinct category of economic actors, separate from Manufacturers. A Steward must be a legal person
+Open Source Stewards are defined in the CRA as a distinct category of legal persons, separate from Manufacturers. A Steward must be a legal person
 (a [registered legal entity](https://cra.orcwg.org/faq/stewards/who-can-be-steward/) such as a for-profit or non-profit company, a foundation, etc.).
 It should be distinguished from the Open Source Project itself.
 
-This is a new category of economic actor introduced by the CRA. The role of Open Source Stewards distinguishes Open Source actors who do
+This is a new category of legal persons introduced by the CRA. The role of Open Source Stewards distinguishes Open Source actors who do
 not monetize the software they produce from Manufacturers who do. It imposes a lighter regulatory burden on Stewards and reduces
 the risks they face in the event of non-compliance.
 
