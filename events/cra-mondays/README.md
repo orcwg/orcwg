@@ -1,13 +1,89 @@
 # CRA Mondays
 
 ## Upcoming
-
-CRA Mondays will take a break for the holiday season and return with new sessions in January. 
+<a name="episode-13"></a>
+### January 19: Speaker TBC
 
 🗓️ When: **January 19, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
 📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
 ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAxMTlUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
 
+<a name="episode-14"></a>
+### February 2: Speaker TBC
+
+🗓️ When: **February 2, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAyMDJUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+
+<a name="episode-15"></a>
+### February 16: Open Source Governance in the Global South: Challenges, Opportunities & Compliance in Africa
+
+Open source is a global movement, but the practices, pressures, and compliance realities vary dramatically across regions. In Africa and the broader Global South, developers are building critical digital infrastructure, maintaining widely used libraries, and contributing to major ecosystems  yet often without the governance structures, compliance tooling, or regulatory awareness common in Europe and North America. As the global software supply chain becomes more regulated, particularly with frameworks like the EU Cyber Resilience Act (CRA), this regional disparity becomes a supply-chain risk and a missed opportunity.
+
+<details>
+<summary>More info</summary>
+This session explores the intersection of open-source governance, compliance, and developer experience in Africa, drawing from real-world observations within local developer communities, university ecosystems, and open-source contributor networks. It highlights key structural challenges from limited access to tooling and training, to unclear licensing knowledge, inconsistent documentation culture, and lack of exposure to compliance-driven workflows such as SBOM generation, vulnerability reporting, and maintenance obligations.
+
+But the session is not only about challenges. It also showcases emerging strengths and opportunities, including community-driven governance models, lightweight compliance workflows adapted for low-resource environments, and successful examples of African projects contributing to secure and compliant open-source ecosystems.
+
+Attendees will learn:
+
+1. How compliance expectations (e.g., CRA, SBOM requirements, supply-chain attestations) impact open-source maintainers and contributors in the Global South.
+
+2. Practical ways organizations can support global contributors to reduce compliance friction in distributed open-source development.
+
+3. Governance strategies that help maintainers improve transparency, code quality, licensing clarity, and long-term sustainability.
+
+4. Why strengthening compliance awareness in Africa enhances the trustworthiness and resilience of the entire global open-source supply chain.
+
+This talk offers a perspective rarely highlighted in open-source governance discussions, bridging geographic, cultural, and infrastructural gaps. Participants will leave with actionable insights, potential collaboration pathways, and a deeper understanding of how to build more equitable and compliant global open-source ecosystems.
+
+**Speaker: Julius	Boakye, Software Engineer, Talent CoOp**
+I’m a proud Individual Member of the Django Software Foundation and a full-stack software engineer with a strong focus on Django and mobile development. Beyond code, I’m deeply involved in the global Python, Django, Google, and FlutterFlow communities, actively contributing to the organization of several major conferences around the world.
+
+I’ve served as the Opportunity Grant Co-Chair for DjangoCon US in both 2024 and 2025, and I was the Design Lead for PyCon Africa 2024 in Ghana, where I crafted the visual identity and led the creative direction for the entire conference. I'm also part of the organizing teams for DjangoCon Africa 2025 in Arusha, Tanzania, DjangoCon Europe, PyCon Ghana, and PyCon Portugal.
+
+I’m the Founder of Django Campus, an initiative dedicated to empowering students and young developers to kick-start their tech careers through mentorship, practical training, and community engagement. Through Django Campus, we’ve helped many aspiring technologists across Ghana and other parts of Africa build skills, find confidence, and grow into impactful contributors in the tech ecosystem.
+
+In addition to my community work, I’ve spoken at several local, international, and online conferences, including DjangoCon Africa, PyCon Africa, PyCon Namibia, and CHAOSS Africa, where I share insights on open source, community building, and software development.
+
+Beyond the Python ecosystem, I also serve in ambassadorial and leadership roles with FlutterFlow and Google Developer Communities, fostering inclusive, empowering, and sustainable tech spaces wherever I can. My passion lies in leadership and impact, I  find true joy in seeing others succeed and knowing I played a part in their journey.
+
+LinkedIn: https://linkedin.com/in/juliusboakye
+
+</details>
+
+🗓️ When: **February 16, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAyMTZUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+
+<a name="episode-14"></a>
+### March 2: Software Hash Identifier introduction and applications to in-development standards
+
+It will not be possible to scale up the identification of software based on software packages names. The usage of extrinsic identifiers requires an external, trusted, entity to host the references table. Intrinsic identifiers solve this issue, indemnifying software unequivocally, even supporting external references. Out of the existing intrinsic identifiers, SWHID is the standard one with open governance as well as a implementation example of a big enough scale, Software Heritage.
+
+The existence of such identifiers is essential for regulators and standardization bodies, since they enables a level of trust in evidences you cannot reach in any other way, at big enough scale.
+
+<details>
+<summary>More info</summary>
+
+**Speaker: Agustin	Benito Bethencourt, Consultant, Software Transparency Foundation**
+
+Agustín discovered Free Software during his university years, but it was in 2003 when he redirected his entrepreneurial career toward open source software and open data. Since then, he has led teams and organizations in designing, developing, and maintaining open-source-based products and services. With experience spanning management, executive, and consulting roles, Agustín has worked across diverse sectors including automotive, IoT, edge, industrial, embedded, enterprise, and desktop. Today, he works as an independent consultant.
+
+As a volunteer, Agustín is a proud KDE e.V. and KDE España, as well as a Software Heritage Ambassador. Over the past two decades, he has actively contributed to multiple open source software and open data initiatives.
+
+In addition, Agustín has a solid background as a speaker, community steward, business developer, and trainer. Having lived in several countries, he now divides his time between Málaga and La Palma (Canary Islands, Spain). A strong advocate of remote work, he continues to travel frequently and collaborate globally.
+
+Agustín is contracted by Software Transparency Foundation (part-time) as Ecosystem Lead
+
+LinkedIn: https://www.linkedin.com/in/toscalix/
+</details>
+
+🗓️ When: **March 2, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAzMDJUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+ 
 ---
 
 ## Previous episodes
