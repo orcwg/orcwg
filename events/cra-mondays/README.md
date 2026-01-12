@@ -1,21 +1,52 @@
 # CRA Mondays
 
 ## Upcoming
+
 <a name="episode-13"></a>
-### January 19: Speaker TBC
+### February 2: Anyone who still puts AI-generated code into circulation today has conditional intent to infringe the law – how to limit or at least defer the risk
 
-🗓️ When: **January 19, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAxMTlUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+AI tools such as GitHub Copilot are not creative geniuses – they copy! And they do so more frequently and more demonstrably than many people believe. Anyone who incorporates AI-generated code into their software today is often already acting with conditional intent – and making themselves vulnerable to claims for damages, injunctions, and even criminal consequences.
 
-<a name="episode-14"></a>
-### February 2: Speaker TBC
+<details>
+<summary>More info</summary>
+
+We present current developments, figures on the frequency of plagiarism, and other prominent cases, shed light on the legal situation, and explain why companies urgently need to protect themselves. We provide clear answers to burning questions:
+1. Why does AI code become a liability risk?
+2. How can software manufacturers and purchasers still protect themselves?
+3. What technical and legal measures can prevent a ticking time bomb in your own product?
+ Anyone who uses AI code carelessly in the future will be left to deal with the damage. We show you how to save yourself—before it's too late.
+
+**Speakers: Dr. Andreas Kotulla and Florian Hackel**
+
+Dr. Andreas Kotulla is the founder and managing director of Bitsea GmbH, a company specializing in the technical analysis of software systems. Bitsea supports companies in the introduction and implementation of holistic open source strategies – from governance, processes, and tool chains to the provision of an Open Source Program Office (OSPO) and scanning as a managed service.
+
+As a computer scientist with over 30 years of experience in IT, Dr. Kotulla is a proven expert in software engineering, software quality, and open-source management. He spent twelve years in management positions at international telecommunications providers and now shares his knowledge in workshops and lectures. Dr. Kotulla is an active member of the Linux Foundation's OpenChain project and the Open Source Working Group of Bitkom e.V. He is also the author of several specialist books and publications on IT and software topics.
+
+LinkedIn: https://www.linkedin.com/in/dr-andreas-kotulla-621b25102/
+
+Florian Hackel is an attorney at JUN Legal GmbH and specializes in IT, data protection, and commercial law, particularly software licensing law. He reviews and evaluates open source licensing of software products and supports companies in introducing and implementing compliance processes for free and open source software. He also advises clients on regulatory issues in the field of artificial intelligence, particularly the EU AI Act. He develops tailor-made solutions for complex legal issues and communicates them in a clear and understandable manner. He is also co-author of the “Praxishandbuch Open Source” (Practical Handbook on Open Source).
+
+LinkedIn: https://www.linkedin.com/in/florian-hackel-a6a236371/
+
+**Knowledge attendees should have before joining the session**
+
+The session is designed for a mixed audience of legal, compliance and technical stakeholders. To get the most value, attendees should ideally have:
+A basic understanding of software development workflows, including the use of third-party code, libraries and tools in the SDLC.
+A general awareness of copyright and IP in software (e.g. that source code is protected as a copyrighted work, and that reuse without permission can be problematic).
+For legal/compliance professionals: familiarity with general liability concepts (e.g. negligence vs. intent, organisational duties, due diligence) is helpful.
+For technical participants: some experience with or curiosity about AI coding assistants (e.g. Copilot, CodeWhisperer, ChatGPT-based coding) and how they are used in day-to-day development.
+
+**What attendees will learn from the session**
+
+Attendees will leave the session with a clear picture of the liability landscape around AI-generated code and a practical checklist of measures to avoid turning their own software products into a legal “ticking time bomb"
+
+</details>
 
 🗓️ When: **February 2, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
 📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
 ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAyMDJUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
 
-<a name="episode-15"></a>
+<a name="episode-14"></a>
 ### February 16: Open Source Governance in the Global South: Challenges, Opportunities & Compliance in Africa
 
 Open source is a global movement, but the practices, pressures, and compliance realities vary dramatically across regions. In Africa and the broader Global South, developers are building critical digital infrastructure, maintaining widely used libraries, and contributing to major ecosystems  yet often without the governance structures, compliance tooling, or regulatory awareness common in Europe and North America. As the global software supply chain becomes more regulated, particularly with frameworks like the EU Cyber Resilience Act (CRA), this regional disparity becomes a supply-chain risk and a missed opportunity.
@@ -57,7 +88,7 @@ LinkedIn: https://linkedin.com/in/juliusboakye
 📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
 ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAyMTZUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
 
-<a name="episode-14"></a>
+<a name="episode-15"></a>
 ### March 2: Software Hash Identifier introduction and applications to in-development standards
 
 It will not be possible to scale up the identification of software based on software packages names. The usage of extrinsic identifiers requires an external, trusted, entity to host the references table. Intrinsic identifiers solve this issue, indemnifying software unequivocally, even supporting external references. Out of the existing intrinsic identifiers, SWHID is the standard one with open governance as well as a implementation example of a big enough scale, Software Heritage.
