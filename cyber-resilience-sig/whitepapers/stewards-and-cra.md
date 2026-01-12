@@ -424,7 +424,7 @@ If the Steward has no main establishment in the Union, the appropriate CSIRT is 
 In practice, it can be assumed that, by default, the Steward or Project reports to the CSIRT of the country in which the Steward has its headquarters.
 
 If the Steward has no official representation in the European Union, reporting may be made to the CSIRTs of a large Member State (such as Germany, France, Spain, or Italy),
-unless a specific Project has a strong user base in another country[^CSIRTload]. This topic requires clarification, especially for Stewards and Projects
+unless a specific Project has a strong user base in another country. This topic requires clarification, especially for Stewards and Projects
 without any EU representation and in cases where there may be a language barier between the CSIRT and the Project. ENISA
 could also serve as a "CSIRT of last resort" for Stewards without a clear national alignment.
 
