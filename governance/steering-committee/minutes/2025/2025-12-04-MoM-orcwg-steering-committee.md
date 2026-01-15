@@ -12,7 +12,7 @@ Approved: 2026-01-15
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | :---: |
-| Approval of the [minutes of the previous ORC Steering Committee call](./2025-11-09-MoM-orcwg-steering-committee.md)  | Juan | 5 |
+| Approval of the [minutes of the previous ORC Steering Committee call](./2025-11-06-MoM-orcwg-steering-committee.md)  | Juan | 5 |
 | 2026 Program plan approval | Juan | 10 |
 | 2026 Financial Plan | Juan | 25 |
 | Code and Compliance FOSDEM Edition \+ 2026 Marketing Plan introduction  | Shanda | 15 |
