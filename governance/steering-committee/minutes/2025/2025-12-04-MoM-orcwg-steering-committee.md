@@ -90,9 +90,8 @@ The meeting was closed at 17:02
 
 # Resolutions
 
-## RESOLVED, the Steering Committee approves its Program Plan as presented
-
-## RESOLVED, the Steering Committee approves the Financial Plan as presented acknowledging the allocations match the Program Plan to the extent possible based on projected revenue.
+RESOLVED, the Steering Committee approves its Program Plan as presented
+RESOLVED, the Steering Committee approves the Financial Plan as presented acknowledging the allocations match the Program Plan to the extent possible based on projected revenue.
 
 ## Supporting materials
 
