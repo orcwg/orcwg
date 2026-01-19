@@ -19,6 +19,6 @@ Date: 2026-01-19
 |  30 | Status of the FAQ and inventory | Tobie |
 |  35 | Vulnerability Handling TF update +  Open Source Stewards White paper | Vulnerability Handling TF leads |
 |  40 |  
-|  45 | Code & Compliance + Marketing Update | Shanda |
+|  45 | Code & Compliance + Marketing Update | Juan |
 |  50 | ||
 |  55 | AOB | |
