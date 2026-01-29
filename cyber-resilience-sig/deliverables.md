@@ -62,8 +62,8 @@ flowchart LR
 | | | | | |
 | **3.** | **White papers** | | | |
 | 🗺️ | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force |  |  |
-| 🗺️ | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
-| 🗺️ | 3.3 [White paper on security attestations][security attestations] | Dedicated task force | | |
+| ✍️ | 3.2 [White paper on due diligence obligation of manufacturers][due diligence] | Dedicated task force | | |
+| ✍️ | 3.3 [White paper on security attestations][security attestations] | Dedicated task force | | |
 | 🗺️ | 3.4 [White paper on types of open source projects][open source project types] | [Cyber Resilience SIG][SIG] | | |
 | 🚀 | 3.5 [White paper on open source software stewards and CRA][open source stewards cra] | [Vulnerability Handling Task Force][] | | |
 | | | | | |
