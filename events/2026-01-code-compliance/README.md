@@ -1,4 +1,4 @@
-#Code & Compliance - FOSDEM Edition 2026
+# Code & Compliance - FOSDEM Edition 2026
 
 🗓️ 29 January 2026<br>
 📍 Maison de la Poste | Brussels, Belgium<br>
@@ -26,6 +26,6 @@
 | Open Source, Navigating the Shifting Sands of European Regulation	| Janneke van de Westelaken, Robert Bosch GmbH | [Slides](Janneke%20van%20de%20Westelaken%20-%20Open%20source%20Software%20and%20the%20European%20regulation.pdf) | [YouTube]
 | EV-CRA Charge with Compliance |	Achim Friedland, GraphDefined GmbH | [Slides](Achim%20Friedland%20-%20EV-CRA%20Charge%20with%20Compliance.pdf) | [YouTube]
 | Collaborative Standardisation: How communities built PURL and CycloneDX	| Philippe Ombredanne, AboutCode & Steve Springett, ServiceNow | [Slides](Steve%20Springett%2C%20Philippe%20Ombredanne%20-%20Collaborative%20Standardization_%20How%20communities%20built%20PURL%20and%20CycloneDX_.pdf) | [YouTube]
-| Regulations, challenges and the opportunities for the OS community	| Ciarán, Eclipse Foundation | [Slides] | [YouTube]
-| Make the most out of FOSDEM Weekend |	Ciarán & Juan, Eclipse Foundation | [Slides] | [YouTube]
+| Regulations, challenges and the opportunities for the OS community	| Ciarán O'Riordan, Eclipse Foundation | [Slides] | [YouTube]
+| Make the most out of FOSDEM Weekend |	Ciarán O'Riordan & Juan Rico, Eclipse Foundation | [Slides] | [YouTube]
 | Summary and closing	| Timo Perälä, Nokia & Dirk-Willem van Gulik, The Apache Software Foundation | [Slides] | [YouTube]
