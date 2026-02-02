@@ -1,1 +1,29 @@
+🗓️ 29 January 2026<br>
+📍 Maison de la Poste | Brussels, Belgium<br>
+🔗 [Event website](https://www.eclipse-foundation.events/event/code-compliance-2026)
 
+## Presentations
+| Presentation                                                                   | Speaker                                     | Slides | Recording |
+| ------------------------------------------------------------------------------ | ------------------------------------------- | ------ | --------- |
+| ORC status and objectives for the day |	Juan Rico, Eclipse Foundation | [Slides] | [YouTube](https://youtu.be/W7mQUVSdy6U)
+| Open Source Software Steward: the current understanding, opportunities, and challenges	| Mikaël Barbero, Eclipse Foundation | [Slides] | [YouTube](https://youtu.be/JAHGb-X38L4)
+| CRA FAQs: everything you ever wanted to know about the CRA	| Tobie Langle, UnlockOpen | [Slides] | [YouTube](https://youtu.be/75cq7XTvbos)
+| Sharing is caring: Open data for open source compliance |	Philippe Ombredanne, AboutCode & Qing Tomlinson, SAP Canada | [Slides] | [YouTube](https://youtu.be/M2kCcMrBBQg)
+| Your CRA Plan Is Already Broken: Only Trustable Software Can Save It |	John Ellis, Codethink | [Slides] | [YouTube](https://youtu.be/i3ZKwPmt5UM)
+| Operationalising the Cyber Resilience Act: From Legal Requirements to Lifecycle Security Engineering for IoT and Critical Infrastructures	| Speaker: César Lopéz (authors: M. A. Ortega, A. J. Jara, I. Cuevas) | [Slides] | [YouTube](https://youtu.be/YjVU2phGvw8)
+| FOSS LÄND: Tackling Automotive Compliance Challenges Through Collaboration	| Speaker: Marcel Kurzmann (Author: Johannes Demer, Marcel Kurzmann) | [Slides] | [YouTube](https://youtu.be/uBPKynNujC4)
+| CRA vs Your Calendar: Making Time for Compliance in Open Source Projects	| Rachel Foucard, TYPO3 Association | [Slides] | [YouTube](https://youtu.be/WaEBmqQ5nbE)
+| CRA-ready: Integrating VEX into Open Source Workflows	| Piotr Karwasz, The Apache Software Foundation, Munawar Hafiz, OpenRefactory, Inc.  & Michael Winser, Alpha-Omega | [Slides] | [YouTube](https://youtu.be/WaEBmqQ5nbE)
+| ComplyTime: Compliance with the Engineer in mind	| Jaroslav Reznik, Red Hat & Marcus Burghardt, Red Hat | [Slides] | [YouTube](https://youtu.be/zBrsyEpAff0)
+| From Regulation to Reality: Automating CRA Compliance for Default Products using the OSS Review Toolkit | Martin von Willebrand, Double Open Oy | [Slides] | [YouTube]
+| Modular Compliance | Daniel Thompson-Yvetot, CrabNebula Ltd. | [Slides] | [YouTube]
+| Scaling Security from Zero: How a Small OSS Ecosystem Jumped Into the Deep End | Jonatan Männchen, Erlang Ecosystem Foundation | [Slides] | [YouTube]
+| Manufacturer due diligence and open source attestation: cornerstones for cybersesecure open source | Timo Perälä, Nokia & Gergely Csatari, Nokia | [Slides] | [YouTube]
+| Status Report of the Attestation Project	| Æva Black, Null Point Studio | [Slides] | [YouTube]
+| Open forum - how to simplify the cooperation between attestations and due diligence | | [Slides] | [YouTube]
+| Open Source, Navigating the Shifting Sands of European Regulation	| Janneke van de Westelaken, Robert Bosch GmbH | [Slides] | [YouTube]
+| EV-CRA Charge with Compliance |	Achim Friedland, GraphDefined GmbH | [Slides] | [YouTube]
+| Collaborative Standardisation: How communities built PURL and CycloneDX	| Philippe Ombredanne, AboutCode & Steve Springett, ServiceNow | [Slides] | [YouTube]
+| Regulations, challenges and the opportunities for the OS community	| Ciarán, Eclipse Foundation | [Slides] | [YouTube]
+| Make the most out of FOSDEM Weekend |	Ciarán & Juan, Eclipse Foundation | [Slides] | [YouTube]
+| Summary and closing	| Timo Perälä, Nokia & Dirk-Willem van Gulik, The Apache Software Foundation | [Slides] | [YouTube]
