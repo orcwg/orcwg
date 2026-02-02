@@ -111,7 +111,7 @@ The core message is that open digital ecosystems are a strategic enabler of Euro
 - Slides can be found here – ADD THE LINK   
 - Funnel: Awareness (L1), Understand (L2), Contribute (L3)  
 - New webinar series: Unpacking the CRA  
-- See separate slides (Shanda)  
+- See separate [slides](./2026-02-02-orc-mkt-plan-overview.pdf)  
 - Feedback:  
   - OEJ: Maybe using the Open Source org members more  
   - Jeremy Stanley proposed putting folks in touch with OpenInfra Foundation marketing and events
