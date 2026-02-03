@@ -20,12 +20,12 @@
 | From Regulation to Reality: Automating CRA Compliance for Default Products using the OSS Review Toolkit | Martin von Willebrand, Double Open Oy | [Slides](Martin%20von%20Willebrand%20-%20Regs%20to%20reality%20CRA%20Journey%20with%20ORT.pdf) | [YouTube](https://youtu.be/GbMLmL383YI)
 | Modular Compliance | Daniel Thompson-Yvetot, CrabNebula Ltd. | [Slides](Daniel%20Thompson-Yvetot%20-%20Modular%20Compliance.pdf) | [YouTube](https://youtu.be/WPaNWApfgiA)
 | Scaling Security from Zero: How a Small OSS Ecosystem Jumped Into the Deep End | Jonatan Männchen, Erlang Ecosystem Foundation | [Slides](Jonatan%20Mannchen%20-%20Scaling%20Security%20from%20Zero.pdf) | [YouTube](https://youtu.be/jl89J0wx8mM)
-| Manufacturer due diligence and open source attestation: cornerstones for cybersesecure open source | Timo Perälä, Nokia & Gergely Csatari, Nokia | [Slides] | [YouTube](https://youtu.be/N6hEZiKvDaw)
-| Status Report of the Attestation Project	| Æva Black, Null Point Studio | [Slides] | [YouTube](https://youtu.be/N6hEZiKvDaw)
+| Manufacturer due diligence and open source attestation: cornerstones for cybersesecure open source | Timo Perälä, Nokia & Gergely Csatari, Nokia | [Slides](Timo%20Perälä%2C%20Gergely%20Csatari%20-%20Manufacturer%20Open%20Source%20Due%20Diligence.pdf) | [YouTube](https://youtu.be/N6hEZiKvDaw)
+| Status Report of the Attestation Project	| Æva Black, Null Point Studio | [Slides](Aeva%20Black%20-%20A%20Theory%20of%20Voluntary%20Security%20Attestations.pdf) | [YouTube](https://youtu.be/N6hEZiKvDaw)
 | Open forum - how to simplify the cooperation between attestations and due diligence | | [Slides] | 
 | Open Source, Navigating the Shifting Sands of European Regulation	| Janneke van de Westelaken, Robert Bosch GmbH | [Slides](Janneke%20van%20de%20Westelaken%20-%20Open%20source%20Software%20and%20the%20European%20regulation.pdf) | [YouTube](https://youtu.be/BYppdeScWKo)
 | EV-CRA Charge with Compliance |	Achim Friedland, GraphDefined GmbH | [Slides](Achim%20Friedland%20-%20EV-CRA%20Charge%20with%20Compliance.pdf) | [YouTube](https://youtu.be/F6fb6lvAN7I)
 | Collaborative Standardisation: How communities built PURL and CycloneDX	| Philippe Ombredanne, AboutCode & Steve Springett, ServiceNow | [Slides](Steve%20Springett%2C%20Philippe%20Ombredanne%20-%20Collaborative%20Standardization_%20How%20communities%20built%20PURL%20and%20CycloneDX_.pdf) | [YouTube](https://youtu.be/TlLMDS7_jW8)
 | Regulations, challenges and the opportunities for the OS community	| Ciarán O'Riordan, Eclipse Foundation | [Slides] | [YouTube](https://youtu.be/TlDH-TixYyY)
-| Make the most out of FOSDEM Weekend |	Ciarán O'Riordan & Juan Rico, Eclipse Foundation | [Slides] | [YouTube](https://youtu.be/YOWmq3-LXnk)
-| Summary and closing	| Timo Perälä, Nokia & Dirk-Willem van Gulik, The Apache Software Foundation | [Slides] | 
+| Make the most out of FOSDEM Weekend |	Ciarán O'Riordan & Juan Rico, Eclipse Foundation |  | [YouTube](https://youtu.be/YOWmq3-LXnk)
+| Summary and closing	| Timo Perälä, Nokia & Dirk-Willem van Gulik, The Apache Software Foundation |  | 
