@@ -26,17 +26,17 @@ This directory contains resources from ORC-hosted events where materials are ava
 
 | Year  | Date   | Location   | Title                                                                            | Link to materials                    |
 |-------|--------|------------|----------------------------------------------------------------------------------|--------------------------------------|
-| 2026 | 29/01 | Brussels | Code & Compliance FOSDEM edition | [Website](https://lists.fosdem.org/pipermail/fosdem/2025q4/003697.html)
-| 2025 | 22-23/10 | Brussels, Belgium | Code and Compliance Community Day | [Website](https://www.eclipse-foundation.events/event/Code-and-compliance-Community-Day-2025/summary)|
-| 2025 | 1-2/07 | Geneva International Conference Center | Sovereignty by Design: Regulatory compliance and the CRA - part of Global Collaboration on Wallets and Credentials| [link](./2025-07-global-digital-collaboration/)|
-| 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-workshop)| 
-| 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[link](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-meetup)| 
+| 2026 | 29/01 | Brussels | Code & Compliance FOSDEM edition | [Website](https://www.eclipse-foundation.events/event/code-compliance-2026) <br> [supporting documents](./2026-01-code-compliance)
+| 2025 | 22-23/10 | Brussels | Code and Compliance Community Day | [Website](https://www.eclipse-foundation.events/event/Code-and-compliance-Community-Day-2025/summary) <br> [supporting documents](./2025-10-code-compliance)
+| 2025 | 1-2/07 | Geneva | Sovereignty by Design: Regulatory compliance and the CRA - part of Global Collaboration on Wallets and Credentials| [supporting documents](./2025-07-global-digital-collaboration/)|
+| 2025  | 30/01  | Brussels   | ORC WG Workshop                           |[supporting documents](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-workshop)| 
+| 2025  | 29/01  | Brussels   | The CRA is here! Now What?                |[supporting documents](https://github.com/orcwg/orcwg/tree/main/events/2025-01-brussels-meetup)| 
 
 ## 🗓️ CRA Mondays
 
 Every Monday after the SIG call, we host a guest from our community to discuss CRA adjacent topics. [Learn more →](./cra-mondays/)
 
-### YouTube Playlists
+## ▶️YouTube Playlists
 
 Watch recordings of our past events:
 
