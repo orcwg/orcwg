@@ -19,6 +19,6 @@ Date: 2026-02-16
 |  30 | || 
 |  35 | Status of the FAQ and inventory | Tobie ||| 
 |  40 | ||  
-|  45 | ||
+|  45 | GVIP | Olle|
 |  50 | Marketing Update | Juan|
 |  55 | AOB | |
