@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Minutes
-Status: ⚠️ Draft
+Status: ✅ Approved
 Date: 2026-02-02
 ---
 
@@ -38,6 +38,7 @@ Date: 2026-02-02
 - Dirk-Willem van Gulik (ASF)  
 - Pierre Pronchery (FreeBSD Foundation)  
 - Mathias Schindler (GitHub) from 16:05
+- Timo Perälä (Nokia)
 
 ## Notes
 
