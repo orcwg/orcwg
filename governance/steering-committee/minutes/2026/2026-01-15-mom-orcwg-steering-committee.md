@@ -1,3 +1,10 @@
+---
+Committee: Steering Committee
+Document type: Minutes
+Status: ✅ Approved
+Date: 2026-01-15
+Approved: 2026-02-12
+---
 # **Open Regulatory Compliance Working Group** Steering Committee Meeting
 
 ### 
