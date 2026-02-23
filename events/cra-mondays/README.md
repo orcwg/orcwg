@@ -2,10 +2,41 @@
 
 ## Upcoming
 
+<a name="episode-15"></a>
+### March 2: Software Hash Identifier introduction and applications to in-development standards
+
+It will not be possible to scale up the identification of software based on software packages names. The usage of extrinsic identifiers requires an external, trusted, entity to host the references table. Intrinsic identifiers solve this issue, indemnifying software unequivocally, even supporting external references. Out of the existing intrinsic identifiers, SWHID is the standard one with open governance as well as a implementation example of a big enough scale, Software Heritage.
+
+The existence of such identifiers is essential for regulators and standardization bodies, since they enables a level of trust in evidences you cannot reach in any other way, at big enough scale.
+
+<details>
+<summary>More info</summary>
+
+**Speaker: Agustin	Benito Bethencourt, Consultant, Software Transparency Foundation**
+
+Agustín discovered Free Software during his university years, but it was in 2003 when he redirected his entrepreneurial career toward open source software and open data. Since then, he has led teams and organizations in designing, developing, and maintaining open-source-based products and services. With experience spanning management, executive, and consulting roles, Agustín has worked across diverse sectors including automotive, IoT, edge, industrial, embedded, enterprise, and desktop. Today, he works as an independent consultant.
+
+As a volunteer, Agustín is a proud KDE e.V. and KDE España, as well as a Software Heritage Ambassador. Over the past two decades, he has actively contributed to multiple open source software and open data initiatives.
+
+In addition, Agustín has a solid background as a speaker, community steward, business developer, and trainer. Having lived in several countries, he now divides his time between Málaga and La Palma (Canary Islands, Spain). A strong advocate of remote work, he continues to travel frequently and collaborate globally.
+
+Agustín is contracted by Software Transparency Foundation (part-time) as Ecosystem Lead
+
+LinkedIn: https://www.linkedin.com/in/toscalix/
+</details>
+
+🗓️ When: **March 2, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAzMDJUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
+ 
+---
+
+## Previous episodes
+
 <a name="episode-14"></a>
 ### February 16: Open Source Governance in the Global South: Challenges, Opportunities & Compliance in Africa
 
-Open source is a global movement, but the practices, pressures, and compliance realities vary dramatically across regions. In Africa and the broader Global South, developers are building critical digital infrastructure, maintaining widely used libraries, and contributing to major ecosystems  yet often without the governance structures, compliance tooling, or regulatory awareness common in Europe and North America. As the global software supply chain becomes more regulated, particularly with frameworks like the EU Cyber Resilience Act (CRA), this regional disparity becomes a supply-chain risk and a missed opportunity.
+Open source is a global movement, but the practices, pressures, and compliance realities vary dramatically across regions. In Africa and the broader Global South, developers are building critical digital infrastructure, maintaining widely used libraries, and contributing to major ecosystems  yet often without the governance structures, compliance tooling, or regulatory awareness common in Europe and North America. As the global software supply chain becomes more regulated, particularly with frameworks like the EU Cyber Resilience Act (CRA), this regional disparity becomes a supply-chain risk and a missed opportunity. ([video](https://youtu.be/RWG-5oFO9cY))
 
 <details>
 <summary>More info</summary>
@@ -40,40 +71,6 @@ LinkedIn: https://linkedin.com/in/juliusboakye
 
 </details>
 
-🗓️ When: **February 16, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAyMTZUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
-
-<a name="episode-15"></a>
-### March 2: Software Hash Identifier introduction and applications to in-development standards
-
-It will not be possible to scale up the identification of software based on software packages names. The usage of extrinsic identifiers requires an external, trusted, entity to host the references table. Intrinsic identifiers solve this issue, indemnifying software unequivocally, even supporting external references. Out of the existing intrinsic identifiers, SWHID is the standard one with open governance as well as a implementation example of a big enough scale, Software Heritage.
-
-The existence of such identifiers is essential for regulators and standardization bodies, since they enables a level of trust in evidences you cannot reach in any other way, at big enough scale.
-
-<details>
-<summary>More info</summary>
-
-**Speaker: Agustin	Benito Bethencourt, Consultant, Software Transparency Foundation**
-
-Agustín discovered Free Software during his university years, but it was in 2003 when he redirected his entrepreneurial career toward open source software and open data. Since then, he has led teams and organizations in designing, developing, and maintaining open-source-based products and services. With experience spanning management, executive, and consulting roles, Agustín has worked across diverse sectors including automotive, IoT, edge, industrial, embedded, enterprise, and desktop. Today, he works as an independent consultant.
-
-As a volunteer, Agustín is a proud KDE e.V. and KDE España, as well as a Software Heritage Ambassador. Over the past two decades, he has actively contributed to multiple open source software and open data initiatives.
-
-In addition, Agustín has a solid background as a speaker, community steward, business developer, and trainer. Having lived in several countries, he now divides his time between Málaga and La Palma (Canary Islands, Spain). A strong advocate of remote work, he continues to travel frequently and collaborate globally.
-
-Agustín is contracted by Software Transparency Foundation (part-time) as Ecosystem Lead
-
-LinkedIn: https://www.linkedin.com/in/toscalix/
-</details>
-
-🗓️ When: **March 2, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAzMDJUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
- 
----
-
-## Previous episodes
 
 <a name="episode-13"></a>
 ### February 2: Anyone who still puts AI-generated code into circulation today has conditional intent to infringe the law – how to limit or at least defer the risk
