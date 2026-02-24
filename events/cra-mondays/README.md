@@ -36,7 +36,7 @@ LinkedIn: https://www.linkedin.com/in/toscalix/
 <a name="episode-14"></a>
 ### February 16: Open Source Governance in the Global South: Challenges, Opportunities & Compliance in Africa
 
-Open source is a global movement, but the practices, pressures, and compliance realities vary dramatically across regions. In Africa and the broader Global South, developers are building critical digital infrastructure, maintaining widely used libraries, and contributing to major ecosystems  yet often without the governance structures, compliance tooling, or regulatory awareness common in Europe and North America. As the global software supply chain becomes more regulated, particularly with frameworks like the EU Cyber Resilience Act (CRA), this regional disparity becomes a supply-chain risk and a missed opportunity. ([video](https://youtu.be/RWG-5oFO9cY))
+Open source is a global movement, but the practices, pressures, and compliance realities vary dramatically across regions. In Africa and the broader Global South, developers are building critical digital infrastructure, maintaining widely used libraries, and contributing to major ecosystems  yet often without the governance structures, compliance tooling, or regulatory awareness common in Europe and North America. As the global software supply chain becomes more regulated, particularly with frameworks like the EU Cyber Resilience Act (CRA), this regional disparity becomes a supply-chain risk and a missed opportunity. ([video](https://youtu.be/RWG-5oFO9cY) | [slides](https://gamma.app/docs/Open-Source-Governance-in-the-Global-South-wo0sn6uel26o0s3?mode=doc))
 
 <details>
 <summary>More info</summary>
