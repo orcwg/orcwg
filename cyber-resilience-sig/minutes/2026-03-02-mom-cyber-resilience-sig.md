@@ -17,8 +17,8 @@ Date: 2026-03-02
 |  20 | ||
 |  25 | Due diligence | Timo | 
 |  30 | || 
-|  35 | Status of the FAQ and inventory | Tobie ||| 
+|  35 | GVIP | Olle|
 |  40 | ||  
-|  45 | GVIP | Olle|
-|  50 | Marketing Update | Shanda|
+|  45 | Marketing Update | Shanda|
+|  50 | ||
 |  55 | AOB | |
