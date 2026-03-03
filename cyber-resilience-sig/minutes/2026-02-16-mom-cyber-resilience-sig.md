@@ -55,7 +55,7 @@ Date: 2026-02-16
 ### Summary of the last Steering Committee
 
 - Membership looks promising growing interest  
-- It was presented the implementation pan for 2026 objectives which includes the execution in the four pillars defined for the working group.  
+- It was presented the implementation plan for 2026 objectives which includes the execution in the four pillars defined for the working group.  
 - It was analysed Code and Compliance, identifying some improvement areas like the creation of a program committee to define priorities and aling the agenda, more breaks and networking opportunities and maybe less talks.   
 - Minutes from other Steering Committee meetings [here](https://github.com/orcwg/orcwg/tree/main/governance) 
 
