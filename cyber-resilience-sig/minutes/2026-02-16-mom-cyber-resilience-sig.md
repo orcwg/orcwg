@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Minutes
-Status: ⚠️ Draft
+Status: ✅ Approved
 Date: 2026-02-16
 ---
 
@@ -56,7 +56,7 @@ Date: 2026-02-16
 
 - Membership looks promising growing interest  
 - It was presented the implementation pan for 2026 objectives which includes the execution in the four pillars defined for the working group.  
-- It was analysed Code and Compliance, identifying some improvement areas like the creation of a program committee to define priorities and ling the agenda, more breaks and networking opportunities and maybe less talks.   
+- It was analysed Code and Compliance, identifying some improvement areas like the creation of a program committee to define priorities and aling the agenda, more breaks and networking opportunities and maybe less talks.   
 - Minutes from other Steering Committee meetings [here](https://github.com/orcwg/orcwg/tree/main/governance) 
 
 ### Next CRA Expert Group
@@ -94,8 +94,8 @@ Date: 2026-02-16
 
 ### GVIP
 
-* Summit in Brussels with 80 attendees \- slides available on the web site (check agenda for the summit)  
-* Open invitations to community meetings \- Add links  
+* Summit in Brussels with 80 attendees \- slides available on the (website)[https://github.com/gvip-project/presentations/tree/main/summit01]
+* Open invitations to [community meetings](https://www.gvip-project.org/community)
 * Join the community meetings  
   [https://www.gvip-project.org/community/](https://www.gvip-project.org/community/) 
 
@@ -104,7 +104,7 @@ Date: 2026-02-16
 - Code and Compliance pictures  \- [https://www.flickr.com/photos/108559379@N08/albums/72177720331978791](https://www.flickr.com/photos/108559379@N08/albums/72177720331978791)   
 - Share with us events, news, posts …  
 - We are happy to reshare  
-- Interested in trainings? Book an interview with Shanda or Olle\! Just a few minutes of your time. Find us in Slack.  
+- Interested in training? Book an interview with Shanda or Olle\! Just a few minutes of your time. Find us in Slack.  
 - NSSS \- Stockholm \- April \- [https://nsss.se](https://nsss.se) [https://sbomfocus.eu](https://sbomfocus.eu)   
 - OCX in Brussels \- a special track on compliance  
   [https://www.ocxconf.org/](https://www.ocxconf.org/) 
