@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Minutes
-Status: 🗓️ Proposed agenda
+Status: ✅ Approved
 Date: 2026-03-02
 ---
 
@@ -36,7 +36,7 @@ Date: 2026-03-02
 - Jeremy Stanley (ORC Spec Committee, OpenInfra Foundation, SPI Inc)  
 - Timo Perälä (Nokia)  
 - Jonne Soininen (Nokia)  
-- [Alice Sowerby](mailto:alice@freebsdfoundation.org) (FreeBSD Foundation)  
+- Alice Sowerby (FreeBSD Foundation)  
 - Tobias Frech (iJUG e.V:)  
 - Æva Black (Null Point Studio)  
 - Francisco Picolini (OpenNebula Systems)  
@@ -55,7 +55,7 @@ Date: 2026-03-02
 
 - Membership looks promising growing interest  
 - It was presented the implementation plan for 2026 objectives which includes the execution in the four pillars defined for the working group.  
-- It was analysed Code and Compliance, identifying some improvement areas like the creation of a program committee to define priorities and aling the agenda, more breaks and networking opportunities and maybe less talks.   
+- It was analysed Code and Compliance, identifying some improvement areas like the creation of a program committee to define priorities and aligning the agenda, more breaks and networking opportunities and maybe fewer talks.   
 - Minutes from other Steering Committee meetings [here](https://github.com/orcwg/orcwg/tree/main/governance) 
 
 ### Next CRA Expert Group
