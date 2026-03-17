@@ -2,11 +2,26 @@
 
 ## Upcoming
 
+<a name="episode-17"></a>
+### March 30: TBD
+
+Details for the next session will be posted when available. 
+
+🗓️ When: **March 30, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAzMzBUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com) or [View on our Community Calendar](https://orcwg.org/resources/calendar/)
+ 
+---
+
+## Previous episodes
+
 <a name="episode-16"></a>
 ### March 16: Lessons from Log4Shell: building a CRA-ready Log4j
 
-The discovery of Log4Shell (CVE-2021-44228) triggered one of the most far-reaching security incidents in the history of open source software. As organizations rushed to assess their exposure, many discovered they could not answer a seemingly simple question: Do our products depend on Log4j?
+The discovery of Log4Shell (CVE-2021-44228) triggered one of the most far-reaching security incidents in the history of open source software. As organizations rushed to assess their exposure, many discovered they could not answer a seemingly simple question: Do our products depend on Log4j? ([video](https://youtu.be/ns9RBhEsz_U) | [slides](2026-03-16-Lessons%20from%20Log4Shell_%20building%20a%20CRA-ready%20Log4j.pdf))
 
+<details>
+<summary>More info</summary>
 The incident exposed deep challenges in software supply-chain visibility and vulnerability response, drawing the attention of regulators and helping inspire initiatives such as the European Cyber Resilience Act (CRA).
 
 In the years since Log4Shell, the Log4j project has worked to remain at the forefront of emerging security practices in the open source ecosystem. Despite being maintained by a relatively small team, the project has experimented with new approaches to improve transparency, vulnerability handling, and downstream assurance.
@@ -14,23 +29,12 @@ In the years since Log4Shell, the Log4j project has worked to remain at the fore
 In this talk we will revisit the changes introduced in Log4j after Log4Shell and examine how they align with the emerging expectations of the CRA, including attestation and due-diligence requirements. The presentation will highlight practical lessons from running a widely used open source project and explore what it takes to make open source components more trustworthy for downstream adopters in a regulated world.
 
 **Speaker: Piotr P. Karwasz, Apache Software Foundation**
-<details>
-<summary>More info</summary>
 
 Piotr is an independent Java developer focusing on open-source supply-chain security and sustainability. He is a member of the Apache Software Foundation Security Team and contributes to several industry initiatives, including ECMA TC54 and OpenSSF working groups.
 
 He joined the Apache Logging Services project shortly after the Log4Shell incident and has since helped drive multiple security and transparency improvements aimed at rebuilding trust in the project and strengthening its security posture. Today, he is the most active maintainer of the Log4j project.
 
 </details>
-
-🗓️ When: **March 16, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAzMTZUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com)
- 
----
-
-## Previous episodes
-
 
 <a name="episode-15"></a>
 ### March 2: Software Hash Identifier introduction and applications to in-development standards
