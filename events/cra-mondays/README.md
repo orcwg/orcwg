@@ -10,7 +10,30 @@ Details for the next session will be posted when available.
 🗓️ When: **March 30, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
 📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
 ➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAzMzBUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com) or [View on our Community Calendar](https://orcwg.org/resources/calendar/)
+
+<a name="episode-18"></a>
+### April 13: Using the CRA to Understand Systems in Practice
+
+The Cyber Resilience Act (CRA) requires organisations to generate a significant amount of information about the systems they build and maintain. However, that work can be approached in a way that not only supports compliance, but also benefits the teams working with those systems.
+
+This talk looks at what we can learn about our systems from the information required by the CRA, particularly in areas such as dependencies, infrastructure and maintenance.
+
+The session also introduces the Ethical Software Framework, a developing approach based on legal frameworks, standards and technical guidelines. It focuses on areas where technical decisions intersect with ethical considerations, providing a structured way to support technical decision-making. The information gathered through the CRA contributes to this analysis, helping to identify and understand trade-offs between these areas and enabling more effective decision-making in practice.
+
+**Speaker: Paula Mesa Macías**
+
+<details>
+<summary>More info</summary>
  
+Paula Mesa Macías is a telecommunications engineer with over 10 years of experience across software development, infrastructure, cybersecurity and digital systems, working across public, private and civic-tech contexts.
+Paula is the founder of Pau&Company, an ethical technology consultancy focused on cybersecurity, privacy, environmental impact of IT and use of AI. Pau&Company offers technical audits, system analysis and implementation, helping organisations understand their infrastructure and make more secure, resilient and responsible technology decisions.
+
+</details> 
+
+🗓️ When: **April 13, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA0MTNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com) or [View on our Community Calendar](https://orcwg.org/resources/calendar/)
+
 ---
 
 ## Previous episodes
