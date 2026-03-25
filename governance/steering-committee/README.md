@@ -10,7 +10,7 @@
 * Dirk-Willem van Gulik ([@dirkx][]), The Apache Software Foundation
 * Jonne Soininen ([@josoinin][]), Nokia _(alternate)_
 * Roman Zhukov ([@rozhukov][]), Red Hat
-* Dave Russo, Nokia
+* Dave Russo ([@drusso][]), Red Hat _(alternate)_
 * Timo Perala ([@timop62][]), Nokia
 * Victor Roland ([@Viko-legal][]), OBEO
 
@@ -21,6 +21,7 @@
 
 [@aosull01]: https://github.com/aosull01
 [@dirkx]: https://github.com/dirkx
+[@drusso]: [https://github.com/SecurityCaveman]
 [@josoinin]: https://github.com/josoinin
 [@mm73628486283]: https://github.com/mm73628486283
 [@pavelhruza]: https://github.com/pavelhruza
