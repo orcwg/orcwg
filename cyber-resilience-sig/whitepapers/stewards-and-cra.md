@@ -3,7 +3,7 @@ SIG: Cyber Resilience SIG
 Task force:
 Document type: White paper
 Number: 3.5
-Status: ✍️ Work in Progress
+Status: 🚀 Published
 Input to: EU Guidance, Implementing Act, Harmonised standards
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
 License: CC-BY 4.0
