@@ -53,6 +53,62 @@ This is a draft document and may be updated, replaced or obsoleted at any time. 
     
     >e.g. What will MSA investigate, what will they check, what should we be prepared for to show them?
 
+## What is Due Diligence
+
+**Due diligence** is the obligation of manufacturers to
+
+1.  carry out **concrete verification actions** on third-party components (including
+    free and open-source software) before integrating them into their
+    **products with digital elements**,
+2.  **act on the findings** of those verifications, and to
+3.  **continuously monitor** integrated components throughout the product lifecycle,
+
+to ensure those components do not compromise the product's cybersecurity.
+
+The **scope and intensity** of the verification actions is determined
+by **two prior risk assessments**, both of which serve as preconditions
+for due diligence:
+
+-   **Component-level risk assessment**: an evaluation of the inherent
+    cybersecurity risk of the component itself, independent of context
+    (e.g., a cryptographic library carries inherently higher risk than
+    a basic UI component)
+
+-   **Product-level risk assessment**: an evaluation of the
+    manufacturer's own product and the intended use context of the
+    component within it
+
+Together, these two assessments determine how extensive the
+verification actions need to be in order to judge the risk
+that the component compromises the product's cybersecurity.
+
+Due diligence is only **complete** when the manufacturer has not just
+verified but also **acted on the findings**, which may include:
+
+-   **Accepting** the component as-is (if verification confirms it is
+    adequate and/or residual risk is accepted)
+-   **Applying mitigations** (e.g., adding a security wrapper, restricting
+    the component's access)
+-   **Rejecting** the component entirely (if cybersecurity risks cannot be
+    adequately addressed)
+
+Due diligence is a **continuous process**, not a one-time event:
+
+-   **Initial due diligence**: carried out before integration, as
+    described above
+-   **Ongoing due diligence**: continuously monitoring integrated
+    components for, e.g.:
+    -   Newly discovered vulnerabilities
+    -   Changed risk profiles
+    -   Changes in the component's maintenance status (e.g., a component
+        becoming abandoned)
+
+**Note:** Due diligence spans the **entire product lifecycle** and
+complements but is distinct from  the **ongoing vulnerability
+handling** obligations that apply separately under Annex I, Part II
+of the CRA.
+
+
 ## Acknowledgments
 
 The following people have contributed to this document either directly or indirectly (e.g. by raising questions):
