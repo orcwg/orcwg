@@ -2,13 +2,31 @@
 
 ## Upcoming
 
-There will be **no CRA Monday session on March 30**. Instead, the ORC community will discuss [feedback on the CRA Draft Guidance](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjAzMzBUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com).
-
 <a name="episode-17"></a>
-### April 13: TBD
+### April 13: Fair-Share Cost Tokens: Supporting Financial Flows in Open Source Supply Chains
 
-Details for the next session will be posted when available.
+The Cyber Resilience Act (CRA) will require FOSS projects to enhance their security measures and, in line with the logic of FOSS ecosystems, allow for voluntary security attestations.
 
+This talk introduces fair-share cost tokens - a protocol which supports financial flows along open source software supply chains, and allow to enable a vulnearbility tracing system. (Neither blockchain, nor AI)
+
+**Speaker: Gregor Bransky**
+
+<details>
+<summary>More info</summary>
+
+Gregor "Little Detritus" Bransky has been involved in public digital infrastructure policies for nearly a decade. He started in 2017 as a member of Freifunk Aachen, Aachens open wireless mesh community, and contributed to the discussion around WiFi4EU.
+
+In March 2020, he became co-team lead of "[wir-bleiben-liquid.de](http://wir-bleiben-liquid.de/)", one of the 20 winning teams of the #WirVsVirus Hackathon organized by the German government. The team also won the #EUvsVirus Hackathon.
+
+Since March 2021, Gregor has been a founding member and acting board member for policy and press at Innovationverbund Öffentliche Gesundheit e.V., a civic-tech project dedicated to building public digital infrastructures that empower society.
+
+</details>
+
+🗓️ When: **April 13, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/82349283943)\
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA0MTNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com) or [View on our Community Calendar](https://orcwg.org/resources/calendar/)
+
+### April 27: No CRA Monday session will be held, due to the proximity of OCX. 
 
 <a name="episode-18"></a>
 ### May 11: Using the CRA to Understand Systems in Practice
