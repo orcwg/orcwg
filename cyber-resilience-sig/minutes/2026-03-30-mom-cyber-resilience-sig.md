@@ -91,25 +91,20 @@ Meeting after the SIG call to go in-depth into the comments.
 
 ### Cyber Security Act & ENISA Security by Design and default Playbook
 
-CSA \- current open consultation:
-
-- [https://ec.europa.eu/info/law/better-regulation/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act](https://ec.europa.eu/info/law/better-regulation/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act)   
-- ORC feedback [https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md)   
-  ENISA Secure by design and default playbook \- [Draft available here](https://www.enisa.europa.eu/sites/default/files/2026-03/ENISA_Secure_By_Design_and_Default_Playbook_v0.4_draft_for_consultation.pdf) | [Consultation](https://ec.europa.eu/eusurvey/runner/sbd_public_consultation) (open until the 15th of May 2026\)  
-- Key elements already identified:  
-  - Open Design  
-    - This section focuses on the architectural philosophy of using open, peer-reviewed standards rather than proprietary "security through obscurity."
-
-    
-
-  - Supply Chain Controls: This is the primary section for managing Open Source Software (OSS) dependencies.  
-    - Key Requirement: The creation and maintenance of a Software Bill of Materials (SBOM) to track all open-source components.  
-      - Key Requirement: Implementation of Software Composition Analysis (SCA) to automatically scan open-source libraries for known vulnerabilities (CVEs).
-
-  - Vulnerability and Patch Management: This section details how to handle the lifecycle of the open-source components.  
-  - Secure Coding Practices: While general, this section emphasises the use of safe open-source frameworks and libraries that provide built-in protection against common attacks (like SQL injection or XSS) as a "Secure by Design" choice.  
-  - Feedback open until May 15th.   
-  - Look at the CISA proposal in parallel
+-CSA \- current open consultation:
+  - [CSA consultation](https://ec.europa.eu/info/law/better-regulation/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act)   
+  - [ORC feedback last year](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md)   
+- ENISA Secure by design and default playbook \- [Draft available here](https://www.enisa.europa.eu/sites/default/files/2026-03/ENISA_Secure_By_Design_and_Default_Playbook_v0.4_draft_for_consultation.pdf) | [Consultation](https://ec.europa.eu/eusurvey/runner/sbd_public_consultation) (open until the 15th of May 2026\)  
+  - Key elements already identified:  
+    - Open Design  
+      - This section focuses on the architectural philosophy of using open, peer-reviewed standards rather than proprietary "security through obscurity."
+    - Supply Chain Controls: This is the primary section for managing Open Source Software (OSS) dependencies.  
+      - Key Requirement: The creation and maintenance of a Software Bill of Materials (SBOM) to track all open-source components.  
+        - Key Requirement: Implementation of Software Composition Analysis (SCA) to automatically scan open-source libraries for known vulnerabilities (CVEs).
+    - Vulnerability and Patch Management: This section details how to handle the lifecycle of the open-source components.  
+    - Secure Coding Practices: While general, this section emphasises the use of safe open-source frameworks and libraries that provide built-in protection against common attacks (like SQL injection or XSS) as a "Secure by Design" choice.  
+    - Feedback open until May 15th.   
+    - Look at the CISA proposal in parallel
 
 ### Marketing Update
 
