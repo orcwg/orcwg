@@ -92,7 +92,7 @@ Meeting after the SIG call to go in-depth into the comments.
 ### Cyber Security Act & ENISA Security by Design and default Playbook
 
 -CSA \- current open consultation:
-  - [CSA consultation](https://ec.europa.eu/info/law/better-regulation/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act)   
+  - [CSA consultation](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)   
   - [ORC feedback last year](https://github.com/orcwg/orcwg/blob/main/cyber-resilience-sig/coordination/enisa/deliverable-2-6.md)   
 - ENISA Secure by design and default playbook \- [Draft available here](https://www.enisa.europa.eu/sites/default/files/2026-03/ENISA_Secure_By_Design_and_Default_Playbook_v0.4_draft_for_consultation.pdf) | [Consultation](https://ec.europa.eu/eusurvey/runner/sbd_public_consultation) (open until the 15th of May 2026\)  
   - Key elements already identified:  
