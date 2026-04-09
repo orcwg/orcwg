@@ -178,7 +178,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [deliverable-2-8]: coordination/european-commission/2025-07-call-for-evidence-1025/deliverable-2-8.md
 [deliverable-2-9]: coordination/cen-cenelec-wg-9/deliverable-2-9.md
 [deliverable-2-10]: coordination/european-commission/2026-02-open-digital-ecosystems-call-for-evidence/deliverable-2-10.md
-[deliverable-2-11]: coordination/european-commission/2026-02-call-for-feedback-cra-guidance-package/deliverable-2-11.md
+[deliverable-2-11]: coordination/european-commission/2026-04-call-for-feedback-cra-guidance-package/deliverable-2-11.md
 
 [SBOMs]: whitepapers/sboms.md
 [due diligence]: whitepapers/due-diligence.md
