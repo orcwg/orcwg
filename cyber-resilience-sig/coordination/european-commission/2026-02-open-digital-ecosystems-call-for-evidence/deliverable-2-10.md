@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Deliverable
-Number: 2.10
+Number: "2.10"
 Status: ✅ Approved
 Group: European Commission
 Date: 2026-02-03
