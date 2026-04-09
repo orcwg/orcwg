@@ -59,6 +59,7 @@ flowchart LR
 | 🚀 | 2.7 [Comments to EU Guidance on open source][deliverable-2-7] | [CRA Expert Group liaisons][CRA Expert Group] | June 18, 2025 | June 20, 2025 |
 | 🚀 | 2.8 [Response to the Call for evidence on the revision of the Standardisation Regulation 1025][deliverable-2-8] | [Cyber Resilience SIG][SIG] | July 5, 2025 | July 21, 2025 |
 | 🚀 | 2.9 [Comments on CEN/CENELEC PT3 Vulnerability Handling Standard][deliverable-2-9] | [Cyber Resilience SIG][SIG] | July 20, 2025 | August 4, 2025 |
+| 🚀 | 2.10 [Contribution to the call for evidence of the Open Digital Ecosystems][deliverable-2-10] | [Cyber Resilience SIG][SIG] | January 15, 2026 | February 3, 2026 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | 🗺️ | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force |  |  |
@@ -175,6 +176,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [deliverable-2-7]: coordination/cra-expert-group/deliverable-2-7.md
 [deliverable-2-8]: coordination/european-commission/2025-07-call-for-evidence-1025/deliverable-2-8.md
 [deliverable-2-9]: coordination/cen-cenelec-wg-9/deliverable-2-9.md
+[deliverable-2-10]: coordination/european-commission/2026-02-open-digital-ecosystems-call-for-evidence/deliverable-2-10.md
 
 [SBOMs]: whitepapers/sboms.md
 [due diligence]: whitepapers/due-diligence.md
