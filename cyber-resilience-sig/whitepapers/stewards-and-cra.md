@@ -105,7 +105,7 @@ see the [related FAQ entry](https://github.com/orcwg/cra-hub/issues/292).
 For example, accepting a generic Policy from a Foundation acting as Steward may be a prerequisite for creating a Project or for that
 Project to be admitted to the foundation.
 
-The Project and the Steward also need to agree on how chnages to the Policy are introduced, in order to align legal requirements with the
+The Project and the Steward also need to agree on how changes to the Policy are introduced, in order to align legal requirements with the
 Project's current practices (for example: bug tracking tools, communication methods).
 
 #### A policy to develop secure products
@@ -124,7 +124,7 @@ documentation made available in a location that is easy for users to find, e.g.,
 web page.
 - addressing vulnerabilities - the policy should define how the Project handles vulnerabilities, including triage and prioritization.
 This is a part of the typical security processes of Open Source Projects.
-- remediating vulnerabilities - the policy should define how the Project remediates vulnerabilities, wether through fixes or mitigations.
+- remediating vulnerabilities - the policy should define how the Project remediates vulnerabilities, whether through fixes or mitigations.
 This is a part of the typical security processes of Open Source Projects.
 - promoting information sharing in the open source community - this is a new, and currently often implicit, requirement. Under the CRA, this aspect
 of the policy must be explicitly documented. Best practices include sharing information about discovered vulnerabilities with upstream projects; notifying the maintainers of dependencies when a reported vulnerability originates there; and, where there is a likelihood of similar issues in related projects (for example, across different HTTP implementations), informing potentially affected peers.
@@ -179,7 +179,7 @@ corrective action is taken in respect to their obligations. This implies that th
 influence the Project to follow defined policies. Possible situation include, for example, a Project not responding to vulnerability
 reports at all, or not documenting fixed vulnerabilities.
 
-In a vulnerability management process, it is common for reporters and developers to disagree on wether a reported
+In a vulnerability management process, it is common for reporters and developers to disagree on whether a reported
 issue constitutes a vulnerability. In addition, many Projects face AI-generated reports and low quality reports
 of minor issues[^reportingnote]. It is best practice to document in the Policy how such conflicts are resolved
 and to always respond to reports, even if only to state that the Project does not consider the issue a vulnerability.
@@ -191,7 +191,7 @@ vulnerability reporting. For example, a Project may be developing a new, experim
 has not yet been released. In this case, it may state that the module is out of scope for vulnerability
 reporting, while still accepting regular bug reports. Another example is support for a legacy protocol maintained for
 compatibility reasons and known to have security weaknesses. In this case, the
-Project may document that it does not accept vulnerability reports the those known weaknesses.
+Project may document that it does not accept vulnerability reports for known weaknesses.
 
 [^reportingnote]: This is a serious issue for the Open Source community, as each investigation requires
 developer time. Low quality reports are caused, amongst other factors, by the potential reward (e.g., a CVE number
@@ -200,7 +200,7 @@ a process for handling abusive reports. In such cases, Projects and Stewards sho
 of their decison (for example, emails records) and may rely on additional guidelines defining what constitutes a vulnerability,
 such as the CVE Program rules.
 
-The regulataion requires the Steward to take action, but explicitly excludes any fees in the event of non-compliance.
+The regulation requires the Steward to take action, but explicitly excludes any fees in the event of non-compliance.
 
 References: Article 24(2), Article 64(10b), Article 52(3)
 
@@ -239,7 +239,7 @@ What resources could be created to help fulfilling that requirement:
 
 ### Mandatory reporting of exploited vulnerabilities and security incidents
 
-Stewards have an obligation to mandatorily report actively exploited vulnerabilities and severe incidents. However, this obligation
+Stewards have an obligation to report actively exploited vulnerabilities and severe incidents. However, this obligation
 is more limited in scope than that of Manufacturers.
 
 The table below, taken from the [FAQ entry on Steward obligation](https://cra.orcwg.org/faq/stewards/notification-obligations/), summarizes
@@ -256,7 +256,7 @@ Steward obligations depending on the services they provide to the Project:
 [^2]: [Art. 14(3)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14)
 [^3]: [Art. 14(8)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14)
 
-First, Stewards are expected to report actively exploited vulnerabilities, only if they are involved in the development of the product.
+First, Stewards are only expected to report actively exploited vulnerabilities if they are involved in the development of the product.
 This means that if the Steward handles elements other than development (for example, finances only) and the Project
 is taking development decisions independently, the Steward is not required to report.
 
@@ -283,11 +283,11 @@ Stewards that do not manage the IT infrastructure are not required to report suc
 
 When reporting exploited vulnerabilities or serious incidents, Stewards are required to inform affected users (see below).
 
-The Steward must report, without delay and via the single reporting platform for any actively
-exploited vulnerabilities or severe incidents.
+The Steward must report any severe incident or any vulnerability actively being
+exploited, without delay and via the single reporting platform.
 
 Stewards may also receive information about exploited vulnerabilities or incidents from a CSIRT, where the CSIRT has obtained such information 
-through voluntary reporting. In that case, the Steward must inform the affected Project.
+through voluntary reporting. In that case, the Steward must inform the Project affected.
 
 References: 16, 14(1), 14(3), 14(8), 24(3), 15
 
@@ -315,7 +315,7 @@ References: 16, 14(1), 14(3), 14(8), 24(3), 15
         
 What Stewards and Projects will need:
 
-- Define a process specifying who, within the Steward and/or Project, is responsible for submitting notifications via the single reporting platform, and how to credentials (if needed) are handled.
+- Define a process specifying who, within the Steward and/or Project, is responsible for submitting notifications via the single reporting platform, and how to handle credentials (if needed).
 This may be documented in the Steward's Security Policy or in a separate document describing implementation details, as agreed between the Steward and the Project.
 
 What resources could be created to help fulfill this requirement:
