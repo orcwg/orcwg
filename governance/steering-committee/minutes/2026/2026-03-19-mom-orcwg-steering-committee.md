@@ -105,7 +105,7 @@ The meeting was closed at 17:03
 
 ## Supporting materials
 
-[2026-03-19-orcwg-sc-presentation.pdf](../supporting-materials/2026-03-19-orcwg-sc-presentation.pdf)
+[2026-03-19-orcwg-sc-presentation.pdf](./supporting-materials/2026-03-19-orcwg-sc-presentation.pdf)
 
 ## Next Meeting
 
