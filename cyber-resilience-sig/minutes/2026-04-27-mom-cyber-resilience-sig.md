@@ -37,6 +37,7 @@ Date: 2026-04-27
 - Salve J. Nilsen (CPANSec)  
 - Marta Garcia (Eclipse Foundation)  
 - Ciaran O’Riordan (Eclipse Foundation)
+- Tobie Langel (UnlockOpen)
 
 ## Notes
 
