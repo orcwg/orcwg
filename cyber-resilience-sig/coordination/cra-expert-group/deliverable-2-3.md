@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Deliverable
 Number: 2.3
-Status: 🚀 Submitted
+Status: 🚀 Shipped!
 Group: CRA Expert Group
 Subgroup: Open Source Workstrand
 Date: 2025-06-14

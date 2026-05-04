@@ -2,11 +2,20 @@
 SIG: Cyber Resilience SIG
 Document type: Deliverable
 Number: 2.8
-Status: 🚀 Submitted
+Status: 🚀 Shipped!
 Group: European Commission
 Date: 2025-07-21
+Shipped: 2025-07-21
 ---
+
 # Enhancing open source participation in EU Standardisation
+
+## Context
+
+Provide feedback to the European Commission's [open call for evidence](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14511-Standardisation-Regulation-revision_en) on the revision of the Standardisation Regulation, which aims to address shortcomings identified in the regulation's evaluation and to speed up the development of systemic standards for the EU's resilience and twin transition.
+
+[Feedback (PDF)](./open-regulatory-compliance-wg-response-to-call-for-evidence-1025.pdf) provided on July 21, 2025.
+
 ## Introduction
 In light of the language in the Cyber Resilience Act (CRA) standardisation request, which states: *"Where relevant, particular account should be given to the needs of the free and open source software community,"* we believe it is essential to highlight the structural and practical barriers that currently limit meaningful open source participation in the European standardisation process. This document outlines key challenges faced by open source stakeholders and proposes actionable recommendations to ensure the European Standardisation remains inclusive, effective, and aligned with the collaborative nature of modern software development.
 

@@ -1,11 +1,12 @@
 ---
 SIG: Cyber Resilience SIG
 Task force:
-Document type: Comments
+Document type: Deliverable
 Number: 2.7
 Status: 🚀 Shipped!
-Input to: EU Guidance
-Relevant liaisons: CRA Expert Group, EU Commission
+Group: CRA Expert Group
+Subgroup: Open Source Workstrand
+Date: 2025-06-20
 ---
 
 # Comments to EU Guidance on open source

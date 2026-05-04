@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Deliverable
 Number: 2.2
-Status: 🚀 Contributed
+Status: 🚀 Shipped!
 Group: CEN/CENELEC WG 9
 Subgroup: PT 3
 Date: 2025-05-20

@@ -2,10 +2,10 @@
 SIG: Cyber Resilience SIG
 Document type: Deliverable
 Number: 2.6
-Status: 🚀 Submitted
+Status: 🚀 Shipped!
 Group: ENISA
 Date: 2025-06-14
-Submitted: 2025-06-20
+Shipped: 2025-06-20
 ---
 
 # Feedback to call for evidence on Cybersecurity Act Revision
