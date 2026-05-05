@@ -8,6 +8,7 @@ This document defines the frontmatter schemas used across this repository for me
 - All dates use ISO 8601 format: `YYYY-MM-DD`.
 - Field names are **case-sensitive** and use the exact capitalization shown
   (e.g. `Document type`, not `Document Type`).
+- A `*` after a field name marks it as required. All other fields are optional or conditional (see the field's description).
 - Optional fields may be omitted or left empty when they don't apply.
 - Status values include their leading emoji as shown.
 
@@ -29,15 +30,15 @@ Every content document declares a `Document type`. The valid values are:
 
 For meetings of the SIG, a task force, or a governance committee. Notes from meetings with external bodies use a different schema (see [Liaison meeting notes](#liaison-meeting-notes)).
 
-| Field           | Required?   | Value                                                |
-| --------------- | ----------- | ---------------------------------------------------- |
-| `Document type` | Required    | `Minutes`                                            |
-| `SIG`           | Conditional | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` required for SIG meetings or for meetings of their task forces |
-| `Task force`    | Optional    | Name of the task force |
-| `Committee`     | Conditional | `Steering Committee` \| `Specification Committee` — required for governance meetings |
-| `Status`        | Required    | `🗓️ Proposed agenda` \| `📝 Draft` \| `✅ Approved` |
-| `Date`          | Required    | Date of the meeting                                  |
-| `Approved`      | Optional    | Date the minutes were approved (set when `Status` becomes `✅ Approved`) |
+| Field            | Value                                                | Notes                                                          |
+| ---------------- | ---------------------------------------------------- | -------------------------------------------------------------- |
+| `Document type*` | `Minutes`                                            |                                                                |
+| `SIG`            | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` | Required for SIG meetings or for meetings of their task forces |
+| `Task force`     | Name of the task force                               |                                                                |
+| `Committee`      | `Steering Committee` \| `Specification Committee`    | Required for governance meetings                               |
+| `Status*`        | `🗓️ Proposed agenda` \| `📝 Draft` \| `✅ Approved` |                                                                |
+| `Date*`          | Date of the meeting                                  |                                                                |
+| `Approved`       | Date the minutes were approved                       | Set when `Status` becomes `✅ Approved`                        |
 
 Exactly one of `SIG` or `Committee` must be set.
 
@@ -89,13 +90,13 @@ File naming: `YYYY-MM-DD-mom-[group-name].md`. Located in:
 
 For notes from meetings held with external liaison groups (e.g. CEN/CENELEC PT 3 sessions). These are **not** SIG/task force meetings and have a distinct `Document type`.
 
-| Field           | Required? | Value                                                |
-| --------------- | --------- | ---------------------------------------------------- |
-| `SIG`           | Required  | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |
-| `Document type` | Required  | `Liaison meeting notes`                              |
-| `Group`         | Required  | One of the SIG's [current liaisons](cyber-resilience-sig/README.md#current-liaisons) |
-| `Subgroup`      | Optional  | E.g. `PT 3`                                          |
-| `Date`          | Required  | Date of the meeting                                  |
+| Field            | Value                                                | Notes                          |
+| ---------------- | ---------------------------------------------------- | ------------------------------ |
+| `SIG*`           | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |                                |
+| `Document type*` | `Liaison meeting notes`                              |                                |
+| `Group*`         | One of the SIG's [current liaisons](cyber-resilience-sig/README.md#current-liaisons) |                                |
+| `Subgroup`       | E.g. `PT 3`                                          |                                |
+| `Date*`          | Date of the meeting                                  |                                |
 
 ```yaml
 ---
@@ -121,16 +122,16 @@ and are tracked in [`deliverables.md`](cyber-resilience-sig/deliverables.md).
 
 Every deliverable carries these fields:
 
-| Field           | Required? | Value                                                |
-| --------------- | --------- | ---------------------------------------------------- |
-| `Document type` | Required  | `Deliverable` \| `White paper` \| `Specification`    |
-| `SIG`           | Required  | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |
-| `Task force`    | Optional  | Name of the task force, if produced by a TF          |
-| `Number`        | Required  | Matches the deliverables plan, e.g. `2.5`            |
-| `Status`        | Required  | `🗺️ Planned` \| `✍️ Work in Progress` \| `🚀 Shipped!` \| `❌ Cancelled` |
-| `Date`          | Optional  | Date work on the document started                    |
-| `Shipped`       | Optional  | Date shipped (set when `Status` becomes `🚀 Shipped!`) |
-| `Cancelled`     | Optional  | Date cancelled (set when `Status` becomes `❌ Cancelled`) |
+| Field            | Value                                                | Notes                                              |
+| ---------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| `Document type*` | `Deliverable` \| `White paper` \| `Specification`    |                                                    |
+| `SIG*`           | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |                                                    |
+| `Task force`     | Name of the task force                               | If produced by a TF                                |
+| `Number*`        | E.g. `2.5`                                           | Matches the deliverables plan                      |
+| `Status*`        | `🗺️ Planned` \| `✍️ Work in Progress` \| `🚀 Shipped!` \| `❌ Cancelled` |                                                    |
+| `Date`           | Date work on the document started                    |                                                    |
+| `Shipped`        | Date the document was shipped                        | Set when `Status` becomes `🚀 Shipped!`            |
+| `Cancelled`      | Date the document was cancelled                      | Set when `Status` becomes `❌ Cancelled`           |
 
 Each `Document type` adds its own fields below.
 
@@ -140,10 +141,10 @@ A unit of output contributed to an external stakeholder.
 
 Adds these fields to the [common set](#common-fields):
 
-| Field       | Required? | Value                                                |
-| ----------- | --------- | ---------------------------------------------------- |
-| `Group`     | Required  | Target stakeholder; one of the SIG's [current liaisons](cyber-resilience-sig/README.md#current-liaisons) |
-| `Subgroup`  | Optional  | E.g. `PT 3`, `Open Source Workstrand`                |
+| Field      | Value                                                | Notes              |
+| ---------- | ---------------------------------------------------- | ------------------ |
+| `Group*`   | One of the SIG's [current liaisons](cyber-resilience-sig/README.md#current-liaisons) | Target stakeholder |
+| `Subgroup` | E.g. `PT 3`, `Open Source Workstrand`                |                    |
 
 ```yaml
 ---
@@ -168,11 +169,11 @@ A standalone analytical document intended as input to external bodies.
 
 Adds these fields to the [common set](#common-fields):
 
-| Field               | Required? | Value                                            |
-| ------------------- | --------- | ------------------------------------------------ |
-| `Input to`          | Required  | Free-text list of intended consumers             |
-| `Relevant liaisons` | Required  | Free-text list of liaison groups                 |
-| `License`           | Required  | E.g. `CC-BY 4.0`                                 |
+| Field                | Value                          | Notes                |
+| -------------------- | ------------------------------ | -------------------- |
+| `Input to*`          | Free-text list                 | Intended consumers   |
+| `Relevant liaisons*` | Free-text list                 | Liaison groups       |
+| `License*`           | [SPDX identifier](https://spdx.org/licenses/), e.g. `CC-BY-4.0` |                      |
 
 ```yaml
 ---
@@ -182,7 +183,7 @@ Number: 3.5
 Status: 🚀 Shipped!
 Input to: EU Guidance, Implementing Act, Harmonised standards
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
-License: CC-BY 4.0
+License: CC-BY-4.0
 ---
 ```
 
@@ -193,9 +194,9 @@ Located in `[sig]/whitepapers/`.
 A normative technical specification. Same fields as a [White paper](#white-paper),
 plus one:
 
-| Field           | Required? | Value                                            |
-| --------------- | --------- | ------------------------------------------------ |
-| `Final license` | Required  | License the spec will carry once finalized, e.g. `EFSL` |
+| Field            | Value         | Notes                                            |
+| ---------------- | ------------- | ------------------------------------------------ |
+| `Final license*` | [SPDX identifier](https://spdx.org/licenses/), e.g. `EFSL` | License the spec will carry once finalized |
 
 ```yaml
 ---
@@ -205,10 +206,13 @@ Number: 4.2
 Status: 🗺️ Planned
 Input to: ISO
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
-License: CC-BY 4.0 or Apache 2.0
+License: CC-BY-4.0 OR Apache-2.0
 Final license: EFSL
 ---
 ```
 
 Located in `[sig]/proposed-specs/`.
 
+---
+
+\* Field names with a trailing asterisk are required. All other fields are optional or conditional (see the field's description).

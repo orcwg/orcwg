@@ -6,6 +6,20 @@ This document captures how the ORC WG operates. It can be amended or broken down
 
 The ORC WG is subject to its [charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php) and the various documents it references, in particular: the Eclipse Foundation Working Group [Process](https://www.eclipse.org/org/workinggroups/process.php) and [Operations Guide](https://www.eclipse.org/org/workinggroups/operations.php).
 
+## SIG repository structure
+
+Each SIG has its own root folder at the repository top level (e.g. `cyber-resilience-sig/`). Inside, a SIG is typically organized as follows:
+
+- `README.md` — SIG overview: leads, task forces, liaisons.
+- `deliverables.md` — the SIG's deliverables plan.
+- `minutes/` — SIG plenary meeting minutes.
+- `task-forces/[task-force]/` — one folder per task force, each with its own `minutes/`.
+- `coordination/[liaison-group]/` — coordination notes and deliverables for each external liaison group; may contain dated subfolders to bundle a deliverable with its supporting artifacts (e.g. PDFs).
+- `whitepapers/` — analytical white papers.
+- `proposed-specs/` — proposed technical specifications.
+
+Frontmatter and file name conventions for the files in these folders are defined in [`document-metadata.md`](document-metadata.md). Consistent metadata allows these documents to be ingested elsewhere, for example on the website.
+
 ## Task Forces
 
 Special Interest Groups of the ORC WG can form task forces that focus on a particular topic for a fixed period of time.
