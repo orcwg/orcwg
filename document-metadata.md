@@ -130,6 +130,7 @@ Every deliverable carries these fields:
 | Number*        | E.g. `2.5`                                           | Matches the deliverables plan                      |
 | Status*        | `📣 Open consultation` \| `🗺️ Planned` \| `✍️ Work in Progress` \| `🚀 Shipped!` \| `❌ Cancelled` |                                                    |
 | Date           | `YYYY-MM-DD`                                         | Date work on the document started                  |
+| Deadline       | `YYYY-MM-DD`                                         | Deadline by which the document must be completed (e.g. consultation closing date) |
 | Shipped        | `YYYY-MM-DD`                                         | Date the document was shipped. Set when `Status` becomes `🚀 Shipped!` |
 | Cancelled      | `YYYY-MM-DD`                                         | Date the document was cancelled. Set when `Status` becomes `❌ Cancelled` |
 
