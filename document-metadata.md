@@ -128,7 +128,7 @@ Every deliverable carries these fields:
 | SIG*           | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |                                                    |
 | Task force     | Name of the task force                               | If produced by a TF                                |
 | Number*        | E.g. `2.5`                                           | Matches the deliverables plan                      |
-| Status*        | `🗺️ Planned` \| `✍️ Work in Progress` \| `🚀 Shipped!` \| `❌ Cancelled` |                                                    |
+| Status*        | `📣 Open consultation` \| `🗺️ Planned` \| `✍️ Work in Progress` \| `🚀 Shipped!` \| `❌ Cancelled` |                                                    |
 | Date           | `YYYY-MM-DD`                                         | Date work on the document started                  |
 | Shipped        | `YYYY-MM-DD`                                         | Date the document was shipped. Set when `Status` becomes `🚀 Shipped!` |
 | Cancelled      | `YYYY-MM-DD`                                         | Date the document was cancelled. Set when `Status` becomes `❌ Cancelled` |
