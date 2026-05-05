@@ -16,7 +16,7 @@ This document defines the frontmatter schemas used across this repository for me
 
 Every content document declares a `Document type`. The valid values are:
 
-| `Document type`        | Schema                                                           |
+| Document type        | Schema                                                           |
 | ---------------------- | ---------------------------------------------------------------- |
 | `Minutes`              | [Minutes](#minutes)                                              |
 | `Liaison meeting notes`| [Liaison meeting notes](#liaison-meeting-notes)                  |
@@ -30,15 +30,15 @@ Every content document declares a `Document type`. The valid values are:
 
 For meetings of the SIG, a task force, or a governance committee. Notes from meetings with external bodies use a different schema (see [Liaison meeting notes](#liaison-meeting-notes)).
 
-| Field            | Value                                                | Notes                                                          |
-| ---------------- | ---------------------------------------------------- | -------------------------------------------------------------- |
-| `Document type*` | `Minutes`                                            |                                                                |
-| `SIG`            | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` | Required for SIG meetings or for meetings of their task forces |
-| `Task force`     | Name of the task force                               |                                                                |
-| `Committee`      | `Steering Committee` \| `Specification Committee`    | Required for governance meetings                               |
-| `Status*`        | `🗓️ Proposed agenda` \| `📝 Draft` \| `✅ Approved` |                                                                |
-| `Date*`          | Date of the meeting                                  |                                                                |
-| `Approved`       | Date the minutes were approved                       | Set when `Status` becomes `✅ Approved`                        |
+| Field          | Value                                                | Notes                                                          |
+| -------------- | ---------------------------------------------------- | -------------------------------------------------------------- |
+| Document type* | `Minutes`                                            |                                                                |
+| SIG            | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` | Required for SIG meetings or for meetings of their task forces |
+| Task force     | Name of the task force                               |                                                                |
+| Committee      | `Steering Committee` \| `Specification Committee`    | Required for governance meetings                               |
+| Status*        | `🗓️ Proposed agenda` \| `📝 Draft` \| `✅ Approved` |                                                                |
+| Date*          | `YYYY-MM-DD`                                         | Date of the meeting                                            |
+| Approved       | `YYYY-MM-DD`                                         | Date the minutes were approved. Set when `Status` becomes `✅ Approved` |
 
 Exactly one of `SIG` or `Committee` must be set.
 
@@ -90,13 +90,13 @@ File naming: `YYYY-MM-DD-mom-[group-name].md`. Located in:
 
 For notes from meetings held with external liaison groups (e.g. CEN/CENELEC PT 3 sessions). These are **not** SIG/task force meetings and have a distinct `Document type`.
 
-| Field            | Value                                                | Notes                          |
-| ---------------- | ---------------------------------------------------- | ------------------------------ |
-| `SIG*`           | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |                                |
-| `Document type*` | `Liaison meeting notes`                              |                                |
-| `Group*`         | One of the SIG's [current liaisons](cyber-resilience-sig/README.md#current-liaisons) |                                |
-| `Subgroup`       | E.g. `PT 3`                                          |                                |
-| `Date*`          | Date of the meeting                                  |                                |
+| Field          | Value                                                | Notes                          |
+| -------------- | ---------------------------------------------------- | ------------------------------ |
+| Document type* | `Liaison meeting notes`                              |                                |
+| SIG*           | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |                            |
+| Group*         | One of the SIG's [current liaisons](cyber-resilience-sig/README.md#current-liaisons)  |                                |
+| Subgroup       | E.g. `PT 3`                                          |                                |
+| Date*          | `YYYY-MM-DD`                                         | Date of the meeting            |
 
 ```yaml
 ---
@@ -116,22 +116,22 @@ File naming: `YYYY-MM-DD-[descriptor]-meeting-notes.md` in `[sig]/coordination/[
 
 Documents the working group produces as output: contributions to external stakeholders ([Deliverable](#deliverable)), analytical white papers
 ([White paper](#white-paper)), and normative technical specifications ([Specification](#specification)). All three share a common set of fields
-and are tracked in [`deliverables.md`](cyber-resilience-sig/deliverables.md).
+and are tracked in `[sig]/deliverables.md`.
 
 ### Common fields
 
 Every deliverable carries these fields:
 
-| Field            | Value                                                | Notes                                              |
-| ---------------- | ---------------------------------------------------- | -------------------------------------------------- |
-| `Document type*` | `Deliverable` \| `White paper` \| `Specification`    |                                                    |
-| `SIG*`           | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |                                                    |
-| `Task force`     | Name of the task force                               | If produced by a TF                                |
-| `Number*`        | E.g. `2.5`                                           | Matches the deliverables plan                      |
-| `Status*`        | `🗺️ Planned` \| `✍️ Work in Progress` \| `🚀 Shipped!` \| `❌ Cancelled` |                                                    |
-| `Date`           | Date work on the document started                    |                                                    |
-| `Shipped`        | Date the document was shipped                        | Set when `Status` becomes `🚀 Shipped!`            |
-| `Cancelled`      | Date the document was cancelled                      | Set when `Status` becomes `❌ Cancelled`           |
+| Field          | Value                                                | Notes                                              |
+| -------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| Document type* | `Deliverable` \| `White paper` \| `Specification`    |                                                    |
+| SIG*           | `Cyber Resilience SIG` \| `AI Policy and Compliance SIG` |                                                    |
+| Task force     | Name of the task force                               | If produced by a TF                                |
+| Number*        | E.g. `2.5`                                           | Matches the deliverables plan                      |
+| Status*        | `🗺️ Planned` \| `✍️ Work in Progress` \| `🚀 Shipped!` \| `❌ Cancelled` |                                                    |
+| Date           | `YYYY-MM-DD`                                         | Date work on the document started                  |
+| Shipped        | `YYYY-MM-DD`                                         | Date the document was shipped. Set when `Status` becomes `🚀 Shipped!` |
+| Cancelled      | `YYYY-MM-DD`                                         | Date the document was cancelled. Set when `Status` becomes `❌ Cancelled` |
 
 Each `Document type` adds its own fields below.
 
@@ -141,10 +141,10 @@ A unit of output contributed to an external stakeholder.
 
 Adds these fields to the [common set](#common-fields):
 
-| Field      | Value                                                | Notes              |
-| ---------- | ---------------------------------------------------- | ------------------ |
-| `Group*`   | One of the SIG's [current liaisons](cyber-resilience-sig/README.md#current-liaisons) | Target stakeholder |
-| `Subgroup` | E.g. `PT 3`, `Open Source Workstrand`                |                    |
+| Field    | Value                                                | Notes              |
+| -------- | ---------------------------------------------------- | ------------------ |
+| Group*   | One of the SIG's or WG's current liaisons.           | Target stakeholder |
+| Subgroup | E.g. `PT 3`, `Open Source Workstrand`                |                    |
 
 ```yaml
 ---
@@ -159,9 +159,7 @@ Shipped: 2025-06-12
 ---
 ```
 
-File naming: `deliverable-X-Y.md`, in `[sig]/coordination/[stakeholder]/`,
-or inside a dated subfolder (`YYYY-MM-[descriptor]/`) when the deliverable bundles
-supporting artifacts such as a PDF.
+File naming: `deliverable-X-Y.md`, in `[sig]/coordination/[stakeholder]/`, or inside a dated subfolder (`YYYY-MM-[descriptor]/`) when the deliverable bundles supporting artifacts such as a PDF.
 
 ### White paper
 
@@ -169,11 +167,11 @@ A standalone analytical document intended as input to external bodies.
 
 Adds these fields to the [common set](#common-fields):
 
-| Field                | Value                          | Notes                |
-| -------------------- | ------------------------------ | -------------------- |
-| `Input to*`          | Free-text list                 | Intended consumers   |
-| `Relevant liaisons*` | Free-text list                 | Liaison groups       |
-| `License*`           | [SPDX identifier](https://spdx.org/licenses/), e.g. `CC-BY-4.0` |                      |
+| Field              | Value                          | Notes                |
+| ------------------ | ------------------------------ | -------------------- |
+| Input to*          | Free-text list                 | Intended consumers   |
+| Relevant liaisons* | Free-text list                 | Liaison groups       |
+| License*           | [SPDX identifier](https://spdx.org/licenses/), e.g. `CC-BY-4.0` |                      |
 
 ```yaml
 ---
@@ -194,9 +192,9 @@ Located in `[sig]/whitepapers/`.
 A normative technical specification. Same fields as a [White paper](#white-paper),
 plus one:
 
-| Field            | Value         | Notes                                            |
-| ---------------- | ------------- | ------------------------------------------------ |
-| `Final license*` | [SPDX identifier](https://spdx.org/licenses/), e.g. `EFSL` | License the spec will carry once finalized |
+| Field          | Value         | Notes                                            |
+| -------------- | ------------- | ------------------------------------------------ |
+| Final license* | [SPDX identifier](https://spdx.org/licenses/), e.g. `EFSL` | License the spec will carry once finalized |
 
 ```yaml
 ---
