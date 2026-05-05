@@ -6,7 +6,7 @@ Number: 3.3
 Status: 🗺️ Planned
 Input to: EU Guidance, Implementing Act, Harmonised standards
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
-License: CC-BY 4.0
+License: CC-BY-4.0
 ---
 
 # White paper on security attestations
