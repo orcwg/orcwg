@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Deliverable
 Number: "2.11"
-Status: ⚠️ Draft
+Status: ✍️ Work in Progress
 Group: European Commission
 Date: 2026-02-03
 ---

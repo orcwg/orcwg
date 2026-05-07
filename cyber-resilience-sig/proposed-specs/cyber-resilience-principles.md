@@ -6,7 +6,7 @@ Number: 4.2
 Status: 🗺️ Planned
 Input to: ISO
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
-License: CC-BY 4.0 or Apache 2.0
+License: CC-BY-4.0 OR Apache-2.0
 Final license: EFSL
 ---
 
