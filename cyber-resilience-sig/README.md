@@ -56,36 +56,15 @@ The Cyber Resilience SIG has formed the following [task forces][]:
 
 ## Key stakeholder coordination
 
-In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on a [shared calendar][coord calendar] ([iCal format][coord ical]) and representatives from within its members. For their group or subgroups, liaisons leads (identified in the table below) are responsible for:
-
-1. Keeping the [shared calendar][coord calendar] up to date.
-2. Making sure important meetings are attended.
-3. Collecting publicly shareable meeting notes.
-4. Providing updates during SIG calls.
-5. Sharing the consensus of the SIG.
-
-Liaisons leads may delegate their responsibilities to other SIG members within their group or subgroup.
+In its [Deliverables Plan](./deliverables.md), the SIG has identified [key stakeholders](./deliverables.md#key-stakeholders) that it intends to collaborate closely with and provide input to. In order to coordinate this effort, the SIG relies on representatives from within its members to help with coordination.
 
 ### Current liaisons
 
-| Group | Subgroup | GitHub Team | Lead | Meeting notes |
-|---|---|---|---|---|
-| <a href="#cra-expert-group" name="cra-expert-group">CRA Expert Group</a> | _(work strands)_ | [@orcwg/cra-expert-group](https://github.com/orgs/orcwg/teams/cra-expert-group) |  | [Notes](./coordination/cra-expert-group/) |
-|  | Product categories     |  |  |  |
-|  | Open source            |  |  |  |
-|  | Risk assessment        |  |              |  |
-|  | Remote data processing |  |              |  |
-|  | Market surveillance    |  |              |  |
-||
-| <a href="#cen-cenelec-wg-9" name="cen-cenelec-wg-9">CEN/CENELEC WG 9</a> | _(project teams)_  | [@orcwg/cen-cenelec-wg-9](https://github.com/orgs/orcwg/teams/cen-cenelec-wg-9) | Juan Rico | [Notes](./coordination/cen-cenelec-wg-9/) |
-|  | PT 1 |  |  |  |
-|  | PT 2 |  |  |  |
-|  | PT 3 |  | Marta Rybczynska |  |
-||
-| <a href="#etsi-cyber-eusr" name="etsi-cyber-eusr">ETSI CYBER-EUSR</a> | _(work items)_ | [@orcwg/etsi-cyber-eusr](https://github.com/orgs/orcwg/teams/etsi-cyber-eusr) | Simon Phipps | [Notes](./coordination/etsi-cyber-eusr/) |
-|  | Browsers          |  | Daniel Thompson-Yvetot |  |
-|  | Hypervisors       |  | Roman Zhukov |  |
-|  | Operating Systems |  | Roman Zhukov |  |
+| Group | GitHub Team | Lead |
+|---|---|---|
+| <a href="#cra-expert-group" name="cra-expert-group">CRA Expert Group</a> | [@orcwg/cra-expert-group](https://github.com/orgs/orcwg/teams/cra-expert-group) | Juan Rico |
+| <a href="#cen-cenelec-wg-9" name="cen-cenelec-wg-9">CEN/CENELEC WG 9</a> | [@orcwg/cen-cenelec-wg-9](https://github.com/orgs/orcwg/teams/cen-cenelec-wg-9) | Juan Rico |
+| <a href="#etsi-cyber-eusr" name="etsi-cyber-eusr">ETSI CYBER-EUSR</a> | [@orcwg/etsi-cyber-eusr](https://github.com/orgs/orcwg/teams/etsi-cyber-eusr) | Simon Phipps |
 
 ## Why a Cyber Resilience SIG?
 
