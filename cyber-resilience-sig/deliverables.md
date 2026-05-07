@@ -41,7 +41,7 @@ flowchart LR
 
 ## Deliverables
 
- 🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled
+ 📣 Open consultation | 🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled
 
 | | Deliverable name | Owner | First draft due | Final draft due |
 |---:|---|---|---|---|
@@ -61,6 +61,7 @@ flowchart LR
 | 🚀 | 2.9 [Comments on CEN/CENELEC PT3 Vulnerability Handling Standard][deliverable-2-9] | [Cyber Resilience SIG][SIG] | July 20, 2025 | August 4, 2025 |
 | 🚀 | 2.10 [Contribution to the call for evidence of the Open Digital Ecosystems][deliverable-2-10] | [Cyber Resilience SIG][SIG] | January 15, 2026 | February 3, 2026 |
 | ✍️ | 2.11 [Contribution to the call for feedback of the CRA Guidance Package][deliverable-2-11] | [Cyber Resilience SIG][SIG] | March 2, 2026 | April 12, 2026 |
+| 📣 | 2.12 [Contribution to ENISA Secure by Design and Default Playbook consultation][deliverable-2-12] | [Cyber Resilience SIG][SIG] | | May 14, 2026 |
 | | | | | |
 | **3.** | **White papers** | | | |
 | 🗺️ | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force |  |  |
@@ -132,6 +133,7 @@ The CRA focuses mainly on the compliance of products, but that doesn't mean that
 [deliverable-2-9]: coordination/cen-cenelec-wg-9/deliverable-2-9.md
 [deliverable-2-10]: coordination/european-commission/2026-02-open-digital-ecosystems-call-for-evidence/deliverable-2-10.md
 [deliverable-2-11]: coordination/european-commission/2026-04-call-for-feedback-cra-guidance-package/deliverable-2-11.md
+[deliverable-2-12]: coordination/enisa/2026-05-secure-by-design-playbook/deliverable-2-12.md
 
 [SBOMs]: whitepapers/sboms.md
 [due diligence]: whitepapers/due-diligence.md
