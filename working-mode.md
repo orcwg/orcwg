@@ -10,7 +10,7 @@ The ORC WG is subject to its [charter](https://www.eclipse.org/org/workinggroups
 
 The ORC WG organizes its domain-specific work into thematic Special Interest Groups (SIGs), each focused on a specific area of regulation impacting open source. The current SIGs are listed in the [main README](README.md#special-interest-groups-sigs).
 
-## Repository structure
+### Repository structure
 
 Each SIG has its own root folder at the repository top level (e.g. `cyber-resilience-sig/`). Inside, a SIG is typically organized as follows:
 
@@ -24,13 +24,13 @@ Each SIG has its own root folder at the repository top level (e.g. `cyber-resili
 
 Frontmatter and file name conventions for the files in these folders are defined in [`document-metadata.md`](document-metadata.md). Consistent metadata allows these documents to be ingested elsewhere, for example on the website.
 
-## Deliverables
+### Deliverables
 
 A substantial part of a SIG's work is responding to external input requests (calls for evidence, consultations, requests for feedback, etc.) through submissions and producing documentation, position papers, and white papers on topics within its scope. These deliverables follow the process and structure defined below. Their metadata schemas are defined in [`document-metadata.md`](document-metadata.md#deliverables).
 
 Normative technical specifications, on the other hand, follow a dedicated process and require an [Eclipse open source project](https://www.eclipse.org/projects/dev_process/) to host these specifications and develop them with guidance from the SIG; see for example the [Cyber Resilience Practices Project](cyber-resilience-sig/README.md#cyber-resilience-practices-project).
 
-### Deliverables lifecycle
+#### Deliverables lifecycle
 
 Deliverables are added to a SIG's deliverables plan by the SIG itself.
 
@@ -46,7 +46,7 @@ A deliverable moves through the following statuses, recorded in its `Status` fie
 - `🚀 Shipped!` — the deliverable has been completed, approved by the Steering Committee, and submitted (or published).
 - `❌ Cancelled` — the deliverable has been abandoned.
 
-### Deliverables structure
+#### Deliverables structure
 
 Each deliverable type has a canonical structure provided as a template in [`templates/`](templates/):
 
@@ -54,13 +54,13 @@ Each deliverable type has a canonical structure provided as a template in [`temp
 - **White papers** (and position papers): [`templates/white-paper.md`](templates/white-paper.md)
 - **Specifications**: structure is defined by the [Eclipse open source project](#deliverables) hosting them.
 
-## Editors
+### Editors
 
 Each deliverable, other than specifications, must have at least one editor. Editors are appointed by the SIG. They are responsible for advancing their deliverable and for gathering group consensus around it.
 
 Editing requires balancing progress with fidelity to consensus: editors must keep the deliverable moving forward while respecting what they take to be the group's view at any given point. Regardless of the editor's judgment, the deliverable does not formally represent the SIG's or WG's consensus until it is formally approved by the group.
 
-## Task forces
+### Task forces
 
 SIGs can form task forces that focus on a particular topic for a fixed period of time.
 
