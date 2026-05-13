@@ -4,6 +4,7 @@ Task force:
 Document type: White paper
 Number: 3.5
 Status: 🚀 Shipped!
+Editors: Mikaël Barbero
 Input to: EU Guidance, Implementing Act, Harmonised standards
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
 License: CC-BY-4.0

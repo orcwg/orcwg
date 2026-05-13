@@ -4,6 +4,7 @@ Task force:
 Document type: White paper
 Number: 3.2
 Status: 🗺️ Planned
+Editors: Timo Perälä
 Input to: EU Guidance, Implementing Act, Harmonised standards
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
 License: CC-BY-4.0

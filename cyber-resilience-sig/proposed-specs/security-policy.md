@@ -3,7 +3,7 @@ SIG: Cyber Resilience SIG
 Task force:
 Document type: Specification
 Number: 4.4
-Status: 🗺️ Planned
+Status: 🤔 Under consideration
 Input to: ISO
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
 License: CC-BY-4.0 OR Apache-2.0
@@ -12,7 +12,7 @@ Final license: EFSL
 
 # Security policy for open source software stewards
 
-## Description
+## Abstract
 
 [Article 24(1)][] of the CRA states that _"open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product."_ This specification will help open source software stewards meet their obligations by specifying minimum requirements that stewards must implement to meet them and provide a structure or format to document their cybersecurity  policy, possibly in a machine-readable way.
 
