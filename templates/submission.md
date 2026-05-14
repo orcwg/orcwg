@@ -3,7 +3,7 @@ SIG: <Cyber Resilience SIG | AI Policy and Compliance SIG>
 Task force: <Task force name, if produced by a TF; otherwise leave empty>
 Document type: Submission
 Number: "<X.Y from the SIG's deliverables plan, e.g. 2.12>"
-Status: <🤔 Under consideration | 🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled>
+Status: <💡 Proposed | 🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled>
 Editors: <Comma-separated names; required once Status is ✍️ Work in Progress or beyond. Leave empty if not yet appointed.>
 Group: <Target stakeholder, e.g. European Commission, CEN/CENELEC WG 9, ENISA>
 Subgroup: <e.g. PT 3, Open Source Workstrand — leave empty or remove if not relevant>

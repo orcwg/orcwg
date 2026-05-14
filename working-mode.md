@@ -40,11 +40,28 @@ SIGs are empowered to create additional submissions, position papers, or white p
 
 A deliverable moves through the following statuses, recorded in its `Status` field:
 
-- `🤔 Under consideration` — the SIG is considering producing this deliverable but has not yet committed to it (e.g. evaluating whether to respond to an open external consultation).
+- `💡 Proposed` — the deliverable has been proposed but the SIG has not yet committed to producing it (e.g. evaluating whether to respond to an open external consultation).
 - `🗺️ Planned` — the SIG has committed to producing this deliverable but has not yet appointed an editor for it.
 - `✍️ Work in Progress` — an editor has been appointed and work on the deliverable is actively underway.
 - `🚀 Shipped!` — the deliverable has been completed, approved by the Steering Committee, and submitted (or published).
 - `❌ Cancelled` — the deliverable has been abandoned.
+
+```mermaid
+stateDiagram-v2
+    [*] --> proposed
+    proposed --> planned: SIG commits
+    proposed --> cancelled: abandoned
+    planned --> work_in_progress: editor appointed
+    planned --> cancelled: abandoned
+    work_in_progress --> shipped: approved by the Steering Committee
+    work_in_progress --> cancelled: abandoned
+
+    proposed: 💡 Proposed
+    planned: 🗺️ Planned
+    work_in_progress: ✍️ Work in Progress
+    shipped: 🚀 Shipped!
+    cancelled: ❌ Cancelled
+```
 
 #### Deliverables structure
 

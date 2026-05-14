@@ -3,7 +3,7 @@ SIG: Cyber Resilience SIG
 Task force:
 Document type: Specification
 Number: 4.2
-Status: 🤔 Under consideration
+Status: 💡 Proposed
 Input to: ISO
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
 License: CC-BY-4.0 OR Apache-2.0

@@ -41,7 +41,7 @@ flowchart LR
 
 ## Deliverables
 
- 🤔 Under consideration | 🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled
+ 💡 Proposed | 🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled
 
 | | Deliverable name | Owner | Editor | First draft due | Final draft due |
 |---:|---|---|---|---|---|
@@ -61,7 +61,7 @@ flowchart LR
 | 🚀 | 2.9 [Comments on CEN/CENELEC PT3 Vulnerability Handling Standard][deliverable-2-9] | [Cyber Resilience SIG][SIG] | Juan Rico | July 20, 2025 | August 4, 2025 |
 | 🚀 | 2.10 [Contribution to the call for evidence of the Open Digital Ecosystems][deliverable-2-10] | [Cyber Resilience SIG][SIG] | Juan Rico | January 15, 2026 | February 3, 2026 |
 | ✍️ | 2.11 [Contribution to the call for feedback of the CRA Guidance Package][deliverable-2-11] | [Cyber Resilience SIG][SIG] | Juan Rico | March 2, 2026 | April 12, 2026 |
-| 🤔 | 2.12 [Contribution to ENISA Secure by Design and Default Playbook consultation][deliverable-2-12] | [Cyber Resilience SIG][SIG] | | | May 14, 2026 |
+| 💡 | 2.12 [Contribution to ENISA Secure by Design and Default Playbook consultation][deliverable-2-12] | [Cyber Resilience SIG][SIG] | | | May 14, 2026 |
 | | | | | | |
 | **3.** | **White papers** | | | | |
 | 🗺️ | 3.1 [White paper on SBOMs][SBOMs] | Dedicated task force | |  |  |
@@ -73,9 +73,9 @@ flowchart LR
 | **4.** | **Specifications** | Owner | Maintainers | First draft due | Final draft due |
 
 | ✍️ | 4.1 [Vulnerability management specification][vulnerability management] | [Cyber Resilience Practices Project][] | Mikael Barbero | March 2025 | |
-| 🤔 | 4.2 [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | | | |
-| 🤔 | 4.3 [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | | | |
-| 🤔 | 4.4 [Security policy for open source software stewards][security policy] | [Cyber Resilience Practices Project][] | | | |
+| 💡 | 4.2 [Specification on principles for cyber resilience for open source development][cyber resilience principles] | [Cyber Resilience Practices Project][] | | | |
+| 💡 | 4.3 [Specification on generic security requirements for open source components][generic security requirements] | [Cyber Resilience Practices Project][] | | | |
+| 💡 | 4.4 [Security policy for open source software stewards][security policy] | [Cyber Resilience Practices Project][] | | | |
 
 _Note that the [Cyber Resilience SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 

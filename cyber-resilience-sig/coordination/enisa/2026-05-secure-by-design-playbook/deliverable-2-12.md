@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Submission
 Number: "2.12"
-Status: 🤔 Under consideration
+Status: 💡 Proposed
 Group: ENISA
 Deadline: 2026-05-15
 ---
