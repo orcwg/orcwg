@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Submission
 Number: 2.6
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
 Editors: Tobie Langel
 Group: ENISA
 Date: 2025-06-14

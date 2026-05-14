@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Submission
 Number: 2.9
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
 Editors: Juan Rico
 Group: CEN/CENELEC WG 9
 Subgroup: PT 3

@@ -131,7 +131,7 @@ Every deliverable carries these fields:
 | Status*        | See [Deliverables lifecycle](working-mode.md#deliverables-lifecycle) |                                                    |
 | Date           | `YYYY-MM-DD`                                         | Date work on the document started                  |
 | Deadline       | `YYYY-MM-DD`                                         | Deadline by which the document must be completed (e.g. consultation closing date) |
-| Shipped        | `YYYY-MM-DD`                                         | Date the document was shipped. Set when `Status` becomes `🚀 Shipped!` |
+| Shipped        | `YYYY-MM-DD`                                         | Date the document was shipped. Set when `Status` becomes `🚀 Shipped` |
 | Cancelled      | `YYYY-MM-DD`                                         | Date the document was cancelled. Set when `Status` becomes `❌ Cancelled` |
 
 Each `Document type` adds its own fields below.
@@ -153,7 +153,7 @@ Adds these fields to the [common set](#common-fields):
 SIG: Cyber Resilience SIG
 Document type: Submission
 Number: 2.5
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
 Editors: Juan Rico, Tobie Langel
 Group: CEN/CENELEC WG 9
 Subgroup: PT 3
@@ -182,7 +182,7 @@ Adds these fields to the [common set](#common-fields):
 SIG: Cyber Resilience SIG
 Document type: White paper
 Number: 3.5
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
 Editors: Mikaël Barbero
 Input to: EU Guidance, Implementing Act, Harmonised standards
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance

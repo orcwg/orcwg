@@ -3,13 +3,13 @@ SIG: <Cyber Resilience SIG | AI Policy and Compliance SIG>
 Task force: <Task force name, if produced by a TF; otherwise leave empty>
 Document type: White paper
 Number: "<X.Y from the SIG's deliverables plan, e.g. 3.5>"
-Status: <🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped! | ❌ Cancelled>
+Status: <🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped | ❌ Cancelled>
 Editors: <Comma-separated names; required once Status is ✍️ Work in Progress or beyond. Leave empty if not yet appointed.>
 Input to: <Free-text list of intended consumers, e.g. EU Guidance, Implementing Act, Harmonised standards>
 Relevant liaisons: <Free-text list, e.g. EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance>
 License: <SPDX identifier, e.g. CC-BY-4.0>
 Date: <YYYY-MM-DD, date work started>
-Shipped: <YYYY-MM-DD, set when Status becomes 🚀 Shipped!; leave empty until then>
+Shipped: <YYYY-MM-DD, set when Status becomes 🚀 Shipped; leave empty until then>
 ---
 
 # [Title of the white paper]
@@ -23,7 +23,7 @@ Shipped: <YYYY-MM-DD, set when Status becomes 🚀 Shipped!; leave empty until t
 
 This document is a draft and may be updated, replaced, or obsoleted at any time. It is inappropriate to cite this document as anything other than a work in progress. Publication of this draft does not imply endorsement by the Eclipse Foundation, the Open Regulatory Compliance Working Group, or any of its members or contributors.
 
-<!-- When the deliverable reaches 🚀 Shipped!, replace the above with the following:
+<!-- When the deliverable reaches 🚀 Shipped, replace the above with the following:
 
 This document has been approved by the Steering Committee of the Open Regulatory Compliance Working Group and represents the consensus of the working group.
 

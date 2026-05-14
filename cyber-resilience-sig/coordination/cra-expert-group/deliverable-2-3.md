@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Submission
 Number: 2.3
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
 Editors: Tobie Langel
 Group: CRA Expert Group
 Subgroup: Open Source Workstrand

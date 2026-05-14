@@ -2,7 +2,7 @@
 SIG: Cyber Resilience SIG
 Document type: Submission
 Number: 2.8
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
 Editors: Juan Rico
 Group: European Commission
 Date: 2025-07-21
