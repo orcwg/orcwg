@@ -120,4 +120,15 @@ Meeting agendas and minutes move through the following statuses, recorded in the
 - `📝 Draft` — minutes for a meeting that has occurred, available for review before approval.
 - `✅ Approved` — minutes formally approved by the group, typically at the start of the following meeting.
 
+```mermaid
+stateDiagram-v2
+    [*] --> proposed_agenda
+    proposed_agenda --> draft: minutes taken during meeting
+    draft --> approved: minutes approved in follow-up meeting
+
+    proposed_agenda: 🗓️ Proposed agenda
+    draft: 📝 Draft
+    approved: ✅ Approved
+```
+
 
