@@ -50,7 +50,7 @@ A deliverable moves through the following statuses, recorded in its `Status` fie
 ```mermaid
 stateDiagram-v2
     [*] --> proposed
-    proposed --> planned: SIG commits
+    proposed --> planned: adopted by SIG
     proposed --> cancelled: abandoned
     planned --> work_in_progress: editor appointed
     planned --> cancelled: abandoned
