@@ -43,7 +43,8 @@ A deliverable moves through the following statuses, recorded in its `Status` fie
 - `💡 Proposed` — the deliverable has been proposed but the SIG has not yet committed to producing it (e.g. evaluating whether to respond to an open external consultation).
 - `🗺️ Planned` — the SIG has committed to producing this deliverable but has not yet appointed an editor for it.
 - `✍️ Work in Progress` — an editor has been appointed and work on the deliverable is actively underway.
-- `🚀 Shipped` — the deliverable has been completed, approved by the Steering Committee, and submitted (or published).
+- `🔒 Pending review` — the deliverable is complete and pending review by the Steering Committee. Substantive edits are frozen; editorial edits (typos, formatting, clarifications) remain permitted unless the Committee requires substantive changes.
+- `🚀 Shipped` — the deliverable has been approved by the Steering Committee and submitted (or published).
 - `❌ Cancelled` — the deliverable has been abandoned.
 
 ```mermaid
@@ -53,12 +54,15 @@ stateDiagram-v2
     proposed --> cancelled: abandoned
     planned --> work_in_progress: editor appointed
     planned --> cancelled: abandoned
-    work_in_progress --> shipped: approved by the Steering Committee
+    work_in_progress --> pending_review: finalized and locked
+    pending_review --> shipped: approved by the Steering Committee
+    pending_review --> work_in_progress: edits required by the Steering Committee
     work_in_progress --> cancelled: abandoned
 
     proposed: 💡 Proposed
     planned: 🗺️ Planned
     work_in_progress: ✍️ Work in Progress
+    pending_review: 🔒 Pending review
     shipped: 🚀 Shipped
     cancelled: ❌ Cancelled
 ```

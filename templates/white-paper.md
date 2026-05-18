@@ -3,7 +3,7 @@ SIG: <Cyber Resilience SIG | AI Policy and Compliance SIG>
 Task force: <Task force name, if produced by a TF; otherwise leave empty>
 Document type: White paper
 Number: "<X.Y from the SIG's deliverables plan, e.g. 3.5>"
-Status: <🗺️ Planned | ✍️ Work in Progress | 🚀 Shipped | ❌ Cancelled>
+Status: <🗺️ Planned | ✍️ Work in Progress | 🔒 Pending review | 🚀 Shipped | ❌ Cancelled>
 Editors: <Comma-separated names; required once Status is ✍️ Work in Progress or beyond. Leave empty if not yet appointed.>
 Input to: <Free-text list of intended consumers, e.g. EU Guidance, Implementing Act, Harmonised standards>
 Relevant liaisons: <Free-text list, e.g. EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance>
