@@ -13,7 +13,7 @@ Approved: 2026-05-21
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | ----- |
-| Approval of the [minutes of the previous ORC Steering Committee call](./2026-03-19-mom-orcwg-steering-committee.md))  | Juan | 5 |
+| Approval of the [minutes of the previous ORC Steering Committee call](./2026-03-19-mom-orcwg-steering-committee.md)  | Juan | 5 |
 | Election of chair and co-chair of the WG | Juan | 5 |
 | ORC Q1 summary | Juan | 35 |
 | ORC Training Status and next steps | Shanda  | 10 |
