@@ -1,9 +1,10 @@
 ---
 SIG: Cyber Resilience SIG
 Task force:
-Document type: Deliverable
+Document type: Submission
 Number: 2.7
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
+Editors: Tobie Langel
 Group: CRA Expert Group
 Subgroup: Open Source Workstrand
 Date: 2025-06-20

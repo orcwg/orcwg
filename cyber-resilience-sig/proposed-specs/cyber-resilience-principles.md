@@ -3,7 +3,7 @@ SIG: Cyber Resilience SIG
 Task force:
 Document type: Specification
 Number: 4.2
-Status: 🗺️ Planned
+Status: 💡 Proposed
 Input to: ISO
 Relevant liaisons: EU Commission, CRA Expert Group, CEN/CENELEC, Market Surveillance
 License: CC-BY-4.0 OR Apache-2.0
@@ -12,7 +12,7 @@ Final license: EFSL
 
 # Specification on principles for cyber resilience for open source
 
-## Description
+## Abstract
 
 This specification is intended address the requirements spelled out in [Annex I, Part I, point (1)][] but specifically targeted at the development of open source components and with a focus on the due diligence obligations of manufacturers. It will build on the white papers on [SBOMs][], [due diligence][], and [security attestations][] mentioned above.
 

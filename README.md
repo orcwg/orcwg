@@ -2,7 +2,9 @@
 
 Home of the Open Regulatory Compliance (ORC) Working Group of the Eclipse Foundation.
 
-## Cyber Resilience SIG
+## Special Interest Groups (SIGs)
+
+### Cyber Resilience SIG
 
 * [SIG Landing page](./cyber-resilience-sig/)
   * [Task forces](./cyber-resilience-sig#current-task-forces)

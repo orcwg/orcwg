@@ -1,8 +1,9 @@
 ---
 SIG: Cyber Resilience SIG
-Document type: Deliverable
+Document type: Submission
 Number: 2.4
 Status: ❌ Cancelled
+Editors: Timo Perälä
 Group: CEN/CENELEC WG 9
 Subgroup: PT 3
 Date: 2025-05-20

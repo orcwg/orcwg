@@ -1,8 +1,9 @@
 ---
 SIG: Cyber Resilience SIG
-Document type: Deliverable
+Document type: Submission
 Number: 2.5
-Status: 🚀 Shipped!
+Status: 🚀 Shipped
+Editors: Juan Rico, Tobie Langel
 Group: CEN/CENELEC WG 9
 Subgroup: PT 1
 Date: 2025-06-12
