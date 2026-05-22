@@ -2,11 +2,11 @@
 SIG: Cyber Resilience SIG
 Document type: Submission
 Number: "2.12"
-Status: 💡 Proposed
+Status: 🚀 Shipped
+Editors: Juan Rico
 Group: ENISA
+Date: 2026-04-20
 Deadline: 2026-05-15
 ---
+The Open Regulatory Compliance Working Group submitted feedback to this consultation through the EU Survey platform, it is available [here](./2026-05-enisa-secure-by-design-consultation.pdf)
 
-Open consultation can be found [here](https://ec.europa.eu/eusurvey/runner/sbd_public_consultation).
-
-ENISA is gathering broad, cross-industry input on a draft Secure by Design and Default Playbook designed as a practical guide to security by design and default for SMEs. The draft serves as a starting point for an open dialogue, collaboration, and the identification of priority areas that will inform ENISA's upcoming work.
