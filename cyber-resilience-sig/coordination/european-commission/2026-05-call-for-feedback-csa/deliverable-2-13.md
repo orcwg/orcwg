@@ -8,7 +8,7 @@ Group: European Commission
 Date: 2026-03-31
 Deadline: 2026-05-11
 ---
-Find the text submitted below and also attached here
+*Find the text submitted below and also attached [here](./2026-05-open-regultaroy-compliance-response-to-csa.pdf)*
 
 
 The ORC Working Group welcomes the opportunity to contribute to the revision of the EU Cybersecurity Act (CSA). We support the EU’s efforts to strengthen cybersecurity resilience, trust, and harmonisation across the Single Market. At the same time, we believe the current draft would benefit from greater legal clarity, improved interoperability with the Cyber Resilience Act (CRA), and a more proportionate, risk-based, and innovation-friendly approach to certification and conformity assessment.
