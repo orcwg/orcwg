@@ -10,7 +10,7 @@ Deadline: 2026-04-13
 ---
 The discussion about the feedback that the ORC WG provided can be found [here](https://github.com/orcwg/orcwg/issues/252)
 
-The comments to the text can be found in .xlsx and .ods formats.
+The comments to the text can be found in [.xlsx](2026-03-orc-comments-cra-guidance.xlsx) and [.ods](./2026-03-orc-comments-cra-guidance.ods) formats.
 
 The introductory text provided in our response is presented below
 
