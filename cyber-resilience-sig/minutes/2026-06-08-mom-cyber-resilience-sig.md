@@ -18,7 +18,7 @@ Date: 2026-06-08
 |  25 | | |
 |  30 | Task Forces Status Update | Juan | 
 |  35 | | |
-|  40 | | |  
+|  40 | Sovereign Tech Package | Juan |  
 |  45 | | |
 |  50 | | |
 |  55 | AOB | |
