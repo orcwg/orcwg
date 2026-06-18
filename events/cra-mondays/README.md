@@ -4,6 +4,15 @@
 
 ### April 27: No CRA Monday session will be held, due to the proximity of OCX. 
 
+
+
+🗓️ When: **May 11, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
+📍 Where: [Zoom](https://eclipse.zoom.us/j/88223502602?jst=2)<br>
+➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA1MTFUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com) or [View on our Community Calendar](https://orcwg.org/resources/calendar/)
+
+---
+
+## Previous episodes
 <a name="episode-18"></a>
 ### May 11: Using the CRA to Understand Systems in Practice
 
@@ -11,7 +20,7 @@ The Cyber Resilience Act (CRA) requires organisations to generate a significant 
 
 This talk looks at what we can learn about our systems from the information required by the CRA, particularly in areas such as dependencies, infrastructure and maintenance.
 
-The session also introduces the Ethical Software Framework, a developing approach based on legal frameworks, standards and technical guidelines. It focuses on areas where technical decisions intersect with ethical considerations, providing a structured way to support technical decision-making. The information gathered through the CRA contributes to this analysis, helping to identify and understand trade-offs between these areas and enabling more effective decision-making in practice.
+The session also introduces the Ethical Software Framework, a developing approach based on legal frameworks, standards and technical guidelines. It focuses on areas where technical decisions intersect with ethical considerations, providing a structured way to support technical decision-making. The information gathered through the CRA contributes to this analysis, helping to identify and understand trade-offs between these areas and enabling more effective decision-making in practice. ([video](https://www.youtube.com/watch?v=i8LOUXMDk1k) | [slides](./2026-05-11-paula-mesa-macias.pdf)
 
 **Speaker: Paula Mesa Macías**
 
@@ -23,13 +32,6 @@ Paula is the founder of Pau&Company, an ethical technology consultancy focused o
 
 </details> 
 
-🗓️ When: **May 11, 5pm CEST** - right after the SIG Call ([in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=2025-06-23T15:00:00.000Z&msg=CRA%20Mondays))\
-📍 Where: [Zoom](https://eclipse.zoom.us/j/88223502602?jst=2)<br>
-➕ [Add to calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA1MTFUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com) or [View on our Community Calendar](https://orcwg.org/resources/calendar/)
-
----
-
-## Previous episodes
 
 <a name="episode-17"></a>
 ### April 13: Fair-Share Cost Tokens: Supporting Financial Flows in Open Source Supply Chains
