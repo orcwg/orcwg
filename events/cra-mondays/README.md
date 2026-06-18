@@ -12,7 +12,7 @@ The Cyber Resilience Act (CRA) requires organisations to generate a significant 
 
 This talk looks at what we can learn about our systems from the information required by the CRA, particularly in areas such as dependencies, infrastructure and maintenance.
 
-The session also introduces the Ethical Software Framework, a developing approach based on legal frameworks, standards and technical guidelines. It focuses on areas where technical decisions intersect with ethical considerations, providing a structured way to support technical decision-making. The information gathered through the CRA contributes to this analysis, helping to identify and understand trade-offs between these areas and enabling more effective decision-making in practice. ([video](https://www.youtube.com/watch?v=i8LOUXMDk1k) | [slides](./2026-05-11-paula-mesa-macias.pdf)
+The session also introduces the Ethical Software Framework, a developing approach based on legal frameworks, standards and technical guidelines. It focuses on areas where technical decisions intersect with ethical considerations, providing a structured way to support technical decision-making. The information gathered through the CRA contributes to this analysis, helping to identify and understand trade-offs between these areas and enabling more effective decision-making in practice. ([video](https://www.youtube.com/watch?v=i8LOUXMDk1k) | [slides](./2026-05-11-paula-mesa-macias.pdf) )
 
 **Speaker: Paula Mesa Macías**
 
