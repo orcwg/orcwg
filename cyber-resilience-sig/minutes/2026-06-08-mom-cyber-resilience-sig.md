@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Minutes
-Status: 📝 Draft
+Status: ✅ Approved
 Date: 2026-06-08
 ---
 
@@ -92,7 +92,7 @@ Date: 2026-06-08
 ### Sovereign Tech Package
 
 - The European Commission has launched the Strengthening Europe’s Tech Sovereignty Package (including the *EU Open Source Strategy*), which you can access here: [https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)  
-- The Chips act  
+- The Chips Act  
 - Internal tracking and focus discussion on the topic on the 22nd Sig meeting \- [GitHub issue](https://github.com/orcwg/orcwg/issues/313) 
 
 ### Training
@@ -101,7 +101,7 @@ Date: 2026-06-08
 - “Introduction to the CRA for manufacturers” \- recorded today, needs to be integrated into the training portal  
 - Coming classes:  
   - SBOM  
-  - PreparVulnerability management  
+  - Preparing vulnerability management  
   - Due diligence of Open Source  
   - \< your suggestion here \> \- contact oej
 
@@ -111,9 +111,9 @@ Date: 2026-06-08
   - Dick Brooks: FYI US Cyber Trust Mark proposal to use a SCITT Public Trust Infrastructure Trust Registry to serve FCC US Cyber Trust Mark LAbels:  
   - [https://www.fcc.gov/ecfs/filing/status/detail/confirmation/20260115139949119](https://www.fcc.gov/ecfs/filing/status/detail/confirmation/20260115139949119)  
 - **FreeBSD Foundation:**  
-  - Communication with community  
+  - Communication with the community  
   - Documentation produced  
-  - New web page and a github repo \- [https://github.com/FreeBSDFoundation/all-projects/tree/main/Cyber%20Resilience%20Act%20Readiness](https://github.com/FreeBSDFoundation/all-projects/tree/main/Cyber%20Resilience%20Act%20Readiness)  
+  - New web page and a GitHub repo \- [https://github.com/FreeBSDFoundation/all-projects/tree/main/Cyber%20Resilience%20Act%20Readiness](https://github.com/FreeBSDFoundation/all-projects/tree/main/Cyber%20Resilience%20Act%20Readiness)  
 - Apache:  
   - Focus on SBOM generation \- a topic for a coming CRA Monday\!  
   - Preparing for the Single Reporting Platform and trial over the summer  
