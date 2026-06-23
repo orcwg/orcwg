@@ -49,7 +49,7 @@ Date: 2026-06-22
   * Section 4: Substantial modification & Spare parts  
   * Section 5: Supporting period  
   * Section 9: Vulnerability reporting  
-  * Incorporated most of our comments  
+  * Incorporated most of our comments - [comments submitted in the public call for feedback and tracking](https://docs.google.com/spreadsheets/d/1b9qKk5b9JS8RcVmVyLbMNbTLFT68ONea8UJD1ZUecCI/edit?usp=sharing)
 * **Interplay with other regulations**  
   * AI Act \- CRA interaction next steps to be defined  
   * DORA \- CRA \- included as part of the work  
