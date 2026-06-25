@@ -6,12 +6,20 @@ Home of the Open Regulatory Compliance (ORC) Working Group of the Eclipse Founda
 
 ### Cyber Resilience SIG
 
-* [SIG Landing page](./cyber-resilience-sig/)
+* [Landing page](./cyber-resilience-sig/)
   * [Task forces](./cyber-resilience-sig#current-task-forces)
   * [Liaisons](./cyber-resilience-sig#current-liaisons)
 * [Deliverables plan](./cyber-resilience-sig/deliverables.md)
-* SIG [meetings](./MEETINGS.md#cyber-resilience-sig-call) & [meeting minutes](./cyber-resilience-sig/minutes)
+* [Meetings](./MEETINGS.md#cyber-resilience-sig-call) & [meeting minutes](./cyber-resilience-sig/minutes)
 * [CRA Hub](https://github.com/orcwg/cra-hub/)
+
+### AI Policy and Compliance SIG
+
+* [Landing page](./ai-policy-and-compliance-sig/)
+  <!--  * [Task forces](./ai-policy-and-compliance-sig#current-task-forces)--->
+  <!--  * [Liaisons](./ai-policy-and-compliance-sig#current-liaisons)--->
+  <!--* [Deliverables plan](./ai-policy-and-compliance-sig/deliverables.md)--->
+* [Meetings](./MEETINGS.md#ai-policy-and-compliance-sig-call) & [meeting minutes](./ai-policy-and-compliance-sig/minutes)
 
 ## Outreach, Engagement & Events
 * [Workshops](./events/)
