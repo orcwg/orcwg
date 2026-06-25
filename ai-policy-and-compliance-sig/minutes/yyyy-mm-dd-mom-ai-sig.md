@@ -1,7 +1,7 @@
 ---
 SIG: AI Policy and Compliance SIG
 Document type: Minutes
-Status: [🗓️ Proposed agenda, 📝 Draft, ✅ Approved
+Status: 🗓️ Proposed agenda, 📝 Draft, ✅ Approved
 Date: yyyy-mm-dd
 ---
 
