@@ -11,12 +11,15 @@ We will share key findings based on the analysis of top open source projects acr
 The session will then present ORT Server at scale through the analysis of Eclipse Foundation projects, covering more than 350 organisations and over 3,600 repositories (GitHub/GitLab). This will show how dependencies and vulnerabilities can be identified across a large open source organisation.
 
 
-**Speaker: Sébastien Heurtematte**
+**Speaker: Sébastien Heurtematte & Martin von Willebrand **
 
 <details>
 <summary>More info</summary>
  
 Sébastien Heurtematte is a Security Software Engineer at the Eclipse Foundation and coordinator of the OCCTET project. His work focuses on open source infrastructure, software supply-chain security, automation, and CRA-related tooling.
+
+Martin is co-founder and CEO of Double Open. After 25 years as an attorney-at-law, he now builds compliance automation at Double Open with an offering based on open source ORT Server. Double Open engineers develop and maintain the ORT ecosystem, and provides SaaS and on-premise solutions.
+
 </details> 
 
 ---
