@@ -10,8 +10,7 @@ We will share key findings based on the analysis of top open source projects acr
 
 The session will then present ORT Server at scale through the analysis of Eclipse Foundation projects, covering more than 350 organisations and over 3,600 repositories (GitHub/GitLab). This will show how dependencies and vulnerabilities can be identified across a large open source organisation.
 
-
-**Speaker: Sébastien Heurtematte & Martin von Willebrand **
+**Speaker: Sébastien Heurtematte and Martin von Willebrand**
 
 <details>
 <summary>More info</summary>
