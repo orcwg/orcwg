@@ -1,6 +1,23 @@
 # CRA Mondays
 
+## Upcoming
+<a name="episode-18"></a>
+### July 6: Automating CRA Compliance at Scale: ORT Server Results from OCCTET and the Eclipse Foundation Project Analysis
 
+The CRA Monday session will present the latest results from OCCTET, with a specific focus on ORT Server as a core platform for open source SCA, vulnerability monitoring, SBOM generation, and CRA-oriented compliance evidence.
+
+We will share key findings based on the analysis of top open source projects across ten technology ecosystems, and compare ORT Server results with GitHub advisory data to highlight differences in coverage and vulnerability detection.
+
+The session will then present ORT Server at scale through the analysis of Eclipse Foundation projects, covering more than 350 organisations and over 3,600 repositories (GitHub/GitLab). This will show how dependencies and vulnerabilities can be identified across a large open source organisation.
+
+
+**Speaker: Sébastien Heurtematte**
+
+<details>
+<summary>More info</summary>
+ 
+Sébastien Heurtematte is a Security Software Engineer at the Eclipse Foundation and coordinator of the OCCTET project. His work focuses on open source infrastructure, software supply-chain security, automation, and CRA-related tooling.
+</details> 
 
 ---
 
