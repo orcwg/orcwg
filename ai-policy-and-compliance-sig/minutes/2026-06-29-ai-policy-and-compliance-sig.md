@@ -1,7 +1,7 @@
 ---
 SIG: AI Policy and Compliance SIG
 Document type: Minutes
-Status: ✅ Approved
+Status: 📝 draft
 Date: 2026-09-29
 ---
 
@@ -31,15 +31,15 @@ Date: 2026-09-29
 - Dirk-Willem van Gulik (Apache Software Foundation)
 - Francisco Picolini (OpenNebula)
 - Ian Liu (Open Culture Foundation)
-- Isabel Drost-Fromm
+- Isabel Drost-Fromm (Apache Software Foundation)
 - Juan Rico (Eclipse Foundation)
 - Kanchana Welagedara (Apache Software Foundation)
 - Matt Albrecht (Zilliant)
 - Marcel Kurzmann (Bosch)
-- Marcello Martina
-- Marcus Schlichting
+- Marcello Martina (Eurotech)
+- Marcus Schlichting (Krakun)
 - Mathias Schindler (GitHub)
-- Matteo Maiero
+- Matteo Maiero (Eurotech)
 - Michael Berns (Ecipse Foundation)
 - Oliver Fendt (Siemens)
 - Pavel Hruza (Red Hat)
@@ -66,4 +66,5 @@ Date: 2026-09-29
  - Security: YES, if there's a policy angle
  - Project policies, such as dealing with AI generated contributions: WE'LL SEE
 - Coordination of interaction between CRA and AI Act: no decision, but we agreed to keep this in mind and keep both SIGs involved
-
+- The group is invited to discuss the currently open EC consultation on high-risk AI
+- An overview was given of other ongoing work (such as the AI Act's standards) and upcoming work (such as the EC consultation on the AI Act's research exemption)
