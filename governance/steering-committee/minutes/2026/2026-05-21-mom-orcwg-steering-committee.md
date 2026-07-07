@@ -114,9 +114,9 @@ The meeting was closed at 17:01
 ## Supporting materials
 
 [2026-05-21-orcwg-sc-presentation.pdf](./supporting-materials/2026-05-21-orcwg-sc-presentation.pdf)  
-[2026-05-21-Proposal for the ORC - AI Policy and Compliance SIG.pdf](./supporting-materials/2026-05-21-Proposal for the ORC - AI Policy and Compliance SIG.pdf)
-
+[2026-05-21-Proposal for the ORC - AI Policy and Compliance SIG.pdf](./supporting-materials/2026-05-21-Proposal%20for%20the%20ORC%20-%20AI%20Policy%20and%20Compliance%20SIG.pdf)
 ## Next Meeting
 
 **Next meeting date was not set.**  
+Meeting was set through the Steering Committee mailing list for July 2nd
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
