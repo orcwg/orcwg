@@ -17,6 +17,7 @@
 
 ## Meeting minutes
 
+* [2026](./minutes/2026)
 * [2025](./minutes/2025)
 * [2024](./minutes/2024)
 
