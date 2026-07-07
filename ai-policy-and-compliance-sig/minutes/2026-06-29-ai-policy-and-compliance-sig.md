@@ -2,7 +2,7 @@
 SIG: AI Policy and Compliance SIG
 Document type: Minutes
 Status: 📝 draft
-Date: 2026-09-29
+Date: 2026-06-29
 ---
 
 ## Agenda
@@ -59,12 +59,12 @@ Date: 2026-09-29
 - Representation and the purpose of collaboration: we hope to include many stakeholder categories so that we can find solutions that work for everyone 
 - Possible output: the CRA FAQ was noted as being appreciated, could be replicated for AI Act.  Also whitepapers.
 - We discussed the SIG's scope:
- - AI Act compliance: YES
- - AI Act ongoing implementation acts (standards, guidance, codes of practice...): YES
- - AI legislation in other countries: YES if there's interest
- - Tooling: YES, documenting and analysing, rather than developing tools (tools are being developed by EF, but projects are not owned by a WG / SIG / IG)
- - Security: YES, if there's a policy angle
- - Project policies, such as dealing with AI generated contributions: WE'LL SEE
+    - AI Act compliance: YES
+    - AI Act ongoing implementation acts (standards, guidance, codes of practice...): YES
+    - AI legislation in other countries: YES if there's interest
+    - Tooling: YES, documenting and analysing, rather than developing tools (tools are being developed by EF, but projects are not owned by a WG / SIG / IG)
+    - Security: YES, if there's a policy angle
+    - Project policies, such as dealing with AI generated contributions: WE'LL SEE
 - Coordination of interaction between CRA and AI Act: no decision, but we agreed to keep this in mind and keep both SIGs involved
 - The group is invited to discuss the currently open EC consultation on high-risk AI
 - An overview was given of other ongoing work (such as the AI Act's standards) and upcoming work (such as the EC consultation on the AI Act's research exemption)
