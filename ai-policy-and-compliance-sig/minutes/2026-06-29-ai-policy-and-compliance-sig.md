@@ -40,13 +40,13 @@ Date: 2026-09-29
 - Marcus Schlichting (Krakun)
 - Mathias Schindler (GitHub)
 - Matteo Maiero (Eurotech)
-- Michael Berns (Ecipse Foundation)
+- Michael Berns (Eclipse Foundation)
 - Oliver Fendt (Siemens)
 - Pavel Hruza (Red Hat)
 - Rachel Foucard (TYPO3)
 - Roman Zhukov (Red Hat)
 - Salve J. Nilsen (CPANSec)
-- Sharon Corbet (Eclipse Foundation)
+- Sharon Corbett (Eclipse Foundation)
 - Timo Perälä (Nokia)
 
 ## Notes
