@@ -13,7 +13,7 @@
 * Dave Russo ([@drusso][]), Red Hat _(alternate)_
 * Timo Perala ([@timop62][]), Nokia
 * Victor Roland ([@Viko-legal][]), OBEO
-* Olle E. Johansson ([oej], OWASP
+* Olle E. Johansson ([oej][]), OWASP
 
 ## Meeting minutes
 
