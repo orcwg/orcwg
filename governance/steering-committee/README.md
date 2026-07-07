@@ -13,6 +13,7 @@
 * Dave Russo ([@drusso][]), Red Hat _(alternate)_
 * Timo Perala ([@timop62][]), Nokia
 * Victor Roland ([@Viko-legal][]), OBEO
+* Olle E. Johansson ([oej], OWASP
 
 ## Meeting minutes
 
@@ -29,3 +30,4 @@
 [@rozhukov]: https://github.com/rozhukov
 [@timop62]: https://github.com/timop62
 [@Viko-legal]: https://github.com/Viko-legal
+[@oej]: https://github.com/oej
