@@ -171,7 +171,7 @@ The Market Surveillance Authority may also request documentation related to the 
 to "put in place and document in a verifiable manner a cybersecurity policy". In addition to the Policy itself,
 this includes any documents demonstrating that the Policy has been applied. Examples include published security
 advisories (or, more generally, a list of published advisories) and documentation of an ongoing CVD process
-(for instance, in case of a widely exploited vulnerability fox which no fix has yet been published).
+(for instance, in case of a widely exploited vulnerability for which no fix has yet been published).
 
 If a Market Surveillance Authority finds that a Steward does not comply with its obligations (which likely means
 not having a Policy and/or not promoting the best practices), it may require the Steward to ensure that all appropriate
