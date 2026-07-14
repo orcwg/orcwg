@@ -1,0 +1,21 @@
+.md-header {
+    background-color: #f8f8f8;
+    color: #000000; 
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg{
+    fill: currentcolor;
+    display: block;
+    height: 2.5rem;
+    width: auto;
+}
+
+.md-footer {
+    background-color: #b4bcc2;
+    color: #ffffff;
+}
+
+.md-typeset h4 {
+    font-weight: 100;
+    font-size: 1rem;
+  }
