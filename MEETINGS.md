@@ -1,5 +1,16 @@
 # ORC WG Meetings
 
+## AI Policy and Compliance SIG Call
+
+| When | Every other Monday at 4:00pm CET |
+| :----- | :----- |
+|  | _(7:00am PT, 10:00am ET, 3:00pm BST, 5pm EET)_ |
+| **Attendees** | Open to all |
+| **Conf-call details** | [Jitsi meeting link](https://meet.jit.si/KeenTentsRepairExtensively) |
+| **Calendar link** | [Google calendar event](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmNsOTljaGFnYjRiczVpaGlmNDFuaTFwZXRfMjAyNjA3MjdUMTQwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com&scp=ALL) & [iCal event](https://calendar.google.com/calendar/ical/c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com/public/basic.ics) |
+| **Additional links** | [Agenda & Minutes](https://github.com/orcwg/orcwg/tree/main/ai-policy-and-compliance-sig/minutes) |
+
+
 ## Cyber Resilience SIG Call
 
 | When | Every other Monday at 4:00pm CET |
@@ -10,7 +21,7 @@
 | **Calendar link** | [Google calendar event](https://calendar.google.com/calendar/u/0/event?eid=Njg2Y2g0YmpoNzRocDQ5ZXVlZ2QzMjl1cWRfMjAyNTAyMDNUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw) & [iCal event](https://calendar.google.com/calendar/ical/c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com/public/basic.ics) |
 | **Additional links** | [Agenda & Minutes](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/minutes) |
 
-## FAQ Task Force Call
+### FAQ Task Force Call
 
 | When | Every other Tuesday at 3:30pm CET |
 | :----- | :----- |
@@ -20,7 +31,7 @@
 | **Calendar link** | [Google calendar event](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Ym5yc2RmbTg1Z3NwbDJsbDRjcGNyZGxycmJfMjAyNTExMTFUMTQzMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com&scp=ALL) & [iCal event](https://calendar.google.com/calendar/ical/c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com/public/basic.ics) |
 | **Additional links** | [Agenda & Minutes](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/task-forces/faq-tf/minutes) |
 
-## Vulnerability Handling Task Force Call
+### Vulnerability Handling Task Force Call
 
 | When | Every other Thursday at 3:00pm CET |
 | :----- | :----- |
@@ -30,7 +41,7 @@
 | **Calendar link** | [Google calendar event](https://calendar.google.com/calendar/u/0/event?eid=M2pvNmhpN2hzY2RxMDNja25oZmlmdWRpaHBfMjAyNTA2MTlUMTMwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw) & [iCal event](https://calendar.google.com/calendar/ical/c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com/public/basic.ics) |
 | **Additional links** | [Agenda & Minutes](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig/task-forces/vulnerability-handling-tf/minutes) |
 
-## Voluntary attestations Call
+### Voluntary attestations Call
 
 | When | Every other Tuesday at 3:30pm CET |
 | :----- | :----- |
