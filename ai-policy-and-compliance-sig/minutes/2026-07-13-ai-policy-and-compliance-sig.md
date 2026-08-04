@@ -1,7 +1,7 @@
 ---
 SIG: AI Policy and Compliance SIG
 Document type: Minutes
-Status: 📝 Draft
+Status: ✅ Approved
 Date: 2026-07-13
 ---
 
