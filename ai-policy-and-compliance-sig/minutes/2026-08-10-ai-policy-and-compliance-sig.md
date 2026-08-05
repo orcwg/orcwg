@@ -15,7 +15,7 @@ Date: 2026-08-10
 |  20 | California AB 2013, obligations to describe training data | Ciarán |
 |  25 | AI Act standard on logging: prEN 18229-1 | Ciarán |
 |  30 | GPAI Code of Practice | Ciarán |
-|  35 | | |
+|  35 | ETSI's progress on AIPP, online meeting on 26 Aug | |
 |  40 | | |
 |  45 | AOB | |
 |  50 |  | |
