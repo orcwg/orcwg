@@ -56,6 +56,7 @@ Date: 2026-08-17
 - Openchain checklist work \- [here](https://www.eclipse.org/lists/open-regulatory-compliance/msg01292.html)  
 - Cybersecurity manuals movement \- more [here](https://fluchsfriction.medium.com/introducing-the-cyber-manual-movement-8b67eed30d80)   
 - BSI technical guidance \- [here](https://www.eclipse.org/lists/open-regulatory-compliance/msg01298.html)
+- A proposal to legally recognise, fund, and grant non-profit public-benefit status to Open Source Software Stewards under the CRA \- [here](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/2026-06_GI_Policy_Brief_Anerkennung_und_Besserstellung_von_OSSS.pdf)
 
 ### CRA Expert Group update
 
