@@ -14,8 +14,8 @@ Approved: 2026-08-20
 
 | Agenda Topics | Moderator | Minutes |
 | ----- | ----- | ----- |
-| Approval of the [minutes of the previous ORC Steering Committee call](https://docs.google.com/document/d/14aOdh5s3k7kLA_krA4x8R_D9YPdTUeBCGkog5PhLGyU/edit?usp=sharing)  | Juan | 2 |
-| ORC SC feedback [document](https://docs.google.com/document/d/13oG6g5ha9_8RWYaXE0I2Q9ChQQAY_DV8SCQ0FfwVuZw/edit?usp=sharing) | Juan | 30 |
+| Approval of the [minutes of the previous ORC Steering Committee call](./22026-05-21-MoM-orcwg-steering-committee.md)  | Juan | 2 |
+| ORC SC feedback document | Juan | 30 |
 | Code and Compliance Fall 2026 | Juan | 10 |
 | CRA implementation status (Expert Group \+ Standardisation) | Juan & Dirk-Willem | 10 |
 | AI Policy and Compliance SIG | Ciaran | 5 |
@@ -125,7 +125,7 @@ The meeting was closed at 17:07
 
 [Meeting presentation](https://github.com/orcwg/orcwg/tree/main/governance/steering-committee/minutes/2026/supporting-materials/2026-07-02-orcwg-steering-committee.pdf)
 
-[Eclipse ORC WG Steering Committee F2F feedback document)[https://github.com/orcwg/orcwg/tree/main/governance/steering-committee/minutes/2026/supporting-materials/2026-07-02-eclipse-orcwg-steering-committee-f2f.pdf)
+[Eclipse ORC WG Steering Committee F2F feedback document](https://github.com/orcwg/orcwg/tree/main/governance/steering-committee/minutes/2026/supporting-materials/2026-07-02-eclipse-orcwg-steering-committee-f2f.pdf)
 
 ## Next Meeting
 
