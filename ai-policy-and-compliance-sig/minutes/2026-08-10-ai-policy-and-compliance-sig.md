@@ -23,14 +23,14 @@ Date: 2026-08-10
 Meeting ends at :55.
 
 ## Participants
-Ciaran O'Riordan (Eclipse Foundation)
-Javier Valiño (Eclipse Foundation)
-Dave Russo (Red Hat)
-Pavel Hruza (Red Hat)
-Rachel Foucard (TYPO3)
-Mathias Schindler (GitHub)
-Alistair Woodman (Erlang Ecosystem Foundation)
-Marcel Kurzmann (Bosch)
+- Ciaran O'Riordan (Eclipse Foundation)
+- Javier Valiño (Eclipse Foundation)
+- Dave Russo (Red Hat)
+- Pavel Hruza (Red Hat)
+- Rachel Foucard (TYPO3)
+- Mathias Schindler (GitHub)
+- Alistair Woodman (Erlang Ecosystem Foundation)
+- Marcel Kurzmann (Bosch)
 
 ## Minutes
 1. **Approve previous minutes**.
