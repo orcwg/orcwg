@@ -27,3 +27,10 @@ We collect all feedback, proposals, and discussions directly through GitHub Issu
   * Group related discussions or specific technical requirements under the main parent issue to keep discussions focused.
 
 **Engage in Discussion:** Comment on existing issues to add your perspective, validate proposed solutions, or highlight practical edge cases.
+
+### 🔗 Useful links
+* [ENISA's SRP website](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp):
+  * [AR interface functions](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/cra-srp-guidance-ar-interface-functions)
+  * [AR notification submission and update](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/cra-srp-guidance-ar-notification-submission-and-update)
+  * [AR user registration](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/cra-srp-guidance-ar-user-registration)
+  * [FAQ](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/frequently-asked-questions)
