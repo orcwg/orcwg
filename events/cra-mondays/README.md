@@ -1,7 +1,60 @@
 # CRA Mondays
 
 ## Upcoming
-More virtual events will come after 
+<a name="episode-20"></a>
+### September 14: Solving copyright & licensing information in client-side JavaScript, CSS etc.
+
+In modern web, typically when a user visits a webpage or webapp, their browser downloads a bunch of JavaScript and CSS. This, so-called client-side (or browser-side) code is distributed to the user and runs on their machines, so both licensing – and arguably cyber security – compliance is needed.
+
+For decades everyone was ignoring the problem, hoping it would go away – now we have a solution!
+
+**Speaker: Matija Šuklje**
+
+<details>
+<summary>More info</summary>
+ 
+Matija Šuklje is lawyer by trade and hacker at heart. He is a co-author of SPDX, OpenChain, the Fiduciary License Agreement (FLA) 2.0 and 2.1, REUSE.software and the HackerTrain.
+
+He is currently serving Liferay in the role of their Legal Director and Associate General Counsel (FOSS Licensing & Community Legal Affairs). Apart from license compliance and governance in an IT company, he has FOSS legal and governance experience with both the NGO (FSFE, Commons Conservancy, …) and public sector.
+
+**This session will cover:**
+- web front-end source code is typically missing licensing / copyright info – both when written and when distributed – we need to fix the input to fix the output
+- fixing the input: add SPDX/REUSE tags to source code
+- fixing the output: generate and serve SBOM and attribution notices to visitors/users
+- how to do all of the above in a standardized manner that has little to no impact on web performance
+- “bonus side-effect”: improve legal predictability and reuse of code
+
+</details> 
+
+<a name="episode-21"></a>
+### September 28: TBC
+
+<a name="episode-22"></a>
+### October 12: CRA Training Preview: SBOMs and Vulnerability Management
+
+The ORC Learning Hub is developing practical training to help organisations and open source communities understand and prepare for the Cyber Resilience Act (CRA). In this CRA Monday session, we’ll preview the next training module, Introduction to SBOMs and Vulnerability Management, and invite the ORC community to help us validate the course materials before the module is recorded and published.
+
+The module introduces Software Bills of Materials (SBOMs) and vulnerability management in the context of CRA expectations, including:
+
+- SBOM fundamentals
+- The role of SBOMs in risk assessment
+- Vulnerability handling obligations
+- The tooling landscape
+
+This is an interactive review session. We’re looking for feedback from across the ORC community to help identify gaps, clarify concepts, and ensure the training reflects the practical needs of organisations preparing for the CRA.
+
+Join us to review the material, share your expertise, and help shape the next module of the ORC Learning Hub.
+
+**Speaker: Olle E. Johansson**
+
+<details>
+<summary>More info</summary>
+
+Olle E.Johanson is an experienced and appreciated speaker, teacher as well as an Open Source developer and consultant. He is currently developing courses for the ORC Learning Hub, covering topics relevant to the open source community as it prepares for the CRA. 
+ 
+Olle is project lead for OWASP Project Koala- developing the Transparency Exchange API (TEA), member of the CycloneDX industry working group, the OWASP SBOM Forum, co-founder of SBOMEurope.eu and a leader for the DNS TAPIR Open Source project. While not trying to save the world with SBOMs, he is helping clients with the journey towards CRA compliance as a consultant in his company Edvina AB.
+
+</details> 
 
 ---
 
