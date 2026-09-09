@@ -12,6 +12,7 @@ GitHub Team: [@orcwg/ai-policy-and-compliance-sig](https://github.com/orgs/orcwg
 ## Leads
 
 * Dave Russo ([@securitycaveman][]), Red Hat
+* Rachel Foucard ([@rfoucard][]), TYPO3
 
 ## Scope
 
@@ -24,3 +25,4 @@ The Scope of the Cyber Resilience SIG is a strict subset of the scope of the wor
 
 [task forces]: https://github.com/orcwg/orcwg/blob/main/working-mode.md#task-forces
 [@securitycaveman]: https://github.com/securitycaveman
+[@rfoucard]: https://github.com/rfoucard
