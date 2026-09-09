@@ -1,7 +1,32 @@
 # CRA Mondays
 
 ## Upcoming
-More virtual events will come after 
+<a name="episode-20"></a>
+### September 14: Solving copyright & licensing information in client-side JavaScript, CSS etc.
+
+In modern web, typically when a user visits a webpage or webapp, their browser downloads a bunch of JavaScript and CSS. This, so-called client-side (or browser-side) code is distributed to the user and runs on their machines, so both licensing – and arguably cyber security – compliance is needed.
+
+For decades everyone was ignoring the problem, hoping it would go away – now we have a solution!
+
+Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA5MTRUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+**Speaker: Matija Šuklje**
+
+<details>
+<summary>More info</summary>
+ 
+Matija Šuklje is lawyer by trade and hacker at heart. He is a co-author of SPDX, OpenChain, the Fiduciary License Agreement (FLA) 2.0 and 2.1, REUSE.software and the HackerTrain.
+
+He is currently serving Liferay in the role of their Legal Director and Associate General Counsel (FOSS Licensing & Community Legal Affairs). Apart from license compliance and governance in an IT company, he has FOSS legal and governance experience with both the NGO (FSFE, Commons Conservancy, …) and public sector.
+
+**This session will cover:**
+- web front-end source code is typically missing licensing / copyright info – both when written and when distributed – we need to fix the input to fix the output
+- fixing the input: add SPDX/REUSE tags to source code
+- fixing the output: generate and serve SBOM and attribution notices to visitors/users
+- how to do all of the above in a standardized manner that has little to no impact on web performance
+- “bonus side-effect”: improve legal predictability and reuse of code
+
+</details> 
 
 ---
 
