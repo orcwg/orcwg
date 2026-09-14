@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Minutes
-Status: 🗓️ Proposed Agenda
+Status: ✅ Approved
 Date: 2026-08-31
 ---
 
