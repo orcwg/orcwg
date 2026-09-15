@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block styles %}
+    {{ super() }}
+    <link rel="stylesheet" href="https://www.eclipse.org/public/css/astro.css">
+    <style>
+      html {
+        font-size: 22px;
+      }
+      .footer-min p, .footer-min ul, .footer-min a {
+        font-size: 1em;
+     }
+    </style>
+{% endblock %}
+
+
+{% block footer %}
+    {{ super() }}
+    <div>
+    <p id="back-to-top">
+      <a class="visible-xs" href="#top">Back to the top</a>
+    </p>
+    <footer role="contentinfo" id="solstice-footer-min" class="footer-min">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-13">
+            <p>Copyright © Eclipse Foundation AISBL. All Rights Reserved.</p>
+          </div>
+          <div class="col-sm-11">
+            <ul class="list-inline" id="footer-legal-links">
+              <li>
+                <a href="http://www.eclipse.org">Eclipse.org</a>
+              </li>
+              <li>
+                <a href="http://www.eclipse.org/legal/privacy/">Privacy Policy</a>
+              </li>
+              <li>
+                <a href="http://www.eclipse.org/legal/terms-of-use/">Terms of Use</a>
+              </li>
+              <li>
+                <a href="http://www.eclipse.org/legal/compliance/">Compliance</a>
+              </li>
+              <li>
+                <a href="http://www.eclipse.org/legal/">Legal</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://www.eclipse.org/public/js/astro/main.js?v=0.1.2"></script>
+  </div>
+    
+{% endblock %}
