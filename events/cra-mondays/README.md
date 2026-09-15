@@ -1,14 +1,24 @@
 # CRA Mondays
 
 ## Upcoming
+
+### September 28: _Speaker TBC_
+
+Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA5MjhUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+### October 19: _Speaker TBC_
+
+Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjEwMTJUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+---
+
+## Previous episodes
+
 <a name="episode-20"></a>
 ### September 14: Solving copyright & licensing information in client-side JavaScript, CSS etc.
 
-In modern web, typically when a user visits a webpage or webapp, their browser downloads a bunch of JavaScript and CSS. This, so-called client-side (or browser-side) code is distributed to the user and runs on their machines, so both licensing – and arguably cyber security – compliance is needed.
+In modern web, typically when a user visits a webpage or webapp, their browser downloads a bunch of JavaScript and CSS. This, so-called client-side (or browser-side) code is distributed to the user and runs on their machines, so both licensing – and arguably cyber security – compliance is needed. For decades everyone was ignoring the problem, hoping it would go away – now we have a solution! ([video](https://youtu.be/yXb2k8hbQ5M) | [slides](./2026-09-14-Matija-Suklje.pdf))
 
-For decades everyone was ignoring the problem, hoping it would go away – now we have a solution!
-
-Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA5MTRUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 **Speaker: Matija Šuklje**
 
@@ -28,9 +38,6 @@ He is currently serving Liferay in the role of their Legal Director and Associat
 
 </details> 
 
----
-
-## Previous episodes
 <a name="episode-19"></a>
 ### July 6: Automating CRA Compliance at Scale: ORT Server Results from OCCTET and the Eclipse Foundation Project Analysis
 
