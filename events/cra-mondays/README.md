@@ -2,11 +2,33 @@
 
 ## Upcoming
 
+<a name="episode-21"></a>
 ### September 28: _Speaker TBC_
 
 Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA5MjhUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
-### October 19: _Speaker TBC_
+<a name="episode-22"></a>
+### October 19: SBOMs and Vulnerability Management: CRA Training Community Review
+
+The ORC Learning Hub is developing practical training to help organisations and open source communities understand and prepare for the Cyber Resilience Act (CRA). In this CRA Monday session, we’ll preview the next training module, Introduction to SBOMs and Vulnerability Management, and invite the ORC community to help us validate the course materials before the module is recorded and published.
+The module introduces Software Bills of Materials (SBOMs) and vulnerability management in the context of CRA expectations, including:
+- SBOM fundamentals
+- The role of SBOMs in risk assessment
+- Vulnerability handling obligations
+- The tooling landscape
+This is an interactive review session. We’re looking for feedback from across the ORC community to help identify gaps, clarify concepts, and ensure the training reflects the practical needs of organisations preparing for the CRA.
+
+Join us to review the material, share your expertise, and help shape the next module of the [ORC Learning Hub](https://orcwg.org/training/).
+
+**Speaker: Olle E. Johanson**
+
+<details>
+<summary>More info</summary>
+
+Olle E. Johanson is an experienced and appreciated speaker, teacher, Open Source developer, and consultant. He is currently developing courses for the **ORC Learning Hub**, covering topics relevant to the open source community as it prepares for the CRA.
+
+Olle is project lead for OWASP Project Koala, developing the Transparency Exchange API (TEA), a member of the CycloneDX Industry Working Group and the OWASP SBOM Forum, co-founder of SBOMEurope.eu, and a leader of the DNS TAPIR Open Source project. While not trying to save the world with SBOMs, he helps clients on their journey towards CRA compliance as a consultant with his company, Edvina AB.
+</details> 
 
 Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjEwMTJUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
