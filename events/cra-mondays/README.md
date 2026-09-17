@@ -15,7 +15,14 @@ This aims to convert technical product assets, such as maintenance guides, compo
 
 <details>
 <summary>More info</summary>
-Key Points
+
+ **Bio**
+ 
+Merzough Münker is a software engineer whose work centres on data ownership and long-term availability. His background is in web and cloud application development, and his interest is in what happens to data after it is published, who controls it, and whether it is still there, and still verifiable, years later. 
+
+In 2025 he co-founded EnduraDocs in Aachen, Germany. EnduraDocs aims to provide solutions for the digital-delivery provision in the first drafts of the EU Machinery Regulation. EnduraDocs is a member of the iiRDS Consortium, thus his work includes working on the  intelligent information Request and Delivery Standard (iiRDS) , an open standard for machine-readable user information. For him, good technology is a question of empowerment: giving people and organisations real control over their own data, and keeping them independent of any single vendor.
+ 
+**Key Points**
  
 - Bridging Legal & Technical Workflows: Strategies for translating technical product documentation into verifiable CRA compliance evidence and creating a shared language between technical and regulatory teams.
 - Standardized Metadata & iiRDS Integration: Leveraging RDF metadata formats and the iiRDS standard to unify component documentation across manufacturing components and open-source software.
