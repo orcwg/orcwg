@@ -3,7 +3,26 @@
 ## Upcoming
 
 <a name="episode-21"></a>
-### September 28: _Speaker TBC_
+### September 28: Implementing Decentralized Digital Technical Product Documentation: CRA meets Machinery Regulation 
+
+The talk will present the challenges to providing decentralized digital product documentation in accordance with the Machinery Regulation Art. 10 & 11 (both (6),(7),(10)) as well as CRA Art 13 (16).
+In 2027 the documentation of products with digital elements is subject to two game changers. As of 20.01.2027 Articles 10 & 11 of the Machinery Regulation (2023/1230) allow to provide information for use and information set out in Annex III (Art. 10) as well as the assembly instructions (Art. 11) in a digital format. Akin as of 11.12.2027 the CRA mandates to provide information and instructions to the user set out in Annex II, with regard to operating and setting up products with digital elements.
+
+This presentation outlines a practical, technology-driven approach for bridging technical documentation and CRA compliance obligations. We demonstrate how structured metadata in RDF formats, REST APIs, and the iiRDS standard can be combined to publish standardized product archives directly from product websites. Additionally, we explore the role of decentralized infrastructure like IPFS in maintaining long-term data ownership, resilience, and accessibility across complex industrial supply chains and open-source ecosystems.
+This aims to convert technical product assets, such as maintenance guides, component manuals, and operational specifications into verifiable compliance evidence, employing the required common standards and allowing for seamless inter-departmental communication.
+
+**Speaker: Merzough Münker**
+
+<details>
+<summary>More info</summary>
+Key Points
+ 
+- Bridging Legal & Technical Workflows: Strategies for translating technical product documentation into verifiable CRA compliance evidence and creating a shared language between technical and regulatory teams.
+- Standardized Metadata & iiRDS Integration: Leveraging RDF metadata formats and the iiRDS standard to unify component documentation across manufacturing components and open-source software.
+- Automated API-Based Distribution: Enabling seamless integration into enterprise workflows and toolchains by exposing structured product documentation archives via REST APIs.
+- Decentralized Data Ownership with IPFS: Utilizing decentralized storage infrastructure to guarantee data resilience, availability, and customer ownership over critical product manuals and compliance artifacts.
+- MCP as a Unified Bridge for AI & Automation: Connecting iiRDS metadata, Request APIs, and decentralized IPFS storage to provide AI agents and automated workflows with seamless access to structured technical product assets.
+</details> 
 
 Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA5MjhUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
