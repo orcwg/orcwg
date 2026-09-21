@@ -1,7 +1,7 @@
 ---
 SIG: AI Policy and Compliance SIG
 Document type: Minutes
-Status: 🗓️ Proposed agenda
+Status: ✅ Approved
 Date: 2026-08-10
 ---
 
@@ -23,13 +23,13 @@ Date: 2026-08-10
 Meeting ends at :55.
 
 ## Participants
-Ciaran O'Riordan
-Javier Valiño
-Dave Russo
-Rachel Foucard
-Mathias Schindler
-Alistair Woodman
-Marcel Kurzmann
+* Ciaran O'Riordan
+* Javier Valiño
+* Dave Russo
+* Rachel Foucard
+* Mathias Schindler
+* Alistair Woodman
+* Marcel Kurzmann
 
 ## Minutes
 1. **Approve previous minutes**.
