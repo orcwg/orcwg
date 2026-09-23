@@ -16,7 +16,7 @@ GitHub Team: [@orcwg/ai-policy-and-compliance-sig](https://github.com/orgs/orcwg
 
 ## Scope
 
-The Scope of the Cyber Resilience SIG is a strict subset of the scope of the working group. Whereas the working group is chartered to address any kind of emerging regulation impacting open source, this SIG is solely focused on Artificial Intelligence regulation, policy and standardisation.
+The [Scope of the AI SIG](./scope.md) is a strict subset of the scope of the working group. Whereas the working group is chartered to address any kind of emerging regulation impacting open source, this SIG is solely focused on Artificial Intelligence regulation, policy and standardisation.
 
 
 
