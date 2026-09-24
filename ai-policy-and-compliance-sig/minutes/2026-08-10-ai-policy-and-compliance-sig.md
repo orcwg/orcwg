@@ -1,7 +1,9 @@
 ---
 SIG: AI Policy and Compliance SIG
 Document type: Minutes
+
 Status: ✅ Approved
+
 Date: 2026-08-10
 ---
 
@@ -23,6 +25,7 @@ Date: 2026-08-10
 Meeting ends at :55.
 
 ## Participants
+
 * Ciaran O'Riordan
 * Javier Valiño
 * Dave Russo
