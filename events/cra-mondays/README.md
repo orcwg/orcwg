@@ -2,37 +2,6 @@
 
 ## Upcoming
 
-<a name="episode-21"></a>
-### September 28: Implementing Decentralized Digital Technical Product Documentation: CRA meets Machinery Regulation 
-
-The talk will present the challenges to providing decentralized digital product documentation in accordance with the Machinery Regulation Art. 10 & 11 (both (6),(7),(10)) as well as CRA Art 13 (16).
-In 2027 the documentation of products with digital elements is subject to two game changers. As of 20.01.2027 Articles 10 & 11 of the Machinery Regulation (2023/1230) allow to provide information for use and information set out in Annex III (Art. 10) as well as the assembly instructions (Art. 11) in a digital format. Akin as of 11.12.2027 the CRA mandates to provide information and instructions to the user set out in Annex II, with regard to operating and setting up products with digital elements.
-
-This presentation outlines a practical, technology-driven approach for bridging technical documentation and CRA compliance obligations. We demonstrate how structured metadata in RDF formats, REST APIs, and the iiRDS standard can be combined to publish standardized product archives directly from product websites. Additionally, we explore the role of decentralized infrastructure like IPFS in maintaining long-term data ownership, resilience, and accessibility across complex industrial supply chains and open-source ecosystems.
-This aims to convert technical product assets, such as maintenance guides, component manuals, and operational specifications into verifiable compliance evidence, employing the required common standards and allowing for seamless inter-departmental communication.
-
-**Speaker: Merzough Münker**
-
-<details>
-<summary>More info</summary>
-
- **Bio**
- 
-Merzough Münker is a software engineer whose work centres on data ownership and long-term availability. His background is in web and cloud application development, and his interest is in what happens to data after it is published, who controls it, and whether it is still there, and still verifiable, years later. 
-
-In 2025 he co-founded EnduraDocs in Aachen, Germany. EnduraDocs aims to provide solutions for the digital-delivery provision in the first drafts of the EU Machinery Regulation. EnduraDocs is a member of the iiRDS Consortium, thus his work includes working on the  intelligent information Request and Delivery Standard (iiRDS) , an open standard for machine-readable user information. For him, good technology is a question of empowerment: giving people and organisations real control over their own data, and keeping them independent of any single vendor.
- 
-**Key Points**
- 
-- Bridging Legal & Technical Workflows: Strategies for translating technical product documentation into verifiable CRA compliance evidence and creating a shared language between technical and regulatory teams.
-- Standardized Metadata & iiRDS Integration: Leveraging RDF metadata formats and the iiRDS standard to unify component documentation across manufacturing components and open-source software.
-- Automated API-Based Distribution: Enabling seamless integration into enterprise workflows and toolchains by exposing structured product documentation archives via REST APIs.
-- Decentralized Data Ownership with IPFS: Utilizing decentralized storage infrastructure to guarantee data resilience, availability, and customer ownership over critical product manuals and compliance artifacts.
-- MCP as a Unified Bridge for AI & Automation: Connecting iiRDS metadata, Request APIs, and decentralized IPFS storage to provide AI agents and automated workflows with seamless access to structured technical product assets.
-</details> 
-
-Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjA5MjhUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
 <a name="episode-22"></a>
 ### October 19: SBOMs and Vulnerability Management: CRA Training Community Review
 
@@ -61,6 +30,33 @@ Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/e
 ---
 
 ## Previous episodes
+
+<a name="episode-21"></a>
+### September 28: Implementing Decentralized Digital Technical Product Documentation: CRA meets Machinery Regulation 
+
+Merzough Münker will present the challenges to providing decentralized digital product documentation in accordance with the Machinery Regulation Art. 10 & 11 (both (6),(7),(10)) as well as CRA Art 13 (16).
+In 2027 the documentation of products with digital elements is subject to two game changers. As of 20.01.2027 Articles 10 & 11 of the Machinery Regulation (2023/1230) allow to provide information for use and information set out in Annex III (Art. 10) as well as the assembly instructions (Art. 11) in a digital format. Akin as of 11.12.2027 the CRA mandates to provide information and instructions to the user set out in Annex II, with regard to operating and setting up products with digital elements. ([video](https://youtu.be/qGzLaMCLuk8) | [slides](./2026-09-28-Merzough-Munker.pdf))
+
+<details>
+<summary>More info</summary>
+ 
+This presentation outlines a practical, technology-driven approach for bridging technical documentation and CRA compliance obligations. We demonstrate how structured metadata in RDF formats, REST APIs, and the iiRDS standard can be combined to publish standardized product archives directly from product websites. Additionally, we explore the role of decentralized infrastructure like IPFS in maintaining long-term data ownership, resilience, and accessibility across complex industrial supply chains and open-source ecosystems.
+This aims to convert technical product assets, such as maintenance guides, component manuals, and operational specifications into verifiable compliance evidence, employing the required common standards and allowing for seamless inter-departmental communication.
+
+**Speaker: Merzough Münker**
+ 
+Merzough Münker is a software engineer whose work centres on data ownership and long-term availability. His background is in web and cloud application development, and his interest is in what happens to data after it is published, who controls it, and whether it is still there, and still verifiable, years later. 
+
+In 2025 he co-founded EnduraDocs in Aachen, Germany. EnduraDocs aims to provide solutions for the digital-delivery provision in the first drafts of the EU Machinery Regulation. EnduraDocs is a member of the iiRDS Consortium, thus his work includes working on the  intelligent information Request and Delivery Standard (iiRDS) , an open standard for machine-readable user information. For him, good technology is a question of empowerment: giving people and organisations real control over their own data, and keeping them independent of any single vendor.
+ 
+**Key Points**
+ 
+- Bridging Legal & Technical Workflows: Strategies for translating technical product documentation into verifiable CRA compliance evidence and creating a shared language between technical and regulatory teams.
+- Standardized Metadata & iiRDS Integration: Leveraging RDF metadata formats and the iiRDS standard to unify component documentation across manufacturing components and open-source software.
+- Automated API-Based Distribution: Enabling seamless integration into enterprise workflows and toolchains by exposing structured product documentation archives via REST APIs.
+- Decentralized Data Ownership with IPFS: Utilizing decentralized storage infrastructure to guarantee data resilience, availability, and customer ownership over critical product manuals and compliance artifacts.
+- MCP as a Unified Bridge for AI & Automation: Connecting iiRDS metadata, Request APIs, and decentralized IPFS storage to provide AI agents and automated workflows with seamless access to structured technical product assets.
+</details> 
 
 <a name="episode-20"></a>
 ### September 14: Solving copyright & licensing information in client-side JavaScript, CSS etc.
