@@ -3,13 +3,12 @@
 ## Upcoming
 
 <a name="episode-22"></a>
-### October 19: SBOMs and Vulnerability Management: CRA Training Community Review
+### October 19: Introduction to Software bill of materials (SBOM): CRA Training Community Review
 
-The ORC Learning Hub is developing practical training to help organisations and open source communities understand and prepare for the Cyber Resilience Act (CRA). In this CRA Monday session, we’ll preview the next training module, Introduction to SBOMs and Vulnerability Management, and invite the ORC community to help us validate the course materials before the module is recorded and published.
-The module introduces Software Bills of Materials (SBOMs) and vulnerability management in the context of CRA expectations, including:
+The ORC Learning Hub is developing practical training to help organisations and open source communities understand and prepare for the Cyber Resilience Act (CRA). In this CRA Monday session, we’ll preview the next training module, Introduction to SBOMs, and invite the ORC community to help us validate the course materials before the module is recorded and published.
+The module introduces Software Bills of Materials (SBOMs) in the context of CRA expectations, including:
 - SBOM fundamentals
 - The role of SBOMs in risk assessment
-- Vulnerability handling obligations
 - The tooling landscape
 This is an interactive review session. We’re looking for feedback from across the ORC community to help identify gaps, clarify concepts, and ensure the training reflects the practical needs of organisations preparing for the CRA.
 
