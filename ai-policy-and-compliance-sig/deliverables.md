@@ -10,18 +10,18 @@ The [AI SIG][SIG] will focus on deliverables necessary to help open source commu
 | | Deliverable name | Owner | Editor | First draft due | Final draft due |
 |---:|---|---|---|---|---|
 | **1.** | **Documentation** | | | | |
-| ✍️ | 1.1 [AI SIG FAQ][] | [AI SIG][SIG] | Ciaran | XXXX | XXXX |
-| 🗺️ | 1.2 [Inventory][] | [AI SIG][SIG] | XXXX | XXXX | XXXX |
+| ✍️ | 1.1 [AI SIG FAQ][FAQ] | [AI SIG][SIG] | Ciaran | XXXX | XXXX |
+| 🗺️ | 1.2 Inventory | [AI SIG][SIG] | XXXX | XXXX | XXXX |
 | | | | | | |
 | **2.** | **Submissions** | | | | |
 | 🚀 | 2.1 [Feedback for the ENISA consultation on secure-by-design AI-assisted software development][deliverable-2-1] | [AI SIG][SIG] | Ciaran | October 15, 2026 | October 22, 2026 |
-| ✍️ | 2.2 [Sumission 2][] | [AI SIG][SIG] | XXXX | XXXX | XXXX |
+| ✍️ | 2.2 Sumission 2 | [AI SIG][SIG] | XXXX | XXXX | XXXX |
 | | | | | | |
 | **3.** | **White papers** | | | | |
-| 💡 | 3.1 [White paper on XXXX][] | [AI SIG][SIG] | XXXX | XXXX | XXXX |
+| 💡 | 3.1 White paper on XXXX | [AI SIG][SIG] | XXXX | XXXX | XXXX |
 | | | | | | |
 | **4.** | **Specifications** | Owner | Maintainers | First draft due | Final draft due |
-| 💡 | 4.1 [Specification 1][] | [AI SIG][SIG] | XXXX | XXXX | XXXX |
+| 💡 | 4.1 Specification 1 | [AI SIG][SIG] | XXXX | XXXX | XXXX |
 
 _Note that the [Cyber Resilience SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 
@@ -43,7 +43,6 @@ The [AI SIG][SIG] intends to collaborate closely with and provide input to the f
 [FAQ]: https://docs.google.com/document/d/1V-3Yw0Es2jqu8QlbDH-3gjUjv1MBZwm6zhNcs-CXTIg/edit?tab=t.0#heading=h.usdmkjioireb
 [inventory]: 
 [deliverable-2-1]: https://docs.google.com/document/d/1HWMgg5JXLWN6ohK_W0Un9qNLZGJRM6zHHkdDNRafDmo/edit?tab=t.0#heading=h.9qwg35pjwfvc
-
 
 [EU Commission]: #key-stakeholders
 [CRA Expert Group]: ./#cra-expert-group
