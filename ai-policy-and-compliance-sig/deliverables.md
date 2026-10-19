@@ -23,7 +23,7 @@ The [AI SIG][SIG] will focus on deliverables necessary to help open source commu
 | **4.** | **Specifications** | Owner | Maintainers | First draft due | Final draft due |
 | 💡 | 4.1 Specification 1 | [AI SIG][SIG] | XXXX | XXXX | XXXX |
 
-_Note that the [Cyber Resilience SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
+_Note that the [AI SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 
 ## Key stakeholders
 
