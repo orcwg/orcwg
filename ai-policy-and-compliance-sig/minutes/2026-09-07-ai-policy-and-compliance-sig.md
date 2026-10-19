@@ -25,17 +25,18 @@ Note: It's a public holiday in parts of the world, so the 7 September meeting wi
 
 ## Participants 
 
-* Juan Rico (Eclipse Foundation)
-* Ciarán O'Riordan (Eclipse Foundation)
-* Javier Valiño (Eclipse Foundation)
-* Rachel Foucard (TYPO3)
-* Sankalp Gilda 
-* Mathias Schindler (GitHub)
-* Tobias Frech (iJUG)
-* Isabel Drost-Fromm (Apache Software Foundation)
-* Roman Zhukov (Red Hat)
 * AEva Black (Null Point Studio)
+* Ciarán O'Riordan (Eclipse Foundation)
 * Gregor Bransky (inöG)
+* Isabel Drost-Fromm (Apache Software Foundation)
+* Javier Valiño (Eclipse Foundation)
+* Juan Rico (Eclipse Foundation)
+* Mathias Schindler (GitHub)
+* Rachel Foucard (TYPO3)
+* Roman Zhukov (Red Hat)
+* Sankalp Gilda 
+* Tobias Frech (iJUG)
+
 
 ## Minutes
 
