@@ -10,18 +10,16 @@ The [AI SIG][SIG] will focus on deliverables necessary to help open source commu
 | | Deliverable name | Owner | Editor | First draft due | Final draft due |
 |---:|---|---|---|---|---|
 | **1.** | **Documentation** | | | | |
-| ✍️ | 1.1 [AI SIG FAQ][FAQ] | [AI SIG][SIG] | Ciaran | XXXX | XXXX |
-| 🗺️ | 1.2 Inventory | [AI SIG][SIG] | XXXX | XXXX | XXXX |
+|  |  |  |  |  |  |
 | | | | | | |
 | **2.** | **Submissions** | | | | |
 | 🚀 | 2.1 [Feedback for the ENISA consultation on secure-by-design AI-assisted software development][deliverable-2-1] | [AI SIG][SIG] | Ciaran | October 15, 2026 | October 22, 2026 |
-| ✍️ | 2.2 Sumission 2 | [AI SIG][SIG] | XXXX | XXXX | XXXX |
 | | | | | | |
 | **3.** | **White papers** | | | | |
-| 💡 | 3.1 White paper on XXXX | [AI SIG][SIG] | XXXX | XXXX | XXXX |
+|  |  |  |  |  |  |
 | | | | | | |
 | **4.** | **Specifications** | Owner | Maintainers | First draft due | Final draft due |
-| 💡 | 4.1 Specification 1 | [AI SIG][SIG] | XXXX | XXXX | XXXX |
+|  |  |  |  |  |  |
 
 _Note that the [AI SIG][SIG] is empowered to create additional white papers to address pressing issues, support existing deliverables, or provided input to the [European Commission][EU Commission], [ENISA][], the [CRA Expert Group][], the [European Standards Organisations][ESOs], [Market Surveillance Authorities][Market Surveillance], or any other relevant institution._
 
