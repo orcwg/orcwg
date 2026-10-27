@@ -1,7 +1,7 @@
 ---
 SIG: Cyber Resilience SIG
 Document type: Minutes
-Status: 📝 Draft
+Status: ✅ Draft
 Date: 2026-09-28
 ---
 
