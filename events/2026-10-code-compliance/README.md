@@ -8,7 +8,7 @@
 | Presentation                                                                   | Speaker                                     | Slides | Recording |
 | ------------------------------------------------------------------------------ | ------------------------------------------- | ------ | --------- |
 | Welcome to Code & Compliance |	Gaël Blondelle, Eclipse Foundation | Slides | [YouTube](https://youtu.be/Mz5MLy-Kcns?si=tO1Z-ULNEyBiFTLj)
-| Open Regulatory Compliance: Progress, Priorities and What’s Next |	Juan Rico, ORC | Slides | YouTube
+| Open Regulatory Compliance: Progress, Priorities and What’s Next |	Juan Rico, ORC | [Slides](1.2%20Juan%20Rico%20-%20Progress%20Priorities%20and%20Whats%20Next.pdf) | YouTube
 | Navigating the regulatory landscape: From policy objectives to practical implementation |	Panel Discussion |  | YouTube
 | The CRA: Status, next steps and how to support the implementation process |	Tommaso Bernabò, European Commission | Slides | [YouTube](https://youtu.be/KrlY9lnGnxo?si=lwOfiDGnSsP0ksmf)
 | Due diligence obligations for the integration of open source components |	Timo Perälä & Gergely Csatari, Nokia | [Slides](2.2.%20Timo%20Perala%20-%20Gergely%20Csatari%20-%20Due%20diligence%20obligations%20for%20the%20integration%20of%20open%20source%20components.pdf) | [YouTube](https://youtu.be/gtf0ktRnhLg?si=uKANuGLAT4Xmpa7n)
