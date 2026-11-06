@@ -16,7 +16,7 @@
 | Overview of ENISA’s SBOMs efforts |	Ioanna Georgiadou, ENISA | [Slides](2.4.%20Ioanna%20Georgiadou%20-%20SBOM%20by%20design%20–%20Integrating%20S_W%20Transparency%20into%20CI_CD.pdf) | [YouTube](https://youtu.be/6-D28tl_BJg?si=3EXTNHr2mJ1jedr-)
 | SBOMs and its real impact on the industry |	Panel Discussion |  | [YouTube](https://youtu.be/Hn5FX4aEdRU?si=KSInldmy0JAntsxm)
 | Why bother with EU regulation? |	Ciarán O'Riordan | Slides | [YouTube](https://youtu.be/9ih9W69ZNLo?si=aqK80kbSXr_SLPdM)
-| Overlapping regulations for open source |	Æva Black, Null Point Studio | Slides | [YouTube](https://youtu.be/uuJfn6opHBc?si=hJw7fdcwgGEMoOYb)
+| Overlapping regulations for open source |	Æva Black, Null Point Studio | [Slides](3.3.%20Aeva%20Black%20-%20Overlapping%20regulations%20for%20open%20source) | [YouTube](https://youtu.be/uuJfn6opHBc?si=hJw7fdcwgGEMoOYb)
 | Eclipse Enclave project – Agentic AI and regulatory compliance in practice |	Philip Langer, EclipseSource | [Slides](3.2.%20Philip%20Langer%20-%20Eclipse%20Enclave%20project%20-%20Agentic%20AI%20and%20regulatory%20compliance%20in%20practice.pdf) | [YouTube](https://youtu.be/w3qzIW1lpR8?si=aAM_xn_MQCQP6Qxb)
 | Code, Weights, and Regulation: The New Blueprint for Open AI Security |	Panel Discussion |  | [YouTube](https://youtu.be/I1D9nGpbkxA?si=5e74s22bCcbPblfR)
 | Physical machinery documentation turned into compliance assets – Enduradocs case |	Merzough Münker, EnduraDocs | [Slides](4.1.%20Merzough%20Muenker%20-%20Physical%20machinery%20documentation%20turned%20into%20compliance%20assets%20-%20Enduradocs%20case.pdf) | [YouTube](https://youtu.be/APKaQNbndQw?si=TKFOP3kTfRPKe4kD)
