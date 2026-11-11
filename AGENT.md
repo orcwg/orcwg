@@ -29,6 +29,14 @@ Address the draft to the group's mailing list. Find it in this repository: the "
 
 - **Follow the group, not the generic template.** Groups differ in file names, section headings ("Participants" or "Attendees", "Minutes" or "Notes"), and agenda table layout. Copy the group's own `yyyy-mm-dd-mom-*.md` template if its `minutes/` folder has one, and match the group's most recent minutes file. Use `templates/meeting-notes.md` only when the group has neither.
 - **Link with absolute URLs** (`https://github.com/orcwg/orcwg/blob/main/…`) to other minutes, so the links work from email, calendar invites, and Google Docs.
+- **No links in headings.** When an agenda topic carries a link, keep the heading to the topic's name and put the link in the first bullet under it:
+
+  ```markdown
+  ### AI section in the FAQ
+
+  - Pull request: [cra-hub PR #353](https://github.com/orcwg/cra-hub/pull/353)
+  ```
+
 - **Participants** are written `Name (Affiliation)`, one per line, in the order given. Leave the affiliation out when none was given; don't guess one.
 - **Don't invent.** Record only what the facilitator's notes say. When an agenda topic has no notes, or the notes point to something you don't have ("see links"), ask, or leave it out and say so in your reply. Look links up at their source and check they resolve before adding them.
 - **Tidy, don't rewrite.** Fix typos and grammar and turn fragments into sentences. Keep the substance and the level of detail. Don't attribute comments to individuals; naming who presented a topic or owns an action item is fine.
@@ -55,7 +63,7 @@ The facilitator pastes or attaches the notes taken during the call, usually a Go
 
 1. Edit the agenda file of that call: set `Status: 📝 Draft`, and keep the agenda table as it was.
 2. Add the participants.
-3. Write the minutes under one heading per agenda topic, in agenda order, reusing the agenda wording. Put topics raised outside the agenda under "AOB".
+3. Write the minutes under one heading per agenda topic, in agenda order, reusing the agenda wording without its links (see [Conventions](#conventions)). Put topics raised outside the agenda under "AOB".
 4. For an agenda topic that wasn't addressed, write "Not addressed. Carried over to next call." and add the topic to the next agenda. Confirm with the facilitator first if the notes don't say what happened.
 5. List the action items with their owner (`- [ ] Owner to do something.`). Write "None recorded." when there are none. Commitments made in the notes ("X hopes to ship this week") are action items: propose them.
 6. Tick the pending action items the notes report as done.
