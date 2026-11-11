@@ -13,11 +13,11 @@ The rules themselves live elsewhere. Read them before you start, and don't resta
 
 | Request | What you produce |
 | --- | --- |
-| "Agenda for the next call: …" | A new agenda file ([Draft the next agenda](#draft-the-next-agenda)) |
+| "Here are the notes from the call" | Draft minutes, and the agenda file for the next call ([Turn notes into minutes](#turn-notes-into-minutes)) |
+| "Email to share the minutes with the list" | An email draft ([Email to share the minutes](#email-to-share-the-minutes)) |
+| "Add to the agenda of the next call: …" | Topics added to the next agenda ([Draft the next agenda](#draft-the-next-agenda)) |
 | "Announce the next call" | An email draft ([Call announcement](#call-announcement-email)) |
 | "Notes doc for the call" | Markdown to paste into Google Docs ([Live notes skeleton](#live-notes-skeleton)) |
-| "Here are the notes from the call" | Draft minutes ([Turn notes into minutes](#turn-notes-into-minutes)) |
-| "Announce the minutes" | An email draft ([Minutes announcement](#minutes-announcement-email)) |
 
 Emails and the notes skeleton are text for the facilitator to copy: give them in your reply, in a fenced block, and don't commit them. You never send email.
 
@@ -33,7 +33,9 @@ Emails and the notes skeleton are text for the facilitator to copy: give them in
 
 ## Draft the next agenda
 
-1. Work out the date from the group's cadence in `MEETINGS.md` and the date of the last call. Say which date you picked; calls get skipped or moved.
+The agenda file for the next call is created at the same time as the minutes of the past call are added, in the same pull request ([Turn notes into minutes](#turn-notes-into-minutes)). When the facilitator gives you topics later, add them to that file; create it only if it doesn't exist yet.
+
+1. Work out the date from the group's cadence in `MEETINGS.md` and the date of the last call. Check it against the common holidays that affect North America and the EU (for example Christmas and New Year, Easter Monday, 1 May, Ascension Day, Whit Monday, Thanksgiving in the US and Canada, 4 July, Labor Day, and the August summer break) and flag a clash instead of moving the call yourself. Say which date you picked; calls get skipped or moved.
 2. Create `YYYY-MM-DD-mom-[group].md` in the group's `minutes/` folder with `Status: 🗓️ Proposed agenda`.
 3. Fill the agenda table with:
    - the group's standing items (for example: welcome and approve agenda, approve minutes, pending action items, AOB);
@@ -54,7 +56,7 @@ The facilitator pastes or attaches the notes taken during the call, usually a Go
 5. List the action items with their owner (`- [ ] Owner to do something.`). Write "None recorded." when there are none. Commitments made in the notes ("X hopes to ship this week") are action items: propose them.
 6. Tick the pending action items the notes report as done.
 7. If the notes record that earlier minutes were approved, set those files to `Status: ✅ Approved` and add `Approved: YYYY-MM-DD` with the date of the call that approved them.
-8. Create or update the next agenda so that it holds the carried-over topics and open action items ([Draft the next agenda](#draft-the-next-agenda)).
+8. Create the agenda file for the next call in the same change, holding the standing items, the carried-over topics, and the open action items ([Draft the next agenda](#draft-the-next-agenda)).
 
 Put the minutes, the approvals, and the next agenda in one pull request titled `[Group]: YYYY-MM-DD minutes and YYYY-MM-DD agenda`. Open it when the facilitator asks. Minutes are merged as drafts; they are approved at the next call.
 
@@ -120,9 +122,9 @@ Agenda: [URL of the agenda file on main]
 * [ ] Owner to do something.
 ```
 
-## Minutes announcement email
+## Email to share the minutes
 
-Draft it once the pull request with the draft minutes is merged, not before: the link must point to the file on `main`. Summarise the call in a few bullets taken from the minutes, list the action items with their owners, and give the date of the call at which the minutes will be approved. Plain text, full URLs.
+An email that shares the draft minutes with the group's mailing list. Draft it once the pull request with the draft minutes is merged, not before: the link must point to the file on `main`. Summarise the call in a few bullets taken from the minutes, list the action items with their owners, and give the date of the call at which the minutes will be approved. Plain text, full URLs.
 
 ```text
 Subject: [Group] minutes of [D Month YYYY] (draft)
