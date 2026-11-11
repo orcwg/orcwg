@@ -19,7 +19,11 @@ The rules themselves live elsewhere. Read them before you start, and don't resta
 | "Announce the next call" | An email draft ([Call announcement](#call-announcement-email)) |
 | "Notes doc for the call" | Markdown to paste into Google Docs ([Live notes skeleton](#live-notes-skeleton)) |
 
-Emails and the notes skeleton are text for the facilitator to copy: give them in your reply, in a fenced block, and don't commit them. You never send email.
+Emails and the notes skeleton are text for the facilitator to copy: give them in your reply, in a fenced block, and don't commit them.
+
+If the facilitator has an email tool connected (a plugin, connector, or the like), you can also save the email as a draft in their mailbox. Create a draft only: you never send email, even when asked to, and you say in your reply that the draft is waiting for them to review and send.
+
+Address the draft to the group's mailing list. Find it in this repository: the "Get involved" section of [`README.md`](README.md), the group's landing page, and its past minutes. An Eclipse list named `list-name` is written to at `list-name@eclipse.org`. Say which address you used and where you found it; leave the recipient empty if you can't tell which list the group uses.
 
 ## Conventions
 
