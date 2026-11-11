@@ -129,7 +129,16 @@ Agenda: [URL of the agenda file on main]
 
 ## Email to share the minutes
 
-An email that shares the draft minutes with the group's mailing list. Draft it once the pull request with the draft minutes is merged, not before: the link must point to the file on `main`. Summarise the call in a few bullets taken from the minutes, list the action items with their owners, and give the date of the call at which the minutes will be approved. Keep to what a reader who missed the call needs: decisions, progress, and requests for help. Leave out routine procedure (agenda approved, previous minutes approved, no pending action items) unless something notable happened, such as an objection or minutes that weren't approved. Plain text, full URLs.
+An email that shares the draft minutes with the group's mailing list. Draft it once the pull request with the draft minutes is merged, not before: the link must point to the file on `main`.
+
+Keep it compact: the email points to the minutes, it doesn't repeat them.
+
+- **"In short"**: three or four bullets at most, one short line each, saying what was decided or where things stand. No figures, no sub-points, no explanation of how the work was done: that is what the minutes are for.
+- **"Where help is needed"**: only if the call asked the group for something. One line per request, saying what to do and where.
+- **"Action items"**: only if there are any, one line each with the owner.
+- **Leave out** routine procedure (agenda approved, previous minutes approved, no pending action items) and topics that weren't addressed, unless something notable happened, such as an objection or minutes that weren't approved.
+- **Links**: put them inline, as a Markdown link on the relevant word or as the URL in parentheses, and not in a sentence of their own. One link per bullet at most.
+- Close with how to send corrections and the date of the call at which the minutes will be approved.
 
 ```text
 Subject: [Group] minutes of [D Month YYYY] (draft)
@@ -141,14 +150,26 @@ The draft minutes of the [Group] call of [D Month YYYY] are published:
 
 In short:
 
-- [Outcome]
-- [Outcome]
+* [Outcome, with an inline [link](URL) if there is one to follow].
+* [Outcome].
+
+Where help is needed:
+
+* [What to do, and where (URL)].
 
 Action items:
 
-- [Owner] to [do something]
+* [Owner] to [do something].
 
 Corrections are welcome: reply to this email or open a pull request. The minutes will be proposed for approval at the next call, on [D Month YYYY].
 
 [Facilitator's first name]
+```
+
+For example, the "In short" of a call that covered a shipped feature, a long backlog update with statistics, and the next steps reads:
+
+```text
+* The guidance shorthand notation is now [integrated](https://github.com/orcwg/cra-hub/blob/main/faq/README.md#auto-linking-to-the-commissions-cra-guidance) in the FAQ.
+* Most of the FAQ issue backlog has been triaged.
+* Next steps: finish the manufacturer FAQs and improve how the information is organised.
 ```
