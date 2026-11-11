@@ -86,7 +86,7 @@ To add a topic, reply to this email or open a pull request against the agenda.
 
 ## Live notes skeleton
 
-Markdown the facilitator copies and pastes into the meeting's Google Doc with Edit → Paste from Markdown (turn it on under Tools → Preferences → Enable Markdown). Use one heading per agenda topic so that the notes come back already organised; write the headings without links or time slots. Prefill the pending action items, and the participants if the facilitator names them.
+Markdown the facilitator copies and pastes into the meeting's Google Doc with Edit → Paste from Markdown (turn it on under Tools → Preferences → Enable Markdown). Use one heading per agenda topic so that the notes come back already organised; write the headings without links or time slots. Prefill the pending action items, the facilitator as first attendee if you have their name (leave the placeholder line otherwise), and any other participants the facilitator names.
 
 ```markdown
 ## [Mon D, YYYY] | [Group]
@@ -95,6 +95,7 @@ Agenda: [URL of the agenda file on main]
 
 ### Attendees
 
+* [Facilitator's name (Affiliation)]
 * Name (Affiliation)
 
 ### Welcome & approve agenda
