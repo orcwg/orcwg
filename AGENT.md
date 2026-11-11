@@ -125,7 +125,7 @@ Agenda: [URL of the agenda file on main]
 
 ## Email to share the minutes
 
-An email that shares the draft minutes with the group's mailing list. Draft it once the pull request with the draft minutes is merged, not before: the link must point to the file on `main`. Summarise the call in a few bullets taken from the minutes, list the action items with their owners, and give the date of the call at which the minutes will be approved. Plain text, full URLs.
+An email that shares the draft minutes with the group's mailing list. Draft it once the pull request with the draft minutes is merged, not before: the link must point to the file on `main`. Summarise the call in a few bullets taken from the minutes, list the action items with their owners, and give the date of the call at which the minutes will be approved. Keep to what a reader who missed the call needs: decisions, progress, and requests for help. Leave out routine procedure (agenda approved, previous minutes approved, no pending action items) unless something notable happened, such as an objection or minutes that weren't approved. Plain text, full URLs.
 
 ```text
 Subject: [Group] minutes of [D Month YYYY] (draft)
