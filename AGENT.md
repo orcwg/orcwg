@@ -149,7 +149,7 @@ Keep it compact: the email points to the minutes, it doesn't repeat them.
 - Close with how to send corrections and the date of the call at which the minutes will be approved.
 
 ```text
-Subject: [Group] minutes of [D Month YYYY] (draft)
+Subject: [Group] draft minutes of [D Month YYYY]
 
 Hi all,
 
