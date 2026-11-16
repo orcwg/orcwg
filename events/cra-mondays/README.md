@@ -2,6 +2,48 @@
 
 ## Upcoming
 
+<a name="episode-23"></a>
+### November 23: From obligation to orientation: How the community makes CRA user information useful
+
+Starting December 2027, the EU Cyber Resilience Act (CRA) obliges manufacturers to supply “information and instructions to the user” with every digital product made available on the EU market. Whether this turns into real support for secure operation or into yet another leaflet nobody reads depends on how these manuals are designed, and on who sets the direction today. Sarah Fluchs, initiator of the Cyber Manual Movement (CMM), presents the community’s free, CRA-compliant template and the open ecosystem growing around it. It helps manufacturers write useful cyber manuals without much effort and gives users clear guidance for operating products securely.
+
+**Speaker:Dr.-Ing. Sarah Fluchs**
+
+<details>
+<summary>More info</summary>
+
+Sarah Fluchs is the CTO of admeritia, which specializes in
+cybersecurity consulting for the industry and critical infrastructures.
+As CTO, her responsibility is to keep the solutions all admeritia
+consultants and customers use at the industry’s bleeding edge.
+Sarah holds a PhD (Dr.-Ing.) in automation engineering, dedicated to
+bridging the gap between abstract cybersecurity theory and the
+practical, safety-critical realities of automation environments. Her
+thesis “Cybersecurity Decision Diagrams” laid the scientific
+foundation for the Security Engineering Tool (SET) and the Cyber
+Decision Diagrams – software that helps engineers integrate
+cybersecurity into their workflows and cybersecurity teams leverage
+engineering knowledge for their risk assessments.
+This combination of scientific rigor and engineering practice has
+made Sarah a trusted voice for the needs of engineers in the OT
+sector at the highest level of cybersecurity policymaking. The
+European Commission selected her as one of four independent
+experts to advise on implementing the Cyber Resilience Act. She
+served on Singapore's national OT Cybersecurity Expert Panel and
+has repeatedly taken leadership in international standardization.
+Currently, she serves as a Co-Convenor for the next edition of the
+ISA/IEC 62443-3-2 Standard on cybersecurity risk assessments. Her
+contributions to the automation industry were recognized by ISA by
+elevating her to the rank of an ISA Fellow, one of ISA’s highest
+honors.
+</details> 
+
+Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjExMjNUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+---
+
+## Previous episodes
+
 <a name="episode-22"></a>
 ### October 19: Introduction to Software bill of materials (SBOM): CRA Training Community Review
 
@@ -23,12 +65,6 @@ Olle E. Johanson is an experienced and appreciated speaker, teacher, Open Source
 
 Olle is project lead for OWASP Project Koala, developing the Transparency Exchange API (TEA), a member of the CycloneDX Industry Working Group and the OWASP SBOM Forum, co-founder of SBOMEurope.eu, and a leader of the DNS TAPIR Open Source project. While not trying to save the world with SBOMs, he helps clients on their journey towards CRA compliance as a consultant with his company, Edvina AB.
 </details> 
-
-Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjEwMTJUMTUwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&amp;tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
----
-
-## Previous episodes
 
 <a name="episode-21"></a>
 ### September 28: Implementing Decentralized Digital Technical Product Documentation: CRA meets Machinery Regulation 
