@@ -62,6 +62,18 @@ Both acts define "substantial modification", and the definitions differ. Under t
 
 "Deployer" is defined in the AI Act ([Art 3(4)][ai3]) and excludes personal, non-professional use. The CRA uses "user" without defining it as a role. A person who uses a product at home is a user under the CRA and not a deployer under the AI Act.
 
+### Three levels: the model, the component and the product
+
+The acts treat three different things that people call "an open-weights AI model" in practice. The text of this section comes from Juan Rico's review of this paper; the provisions cited were checked against the Official Journal texts.
+
+| Level | What it is | CRA | AI Act |
+|---|---|---|---|
+| **1. Open-weights AI model** | Static files: trained parameters (weights), the architecture definition and the tokenizer and preprocessing files. No runtime and no interface; it cannot process inputs or produce outputs on its own | No text on models or weights. Software supplied outside a commercial activity is outside the CRA ([Article 2(1)][cra2], [Article 3(22)][cra3], [Recital 18][craR18]) | [Recital 97][aiR97]: a model is not an AI system and needs further components. [Art 3(63)][ai3]: defines the general-purpose AI model. [Art 53(2)][ai53] and [Recital 104][aiR104]: a model released under a free and open-source licence with public weights, architecture and usage information is exempt from Art 53(1)(a) and (b), unless it carries systemic risk ([Art 51][ai51]) |
+| **2. Software component running an open-weights model** | Executable software that joins the weights to an inference engine, runtime libraries, memory management and local interfaces, so that it loads the weights, runs inference and processes inputs and outputs | A software component placed on the market separately is a product with digital elements ([Article 3(1)][cra3]). The steward regime applies to a steward that supports it ([Article 3(14)][cra3], [Article 24][cra24]). Free and open-source software supplied outside a commercial activity is excluded ([Article 2(1)][cra2], [Recital 18][craR18]) | No legal category for an inference runtime or wrapper. The Act defines the model ([Recital 97][aiR97]) and the complete system ([Art 3(1)][ai3]) |
+| **3. Product integrating the component** | A device, application or remote data processing service placed on the market for end users that combines the inference component, the weights, application logic, interfaces and connectivity | The finished product with digital elements and its manufacturer ([Article 3(1)][cra3], [Article 3(13)][cra3]). [Article 13(5)][cra13] governs integrating third-party components, free and open-source ones included. [Article 12(1)][cra12] covers products that are high-risk AI systems | The AI system and its provider ([Art 3(1) and 3(3)][ai3]). High-risk systems ([Art 6][ai6]) and their cybersecurity requirements ([Art 15][ai15]), linked to the CRA through [Article 12(1)][cra12] |
+
+Duties follow the level. At level 1 the open-weights model leaves the CRA's manufacturer duties out and meets the AI Act as a general-purpose AI model, with the exemption above. At level 2 the CRA applies to the component when it is placed on the market separately in the course of a commercial activity, and the AI Act has nothing specific to say. At level 3 both acts apply in full, and the manufacturer's due diligence on the level 2 component is the route by which the level 1 model enters the product ([meeting point 2](#2-components-including-third-party-models)).
+
 ## Do both acts apply?
 
 ```mermaid
@@ -227,14 +239,36 @@ An integrator can study an open-source library from its public development recor
 
 ## When each part applies
 
-The CRA applies from 11 December 2027 ([Article 71][cra71]). Its rules on notified bodies (Chapter IV) have applied since 11 June 2026, and its reporting duties ([Article 14][cra14]) since 11 September 2026. Under the AI Act, the prohibitions and AI literacy have applied since 2 February 2025 and the duties for general-purpose AI models since 2 August 2025. Most of the rest, including Art 50, has applied since 2 August 2026. The [Digital Omnibus on AI][omnibus] moved four dates:
+This section groups the dates by case and by profile. The dates themselves come from the Official Journal texts of the CRA ([Article 71][cra71]) and the AI Act ([Art 113][omnibus], as amended by the [Digital Omnibus on AI][omnibus]).
+
+### By case
+
+| Case | CRA | AI Act |
+|---|---|---|
+| **Open-weights model released by its provider** (level 1) | Not covered as such | General-purpose AI model duties have applied since 2 August 2025, with the open-source exemption of [Art 53(2)][ai53] |
+| **Component running a model, placed on the market separately** (level 2) | Applies from 11 December 2027. [Article 14][cra14] reporting applies from 11 September 2026. Stewards: [Article 24][cra24] | No category of its own |
+| **Product with an AI feature that is not high-risk** (level 3) | Applies from 11 December 2027; [Article 14][cra14] reporting from 11 September 2026 | The prohibitions and AI literacy have applied since 2 February 2025. [Art 50][ai50] has applied since 2 August 2026, and the marking of [Art 50(2)][ai50] applies from 2 December 2026 to generative systems placed on the market before 2 August 2026 |
+| **Product that is a high-risk AI system** (level 3) | Applies from 11 December 2027; [Article 12][cra12] links it to AI Act Art 15 | High-risk requirements apply from 2 December 2027 for Annex III systems and from 2 August 2028 for Annex I systems |
+| **Product already on the market before those dates** | Falls under the CRA only after a substantial modification from 11 December 2027, but [Article 14][cra14] reporting applies to it from 11 September 2026 ([Article 69][cra69]) | A high-risk system falls under the AI Act only if its design changes significantly from that date ([Art 111(2)][omnibus]) |
+
+### By profile
+
+| Profile | Applies from |
+|---|---|
+| Manufacturer | CRA: 11 December 2027, with [Article 14][cra14] reporting from 11 September 2026. The CRA's rules on notified bodies (Chapter IV) have applied since 11 June 2026 |
+| Provider of an AI system | Prohibitions and AI literacy since 2 February 2025; [Art 50][ai50] since 2 August 2026; high-risk duties from 2 December 2027 (Annex III) or 2 August 2028 (Annex I) |
+| Deployer | The same dates as the provider for high-risk systems; [Art 50][ai50] where it applies |
+| Provider of a general-purpose AI model | Since 2 August 2025 |
+| Open-source software steward | CRA [Article 24][cra24], from 11 December 2027; [Article 14][cra14] duties to the extent of [Article 24(3)][cra24] from 11 September 2026 |
+
+### Dates the Digital Omnibus on AI moved
+
+The [Digital Omnibus on AI][omnibus] moved four dates:
 
 - the new prohibitions in Art 5(1)(ba) and (bb), with Art 5(1a) and (1b), apply from 2 December 2026;
 - Art 50(2) marking applies from 2 December 2026 to generative systems placed on the market before 2 August 2026;
 - each Member State's AI regulatory sandbox ([Art 57][omnibus]) has to be operational by 2 August 2027;
 - the high-risk requirements apply from 2 December 2027 for Annex III systems and from 2 August 2028 for Annex I systems.
-
-Products placed on the market before 11 December 2027 fall under the CRA only if they are substantially modified from that date, but [Article 14][cra14] reporting applies to them from 11 September 2026 ([Article 69][cra69]). High-risk AI systems placed on the market before their date fall under the AI Act only if their design changes significantly from that date ([Art 111(2)][omnibus]).
 
 ## Open questions
 
@@ -383,3 +417,9 @@ For more information, visit [orcwg.org](https://orcwg.org).
 [craAVII]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#anx_VII
 [craR39]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#rct_39
 [craR51]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#rct_51
+[cra2]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#art_2
+[craR18]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#rct_18
+[aiR97]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#rct_97
+[aiR104]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#rct_104
+[ai6]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#art_6
+[ai51]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#art_51
