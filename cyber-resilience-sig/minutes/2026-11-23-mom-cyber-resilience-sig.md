@@ -16,7 +16,7 @@ Date: 2026-11-23
 | 20 |  | |
 | 25 |  | |
 | 30 |  | |
-| 35 |  FOSSDEM planning update| |
+| 35 |  FOSDEM planning update| |
 | 40 |  | |
 | 45 | | | 
 | 50 |  Marketing update | |
