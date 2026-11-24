@@ -3,14 +3,33 @@
 ## Upcoming
 
 <a name="episode-23"></a>
-### November 23: From obligation to orientation: How the community makes CRA user information useful
+### November 30: Hacking the EU standards system: Fast, pragmatic paths to CRA presumption of conformity
 
-Starting December 2027, the EU Cyber Resilience Act (CRA) obliges manufacturers to supply “information and instructions to the user” with every digital product made available on the EU market. Whether this turns into real support for secure operation or into yet another leaflet nobody reads depends on how these manuals are designed, and on who sets the direction today. Sarah Fluchs, initiator of the Cyber Manual Movement (CMM), presents the community’s free, CRA-compliant template and the open ecosystem growing around it. It helps manufacturers write useful cyber manuals without much effort and gives users clear guidance for operating products securely.
+The CRA standards in development by the ESOs are behind schedule, incomplete, and may not be harmonized. Fortunately, there are several alternative paths to producing technical specifications and standards that provide presumption of conformity. This talk will describe how to quickly write FOSS-related CRA technical specification and standards using these alternatives, and specifically how to carry out two potential projects: a horizontal standard describing how to implement the CRA’s “due diligence” requirement on FOSS components, and a vertical standard for embedded Linux that covers only the use cases of the participating organizations.
 
-**Speaker:Dr.-Ing. Sarah Fluchs**
+**Speaker: Valerie Aurora**
 
 <details>
 <summary>More info</summary>
+
+Valerie is a CRA expert and a standards consultant. She has been a FOSS developer since 1998, working on the Linux kernel, file systems, and networking. She managed the development of five CRA product-specific standards as lead rapporteur, project manager, and/or contributor, as well as leading the development of the overall structure of CRA product-specific standards. Valerie served as co-lead rapporteur for the ETSI CRA Operating Systems vertical standard until January 2026.
+</details> 
+
+Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjEyMDdUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+---
+
+## Previous episodes
+
+<a name="episode-23"></a>
+### November 23: From obligation to orientation: How the community makes CRA user information useful
+
+Starting December 2027, the EU Cyber Resilience Act (CRA) obliges manufacturers to supply “information and instructions to the user” with every digital product made available on the EU market. Whether this turns into real support for secure operation or into yet another leaflet nobody reads depends on how these manuals are designed, and on who sets the direction today. Sarah Fluchs, initiator of the Cyber Manual Movement (CMM), presents the community’s free, CRA-compliant template and the open ecosystem growing around it. It helps manufacturers write useful cyber manuals without much effort and gives users clear guidance for operating products securely. ([video](https://youtu.be/Vvi_isOIxQA)) 
+
+<details>
+<summary>More info</summary>
+
+**Speaker:Dr.-Ing. Sarah Fluchs**
 
 Sarah Fluchs is the CTO of admeritia, which specializes in
 cybersecurity consulting for the industry and critical infrastructures.
@@ -37,12 +56,6 @@ contributions to the automation industry were recognized by ISA by
 elevating her to the rank of an ISA Fellow, one of ISA’s highest
 honors.
 </details> 
-
-Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGo1YWhzZ3YydG1rb2dmZzVrcGcxZnEzdGpfMjAyNjExMjNUMTYwMDAwWiBjXzdkYjhlM2YxM2M0ZmFjOTg0MTAzOTE4YTk3YzcwNGJiMWQ2MTlkYTBmZGI2NmQzM2YxNzQ3ODQ5YjYwMjBhZWFAZw&tmsrc=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
----
-
-## Previous episodes
 
 <a name="episode-22"></a>
 ### October 19: Introduction to Software bill of materials (SBOM): CRA Training Community Review
