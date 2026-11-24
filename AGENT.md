@@ -98,7 +98,16 @@ To add a topic, reply to this email or open a pull request against the agenda.
 
 ## Live notes skeleton
 
-Markdown the lead copies and pastes into the meeting's Google Doc with Edit → Paste from Markdown (turn it on under Tools → Preferences → Enable Markdown). Use one heading per agenda topic so that the notes come back already organised; write the headings without links or time slots. Prefill the pending action items, the lead as first attendee if you have their name (leave the placeholder line otherwise), and any other participants the lead names.
+Markdown the lead copies and pastes into the meeting's Google Doc with Edit → Paste from Markdown (turn it on under Tools → Preferences → Enable Markdown). Use one heading per agenda topic so that the notes come back already organised; write the headings without links or time slots. Prefill:
+
+- the lead as first attendee if you have their name (leave the placeholder line otherwise), and any other participants the lead names;
+- under "Approve minutes", a link to every minutes file the agenda proposes for approval, so that attendees can open them from the notes;
+- under any other topic whose agenda entry carries a link, that link as the first bullet;
+- under "Pending action items", the open action items of the previous minutes, or the single line "None." when there are none.
+
+Leave "Action items" with an empty bullet: don't prefill it with an example or placeholder item.
+
+Write every empty bullet as an asterisk followed by a space (`* `): Google Docs ignores a bare `*` when pasting from Markdown. The empty bullets in the skeleton below carry that trailing space; keep it.
 
 ```markdown
 ## [Mon D, YYYY] | [Group]
@@ -112,11 +121,12 @@ Agenda: [URL of the agenda file on main]
 
 ### Welcome & approve agenda
 
-*
+* 
 
 ### Approve minutes
 
-*
+* Minutes to approve: [YYYY-MM-DD](URL of the minutes file on main)
+* 
 
 ### Pending action items
 
@@ -124,15 +134,16 @@ Agenda: [URL of the agenda file on main]
 
 ### [Topic]
 
-*
+* [Link type]: [link text](URL)
+* 
 
 ### AOB
 
-*
+* 
 
 ### Action items
 
-* [ ] Owner to do something.
+* 
 ```
 
 ## Email to share the minutes
