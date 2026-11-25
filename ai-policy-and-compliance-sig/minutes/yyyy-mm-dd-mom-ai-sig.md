@@ -23,10 +23,10 @@ Date: yyyy-mm-dd
 
 
 ## Participants 
- - Participant1 (Affiliation1)
- - Participant2 (Affiliation2)
- - Participant3 (Affiliation3)
- - ...
- - ParticipantN (AffiliationN)
+ * Participant1 (Affiliation1)
+ * Participant2 (Affiliation2)
+ * Participant3 (Affiliation3)
+ * ...
+ * ParticipantN (AffiliationN)
 
 ## Notes
