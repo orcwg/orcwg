@@ -47,10 +47,10 @@ The SIG's starting question was "is CRA for models even possible?" (agenda of 7 
 
 There are four ways in:
 
-1. **[Do both acts apply?](#do-both-acts-apply)** A decision diagram that routes you to the meeting points that matter.
+1. **[Do both acts apply?](#do-both-acts-apply)** A decision diagram that routes the reader to the meeting points that matter.
 2. **[From the CRA](#from-the-cra)**, the default. Start from a CRA article or Annex I requirement and find its AI Act counterpart.
 3. **[From the AI Act](#from-the-ai-act)**. Start from an AI Act article and find its CRA counterpart.
-4. **[By role](#by-role)**. Start from your own role, or from the role of a party you depend on or instruct.
+4. **[By role](#by-role)**. Start from the reader's own role, or from the role of a party the reader depends on or instructs.
 
 Each route ends at one of the [eight meeting points](#the-meeting-points), where duties are split by role. The table cells are summaries. Whether a duty applies to a given product depends on the conditions in the cited provisions, so read the provision before relying on a cell.
 
@@ -81,17 +81,17 @@ Duties follow the level. At level 1 the CRA has no text on models, and software 
 ```mermaid
 flowchart TD
     pde{"Is it a product with digital elements in CRA scope<br/>(Article 2) and made available on the EU market?"}
-    steward{"Are you an open-source software steward<br/>for it (CRA Article 3(14))?"}
+    steward{"Is the reader an open-source software steward<br/>for it (CRA Article 3(14))?"}
     noCRA["CRA does not apply.<br/>Check AI Act Article 2 on its own."]
     stewardMP["CRA Article 24.<br/>Meeting point 8."]
     ai{"Does it contain or call<br/>an AI system or AI model?"}
     craonly["CRA only"]
-    role{"Your role under the AI Act"}
+    role{"The reader's role under the AI Act"}
     provider{"Is the AI system high-risk under AI Act Article 6:<br/>an Annex III use (unless Article 6(3) applies), or a safety<br/>component of, or itself, a product under Annex I legislation<br/>that needs a third-party conformity assessment?<br/>The CRA is not in Annex I."}
     hr["All eight meeting points can apply.<br/>CRA Article 12 and AI Act Article 42(3)<br/>link the cybersecurity requirements."]
-    nothr["CRA where it applies. From the AI Act, Articles 4 and 5,<br/>Article 50 if the system talks to people or generates content,<br/>and Articles 6(4) and 49(2) for an Annex III system you<br/>assess as not high-risk. Meeting points 2, 6, 7 and 8."]
-    integrator["Meeting point 2, components,<br/>plus the rows for your own role."]
-    deployer["AI Act Article 26 if high-risk;<br/>Article 50 where it applies.<br/>Meeting points 3, 4 and 6;<br/>7 if you modify the product."]
+    nothr["CRA where it applies. From the AI Act, Articles 4 and 5,<br/>Article 50 if the system talks to people or generates content,<br/>and Articles 6(4) and 49(2) for an Annex III system the reader<br/>assesses as not high-risk. Meeting points 2, 6, 7 and 8."]
+    integrator["Meeting point 2, components,<br/>plus the rows for the reader's own role."]
+    deployer["AI Act Article 26 if high-risk;<br/>Article 50 where it applies.<br/>Meeting points 3, 4 and 6;<br/>7 if the reader modifies the product."]
     gpai["AI Act Article 53, and Article 55 if the<br/>model has systemic risk (Article 51).<br/>Meeting points 2, 4, 5 and 8."]
 
     pde -- No --> steward
@@ -284,18 +284,18 @@ Each of these is a point where the texts do not settle the answer. The meeting p
 4. **Nine days in December 2027.** The AI Act's high-risk duties for Annex III systems apply from 2 December 2027, and the CRA from 11 December 2027 ([Article 71][cra71]). Products placed on the market before 11 December 2027 fall under the CRA's requirements, other than Article 14, only after a substantial modification ([Article 69][cra69]). Neither text says what a provider of a product placed in that window can rely on from the CRA side while the route of [Article 12][cra12] is not yet available to it. The AI Act's own routes remain open to it ([Art 40][ai40], [Art 42(2)][ai42], [Art 43][ai43]).
 5. **Security retraining.** Whether a planned security retraining can be documented in advance under AI Act Annex IV point 2(f), so that it is not a substantial modification, is not settled ([meeting point 7](#7-updates-and-changes)).
 
-## What the next revisions need
+## Questions for the guidance and the standards
 
 The SIG's discussions since September raised these questions. This paper does not answer them. Each is a question for the Commission's guidance and the harmonised standards, and the SIG's part is to put it to them.
 
-1. **Integrity of a model you cannot inspect.** A backdoor planted through training data is "computationally impossible to find without access to the training data" ([CISA, open source software security principles][cisa oss], August 2026). It shows itself only when it is triggered, and the weights alone do not reveal it. So the evidence for an integrated model moves from scanning the model to recording what it does: the run-time records of meeting point 3, and repeat evaluations against a fixed test set. Neither act says what a repeat-evaluation record for an integrated model should hold. The AI Act lists the content of testing records for a high-risk system's technical documentation (Annex IV point 2(g)) and for a general-purpose model with systemic risk (Annex XI, Section 2), and the CRA lists none.
+1. **Integrity of a model that cannot be inspected.** A backdoor planted through training data is "computationally impossible to find without access to the training data" ([CISA, open source software security principles][cisa oss], July 2026). It shows itself only when it is triggered, and the weights alone do not reveal it. So the evidence for an integrated model moves from scanning the model to recording what it does: the run-time records of meeting point 3, and repeat evaluations against a fixed test set. Neither act says what a repeat-evaluation record for an integrated model should hold. The AI Act lists the content of testing records for a high-risk system's technical documentation (Annex IV point 2(g)) and for a general-purpose model with systemic risk (Annex XI, Section 2), and the CRA lists none.
 2. **Replacing a model, and models behind an endpoint.** A product can swap its model, or call one that a provider changes behind a stable name, with nothing in the build. A record made before the swap could state the capability apart from any model, a pass threshold for each metric, and a digest of the evaluation set, with a held-out part kept by an assessor. A later run is then checked against that record. For a hosted endpoint, the record can bind the requests, the responses, the time and the score, but not the identity of the model. Which of these a manufacturer's [Article 13(5)][cra13] due diligence can rely on is a question for the Commission guidance and the harmonised standards.
 3. **Edits to the weights.** A small edit to a model's weights can change its behaviour with no new training. The Commission's guidelines for general-purpose AI model providers treat a modifier as a provider above an indicative one third of the original training compute, so such an edit leaves the duties with the original provider. In a high-risk system the same edit can be a substantial modification ([meeting point 7](#7-updates-and-changes)). Neither act asks for the weight difference itself, and whether it should be kept is a question for the same guidance.
 4. **Logs an outsider can check.** The AI Act gives an authority the logs "to the extent such logs are under their control" (Arts 19(1), 21(2) and 26(6)). The CRA gives it the documentation and data it needs to assess conformity ([Article 13(22)][cra13], [Article 53][cra53]) and has no rule on logs. In both, the authority reads what the holder keeps ([meeting point 3](#3-recording-activity)). What would make a log export checkable by someone who does not trust its holder, for example a reference kept with a third party at the time of recording, is a question for the logging standard and the guidance.
-5. **One event, two reports.** A single incident can trigger CRA [Article 14][cra14] and AI Act [Art 73][ai73] ([meeting point 4](#4-reporting)). A shared record of the event, from which both notices are written, would let the receiving authorities compare them.
-6. **Standards.** The harmonised standards for both acts are still being drafted. The [minutes of 2 November][min1102] record that two CENELEC standards for the AI Act, on logging and on risk, were rejected internally in CENELEC. The SIG can feed this paper's meeting points into the next drafts of both, so that a single test can show conformity under both acts.
+5. **One event, two reports.** A single incident can trigger CRA [Article 14][cra14] and AI Act [Art 73][ai73] ([meeting point 4](#4-reporting)). A shared record of the event, from which both notices are written, would let the receiving authorities compare them. Whether one record of the event may serve both notices is a question for the guidance.
+6. **Standards.** The harmonised standards for both acts are still being drafted. The [minutes of 2 November][min1102] record that two CENELEC standards for the AI Act, on logging and on risk, were rejected internally in CENELEC. These meeting points are an input to the next drafts of both. Whether one test can show conformity under both acts is a question for the standardisation bodies.
 
-Once a standard states what a record must show, a shared, versioned set of test cases that projects run in their own CI would let a manufacturer show an authority that its records meet that check. The [Specifications and tools](#specifications-and-tools) list gives examples, none of them required by either act.
+The [Specifications and tools](#specifications-and-tools) list gives examples of test suites, none of them required by either act.
 
 ## Planned sections
 
@@ -321,7 +321,7 @@ These are examples, not requirements. Neither act names a tool for the points be
 1. Regulation (EU) 2024/2847 (Cyber Resilience Act), [Official Journal][CRA].
 1. Regulation (EU) 2024/1689 (AI Act), [Official Journal][AI Act].
 1. Regulation (EU) 2026/1744 (Digital Omnibus on AI), [Official Journal][omnibus].
-1. CISA, [Open source software security principles and practices][cisa oss], August 2026.
+1. CISA, [Open source software security principles and practices][cisa oss], July 2026.
 1. G7 Cybersecurity Working Group, [SBOM for AI: Minimum Elements][G7 SBOM], 2026.
 1. CISA, [2026 Minimum Elements for a Software Bill of Materials][cisa sbom].
 1. [CycloneDX ML-BOM][mlbom] and [SPDX 3.0.1 AI profile][spdxai].
