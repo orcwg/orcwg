@@ -142,7 +142,7 @@ The roles are not exclusive. A manufacturer that trains its own model and also u
 
 The first three rows are manufacturers. The others are the roles a manufacturer meets: the deployer it writes instructions for, the provider of a model it relies on, the steward of the software it integrates, and the person who uses its product.
 
-| You are | CRA role | AI Act role | Meeting points |
+| Reader is | CRA role | AI Act role | Meeting points |
 |---|---|---|---|
 | A maker of a product that is a high-risk AI system | Manufacturer | Provider | 1 to 8 |
 | A maker of a product with an AI feature that is not high-risk | Manufacturer | Provider; Arts 4 and 5 apply, and Art 50 where it fits | 2, 6, 7, 8 |
@@ -286,7 +286,7 @@ Each of these is a point where the texts do not settle the answer. The meeting p
 
 ## Questions for the guidance and the standards
 
-The SIG's discussions since September raised these questions. This paper does not answer them. Each is a question for the Commission's guidance and the harmonised standards, and the SIG's part is to put it to them.
+The SIG's discussions since September raised these questions. This paper does not answer them. Each is a question for the Commission's guidance and the harmonised standards.
 
 1. **Integrity of a model that cannot be inspected.** A backdoor planted through training data is "computationally impossible to find without access to the training data" ([CISA, open source software security principles][cisa oss], July 2026). It shows itself only when it is triggered, and the weights alone do not reveal it. So the evidence for an integrated model moves from scanning the model to recording what it does: the run-time records of meeting point 3, and repeat evaluations against a fixed test set. Neither act says what a repeat-evaluation record for an integrated model should hold. The AI Act lists the content of testing records for a high-risk system's technical documentation (Annex IV point 2(g)) and for a general-purpose model with systemic risk (Annex XI, Section 2), and the CRA lists none.
 2. **Replacing a model, and models behind an endpoint.** A product can swap its model, or call one that a provider changes behind a stable name, with nothing in the build. A record made before the swap could state the capability apart from any model, a pass threshold for each metric, and a digest of the evaluation set, with a held-out part kept by an assessor. A later run is then checked against that record. For a hosted endpoint, the record can bind the requests, the responses, the time and the score, but not the identity of the model. Which of these a manufacturer's [Article 13(5)][cra13] due diligence can rely on is a question for the Commission guidance and the harmonised standards.
