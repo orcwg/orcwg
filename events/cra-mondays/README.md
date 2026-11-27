@@ -24,7 +24,7 @@ Add to calendar: <a target="_blank" href="https://calendar.google.com/calendar/e
 <a name="episode-23"></a>
 ### November 23: From obligation to orientation: How the community makes CRA user information useful
 
-Starting December 2027, the EU Cyber Resilience Act (CRA) obliges manufacturers to supply “information and instructions to the user” with every digital product made available on the EU market. Whether this turns into real support for secure operation or into yet another leaflet nobody reads depends on how these manuals are designed, and on who sets the direction today. Sarah Fluchs, initiator of the Cyber Manual Movement (CMM), presents the community’s free, CRA-compliant template and the open ecosystem growing around it. It helps manufacturers write useful cyber manuals without much effort and gives users clear guidance for operating products securely. ([video](https://youtu.be/Vvi_isOIxQA)) 
+Starting December 2027, the EU Cyber Resilience Act (CRA) obliges manufacturers to supply “information and instructions to the user” with every digital product made available on the EU market. Whether this turns into real support for secure operation or into yet another leaflet nobody reads depends on how these manuals are designed, and on who sets the direction today. Sarah Fluchs, initiator of the Cyber Manual Movement (CMM), presents the community’s free, CRA-compliant template and the open ecosystem growing around it. It helps manufacturers write useful cyber manuals without much effort and gives users clear guidance for operating products securely. ([video](https://youtu.be/Vvi_isOIxQA) | [slides](2026-11-23-Sarah-Fluchs.pdf))
 
 <details>
 <summary>More info</summary>
