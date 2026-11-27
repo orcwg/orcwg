@@ -16,7 +16,7 @@ The [AI SIG][SIG] will focus on deliverables necessary to help open source commu
 | 🚀 | 2.1 [Feedback for the ENISA consultation on secure-by-design AI-assisted software development][deliverable-2-1] | [AI SIG][SIG] | Ciaran | October 15, 2026 | October 22, 2026 |
 | | | | | | |
 | **3.** | **White papers** | | | | |
-|  |  |  |  |  |  |
+| 💡 | 3.1 [White paper on AI Act and CRA compliance overlaps][AI Act and CRA] | [AI SIG][SIG] | Sankalp Gilda, Juan Rico | November 30, 2026 | December 31, 2026 |
 | | | | | | |
 | **4.** | **Specifications** | Owner | Maintainers | First draft due | Final draft due |
 |  |  |  |  |  |  |
@@ -37,6 +37,7 @@ The [AI SIG][SIG] intends to collaborate closely with and provide input to the f
 [EFSL]: https://www.eclipse.org/legal/efsl/
 
 [SIG]: ./README.md
+[AI Act and CRA]: whitepapers/ai-act-and-cra.md
 
 [FAQ]: https://docs.google.com/document/d/1V-3Yw0Es2jqu8QlbDH-3gjUjv1MBZwm6zhNcs-CXTIg/edit?tab=t.0#heading=h.usdmkjioireb
 [deliverable-2-1]: https://docs.google.com/document/d/1HWMgg5JXLWN6ohK_W0Un9qNLZGJRM6zHHkdDNRafDmo/edit?tab=t.0#heading=h.9qwg35pjwfvc
